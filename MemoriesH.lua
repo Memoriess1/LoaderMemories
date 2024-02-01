@@ -1,1 +1,5452 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _n_UMbZjeEhsM = a; end)); return(function(f,...)local k;local d;local a;local n;local l;local t;local e=24915;local r=0;local z={};while r<959 do r=r+1;while r<0x3be and e%0x330c<0x1986 do r=r+1 e=(e*706)%48621 local h=r+e if(e%0x15bc)>0xade then e=(e+0x378)%0x4394 while r<0x1e7 and e%0x4598<0x22cc do r=r+1 e=(e*599)%22505 local d=r+e if(e%0x29c6)<0x14e3 then e=(e-0x14f)%0x1509 local e=79749 if not z[e]then z[e]=0x1 k={};end elseif e%2~=0 then e=(e*0x196)%0x1d11 local e=81727 if not z[e]then z[e]=0x1 l=string;end else e=(e*0x196)%0xa009 r=r+1 local e=4458 if not z[e]then z[e]=0x1 n=getfenv and getfenv();end end end elseif e%2~=0 then e=(e-0x3e8)%0x2735 while r<0x206 and e%0x1e5e<0xf2f do r=r+1 e=(e+637)%20398 local d=r+e if(e%0x1cae)<0xe57 then e=(e-0x189)%0x45ca local e=35545 if not z[e]then z[e]=0x1 n=(not n)and _ENV or n;end elseif e%2~=0 then e=(e-0x2bc)%0x86f5 local e=53691 if not z[e]then z[e]=0x1 a=tonumber;end else e=(e+0x3cc)%0x7429 r=r+1 local e=69138 if not z[e]then z[e]=0x1 t="\4\8\116\111\110\117\109\98\101\114\71\102\77\68\66\97\65\106\0\6\115\116\114\105\110\103\4\99\104\97\114\77\70\112\112\121\117\117\74\0\6\115\116\114\105\110\103\3\115\117\98\77\88\99\77\65\87\102\90\0\6\115\116\114\105\110\103\4\98\121\116\101\98\119\72\88\120\88\122\106\0\5\116\97\98\108\101\6\99\111\110\99\97\116\121\102\110\69\85\100\76\110\0\5\116\97\98\108\101\6\105\110\115\101\114\116\88\101\102\116\86\70\97\109\5";end end end else e=(e-0x94)%0x4cc8 r=r+1 while r<0x82 and e%0x4858<0x242c do r=r+1 e=(e*294)%47024 local t=r+e if(e%0x1e68)<0xf34 then e=(e-0x3d)%0x31bc local e=17342 if not z[e]then z[e]=0x1 end elseif e%2~=0 then e=(e+0x379)%0xa718 local e=11304 if not z[e]then z[e]=0x1 end else e=(e-0xa1)%0x6aa8 r=r+1 local e=31691 if not z[e]then z[e]=0x1 d=function(z)local e=0x01 local function r(r)e=e+r return z:sub(e-r,e-0x01)end while true do local z=r(0x01)if(z=="\5")then break end local e=l.byte(r(0x01))local e=r(e)if z=="\2"then e=k.GfMDBaAj(e)elseif z=="\3"then e=e~="\0"elseif z=="\6"then n[e]=function(e,r)return f(8,nil,f,r,e)end elseif z=="\4"then e=n[e]elseif z=="\0"then e=n[e][r(l.byte(r(0x01)))];end local r=r(0x08)k[r]=e end end end end end end end e=(e-429)%42896 end d(t);local e={};for r=0x0,0xff do local z=k.MFppyuuJ(r);e[r]=z;e[z]=r;end local function h(r)return e[r];end local o=(function(t,d)local f,z=0x01,0x10 local r={{},{},{}}local n=-0x01 local e=0x01 local l=t while true do r[0x03][k.MXcMAWfZ(d,e,(function()e=f+e return e-0x01 end)())]=(function()n=n+0x01 return n end)()if n==(0x0f)then n=""z=0x000 break end end local n=#d while e<n+0x01 do r[0x02][z]=k.MXcMAWfZ(d,e,(function()e=f+e return e-0x01 end)())z=z+0x01 if z%0x02==0x00 then z=0x00 k.XeftVFam(r[0x01],(h((((r[0x03][r[0x02][0x00]]or 0x00)*0x10)+(r[0x03][r[0x02][0x01]]or 0x00)+l)%0x100)));l=t+l;end end return k.yfnEUdLn(r[0x01])end);d(o(254,"fDavkX*zSHOs2+W9Qz"));d(o(151,"=}:!oDh3YNHnz5/_hN5YH/}Y3_5_o5H_nD3/_YDNzD)hYY_H!Hn3}_33^HxH3ooYHoWn3_/Y!YNo}}Yo/5o}nP:!:/Nnh_5H!HHY}3D35Y!_Hz}/Y}/5!!Doz!NNm!hHzH!YNHH}3:z_onH!}}33z_:zn0!GYo5nDNDHz3NN_h3:z_5DHDah3l/zo5nY}5D_z3o/z}:NYnN:M!5!:/Hh*YhN/}!3n!&N3!/hoYHhR3NU55!5zHth3/NY onz!oNn}D3N/Dd_nY}YDYzoo/HD:HhzN}_H5h:NNH(/h3nNoDYo_3Y:zHo_o5nDDh5Dh:z5!oNH/!!_z35:!_}o3Y/Do_nh}hYo/h:5n!}5N:_nh}H/!_!KN/3hzz!hHNKn}D/5o_nH}o3__&!!n5KnNh/n3:z5}}!HHD355_oHHo(_Y,zH!hz}}/Nz/}o}H:zH!olY3!5!o}n&}/D_/D:DN::3Y!z5_!D/!!N3poh/5D!DH!kDoNn5}zN!}oY3z/!HDDn5N}_zDzzH!NN:%hh/5o!3no_EDz3H/Dnn}hYh/Yo_zN!3h_5nhYn!o%HH+H>h3!oDH:}/3nY}onnH:hY__n!5z!}N35_nh!/}!h!_"));rWYSUgkLhuZMXt_=function(e)e((-2534+(function()local z,r=0,1;(function(e)e(e(e))end)(function(e)if z>124 then return e end z=z+1 r=(r+23)%44797 if(r%864)>=432 then return e else return e(e(e))end return e(e(e)and e(e))end)return r;end)()))end;_tXMZuhLkgUSYWr={k.EbcoolPx,k.yQnEIuhI};local e=(-2048+(function()local d,z=0,1;(function(n,r,z,e)e(z(r,z,n,z),r(e,e,n,e),r(z,z,r,e and r),e(n,n,e,r))end)(function(r,e,l,n)if d>120 then return e end d=d+1 z=(z-80)%34138 if(z%1994)<=997 then return n(e(r,e,e,n),l(n,r,e,l),n(l,r,r,r),e(l,r,r,e))else return e end return n end,function(e,r,l,n)if d>242 then return r end d=d+1 z=(z+804)%11343 if(z%1288)<644 then return l else return e(r(n,r,l,l),n(n,n,n,l),e(n,r,r,e),e(r,n,e,e))end return n(r(l and n,r,r,r),r(r and n,n and e,n,r),e(e,r and e,l,l),l(l,l and e,e and n,r)and r(e,e,e,e and e))end,function(n,r,l,e)if d>223 then return e end d=d+1 z=(z*148)%37671 if(z%1794)>=897 then return l else return n(e(r,e and e,l,n),n(l,e,e and l,n),n(r,r,l,r and e),n(r,r,r,r)and r(e,e,n,n))end return e(l(n,r,r,l),l(e,e,e,r),r(n,e and e,n,l),e(e,r,l,r and e))end,function(e,r,l,n)if d>476 then return r end d=d+1 z=(z*909)%20805 if(z%240)>=120 then z=(z+892)%21958 return n(r(e,r,l,e),n(l,e and n,r,e and e),n(n,e,r,l),r(e,e,e,l and l))else return n end return r end)return z;end)())local h=k.LOqezVME or k.EfKmYwiD;local de=(getfenv)or(function()return _ENV end);local d=3;local n=2;local g=1;local t=4;local function ne(u,...)local s=o(e,")Hr,LO6&J ^zeCS:KrSeO:CLLee^,,^JHC Dr:z6,r^pH,  z^Oe:,OCC,HH b:J6CSrOOSO&z:J6:S,O,er:L erC^JHLLzz:,r^&HeJ:,O&S:S6OC^L:erOLS:O C^LzeO,,zEC6&C_:JL:&rC^^HLJ :S&H:S^&HzJzzHLzS&O C ,:&C: 6LC LSeHOHS,6 C&KH &,C^OH6OJCL,:zLr  e,6zS,:^eN  6HrJ*:O,,^eH^J:{L&&HH^&rHJz:CJO^:r  6nzJU:,J,H J^je&&:^6r^fHeJ&:e&HSL&rH^ ,^:LzCSOSC,L&&z:S6rC&Lez:O6S 6HC6::^&,Jz,H:LJS:&&SJ6eC6OJJ Hr&sSOO^eC6L:&6:SL(CzrL,^C,^ zHCLy:AOCSL6=eSLHe&rC^HI:OOCG,ezHr6  , e ,ezCre^rhe&zzz,,^rH&Je::zCrH SIS rer,z^ HS ,>6^,,e^HrL ^yS,SzerO ^R:JrHO^Jre&HhzJ^v!6rSLLSeOD,JHS^O:CLL&S,&^SrO:C9OHzSHO^ He SeJL6^:rL  0e SrSzOrzLeSrJ^::6HCJOOJC9z&LS OSCH&#S6LJeS,LzOH: O/C&::SOrez, ^Sr, 6rOe6, ^S:eJ^eSL^zOr^ :Hr :LJzereOrui&C:S6&^ rO jcO&^SC&zr, ezJOW:H6,CzO,JLNr6zSDOOeJ&&:HO:SHL:erLOzSrz^,Y^L CL,#^OH^JCrCz,r: CH  rX6&S:OH6z:LOer,^^zH L SC& ^JOHCzOLeH::&eS6OzCZL,S,&6C^6LeJLL6CHe^6rHL:eC,6^zrA ,rrzO,6OS;& &zCO::66zC:HL r:z&iSOOJ:6&SbH6JSeWCzOLz^C,O^ C OreY,O^^HC^SrHz:,H^vHCOOC ,ezHr6  , CH,S6Lne eHrJ:^CL:S66He:L^^er ^,CJO6z:,L^ Hez#L6z6reJer,JzgJ& :^6& CH JL: 6SSHJH5&J,:HL&SJ6je L &J:HO:CLL zeLeCSO:eJL,z6:L6^CzOpeO CH&JO;zHHJ^:J6CSrOOS&6ze:LL^6H^JCm^&LS OSCH6,:,& S ,rCrL&J6:O6^CCO6eL, ^SrHzurJe rC^SHzO CCL#zOr^ Crez:L6zer  &e&6z::r6e:OJe^:^^rr  ^CeO^e,,J^CrkeHOH^e:SJSrL&SH6& SS6e^HHzJJ:C&rSO&,S:6rCSL^CHLr rH%& SS6,C6&Jnn&S:O6zeeLe^^,C^Lr6O&CL,Sz,rJ zr^eL,6z r:&Sd^&zRHL^^6H JSt,&J6CS6FOJCeLLH^zr} OkJ^&,  :raLJ:=&C:.6JCCHL ,:z&?SOOJ:&&S:^6JCz6HJrrLzHrC zHDLSC&,O^^H: r,rzJ,L^rrr 6kSJO^6L:C:TO^6,Lz^HS^=e,6Jgr6SS,H^ CuH&6SzOSSSJLa^&rS^H,^SL:e&,wzPCH& G,&::OrJ^HV:JL: 6e0JJSHL&e:^&O^Lr^JzR9&OSJ&OHS r#rrJe,OzCOL2&HvJ^&rOJ^z^O6S O^S1HHJz:J6CSrOO:HJrSe& C^OeCrYr&^S OSC,L6CJ& CCOSezV Jr:k6OC^LCCe&CS:6&C:HOJOq&6eSHO6e 6JS:6zC LeCr:, Orr^6leJS:^6&S&HS zoO&^S:6rgH &W&&:S&,CCSO6z:,:6S: OOe^,:zr,:SJOeeeH,^^,3 ^HeJ+C,&LS6OSC6rzz&,, &:6 P:z&SSrrL^j2zJK:O6J:OJC>r66:L66C6LeeS::&6S6OzCUL,CL&rSSOz HnC&JSC6rCO6L:S&0S,6B^eLSe&,e6e:&O,eJ,CzqLrC^OLz::w ,;^&reLO^:r& C OzeO,ezPSH&^H8JHoH6::Hrr^(_ &S:,66:,Jzd0OO:J6^S2L e L6zrS&6,eSL,zJrzeCLCeCLzzV_S 6H&JLer,C^ HS ,=6^OrJ^OHC6Js^&H: rJ^rf:JL: 6ej6JSE:&eC,&6SLH  &E1&OS^OC:e rgr&^SrHr^CLSe6r:^:CSO6eO,^^:rrzLOOeC,6z6SO6&eeLHz6r CJOreL,&zL,H SHHJ :SO^:,6UCJ,:&S:z6OC^L:erL::J6eCe(r ^,J^^H  6eSL^zOr^ :Hr^LLOzCr6^6:^JLqI&6^JHz PgO&^S:6LC JSe6LJ^Crr &I^^,,L^SHSL^:r&:7rHSzeOze ,,zOr3O:COL6zz,<H  ,::6 &e:^6,CJLCeXO,S66^^SLJzS,6^,r6JS{eLHz:rJ CHrJOHrzLHS JHLJeC:&,SrOeC&d6 jSC6rC&L^S^JrSOO^CJ::eJ,JOS:S HHHJO:e6^C6-6^LL,zHHz CYJL&eLrS^,HJJzH:^Cre :ez6,9L&6SS66 &H&&S:,6JCz&LtzJ{:LL:COOCeSLLz6HS&&b&L6e,rC^rH&J^r,^e,r SHJJLC^&J:WO& 6H.&C:r6&C^&,WL&SSSLCC^OCJ&::6SS,OJezJzSC6,SrO0JSHz&OS^O:CrO:8J&eSeHrzrLOzC,rOz:6JSBC&&^L,eSbLJe:SC6CC&&:V &::zrS^&HOJ^::&rjz^rZ^6L:&&z^^r6 H36&zSSJ>H; 6v6rSCK6&CHL&JOfe6eSHO6e O&::&J L,Le,LH&=1e LH^JHT,&eCe6LeSL zCSC6&SeLSe,,J^z,SCHOO^6,&^HrSJ:HH6}SS&LCJOL^ ,zz^,kO:C&L6zz,A^,LreO,zz,,O66SjLCer,&^^LLC^2a J,6^JrLO&Cr,Sz,rJ z,Lez,,66:e^rH^&zzC,J^LH JS!H^Y,r JH LHCCJPSSr,^,Q^&::L6&!, L:SJzSe6SeLL eC, zOrS^rCrL^z rS^,H6^S,eerr6^rC 6Let,O^^HC^SL^ze,e^rCr&rfO&C:rHzeIO&e ,6z6HS^HH6Or^COK^6rCJ:/J&6Sz6IC,6,: &eS,6OCeszJ&:r6&CeL:S&&:S6OSzOO6eS,&z&S66JeCLrz&r^z&6qCLLL6^Hr OHrJ^z,L^SeO,CzL:&::^66CzOQe,O6S 6CzzOreCL-^&SO6HeeLHz6r CJOreL,&zLrL^JH6J*e_,r^&He H/J&z:x6OC^L:}LSJSSr6^HMCJr:&6^{z&LS,JL:e6CC OzJer &,SJOCC{OJCL&OS&O:C&H& H,X^SH,6HCS&e:&6OCIL6eJVO68H J:DOJ,:z6,CzOHe:,zzL,L6CS J^:e&LSere ,H&&zSS6,CJLCzC6^r&6H  HHJ1:O6^CC& ::J6:e6r^wr(J&:e&HSL&,BC&::r6:eeO,eLH^zrr,^^rnL:C6,6^zrA ,rrzerS^HHS6 ft&zSe6^SO,Oe ,O JrS (HJJSoH,HzLHJJCEr&OR, &NSJz:e&eSS6 C&Lr 6,&^ rH  e:,:e6r6 zHxJ,rH^OHC &Hr& :v&6SK6re6:6 JrH^ 1: H:C6^S^rH S<J&C:r6O:J JNU&H: H^e,O6zS,,&H:AOJeCLrzOLSSOOCeO:O  r:^JHrJC1H&z^z,H rv&&eS:JS/O6&eeO6eOL6z,,O^^HeJL*6J9D_OzS,OF^6HJ J::&LS OeSzJO:&6^S&,,COLSe,*J zH^J e&Or^Sr, J}z JLHzOrOLzS,JL:66zC LeCr:,J ,&^&H JHzHLzSJOre^Le&C:S6LC LSeHOCSz6 eCOOzzSz 6HS 67z&O:46,^HrOJJ:C&rSO&&Vz&eUL&^SeOLJLrez,rLOJ:r J:e&^:OrL JmzJ.:O6JCLO&eS,Sz,rJ zLSzC,S^zS &,C_LOz^rCSzO{Cz, eW,O erqJ^:^LO^:rL^HB:JJ: &rSLOJeSLOz&r^^6HHJ6:z6S3^ zDO r:,&Oz:6rezfOJOSe6HC6L SJ6:S-HLCCLC&,He^:H&JJHyJLzLr  zHsJO:J^6reOeCrL,zJrCRL dZG66& :<6UCOL^zCO&C:6;eC0zJ :r6&CeL:_1&SS^6&SJO%eJ,e^^rOJSCgO1z&re^HHL^HL^zSrSOL:6J,Q&6CS:OzeJLJ&:Y#66CzOfe,6r:JO^SvO&&JH ^,rSLe:,&&:L6L^,r6J^::&LS&& H&J:: &6:m6OezL &2/S^CHzJO<&&rzHr: JGCJr:O^:Hz^rw,&J:66SS&OSC2,J&6:6OCCrL&z^LeS^6OC,LSzprC^&eS66bHJH:zrO^L#eJH:66 :  ,Hr&OSz6^CJ,eCL,&^er^O:C&L6zz,<^,LreeLJzS:O66S&LCer,&^^L6C^O,z^,CzrH JCzS6?:C6^C:6EJ^H:&HS6OzeSJr1,&JS 6H C>&&e,L Jr,L::C&L:LOCC:LHe ,e^,rOJzjeJs:z6HC:O^J ,,zLr&OSCrO6z rS^,H6^OL6ze,^O6:&J h,&O :LCCJO,e&,C :H&OOCe,ezHr6  r6e:L,z,C & peJL: rrzJOJeC:6 SrJ 6HeJ^g&,&z:HS ,9J&zH^zHHS ,T^&S^OLOCJOJeeL,zHHCLCSzJ^:J6rSLL:JSVC&OS^O:Cr6JUr&HSzHrz&LOe,r&^:HO JeJL&^:rL  Ve S,6z<Hz&eH4J eC&rCSOJe6GrJrS OSC,L6SOOzeS,rzCr, HH J&:Q6CS&O,zH,J JZCJr:O^&H: CtOJ&S:6eS,OCe,,6z9re^HH^JH:J6zCe6r ,fe&^S:6LC&6L:{O6CHL zHnSJH:66zSwrSS66H:Lrz SH,JJ,C,C6Sre HLJzz,YHO,OU^ N6 r:66S6LCer,&^^L C:LHe ,:zrCL&eR,JO:S6rSLHO ,:e&HS6O :J6SCIL^z:,M^Lre^H9S&eC^OzeH,6^zHS^zr,^HHrJeHr&z:H6LeeL^zJ,^^,:S&eSOO^e:LrSH6JSLOreOLz6eHz^OH JOe,,e^^H: L3&^,,L SrzJe2S,:zzr6 zH.J,HO  :C&rCLLJSeOJ^ H^ 6TH&6SzOSSCJS!a&J:H66CCL6z::O6SCeOHe6, CO6eCJO&eJ,e&HSCOJeCLrzOLrC^L:zLLLzHr6^_9SLee6,,^JHC lr:z^rJ^&H  ,BH,Ce^rL  0SJHHSz&He :HO,6eS6HShL:&:::6 {d^rH6Jrzr6rez6HC^LLz:,, &CCOLeL, ^SrHekL,eC,H6:S:O6ezLkz,OHC O6eCL ^CA ^J:zJO7O&rSnHS 6!O&^S:6r:^ r: &HeJrO^H?eJH:66 :J r?L&&:LOHS^L ez=m&^S&OeCHLLS66^CC6,C,LzJP:H&LCJLCer,OC^6OSKOLe^re^LCL6e+6&L:66zC&O,e:::J_S6OzC+L,S,6 S6OSe:,C6CHH Cee&O::&JSOr, :I^&::L6&H  CNz&O:z6OSMOL H:S&:SOO^e:LrCH6zCCOceCrL^C,LJ HcJe:^6C:,rr^6A &S:,66:J TN^&^: 6, n, ee,J^OrOLS:O& :j6&^OH:JepH&6S J&N: ,Y &zSe,O 6HO&C:r6&C^&J:e&SS 6 Ce{L :LvzJrH^HCgL:z&re^HHL^JLLz^D,^,HSJO:zO,S66ReS%^J6:H66CzLSSH&L:JOkC,LLeJ,ezhSOO:eeLHz6r CeL:C,Hezr,r^6C6O5zC,r^&H^^z,rzOr6^^HS re6, ^Sr, JbCJr:&6eSL66ezLqzOrJz6OSC&:, ^HS O>e,eCL&:CCO:C&LH&C:66LC LSeH&6:a6^CHO,e^: &LSjOOe^,CCC&uCeL e :r C:YO:CJL6zz,>^,L,C LzzeH 6zCzO er,&^eH:zSL:e^,6O::z Sy&J&S 6:^IHeJ&:e&HSLJ&HLJe:^&&S L:e6,C&z:C6rC&Lez:Le:O6 C :: J,Jz,H^ ;zCOC:d6^CJHL ,:z&VSOOJS&&^:e6&:H;C^zL^zJrr^Lj:LSee,O^^H: rrrzJ,S^6HSL&SrJ,:z6LSLH, 6:^6:SLO&Se&z:rrrz^OSe6,&zJS*&SHCJz:O&&SrrH :YJ&C:r6OH6 &HV& :O&HCLLOe ,CzHS66eeCLrz&r^zeLeCrLr6^_e OHe,Se ,J^CHrzSLHzr,6^^HSO,CO,^^:rL &r:zC,L^&rO YirJJ%LrueJ6HeSL6^CSe6^C,LJzC,4eJ6oe ,ezeHO^6H= C:SJnzHrz JwCJr:OJ r^ :H>OeS:&,^rHeJ :S&,S6^O7eJS;&6:CSOO ,HO&^S:6LC&&&EC&::RH&zzL:&6HC^HHJJ:z:6^zCrezHH,JJ:C&WHH :g^JGnrrOCHO2CJ,SeaS,JHrfJS:J&^SOrL ^uzJE:O6JrrJSHOL7z,rJeCX,C ze6er&OSCSLOz^r:^rLJCrLO^:rz eee6^N &&SH6,eSiC S:L6 CSOH:oJrSJ6  H, e6, zHr6L:SOJO:^r,e:Ore,L&zzr:O6b66:2O&SSJ6,C&,zJH:z6JCCOreOO6:L6MCCLSz:Lr&r:HO eSL,z6LOC:OHeLLHJCr:^,<:6e8,6z^e,& ,RJ&C:_^SH, S:eJ,:JO:S,LCzC_J&rS&OSC,LJeH,&^6rH HG6&e:>6rCCL zS,,^6L6e:LH&H*  eH6J^eJ,e^:rL  we^S:z&:SrO&ee,:CC6OSOO6eJ,&^^,r Jne&?c6&6SSOreCL0&S:^6OC^L:erO7:e6JeSOOe^Se OP6O COLRzOr^ C,6z:,^zOHSOr:6JS:6,Lz6Hz (iO&JXO^ HSJ:HH6Z:66 CzLezzHJ^:H J:eCLCzLr  SHH^J,zzzr:^6HLJmzRL^:fOLCrLC&e:J6,CJLCenO:S66^Jz,,eOr:^LHJO&C,,Sz,rJ zrCCH,CzrCzJrs6J,:,,rzNH JSB,&6T ^eHOJO:zOJS:O C:Lzz :&&6CSO,eJ,zCs6^S&OOe6,O JH:^HH^&S0D,H^:HJJC1r&OHL^LH^ &zOO,:r68e^Lez&:6JHCCOre&,^:JOCSJL6eCLr^ rC &i&Orze,H^JHC O9^JH:J6JC:Ore&,:^er- ,.J&C:_^&C:O:e6,zzFr,zrLezS,H^SVOJSHO6^:&6^SrO&JSZS&OS^O:Cr&r:JJU:H,6C-L:zr,6^zHOJ6#e,Ce^rL  ISJHr%zrHJ^,E:,6eS6HS0L:&:rLzzr&^H7zJrzr6rez6HC^LLz:,, &CCO eL, ^SrHCiL^zer:^eHJ ^xHJ zJ,O :HLJ :e z,H^HH&,eSO&CS0OOC,MJJrS:6LC LeSO6S:a6^COOjeL: 6:SQOOe^,CC!&,SHH6 z:C&rS&O^: &5Cr,&e ,O^^rr Hce& : &wS6Oze,,:z}nSJC:O6^C:OrSHJr:L6eSLO^^U,6^&r& OH&LJeqr:^LH JeH^ze,H^^r%L:e&,6^zrM ,,L J,r^zSOO6C^,Czrr& ^r:e L,z Hz CHJOe:6&rS&6je&HSzHrr^JCJLze+,O^^H: LL&zS:6&.CCOre&,^:J6VSHO^e,LH^ S&OSeSL,zJrzz Oze:,z& :&6YCOL^zC6^:,6&C&,He&,^^LH^ ^:e,SzCrO ^5:JrHHzrr6 ,Kz&SCr&;SrL:eOL&&J:OO:CLL zeLzSOO&e^L& 6,r^LrLJ^eJLr^:rL  0e C,z^,H  J}6&^z LL^FHOJ^:CJSre Lc^J :&r&e&O6CL:z^zHL errJ -zJLSL6eC6OHeOr 6::UO6ezLpz,LLSOOSe&L,J r  S:SJH:r&6S^OS ,HB&^S:6LC&6^:CJHCOOeCSO&z:rS^OS,6Le^,:zLr&ebL CqL6^erS^^e66^DF& S,OSCrj& ,SS6,CJLzSL&z:M6LzSLOzJr  rrJ z{&JHS:&Zz^O7e},O^zr &HH JSaH,r^CH JSW,&6H6 eHJJ6!6&^:r6  JH6&::L6 Ce&Hp^&,SS6Hz,Oze:LLzLrJOCCHLLz rS^H,, 0HM&&Se6HCL&q:^6zSC6 CC:S e,z^ H, O/T,:eHr6 zHVJ,Hr^eHS H2S6J:6&LCJ6ve6HJz^rH^ CJO&z:,L^ HezOL6eL,  CHJJz:S&JS^OCC^HrJ : 6SS,O6SeO^S,Le^LrXJzgb&OSJ&&HJJ^_r&z:aO&CeL &::e66CzOxe,6rSeO^CeLS&JH:zHr6  e:OHz6rz^(H,^OLczJH:^&HHJz: r&Cu66CJL:zer^6J:,L:eL, ^e6^e:O^zJ,:zLHz := & eLrS^,H^J:}L&C:r6zC:OreH,S^eHS ^iO&^S:6r:& H:z&:S&6LCHL:e^: &rS0OOe^,CS,6CSHLC&Cv6&O:LOeCHL6z L SeORezLJzeS,JzHyJ,Q,&H^:rJ 6YzJ_:,J r  &gO&:SCrz^CHrJ&:e6:K:^rD6 N:L&9  ,zeLLHzzSrO:CCL^eLLH^zri O?J &r^^ HJLJSLJ&SJ6SCOHL e:z&*SOOJSOJS-r&r J,JezL,zJSH&CH,J:kJ&S :L&CHL&e,,z6zSrOre&,e^:LSCJOLe^:CJ4SLO eSLHS1&6CJ6YC6L 6zZe ^r0JJ:O&CS6OLC6QzJz:r6&CeL:SC&OS:6 CJOr& rH^Jr^^,f&J z^Li^HH6Jz:S SrL^YxSJSUr&^:HHrzzLSz^r&^&C/6 B &S:6r6  BSJ,:J6CSrzOReLLzCrz^IHOJJrSzJre JeJOrePL,^&He HoL 6,H zHeJCK&&O:rHJz^L,eO,:^^rO  eSL^zOr^ :Hr^OLr^eCC&^HeJ :r&L^ rJ p>O&^SC&eHCJ6s&6S^rL;C:LCz&, ^LS,OCe^,:zLr&e LCe(L6z6rS6LCLLezz,N^OHJCL,^z&,O^zCzO er,&^eH:CrLOe ,:^:r^J^%^JJSC&2^PHeJ&:e&HSL&rHLJJ:LrLz:L:COLO&zr^6rC&Lez:&,:L6 C^OrJS:J6CrOJ HLLhSS6OSOLSCY,rz^rC LH6&e:C&HSeOrCKLz&^rL^OHJL:CC&,:HOCC6L&ze:&^,S6J^W&J^:O&< :Orzz,JzrSJ H96JLqr6,^OrOJe(H&6S JOH, H:O&CS,,OC^L6z rJ^aH6OLe:,zzYrO J,Jer,z^J;:JS>zJzz^,J^HH6Jz:S S,6  ySJeSr6^S&O&e^O.&::J66CzO#e,OCCL,ezSOrez:z&&SrO&ee,:CS6OC6t^^LL^^Sre^&C66fzC,r^&H^z^LEzer^^^HS 6*CrSC66#C6Or&&rizUC6&zFe&6U,6LS6H& ^:S&,SJOz:^JH:C6zCS6LJOr&zSrJ SeS6 : &:S:rO^OgeJH:66 AJJ:fz& Se&r ,,HCB,S^Jr^ OCLO1zz,B^OHJ^6LJzerJ&reC&>e6LC^:rS 6izJb:, S_z JH}&:SeLeSLO;e,,^zLS 6:C!LOz^rCezO,C4L&e,r&O&:^ _K^&LS6OSeCLIeJ,r^CrHO6ez,Czrr&X:J6SJ:SJ^SOO^e:LrCH6LS,OrJrr zHrS &HLJS:S&JS6HLzLL&z:,LzuSeL&S^L3e&r zHHoJO:^6CA3 ,H&,JCJ6zS,OJJHr6z&rH^S.: HzLO^:,OJCzOHJb::6&CeOHeL6LSS6OCJ(L^JL,z&rJ eHOJzz^,e^HH6Jz:S  ,r  Hz L:L&eS66HCO:e  r&^6H O,C ,^^:rL &, eH,:z6reJCTCO:: &oS^OS^e,Oz&H: ^{CJ:e8,^^&He HxL^O,, eHS ,_eJrzH,J J}CJr:O OrJJeH6&^:6H:zJOze,L6zzr:^HH^&CzHrS^CH  r3O&^S:6LC ySLO&Jzg,z &%eJH:LzrH&^rn%J&:e6,S&OHeHZe&6Sz6rCeLeeL,ezHr& &HPJL:L66SJLCer,&^^OOC:,J^rrLzLHe&O+ &^CCOYez,SeS::&SS6OzCnL,:r6eCSOHeSLzzJrz^,HJ6OCe, zLr4 O#^&C,C^Cr6 ec:&z:O6, :HSJ6:z&lS,&,H6&^:O&rS6DCz6,JzJ,g^LC Ozea,O^^HC^eL6zJrz^J:z ^YJ&r:LO:erL6e,,,&r:&O eSL,z6OLCeOse6,zzJSP&6H6JzzLLeSCO&eC:Ce^: 6^SLOHe6,z^S,:CzL zeLrzOr&Oz:OLrz&re :r:e LJ^zrH^dZS,SS6&JCSO:J&r:zer:^&HeLOS,&O^LL&CCO&&JGSz&rz zeH6^sh&rS,u^^S,^^:Se6zC,LJzC,ye,O6C^HeeL, ^eHJJ6NSJrSJr6^rhCJr:&6^:S ^Hg,OC:6CSJOre^aHJtSJOCCrLOC,&OSCOLe^Le r,,^OHC Oez,zz^rr &5e&:H:JHM,&SS-OCCU,:e!,H^^H &O: OeCHL6z OrS 6LC&,S 9,J^erH H-O,CeL6rCLL,eY:J&6C:OLe ,eeeOSSLOr&erL^ rC OQ^JJzC,S^LH JSbH 8,H^OH6 6GJ&}SLHO^CLSz&,J :SH6eeJ,CzrrOzLOOezL 6OW6 JHrJL^SLeS66,ezLzzHSH&^HL ,:J& :HOJ &H6&S:,6JCz&,nO&:SzLOC:LSeJHez,HC ,eSLLzz,,^rH&Je::^k,r &KzJCerLL^ HS ,G6zOr:^HHL HMS&zSS66Cz,HzS,^^JHCOzCHLrz&re :H JS=,&Jc6O:CLL zeL :r66C6:e^L,H^Lrd Jz^6^CN6: eHL&J:^JTC&&JH&LLzS,B^OL&JCHJ&LS OSCH&m:&&,SHOLC^:z^L,S^^HLLLS66::66eCrOLCwSeJ&H& CGCL,z:r^ :HLJ&r6zere^r:z ,:66zS HS^ WO&^S:6r: Je=L& ^rL&CJLre:,EzrCO6zoOJJSS&5 ,,ee:,,z}rJ^LCLLzzz,_^OHJCr,Se6,&66S,LCer,&^^L,eeL e,HCz,r6 JA &Jz6,L CHrJ&:^J He za^,^CJ&&SOL:CH,e&z5:6rC&Lez:OSSO6He:LreJS  HHS HT &S^&O&zLOreL,,zlC^JrA:Jr:^6: J,rC/,J^SrC z8JLSC6,O^^H: rr,eHr  :HSJezeOSS&6SSLL^eeLJ6L}J SH&JH:e&U^OHeJe;H&6S JrnzJJ%r,&zOHS ,_J&zH^^HHCJz:SJL^OLSCSO,eO:e& S,OJeCL{Cq66C&O:eJ:O C,,  H Leee,,^JHC Xr:^OHJ&eP&6CCz6,CH,^z&,T C:z&JSrO&ee,:CS&!C^L:e,:LJzrC LHeLzeL,r^&HeJ:rJzH,&^,HCJ e&Lr^Sr, JMz J,1^OarJe=r&^:6rC^ HLJ :S&HdO^HH&6::r&eS.,6zrkJJ6S:6LC LeCCOzCzLeezr^^ r^ 3G&& eCOHzLr  SHH^OLHz&Ce&:{z&e*rrOeY,eJLLJe0S,&S:^OFez,&^erH L,&zS,J^,+H r*^&:z6,S CHrJ&:^ ^rT e7^J^:S&6SCLHeJ,  6rJJSHS EuL&rC,O^ezICJJ:L6 CSOHSC&,: &pC^L e&,O&,SzO^e:LLz&&,S&O6C%Lz&^:O6HC6LzzSO:eJL&CCO.er,,^rSBO e&,ezHrLzrOLee,,^ rzOeCLL,zJrC^0rCe,LOed,L6,CzL^z:,L^&66CJ,Se ,O6&CeOLCH,zz=rO Jr&eH,,^6r,&^:O6z::&L^LrIJzN/&OSJ&zAS rS,&&:U,:C6,S&::^66CzO9e,O::,6eC&O&eH,ez9SO&^eeLHz6r CCOSC,LLze:J6rC& LD &S^^6^COO0eL,^ eHLOr:e&C:pr&^Cr:ze, zuS66LCkL6zzrCzJHLJ :S&H:S^&HzJzzHLJ:x6 JOr6zLrz SHeJ&: &::zH&z:OJeO,C^LS,Oze^,:zLr&eHO&^,LH^SS^6eCHL6zzrSeS6LC6L&6SHr^6eC&L:J6:S6H6eHH,J,:e6^C:OLe&66:eOSS6Oee:::&CS6OzC!L,Cr& Sz6HeJ,e6CHO :HO HeL,:^zrE O.J^HA^JO:e6zC:OzC^r^^OHHJ6:z6SQ, CH&JCS:&HCzOr nue&&Se6HCL6z:S&6Sz, COL&e&rC6zSOOre&,e^:LJCHO<z:r,^OHzOeCzL,zJrC^1,:e6L^z:r ^,HH,:SH&r:HO6 6H,&C:r6&C^&,:e&zS^OHCJOrzC,Cz^S66,eCLrz&r^e^OCeHLz^:rzOL:eJ,:L,O^JHC rG&&e,HCOHzO,SK,^^:rL &rLeCLHzHC&&:H6J,:J6:S,5^^^,CzC,H^JH6JrzrOdS:OCe&L zL:,6 C^L:eL,&^,&LJCHo^^:&6eSHOL:L&C:,&r LL:e&,:^CCC^ RJJ:zH&6SCO:C ,:zr,J SHrL,i:&6:6O:JerSeO,^^SxJJ:qr,LC:,H^HHzJJ:C&rSO&&f&&SAL&LSe6J rHL& SS6,C6&O::6C:,6HzJLHe,S^J^HO z::J&SCrz^zHrJ&:e6:bS OH& W:L&6  LreeLOzr:eO&C^O&eH,6^zHSzCOLeLrSz*:z C8^&,:Or^^OHHJ6:z6S:e^LHC, SH&rS^6r pHO&&Se6HCL66:S&JS,,OeCOLzL,6^;H&JzS-&6S&6&COO&JJE 6:SLO ee6e::6,SCOHeC:6^Or:^^e^L&e&,r^er& ,wJ&C:-&:Hr rj&&rS6OCC^Hr }: 6SS,O6S66 eCLJeO, ^HH& :Hr& C&OLzS,,^JHze6,zz:r&^JHOJJ:z&z:pr&^S%SJ,:J6z:J^HHOJO^zLLSLLSe6, 6 H!^rHCJL:^r&e:O6e&M J6:(6OC^LCC^&rS&LeCrO^ezrSzfrSO ClLIzOr^ CrCz:L&^ Sz6JCrL&zer:e:6q^^LJe,,6 ^HeJ6:C,zzzrr &-e&:HU^eH^JCH,J6:r6H ,rze ,,zSS^66CHL6zzrSze6LC&LJ6S8z  HJJzeL,&^erH 6pz6P6L^^SrOCe ,Sz,r6z LeCirrzzr}^,H LJeLr:^LH JerOz6,O ^ee6&:&&CSCr,^JG^&::L6&:: &HL,re:6HCrOre:,J6OH,L::J n:,6JS6H^JCDr&&Se6HC6,z::,Jz6H: L8 &e_z SHCJeze6H:J6LCSLJz::C&SSLO eSLHC:6&CCOSe6L z,SFJOH6J<hC6S:GrH^J_J&C:r6O:r zb:&:^OLOCJOWeOSS 6HCJSerO :H6rS O:C,I,&&S^O:CLL&er,6zOHC rV&&^H ^6r LOS,Jr:/O^CeL&&J::&qSCO&eeLHzLLJC^Lze,:LJzH: SdCJ:eX,C^&He H=L ,Yz^eHn H:SO!:rO SHHa H:&6eSHOLS ,OC3&HS,O6&Sr  H-rJ6:OOCCS,LzrHz _RO&JH6 ^HHJJzJO:S&6 CzLCer: & SYOOe^,CCL6&C:OL&CHS^J,,OHSJJ^#,&J^JrzJ:!L& SeJzHCJ,-LreeOOzSHL eHS^JOr6 SZ&J&z6,r CHrJ&:^ LHe C!^6C<6&,SzOr HH,&JSC6rCO6^* 6r:BLJzOLJel,OJ^rrJ yH&&Szr  eHHJ6 z2JJL&SG:L&errS^,HJJzrzeH,,^L:^JSSz,S^Crz L( &S:H Er  6qS&O^6,SSOO&eC,L&HSLO eSL,zJrC^^O&JS<H&6Sz6}COL^ :&,^erO ,!J&C:;JLH6J&n&JLSCrJ^4v:JL: 6e:z e!SJ6:Sr:^OH6JzUN&,Xe CH&LzzS,,LJ&W,:Jz6(,r6 S,O4eO,^^CO:SPOreOH:J : O^CzLHz6rz S,oeJL&zHrz LH6,CCC6JSSOrC^L9&S:z6OC^L:erL::HO:CrLS&&r,^^rL reSO,zOr^ :Hr^r,ezzHS LH,JHzHL:S O6JOrCe,rO^rr9 6e6L,^Crr &b^^ ,a^eH^JCH,&OSz6^CJH6 O:C&rS&O^:zJS/,&LS^;:^CLez^rL^6HHO_C6,&^erH Lr6z6,Cz,:O CHr&LSz6JzOO6e^,:^zHS^LHLJezC,H^LH JSVH G:%6JC&LeeH,LSS6LCSLJe&:&J&CSO,eJ,zS:&8SOO6eS-^&LS  ,wCJe:H&rS^OH A,Sz,:pJJH:&&:^&:S6OeC6,&e,:66CCCOre&,^CJOeC L JJVr6:SLO ee6^SS6OCe>ez&A^& vS6wCOL^zCLOeH6rCLLeeL8L ,H J:_:&Oe,L&zL,H^Jr4Je:CJWerO:SHL,zrrSe:LHz ,H&HCJOeeH,z^JHC rTO^H,r eH,J^S,&,zr,O  ;SJ,:6J6rd :>r&J:&6OeJO^e7LH er  eHLJ eW, ^&He H3L^^,L^JHLLLe:,eeAr, JXCJ<{:^ H&  E&&^^^OrSLLSe,,&6J::^HvJ qz:L^^6Hz g.,eHr6zHt: 65z&r:66cCFHzJO:^&HS6OzCOL6eH,6^eHC >TL&O:LOeCHL6z LzSe6LeCLCJ:rO^&rr 6eJO ^:,r 6DzJ*:,Jrr, 6W;&L:eL,SLLJe ,6zCr^^rHY6ezC,O^LH JSuH^Z,6 Jrb LeLLL^zr8 OaJ^Hr^^Or3J zC6J:>6JCCL&er,O&,:6O^e:LLz&O&CCO e&L&zz,,^^:SJO:66eSLOOCeOrJH:J6JCCOreOO&:rOeC&H, O:^6:SLO&(^&C/HOACe6LCOr6z^,, SHSJJ%,&&^erJ ,GJ&C:9J?Hr JQ6,iCJ6SCLOLJ&yM6SS,OJez&H:z6:CzMz Hjr&OS^O:CLL ,S SSJr/ Sd&&e:H6L:, Lb^JJ^LL,CCLO&JH6J6SOOzeeLHz6r CJLC H;r&:S OSC,L6SO&zCC6OCzLS&1H:^ rLOrCL, ^Sr, 6rLe6,S^OHz C:,&SaL6LeLOrC6,JzLSz6SCrL&zer:eOO:eSLJ6:n^^JrYL,Ce&6:OO^CzO,z^: & S0OOe^,CSe66CJLzeJLOzrrO CHr6raO&,^JH:J:nL& SeJHHzJzQz,^z^rH 68z&S>ezLrCL S_JJ:z6e rr:zC,e^:S 6&C;LOz^rCeeOCCJLL6CHL elC H:z&C^S,6 O=^&::r HHJ LUr&O:zHezSL:zSLrzLHC &mCJ ^SOOC O6e6QO&eSe6HC6L S^&SSJ6h &HJ&S:,6JCzJHSO&:S^6WSJr&z:,&^Or: &HrJ^zz,^^rH&Je:: zre 6r,JLf6&eeH6rCCLze6:O&,CeOHe6, CJOCSHLOe SS aHC^HW,J,z^LH^HH6Jz:SzHrL^J:OJCk^6C:_66z,LHe&rz^&Wg H:zJJS 6z eH J,:J6CSm&,H,&z:t6S OLLeSLr^SSe6eC,LJzC,_eJO^CeLLzSreO^N  ,B6&=SeOC zHeJr:&6eO,^CrL ,p^ Hn^67:H&,eC,OzOL6^6z:,z^6Hz 0F,^rr&^zH,JJb6OL:&6/ ^rHJH:66zCS&CH,&O:C&,S6QJ^^,zz HC Jiz,zz6rOe&OSC,L&&ed66,CJLCeR&SS,6SeeO,eJr:z,HCJCCJLrz&,L^rHz y*,& SS6rCJL:zC,&^LH JSWH <,H^OH^J6: &:^Srz Of^&::r HHL SyrOO:66^C&L:er:S&zSOO^e:Lr:^&rC OHCOLzzSr^^LHrLSe:,O^^H: rL6er,&^JH:JeHh&r:,6%SLLCe ,,&rS:O eSL,z6OOS&LCeS:6 S,&^LHeJ,erLH^ HS ,T6 6rezrH^ rzzO6:&6:CJOJee:e& S,OJeCL=Cr6rS O:^HL zSr8 &HLLeez,,^JHC Fr:^6UJ6C:L66S,O6C6LJzHrSJ6H76CSrO&e^JJSC&JC6OCCr, zCr& &SrLeeH,zzIr   3SJL:^&,SJOee&LL^Sr, JVz^L,z^,C6&LH,JHSz6CCJH& &:S&,SJOzSJ&:}O6::HOHC ,: r,,^OHC Oe6,S^Crr &j^^ Lr^:r&JSeCLezLr  SHHzL,^zN,x 6e66S:,&&C:OLCrp&JJSS6,CJLzCJJ,Sr6HC0LSz^,eO::^ zH,&e:erz^,HrJ&:e6::S&LS6OzS,,r^eH JS_,&6H6^6%? J:z&USSr,^J(^&::L6&3&JCW &&:&6zS,O^&zr,^^HzL:S6&SS:&6SeHz H1r&&SeO:CzLSe&,JzHH: L8 &e1 ^.r6 7Hr&6zL,H zH.JO:J 6rS e:6&C::&JS;L:e6sL&SSz69COLJS&6S:r6&CHLzz :O&SCeOHe6, e66:S,O,& H ^erL  er6z:H&,SJO^Cr:O Cr& OHzJ eH,:^JHC r;O O,J eH& LmJr:e&6Oe:O^J6}^6CSrO&e^6 :z6HSeOJ&:H&^^r  JeJ6CuL&0S^OLezq &::%6OC^LCS66::zr6^OUCJr:&6^}  6H ,OC,&rS3L^ee,&6JSS6aSrL&ze,H^L,&e^LS O,6^SH& &C^&rSS66S,Hr^,: &6SqOOe^,CC&6,SzOe^6LOz,HC :U^L er,#^OH^JC,,zC,H CeCOOeOLL^erH 6F  &rz^^HC &9O,,Cz&HC,LCer::JHS6OzC#L,Cr&,S6O-eLLe ,,L JH J6NC&^:r6w JH6&::L6 Ce&zIr&SSeO:SOD6 C,:^6rSOCCOLLz rS^HHC Q?JJ,:66LSOLze3,O^J,&CHL,z6,,J6rO& :C&^S^6LCSLeJJHS6:SLO eeO /r&6S6;e^rLrz&SGJJrHJSI66C SL0e OKe6re^Sr^L6CHL4zOH^e^,,e Lr^er& z::LOCOre^HH6J Hz^z,H^He O:dH6e C,LCeOO&H!& SH J^hJJ,^LLJCeLJ&JHSz&He :HOLLekrz^WHOJJH&zJr^^rH^6O:,&rSOH:^L36&z:06,F, ,SCJOSJOCCz, e;Lo^ :z  HLJ&Sz6rC H&  :S&,SJOz: JH:,&OSCOSJOrCz^r ^OH, &D&&zz!rS &VeJH:L dHS eQyJJSSHSeOL e6,6&OSCOeCHL6z OrC:Oze ,S&e: 6,CJLCecO::_6zC&r&e^,,z,HO zeeL,z,rJ CHw^O,LzOr OSSLLOz^r:^rLHC&L&zCSr&:HHJr7r&:SJHOz&Lke&,C^,rO^HezL zrr& eu:^C,H^SHS^r:HJJ:r&JSLOr Is^&&Se6HCL&r:^&&SS6JeSOHJH::6JCCOreOOSS:O:CLOHz:S: JrJ^OHHL6ezrC^rH&J^H z,rO JHO&r: 6^e.OJe Owe6Hz^SH^J&w&,Sz6rO ^y:JrH,z r&J,CLLOeOre^HH6J rJ^:rC J:LJ,weLC:,O&COOieL:L&.CzO}eO,JCL6JSQO&&JrHzHrS ^e:O z6rz^gH,z,, zOr,^,H&J:+6r&e^LH^ :z HrJ^,HL r!CrSCr66CrHAJz:&6eSHOLsOJ,S:6eSCOze&L,&6:rOCCrL&z^6e:AOSeJLSzJ,,^&SOOHSJ,J^Crr OHC  ,^^erL eCe6CSS6^C:O&CLH-Je,L^HHrJ^: &  ^LLC&,SJJ::&zHeJS-6&SzSrO^ 8tJ,s&6^C:OLe&6L:C6rSOOz&erLzO,; eeO6HVL6CSCL:CO56J&SC6rC&L^SB&^S 6,J^,rz ,zzLHJ ^zCOzezr^^OHHJ6:z6Sa6 %Hz, So6LSHOH B_L&&Se6HCL  e,,z^^H: LE&e,,^^6r+ ze^LOzHr6 zwS^,,C^^C JHHrJ^or,#^LH&JehH&LSO6,SdL^z:,L^&L6zCH:JL}CJH(,O:CLL z,,r ^W:JL:&J6H  ^+&J SCOLCSLeez,^zeSC&JCLL zS,HS:OLC:,CeL, ^prLJS:SL z,rJ :HLJ Mr&&S:6HCrL6zz,H^,rrJ^::&LS&&6H&J:fx6eSSL,e&,:z ,^^CCCO^eL, ^SrHeHLzez,J^6C6& UHJrS:rC^SHLJ :S&HVO ,HeJ^TO6zC:H2^J,zer,J^OH,OHe ,J^Crr O,,eOLi^SH OJCH,:zLr  eOeC6Lr^erz &CLOOzz,k^OHJzOLSz,,6^e:oJ,tr&H^e,JC^LSz^:&6^C:OL2 ri^eOrOCHO 6:e&HS6O SJJ :S6:SrO,J,Hzz:r, CraJ6hJ, z r4 On^&CHz^,rHJe%rJLC^&dC6O6ez,O^ SJ6,e:LLz reeLO6COLzJ:r  :HzLSeO,O^^H: rOrzerz^JS.OCe&,ezHrLzJOLe^S: &HS^kH &C::,3^6H&Je<H&L:R6,CzLCee,L^ HS HrOezrz^SHrL6SLJ,:HOzCCLJJ&A 6SS,OJezO^IH&,SeON^6L^^Cr^Jz4S&:f,&&Szr. &2&&e:H6L:   ::&ezHrL  FSJ,:J6C,z &e:OLz6rz^aH,^:,CzzH:^&9C6LkL6JS^OO^JLCz re zH,J e66S,6, ,SS^CLzJ^zSL6,ezLazOrJeHLSezLrz^r6 &H^,eC &zCCHS OVO&^S:6rt,6&XH&^zjOC &yeJH:L&e:J  EzJ,:z,zeOLCeHHKJzrO^Lk J^Dr6 zL9:eeLCer,,^zS&OHe6&0S^6 eSL:e&rS6CHz IeC6O:eOLC&Oee,, z,HL^0SHOC:S&kSJ6Q^1w&Jz:%6 C&LeeH,LeL,zC,LC 6H 6eSJO,eJ,Cz<,CCOL^ CLOz rS SHrL&e&rS^,HJJzrS^CrC^Hez6:V,r^C6OOCCL,eO:6&OCCOre&,^CCOeC O ^s,Sz6:e 6-eJL:H,*zOH&Je9H&L%6 SHJJ,zLO6:,66C,Lre6re^Hr,L6S,&H: rJ^z.:JL: 6erH H*&JOhy6^Ce6LeOLC^:rr^ HCJCYO,6z^HC rZ&&^7Jz8r LOS6&{:zH zzLezz,:zH:^ Lx^J6z ,&^kHOJ^:C :r, 6HeJeqL,^zS63e&L:&S:z6OC^L:erOHSzOCC%LC^JLH^6r  :eSLOzOr^ :HrCr,LzzrJ6!C:L&ze,H^LLme6LCe,r O :J r:^rCez,z ^H&JH:66zCS&CV:&O:6HSe-LCe ,&^eS^6&CHL6zzrSe,Ore :  HrL^zrHJS:e,^eTrH 6Uz&SHSz6H JSwe,,CO&6SOOzeO,L663L^,HH&z:C6J^&rHJS3,&JSz&zHHJ&:&JRSe6  &1^&::L6 CSO,He&CzO,H eHHJ6: J6rJ JHH&^Wr6eS&Oz UwJ&&Se6HCLJL:^6e:LOz &HL&S:,6JCz&rSO6OC^LrzH,r^,HCJzS&6JeSL,zJrzCeO^e6L,eLIO^HH, ,: LzSC66Cz1zJJ:r6&CeL:SHJrSS6CS,%L^e,SzrreOzCeLrz&re :,zee,6e,rL^6e 6Hkr&CSz66^H:e&:UL66CzOWe,OL:rO^CiL:zCSCJJHJ :HO,6ee&LS Lzer,:&&S:OSC,LJzzO CCO^e^LS&SKg6OC^L:erO,:L6CC6Or^S,H^rr6 ^5S6,Sz6eC H&  :S&,SJOzS  O7H6&SS6,JOrSzL,m SHS r}^JHzQr: &7eJH:LJOrH ,H,& ^ L6SJO6CH,&z S^6^CHL6zzrSe&OLCJ,Se*re  H LrCC6C:,6, JizJ-:O6^C:OL7r&Sz6,6 CHrJ&:^ JrL &SJJ :C&JSzOCe:LLzr,L6OSrLeeH,6^ LrezO&^L,O :reJC0:JOzO,r eHHJ6: J6HS ,:&&S:H&&SHOeCupOJrSe6HC6L S OSSL6HC L^zL,e^rA6OOeS,ezHr6  , e ,6^zrO ,CHL:zJrC^rHOzL,zzr,O SHJJLzLL^:;6& 6H^&C:r6&C^&JxI&H:HLCC^LCeO,^ 6HC  A&&^{=66C^H  !t4&OS^OCC LeeL,C^zre r9&&eS:&CrO Sz^6HSOOeC,#, :,OzHre Je:LCz6rz^YH,z,HeJS}OJOSCOSS6LJz:,6 LIS&z:06OCJ6JKrJH:,6LeSOzJOPK6eSHO6e O :e6LS&OeeCLO^ Sz6 CrL&zer:eyOSe^L&eJH&^ w: ^G6J+z5,^ &DeJH:LzrH&^rV<J&:e6,S&OHeHte&6Sz6&C6LSeH,&zgrL CHqJL:H6CCJLCer,Oe 6OCz,,z^,ezOH  zez,Sz,rJ C rH^eOzHS 6rCxLOz^ OH,Jz:,6LCzOO6OSLLeeH,6^ ,JCrLLz&,L LHJ ^S:&,S^6H :H J6:z&YS,JS<,Jr:e6&CC6O fa &&Se6HCL6&:^&See6,ez%e H:,6JCCO*C:& SzOSCzrJe ,zz,rzJ./eJJC6&jCzOSer_L^rSz6TCOLJ{H6SSzOLSH,:z&,6^Lr6JJe^O6:^6JCrOJer,CzHSOJ1dOJ :O&HS^OSJ:Lr^zrJ^rCJ r:J&z:HrL OLJe6r&6 SJO.eO,^^CL&CCO&eH,,^zH^JCHO&::^6S^,HzJ^::&LOeCrLOzHrz  ^^r& H{6&zSS&:HCJO:z&^SJ,zSrOLeC:^&rSHO6ez,SC^6SCCO&CruH&:SJOCCrLOSH&rCe6 e^Leer,f^rrH &e6L:^Crr &u^  ,,^OHJ OSC& S^&hCJOzCHr6^erJ 6H6J^Tr& C:6H rHr& SS6,C66:b0&:SLOzC&Lez6,J^Lr, SHHLHe,rJ CHrJOrOzCr7 OH,,^3,&,  ,Se:, e6r&^ C JHSJez&6LzOOe,zS:&6SCSO,eJ,zC^&iShO6JJ:z&{SOO^e:LL:O6S^6r,JC<r&&S^JJH<JCXLJQSLHL^:LCz^:O6JCCOrJ& S 1eeCzH, &:^6:SLO&SJJL:6&6CeVezLL^^e,L^^HCO zLO&^C,L 6H6&C:r6&C^J&::J6S66JCrL zCrP^LrH HHOLOe6re^HH6J rJ^:rz  .e rz,OJS O,SiLHe,, 6 C:OUeO,^^CO,CCOJJ6_66CSrO&e^&O: O:e^,&eHrSz,r,&JH8 GC:,Oz:He H_6& H&^,H:LLSr&eS&6^eSgrJLSeJOH& Cbz,OeS6FCzOVe,LO&6:6OCCrL&z^O S6O CHL6^rr ^OH,J6?e&rS6rO^,_eJH:66 ZO :?C&:^ L6CL6rzSLL^zS^OSCHL6zzrSCrHC :!L& SS6H=H&z:6OrC8LJe^,& 6HSJr:e&rSeO^z6,, CHrJ&:^JJ,L^==6JC9rOJCSO^eJ>6JOSC6rC&L^Sp&^S 6,J^rezO,z^&rHJCHgLGe:r& eHHJLHHz^rS SeLO^:H&&SH6,e&:& erC &H:JOzOLCSS6KCJO4&,H= SHC fe^,SzHr6 z5SJz:C&OSLO eSLHCC&LS3L:e6}LJ,Sz6dCOLJC&&HS,O6C,r_z,,r^H:S O:C,Sz^rO ^;:JrHO^Jre&,HLJe:O&OS H  ^BD&OS^OC:z&:PH6eSeO:J&r:e6,6^CH  J::,CeLrL  7SJHrVz6HJ SHO,6ee&OS O &:rHzJrr JeJ6,:,& S H: S?6&z:86,K, 6:^&e:66JeSOLze,^^Lr:O C6LQzOr^ C,Ce,LazJr  &:zJO:S6z^ r6 mUO&^SCJOHC ^zJOOS&OJCJOOzS: &^SlOOe^,CCe6,S&iJ^ LHzSCe& yz&e:e& SrHC^H(L& SS6Hsy&&C ,Se:LOz^rr^r(z rQJ6S:1LLz^,.^pH J&:e&HSL&LwS&z:H&RSJHe 6Y,&JSC6}:z H.^&LS:6,CCsC J:L6 CSOHI:&L::OCSLO e+LL^SHS6 C,LJz:, ^ r, ,bS&e:L6zSrOOe,L;^^H: LX& L,^^3H^ qHr&rSJ6&COH, r:^6:SLO&SLJCkH&H &L1C6L z,r ^ wzLCe ,L^ HS Hr,^rH^Oe:, O5^J,: rJ^O0:JL: 6e:e eH&&S:LrHeHOLeS,e&J:&O:CLL zeL :r66C6:e &r& SrL LaeJJzr,O  ?SJ,:6^ He^>S:&zw,&LeOO Cr,CzCr&^rH6L:e3,J^&He H%L OD&^:rr ,e&,S^Sr, JJHS,O CJL6O CwLlzOr^ C,ee&LC^CSz6^CrL&zer:SrOOC HSzJ,6 SHH &BH&e:NrO^OEeJH:66 :6 :H,J,^ L,S O&&CrL^JH: 6CLOhzz,<^OHJzJLHz&r6^,HzJ&M^&:^:rC 6vzJn:, rrJJ^HrJJ:z,& r,OJzHr&L:SOzCPLOzJ&6Cz66eLLzewr&^zHOJOC_,^^:rS^9p:J^::&}S 6ICrLzzO,6 eHHJ6:  r,,^rHJJr:Hr,zeO:CHL&zJr6^^C O&e1,O^^HC^eL^zL,H^^Cr&^:C&,Sz6C SH:JO:^6:Sr6:HJJe:erre OOCH:6 LrS  HeJUerLJ^ HS ,P6 ,r^^OH6 Lt:,3CL6JCLIL^eLr^Lre^rHOOH^er:zHH6Jzd1&,?, CHe&::O&LSrHrzOLz&Hm ^&H  OeJLJ^:rL  Ze CrL^&HJ eHoJLCS6OSHL:erLJ&&:,OSC,LJzzLCSO6LeS:z^Lr6^,HzOrez, ^Sr, 6,ee6,^^6C6OCeSL zOr^ :Hr^,r  &CCJLjJ&::6,L^SHz ;QO&JMJ SHLJJk6J(S&rO^r7eJH:66 :eJ:H,6O:S6,S6Oez,_O&O:LOeCHL6z L C:OzeOOr6S4L^erHJ,:^&&^:r& 6{zJB:,JJrHJ^BO&Jz6,r CHrJ&:^JJ,f^ eO6&:L&NCSO, HH(&JSC6rCO&LmHJL^0,SCCLzzO,&^rC,Oz^JLzzrr&^S66J&:z&i^*Oze:LLz:O6^LHJJC,H&&SC6HC6LzeL6e^zH: L,J&S:L6JCC6JeJ,ezHr6 zH9JO:^J^SOO^eSL,zJrC^rH&HH_r&6Sz6xCOLzz:OLCeH: ,qJ&C:rCSCC6,:C,zzHrOL,E:JL: Jo,JO e:Lr&rrC^HH6 HOe&OSCO:e L z:,,^ HC r6^&e:H66CeOWeO,^^:CJ  H7J,:^6CS,O&CSOHz6rC^XOzJ^::&L:zz,CLLzzC&e^ He Hr6^S:H6JC^OreLLC^:,OSCaSJ6:&SLS,O6ez6BSJrz^,HLJC:Sz6S^6:r&LJeH,H:MHC =gO ^rr6OCSLSeJ,JeSrr^ 6HJr:e6zr^O&e^,:CLOe :H JJT,&rOSOeCHOeze,&^OH^J:qL& m8 ^CJOOerSv^erH 6HCz&:O&,C:e&e^,Sz,,^CLHr H:eSJS&OzCKL e,r:^eH ^Sj,& SC6rOSLeeC,6zwr2 OR^&:&z6 SzO,C,,Czrr& eH:J67&&=S&O^CHLLz ,J^LH:JC-C&&:J6HC6OOeH,e^^rz LHL&S:&^LCCO^e&O6zHr& zH(^L:^&&SL6HeSL,zJ,,:SH& LfH SSe6HCOOMz:,L-eHS ,1J&::r6&CeOHr ,zzUrO SU:JL: 6SL6OJeCLrz:re^HH6Jz6,&OS^O:C&L zS,,^JJY rs&&e:J66CzO*eO C^:rL  =:J,:J6CSrCSeeL^z6,,^<HOJ^:::zS 6JC,LJzC,r^&He :T6JL:+6&C^OHeL, ,Or, JMCJz:&6eSHO6^^LvzOr^^HHLJ :S&,,eOSCrL&ze,H^6Hz L,e&zS:6LzJOeeL,Jz:&& JEeJHHL6eSsOOS^&rzOr  SH,JJ&L&,: SJCHL6zzOu^6H^J:H6J,SS6,CJ6ze,,&^eLHe _eJv:O6^C: Je O%CCrJ CHrJH:C&HS6OzJ6LOz^r:^OH JSK,J^& 6rC&Le^ ,6^zrx^&Hd&::L6 ,JOOeJ,CCJ   eHHJ6,6&KS6O^,HLOzC6O^LHJJC,C&&SC6HC^JreH,O^^Oz LF^&S:,  CCOre&,CzHr6 zrrC^:z6:SL,&eSL,zJ,::&HJJCGHSJSz6.CO6^:r,O^^HS L/JLr:rJ&r,Ore&,zzHrOz,HH 6,-6SS6OJH6LLz&re^HSzJz2H&OSCO:CLL zS,H^JHC rA&&e:,66SCCeeO,^^:z^ ^sSJ,D^J6SrO&eeC&z&rz^!,OzC>E&LS OSC,VLzCLLCSHe ru6HO:H6OC^L:Cr, ^Sr, ^hCJL:&JerJO&ezL?zOr^CeH6J zr&,SJOCCLL&zC,HzJHC tpO&^JO6OC LSS,6z^Srr &KeJHzr6z:rJee^LwzLJe SH,JJ:CJ*S&OeCHLJzz,r^O,^C6%O& SS6,CJJ^eL,&6YrH 6MzJr:O6zC:66C&,Sz,rJ,,H,J&:e HH OeCYLOz^r:6wH ^},^&JSS6rSeLSeH,6^zrS O;^&::66 SQO,SJJLz,r& eHHJ6,J&rSO2Se:LLz ,M^,H JCHLJLSe6HC6SHeH,O^^,:e&s^&S:,6JCCYSe&LSSJr6 eHb&^:z6:SL6zr,LLz^rCzCH Je{H&6re6>C&L^eI,L^zHS ,TC&C:,6&CCOHeJ,zz1,, ^%:JL:z6SSOOJSCJ zJre^HH6Jz,C&&S^ OCOL zS,O^JHS rH z,:H66CzOJe6,^^:,6SSg:JL:JrSS,O&eeO,tzre^rHO:e::&LS &SH^L z:,r^ HeL w6&z&&6OCSL:eL, ^Sr, JSrJr: 6eSOO6ezL<zOrJ :HOJ :S&,S^OCCrJJze,r^6He Q0&&^ZHz C^O;e,^^^Crr &rezL:&6CSIO&e^&DzLL CHHLJ^:C&LS&H,CH66Dr,H^&H^ HsLC&SS6,S6LCeL,&^SrH J+z rL^6zSrOLrr,:z,rJzCLOJJ::&HS OzJeLOee66^LHCJSz:& SC6rC&O^eH, ^zrr Oue&:V6zSC:O&eJ 6z,r& e,Hz :e&LSOOSe:%5z LlC^HJ rhr6HSe6HC6LzeS,O^SH: 6N Jq:,&^,rO,ee,eZ^r& zH-^OrC&GS O C,L,&LrCzLLSJe3&&6HC6KCOL^z:Lr^ r, ,>^&C:L6&SSeze&LHzk&S zk:JLH JHS,OSeCLJz&SJ^HrJ esu&eS^eHCLL zS,,z&HC JD&&S:H6JCz6re&,^z6rL:ro:J,:JJC:HO&C,LHzCrzOeHO eH^&L:HOSHCL zC,r^&HC H!C&z:r6OCeL:C6L&^Srz J&:Jr:&6e(HOeezLJzO,r ::^J HN^^SJ6&Cr&Jze,H^6Hz:OZOJrS:6SC OIe,OJSkr,^YWeJ :6rrS}&O:CLbzSr ^&H,:e:CJL,eOCCeL6rC,/^OH^^:Lz&^: 6,S,LC^J,&zS6H &HJJcz^6^C:OLe LCz,,, CH:J&:S&Hx6&,CIOHz^,^^L,r dHO&^SC&NC&,Jer,6^zr9  _^Jz:L&&CSOOeJOCe^r&^ HH r:zJ S&6eCSLLeJrSz&HJJCfr&&p^6rS,Lze:,O^eH:^6H6&ShH6JL:Ore&,eCHr  zHSJOXJ6:e^O SALzzJ,C^rS JCjH&6Sz6JCOOJz:LL^ rU ,rJ ^:r&6CeO:e6L,zrLOzr{: L: &&S,e&eSOLzCrezrH6:C_3&OS^&:SeL e:,,z HC&Jv&JS:S66SSON&L,^^:rL  &,J,o 6C:OO&eSLHC6OS^Hr&J^Hn&L:zO:SO CzSLO^&JS H;6&zHq^eCz6reLLe^S0  JH:z :&JHSH&SezLszOr^<LHL e:SJJSJO:Cr6&S:,rz^Hz^rqOz :HJLReL:CJ,JzSrrO&.e ,Lz6e:6OO^J,:zLr zSL6J HL&r:rOeJOL&Cz6,^6,HJ:Hz& Se6LCJOzerLC^er, 6_CJpo&z:Sl6ze Hez,rJ C,rz^:CJ S666C4HHz^r:zrH ^Oi,&^SC6LC&OSH6,&e,rZ&,2^&::LJ HHOLSH,CzCr&^zHHJ6G &Y:CO^CHLLzzrSzO6CJSHz&&OS6HC6LzSw&e^z,J Lrr&S^e6JS:J e&O&zH,: eHWJO:^CLSL&reSOSzJr:^r,&C,-r vSz&6CO eeH,LC:H:^C{J&::r6JCeJHee,zz,rOHr8:zz:zJSr^O S&Lreurez^HJ C,&&Om6O:LJL zS,,^JJr rrH&e9C66CCOACOJ6zcr&  ,CJ,Hr6C:L^eeCOzz66,^WHOJ^H:^&S^&JC,6rzCS&^J,eeL5& O:u&:C^S6eLL :^rL zuC,&:JJ6SHJ6CHLcz r^H&HLrL:SJ,,LOSC6L&Sz,H^ Hzeclz&^:,6L^^L::r, z:&& Jr6JH ,6zSUOOS^&rzOL, SrCJJz &r:  ,CH6Hzzz ^6H^J:H6z;SS&:CJC6e,,&^erH:z_z ^:OJ6C:O6e LS::r ^HHre::eJzS66CrOL6CLr:C&H JS., Jra6,:HLeCz,6, rH^&L&JdW:6 OHOLeJ,CeLr: erCJ66S&HSOO^SHOOz Lz^,JzJS3r&&Se6OC66OemOr^^rH LH   :,6eCCz^e&O6zH,JzJHc ::^^rSLO eS6,zerCzeH&^6oHdLSe&rleL^C^,LOrHS ,(JJ:r 6&:JOH6:,zznrO^eL6JLH66SJeOJeCLrz& H^H,-JzHC&OSeO:SL Oz:,&^JLO ,rH&erH6eCzOLeOS&zPeC  r_CJ: J&Sr,reeLHz6LzC,H6^L::JSS H^C,O^:L,rerHeSrIJ&z:K&&HHL:Si, O&r, J}C LrS6e:SO6CCLrzOr^zHLzJ He&, HOCCrL&ze 6^6,O tr,&^:H6LS  ^eL,e^C&, Jr6JHr6&HSTO e^CHzO&& :rOCC:SJeS&,&CHL6zzO1CJHz^ =L ,SSH:CJO:: ,&e&rH,:PzJk:O&eH6OLSO,S trJ CHr  ,,&H2,Oz& LOz^r:z6O4JSrH&Je^6rC&LeeH z^z,^ OrJ&::66 SS :e LHzr^Z SrzJ6rz&6SOOSe:e:zzLz^L,Je%b, HSe6OC6&OeHOO:HrE^SF  J:,r&CSOLe^,eeCr6 zHHJO:^6:,zO SJL,CLrC^,H&ze!&&6:r6tLCL^:&,Oz 6^ L8:&CrH6&SYOHCJ {zH,: ^L&JL: 6S_,JzeSOez&L6^HCSJzrA^JSz& CL6,zS&S^ rCCS%JJ,:HrSCz6^eOLeoLrOz,!Sz6:J6CSr&&::LrCcrzz^HOHJI3J6r6O:SSLJ,i,,^&He^,rH&zGe6OLCOmeL, e/rz Jr^Jr6^6CSHO6ezOezOLL :,HJ %2&,:J&HCrLSzeze^&,O AH&&eS:&SC J6e,,J^CLr  /e z:6JOSpJ,ezO:S&r^zJH,^r:C&OS 6eHCL&er,<C,Hz^ RL^ :L6,C:LC,S, r,rre6HHJ?:e6^LJO6&r,SS,rS CH J&C:&HHOOei*Lzz^,6^LJ^ b,r& ::z&CJ66eHL^^Crd Or^zr:OJ,CS6CeJ: zr, C,HH^H:zH SOO^e:O6:UrSz:HJHOY,&&Se6H,zLzC^,Oe6H: 6( JS,:6 S,Ore&,Sezr6^zOeJ6s%6:H,O CrL,e^Jr^,,HJe&,&6Sz67:O&CebLS^ ,J ,^,&SHJrCCe6ze6LLzHr6 ^ eJO:C^OSLOJeCLzzJrC^HH^erDH&OS^6zCOL^zS,,OSHC^e1&&C:H66Cz6rS:,^e rLCOZ:J,:J&HH OJeeLHCHre^HHO eOL&Od,OSLOLJzC,re&L: rrl&za^6O&OOgS^::^S,C JHSJ,:J6e6SO6e:&&z6r^ :rOJ^::&,Se LC,L&zeLO^&He pQO,1S:&SC L:e,,J^C,LeHoe z:6^ SrOOe^L,Szr^ SH,^,:S&,S&6Sr6L&CO,<H&H^J:bL  rH6L:rLCCe,&L&rrzeCHJG=:6^:JOOe^,S&;rJ^HL JJ:e&H::OeCHLOzS66^OH JSHS& SS6rC&xreHO=^zrH O+^&:U6 ,CS6CeJ 6zLr& eH&Sr:zJ^SO^:e:LOz r:^,HJ:uKr&&Se6^C6Lze!L&CLH:^SN JS:,6JCCOJr,,eezr6::H.J6:^&pSLO ,HL,zJrC^CH&JeQHJJHO6ZS:L^l6,O^ HS  6L&CIe6&LHOHe&,zzHrO ^&rJL: 6SSLOJeCLre O6^H,oJzpJ&OS^O:C6LezSLC^JO6 r8&&eu, /Cz6^eOJJzHrL  HLC::JJ&Sr6LeeLrz6rC^+HOSC::&LS 6zC,LJzC,rq^He HB6JL:c6OC^6HSS, eJr,QJ#SJr:&&r,CO6SOLMrrr^^3HLJ^:S&,LzOCCrL&eO,H^6Hz^rr:&^M 6L^&L:e,,Jz,&S &r6JH:r6zSHOOez,:zLJe SH,JJ;6&rS&OeS,&{zzL^^O:S ;NL& :B66CJ6&erCO^erH 6HC^^:OJLC:SSe ,Sz,rS: Hr^H:eS6S6OeCYL&z^r:Q&H JSE,JJSC6rC&LerL,6^zr0^CY^&::L&z6^O,Sr,CCor  eHH J2:&l::O^CLLOz rSzO6CJSHC&&>^6,C6LzeaL ^z,^ L0^&S:,6JCCzLe&O6zHr6 zreJO:S^6SOO eSJez rS^rr SH*r OSz6LC&L^z:,L,DHSz,.J z:r6&CeOHCL,ze:rO e*:J6:  L^ OJSeLr:erC^rH6C %.& rH6=CLL p,,L^ HC^LOe&CH+66COOHeO,^^:^z  rSJ,HO6CSrO&eeeJz6Le^3,,J^::&LS zOC,6&zCO,^&HC H_^zr:H6OC^ JeO,^^S,OSCZS^H:&66SrO6ezLm,er^z:HL^6:S&,SJOCCCL&CC,HeLHz dFO&^L66L:JLSSL,J^Srr CHLJrHQ6zHzO6ez,:z6r ^rL^J :C&rrrOCCrL6eHJe^O,LJ:ez& S:6,C LCer ^^erH 6HCJU:O6^:H&Se OJz,6S :HrJ&3reCS6&OCM& zz,3^LH^JSp,CzSC6rC&6MeH,6^z,rz:<^  :Lz C:O,eJL,NSr&z6HHr^:z&HSOOze:LLHerS^,HJ^L7r&&Se&,NoLzC^,Oz6rP L< JLL:6J:&Or,!,ezrr6 CHUJOOC6:SLO C&L,zJrC^r&^JeuH&6:J6sCOL^CHOS^ ,J ,&e&S:r6&Sr^Ce6OOzx6P ^HhJL:z6SS,zzeCLrz&,O^HH6Jz_wCJS^O:CLOLzS,,^Jr:ze{& 6:H^&CCO0eO,^eOrOz,4S 6:J6CSr6 H:LHCHrzeJH&J^::J6:?OSS:LJ#H,,^&He^,rr&zZC6O:eL:eL, eXrS JrzJrHS6eSHO6CCL^zOL  :O+Jz:S&,:^&3Cr6&ze C^6Hz XH&J&S:JOC JCeL,J^C,LS^{e^,:6L,S?OOe^OHe r eHH,:O::&rS&6SC,L6C:,E6zHzJ:uLJz::6,:CLCLe,&^erH^JH:JiHz6^gJOOe ,SeOLr C, J&JL&HS6OzSr6rz^O&^L!JJSw,&J::zOC&&OeHe ^zrZ OHeJr:L ,CSOke ,Czr,  CHHzH:zeJS6O^e:O6CrrSe:HJSe%L&&Se&,SHLzSC,OzCH: L7  _:e6JjzOrO6,ezHr6^CHCJOr 6:&LO eSL,e^6L^rL&Je6e&&Sz6kCO0ez:LS^ LS ,E &C:L6^Ce6ee6HrzZrO ^rH^S: J S,&LeCLrz&rS^LH6^6f4&&SzO:CLOzSJ,,e,HCC _ &e:H6JCSOfSB,^6CrL  cS Orr6C:CO& OLrz6rz^rHJJ^H^&L9COSC,LJe:Oe^&,& H,e&z:M6OCeOreLOL^S:; JQCJr%  6SH&HezS6zOr^ :H^SO:SJSSJ:LCrLJze,r^6Hz:,gO&^S:6CC LSe,L^C&rrzr2er :66zSgOzr6,:e:r SeH,J :C&LS&Oe,LL6zz,Z^SH^J:UL& OH6,CJLCeC,&^erH^J,OJAHi6^O6O6e ,Sz JL CrCJ&re&rS&OzCHLOz^ r^LH JShe&JSC6rS &6eHOH^z6L &s^&:.6^2CS6SeJ6:zLr& er,zC:zJeSOG,e:LLz ,L::HJ^^breCSe6rC6LCeD,OECH: Ls  ^:,6JCCOrr^,ezHr6z6H(JO:^JHlSO SzL,OSrS^rH& S,J&6+J6RCLL^z:,L^:&^ ,r6&CH 6JCCOHeJ,zz{JJ ^t:JLHO6SS,OJeC^Oz&re^H,,Jz0Q&O:eSzCL6&zS^ ^^HC rH Jr:HJLCz Ce6,^^:r^:O;S^r:JLzSrOJeeLrz6rz{,HOJ^::&CS OSC,LJ:,,,eOHe ,K6&e:36z,6L:Sr, rrr,  7CJ,:&6eLLO6ezL5zSr^ :HL zrJ&,W6OCrOL&ze,H^6,H Hr,&^S:6LC LSCO6r^CLf &z&Jr:66zSrOJe^OCzLSJ SH,JJg: eS&&^CH:Sze,s^OraSzoL &SS EC LSer, ^erH: bzJi:O&zC:OLe ,SH6rJ CHr F:e&HS66C:^LOCJr:eCH JS4,&SL 6r:OLerC,6^erB 6q^&:O&6 CSO,C,,Czrr&^SX6J6H &jL:Oee:LLz Lz^,,6JCm6&&Se6HSJLCefOL^^VL Oo &S2O&OCC&re&:6zrr6 zrr C:^ hSLOzeSL,zJ,:zWH&^SiH:&Sz6<COL^C6,Le&HSzO-J&S:r6C,JOHSO,zrHrO zq:J6: 6SL6OJeCLreere^HH6Jz6,&OS^O::rL zS,,z^Hr rr6&ezr66CzO2eOLO^:L,  HrJ,:J6C:L6(ee6Hz6,r^rHOJ^HHJCS &:C,LHzC,r^&rS eX6 C:FLHCzL:eLLze6r,zz4C:::J6eSHO6CwLuCLr^erHLJ^:S& LLOC:rL&zr,H^&Hz rjO&^Or6LC LSCJ,J^Crr &6:JH:66z::OOe^,:e6O, S,,JJ6r&LS&OeCHOezeOE^OHeJ:NL& g5 ^CJ6Ser^z^SrH 6HCz&:OJeC:eee^,Sz,rJO:Hr^&:e ,S6OeCkLzH6r:eOH ek_L& SC6OC&LerL,6^zrv^^2^&::L6 LHO,eJ,CCrr& eHHJ6OS&tSOO^C^LLz rSzOLrJCr,&&O 6HC6LzenLz^zLi L1e&S:,6JS:J e&OSzHr: zHfJOye^6SL&eeS&,z rC^rr e,YH ^SzeSC&L^z:,L6zHSzLGJ^H:r6JCeO&rr,zCrrOO6*:JO: 6:S,OJ,/Lrz&reerH6Jz4!J&&6O::6L ^;,,^JHC^L9C&eH,66rJOHeO,^zHr&  ,HJ,dC6SSrO&ee&&z&LC^QH&J^ou&LS:z^C,6^zCHO^&HC HA&&z:_eJC^L:eLLr^Sr, JH:^e:&JSSHCOezLKzOre^rHL^z:S^JSJOCCrO S6,HeJHzeOI6&^S:6^,OLSSO,Jr,rr J}eJ,:66zL,OOe^,:eOr  SH,JJ6T&rS&OeS,L6zz,_z&LLJ:r6& Ce6LCJLCeJ ,^eL, 66OJu:66^SUOLe ^Hz,rJ CHzJ&:e&H:JS&Cw6&z^ln^LH JSHO HSCJLC&  er,6^zrr J<^^r:LHOCSO,eJ,CSJrJzSHHJJ:z&HSOO^SSLLCzrSeOHJJCyrJ LH6r: LzJr,6^^H:^6OS&:H&6JL:Ore&,ee,OC z,OJO,:&HSLO CL :zJO,^rOSJe-r&6Se6mCO^Cz:,L^ L2 ,TJ&C:reeCe&Le66HzZr& ^9:Bz:  AS,&zeCLrz&rS^LH6^Sq1&^SzO:CLOzSJ,,ezHCted &e:H66:^OqSJ,^CrrL  ES OLC6SE6O&JSLrz6rzzr6^JzrL&LOzOSC,LJe:6 ^&Lr H&r&e:G6OSe^LeO6<^S^F J3CJr:CeJSH&Sez,JzOrz :HOJ :SC6SJOCCr6^ze,H^6Hzz656^HS:JeC LSe,,J^zrrzzieJH:66CSAOOOH,:C&r erH,JJ:C&r:COC:OL6zz,m^&H^z:K^& Hr6,^OLSS&, Cer& 6r:JY::6zO6OOCz&Oz,LC CO^J :e&H:JzVCH6zz^:t^OH JSHOeCSSJ C&zSeH,6^zLqCeFz^6:L xCSszeJL:S r&eOHHQJ:z&_SOO^O6LLS,rSeJHJJC-r&&:H6H::LzS ,OCLH: LCS&SH^6J*6Ore&,ezHrL z,6JO:^6:S6O eSJLzJO,^rHJJeU,&6:CSeCO&5z:eJ^^HS ,H^J :rJCCe Se&,zz%rz:6+:^z: erS,O eCL,z&re8LH6JzW;  S^O:CLL :L,LeSHC LG&&C:H6e,&OISz,^LJrL ^cSJL:J6CLOO&eeLHezrz^PHO er &Lx:OS6:LJzC,r^C&J Hre&zaL66CzL:e6, ^SJ6 JVCJr>r6eSHO6ez^,zOr^ :r J :S&,:^J&Cr6Cze6^^6Hz uDzC6S:J^C 6 eL, ^CrL &ceSL:66zS*6.e^,:zLr oHH,JJ:CJ&S&OeCHOJSO,0ezH^,rmL& SS6 ,LLCSJ,&eJrH &;zJH:O6^LrOLe ,SzSrJ CHr  r6&H.eOz:6LOz^r:^6HeJSr &J:&6rC&LeC,6>^zL6 O:^JI:L6 SL^:eJ6,zr,& CHrJ6:C&2SOzCe:LLz L?^,HJJCZrC^Se6HC6OLeB,O^^,HzSQ ^L:,J^CSOre&LrlCr6eHHK C:^&>SLO^eSL,HzrC^rH& OYH&6Sz&r::L^SO,LJ,H: ,wJJ,LS6&/rOH:e,ezHrO z#:JLOe6SS,OJC&Lrz&rez,LKJzr6&Oe^6iCLL eLJ:^JL, r:6&e:r66CeO3eO C^:rL  H J,:J6C:LJHee6&z66H^rHOJ^-OCuS JLC,& zC,,^&HC H<6CS:g6OC^6%eL, ^S,OermC^J:&CLSrO6ezL6HHr^eOHLOH:S&LSJOSCrL&H:,H^6Hz zXO&^S:&6u,LSS ,J,6rr &NeJ&Or6z56OOL^,:zOr ^.H,JJ6}&rS&OeSrL6zz,Z^O&CJ:UL& :&6,CJLCCL6H^eL& 6S&JF:O6^SHO&e 6Lz,HJ CHrJ&/S zS6JHC/eez^r:^LHz Hw, SSCC:C&LeeHLJ,&r{zz<^CS:L6 CS6OCL,CCJr&S HrJ6:z&6LHO^:6LL::rS^LHJJS=r&&L:6HC6LzCO,O^^H: L,:&:H 6JC:OreJ,ez&Jr z,6JO:e6:SOO C}L,zJ V^rH&Je8^&6Sz69CO^Cz:,L^ r  ,?J&CML HCe&&e6&vz2rO ^HOS%:  LS,:&eCL,z&rC^HH6SSmh&OS^6JCLL zSLOCrHCzJ?& r:,66CzO6rH,^COrLJLySJL:J6SSrO&r:LHz6rz^zHOJ^::J6H,OS: LJH ,r^&He HHe&eH66OC^L:eL, e9^: J,,Jr &6CSHO6CCO^zOOl :LzJ^:S&,2J ZC,6Sze,e^6w& HrO^C:9JzC &Oe,Le^CLrCSsC^J:6 rSIrre^OHSzr e&H,SS::&rS&&e#LL&SO,D^:H^ezEO  rH6LsrLCSe,&S:rHz6OrJHH:6^{ OLS:,:eOO: C,SJ&&e&HS6OzCvH^z^O ^LLOJS},&JSCeLC&&,eH,6^zLJ OdSz6:O6 CS^,e^,SzrL&e:HrzH:z ^SOzSCHOrSrr:eCHJCC0L&JSeJeC6L::&,6^^H:SL+z&::,&^,rO,:r,eOHr& zHX^OrC&pHiO :JL,Her:erL^JCrS&6HO6<LCL^z:,S^^L  ,,L&CH:6&SrO e&6HzR6S eH=JL:z6SS&J:eSLrz&&O^,H&Jzur&JS^JOCL:^zS,,^Jr:ze2&^r:HS^CCOBeOLktzrLz:{SSz:J6SSrOJeeLHH rz^FHO O::&LS &X:CLJS,,rJqHC HE6JHLe6ObxL:Lz, ^:r,  +CJrO^6eSHO6CLLtzOr^zH,SJ rL&,S:OCCrL&erJC^6LH 0+O&^:F6LC^LSe, z^Crr &HOJH:66z:r&:e^6OzL^e :H,JJj,eSS&JrCH 6zz,H^OHzJ:<LCeSS6,CJO6er,&^e,,e4Gz^6:OJ S!OLe LL(:rJe,Hrz :e&rS6OeCdLOHCr:^LH  &R,&JSC&LBHLeS&,6Ser% OZ^JOOF6 YLO,^r,Cz,r& CHHJ6OS&.SOO^CJLLz rSzOLrJCrJ&&r^6HC6Lze6 H^^LO Lz,&S:L6JCSOre& :zHr6 zH JO:^6::6J,eS6 zJCe^,H&Jew&CrSzJ6CO6^eM,O^ H: ,yJSW:r6&CeO^e6,zz9,&eLv:^^: rrS,OJeCLJH,ree&H6:C5v&6S^61CLL rH,,^JHC z0&&e:H&J/OOoSz,^SnrO  ;SJ OL6CYJO& rLHz&rz^HHOJ^6r&LS OSCeLJzC,rz L6 Hre&zHS6&C^L:e^ O^SL  JY=Jr:J6eSrO6ez^,zOr^ :r J :S&,:^J&Cr6CzeHS^6Hz !-zC6S:J^C eCe,, ^Cr, &FeSL:66zS{66e^,:zL,zeJH,^S:CCJS&OeCHLeH&,0ezH^^6mL&^SS6OCJLCrO,&^erH^&pzJb:O6^LrOLe ,SzerJ CHr  r6&HueOz^LLOz^r:^^&OJSr &JOe6rCJLeer,6^zJ, Ox^&:?O6 CSO,C^6&zrLC ezOJ&:z&mSzz6e:6^z O ^,H JC8,&&SeeLC6Lze<,S^^H: LHz^J:,JSCC:Je&,ezHrJ SH3^z:^^zSOO eSOOSrrCeJH&HGTr&6Sz6rCJL^SO,LCHHS ,kJJ:He6&DrOH^z,zzGrO eHrJLH:6SXHO eCLre O6^H,eJz-z&6S^O:C^^OzSO ^Jre rxJ&e:,66Czz,eO,^^:,   YSJ,:JC_SrO&eeLez6rz^#r&zL:: ^S ^SC,LJzC,L^^Hez&46L+:U6OC^6HSS, CLr,JevSJr:&6SSLO6:HLszzrz :HL zrJ&,.SOC&rL&ze,H^e&& trz&^:,6OC^LSeL,J^CJO &<eJH::6zS-OOCe6 zLL: S&^JJ:C&rS O:CH6ezz_6^OH^J:H6}OSSJ CJ3,e,,&^e,,^Jwz^6:Oz&ShOLe LL#:rJeLHr,O:e&rS6OCC3LOHCr:^LH  J#,&JSC6r,^LeeH,6z6r2 Of^&:^J6 <LO,e^,Cz,r&^SrOJ6rH&},rOze:LLzz,H^,,:JC^J&&Se6HC6JHeHOz^^rH L2^&S:O6zCC&Je&L:zrr6 zrr^::^ OSL^Ce:L,zJ,,:SH&zr!H&CSe6HCOLzz:,LFeHS ,}JJ6:r6&Ce6,:N,zC6rO,z*:JL: &L,:OJ:,Lrz:re^rH6Je{t&OLCO:CLL e ,,^JHC^L,H&eH&666LOreO,^zOJ}  ,LJ,Hr6SS,O&eSLHz6JS^EHOJ^5J&LS OSC,^zzC,r^&r& H36&z4rJ:C^&OeL  zcr, JrCe :J rSHO&ez Cz6r^zOHOzH:S&,SJ6HCr&&er,HeSHzmJ_OJC:H6LJ:LSSe,J^Crr &!e HLr6e1JOOSJ,:CCr z+L^JJr6&r^&OCCHL6zz&:^OLLJ:hO& SS6,CJ6HerO:^eL^ 6,OJw7&&:C:&Ce H:z,rJ C,r &:e  S6JLCgOJzer:V H zLQ,^8SC6LC&OS:J,6CLrs:XFz&::L6 ,rO,S:,CCJr&eOHHJ6H>&doSO^e:LLzerSzO,OJCre&&,J6rC6LzC},e^^LJ LJH&SHC6JS:6&e&66zH2: eH1JO1e^6SLJLeSz,z^rC^rH& 6#r :SzJ^CO&Oz:L6SEHSzCFJJS:r6&CeOH&e,zCzrO ^5:JL: 6SSCO :6LrSHreeeH6Jz6O&OHHO::CL ep,,z^OL r,H&eLe6&CzO+eOe&z.Le  ,LJ,rr6CSr6CeC6zz6rz^lHJJ^r:&^S JJC,e(zC6S^JrS;5}&^6:WLSCzL:eLLzzLr,eLuCL :J6eSHO6C6LwC:r^e^HLzO:SJO1,OC:CL&eC,H^6Hz THz&^Hz6LC LSe,,J^CHH &,6JHrH6zXeOOe^L6zLOH S,CJJ::&r: OSCH&HzzJz^6H^J:_LJ:SSJeCJ&,er6r^erH^r>z^z:O6^C:O&e OWzzrJe HrO^:C&HS66zC6LOSOr:HeH z^#,J^Oe6,n,Le^^,&^zrG^&rH&:rH6 ^CO,eJ,Czrr: e,eJ6r&&UHrO^SHLOz O^^,r JClr&&Se&,C6&JeY,O^^H: L> 6C:, ,CC&Se&6 zHr6^^Ht^S:^ ^SLOzeSOOCLrCeSH&S&=r&6Sz6wSzL^S ,Le:HSz:2J&C:J6&aJOHe6,zz,rO^eHzJLr66S:rO^eCLre&rC^HLrJz&J&OH&O:S6zJz:6n^J#6 ,j&&ev,&BCz&SeOzJzHrL  3S r:J  SrJLee6:z6,C^zHOz&::JOS OSC,LJz:,rCOHe Hs6&z:86Oe L::3, Czr,e6=CJrHW6e2zO6:&Lnz&r^zH,uJ rz&,L,OSCrL&zeL,^6L6 nrz&^He6LC 6re,6O^Crr &+:JHfJ6eSBJ,e^ OzOr  Sr, O:C :S&CLCH&LzzLrHLHzzCpL6rS:6,CJO:Cz,&CzrHOJjzJ4:O6^SeOL:6,SSHrJeeHr  UJ&HHLOzSHLOz^r:^LrCJS,r&JSC6rC&LeeHrO^zLC O,J&:r,6 CS6zeJ6JzrOL eH,J60C&^SOJJe: :z^rS^,HJ^O4r^,SeJ&C6& e0,Oz^H:erY &S:,6zCC6LeC,eS;r6JLHkJO:^&::rO :eL,,1rCCHH& S&7&&H^6.zSLzz:,Lzzrz ,,J&C:H6JCeOHe6O6z=O, ^,SJLr 6S:O6:eC&Hz&,C^HH6Jz3Y 3S^J:CLL zS,,^JHCJHk&^^:H OCzJ-eO,^eHrLeOGSzH:J6:Sr6 C/LHSOrz:zH6J^::&LSSOSFcLJS,,rC6He HHz&zH:6OC^L:e&, e(,L J,CJrbL6CSHO6CzOrzOO  :JeJ rS&,:^eeC,&&zeH^^&Hz 5H&J^S: OC eHe,,J^Crr^z<ezP:6 zS8J6e^OHzOr eSH,  :C&rS&OeS^L6Se,3^OH^J:7L& CC6,t&LC:r,&CCrH 6rrJ(rr6^wSOLez,SeO,L CLrJ&O&&rS6OzC}L&z^OC^L,:JS,,&JSC&SC&&eeH,6^zr, OHeJ,:L ^CSSee ,Czr,&^,HHz6:zSJSOJze:O6rJr:CLHJ&6_,&&Se&,S Lz:r,OL rh L* &S:C6J{COr:J,eS,r6^Cr&JOrz6::OO eSL,zJ,e^rL JeoH&6Sz6cCO, z:6L^ L: ,,^&C:r&OCe&:e66zzyr& ^rHJJ:  :S,z,eSLrz&re^JH6z^47 zS^ 7CLL e<,,C HC r_&&::H&J:LOF:&,^L&rO  .S ,*r6CH,O&LLLHSJrzzrJLJz,H&LCrO:C,LJe:L,^&L: H: &z:q6OC^O,eL6^^SOO JLyJr{ JHSHJJezOHzOr^ :HL S:S^6SJOCCrL&ze,H OHzeHNO^eS: &C LSCS,JCerreJ-eJ,:6&CSrOO:e,:G:r^ SH,JJ-C&rH&Oe:&L6SC,p^OrCJ:,6& SS6,CzLCCL,:^eOL 6zCJ9:O6^S:6He &{z,^7 CLOJ&bSSbS&JSC#rSzzr:^Lrz Lt,^eSCr_CJLeeH,6^Crke&(^zr:L CCS6OCe,CSOr&^CHHJ6:z&>:CO^g,LLz rS^,HJJC:H&&HS6Hl Lz:L,O^^,O L, &SrO6JC:OrC OJzHO  z6zJ6:^6:SL&,eS&LzJO,^rL^JetH&JSz ,COL^z:,&^ ,d^ AJzH:r6rCeOHe6LzzerOeCo::e: ^rS,6^,eL,SzreJ^H&JzDIJ&:LO:g L :S,O^JHC rH:&erL66M:OQ:^,^eH,z  LrJ,i 6CSrO&eeO6z66d^GHOJ^::&LS LCC,&zzC66^&OH Hi6 ,:} 6C^JreL,z^S,O^^{Cz6:&e&SrO6ezLpeLr^CHHL^::S^&SJOCSzL&:9,H^6Hz ,kOJe:e6LhSLS6O, ^Crr^&H^JHr^6zOJOO::,:e6 J :LJJJS6&,S&OeS,LSzz66^OJCJ:-L& SS&OCJJHer6e^eO& 6HC 4:O :C:6Oe ,Sz,rJ^HHrzC:e&HS6OzC?LO^ r:CJH e,;,^SSC6rS&Le:,,6C:r9 &<^ H?L6 H,O,r,,Szrr& er6J6rS&9{zO^pLLLz LJ^,LCJCVr&&S:6HSJOHe26z^^6S 6X &SX,&CCCJ&e&zLzHOe zrr:L:z^OSLLre:L,zJ,:^zH&e,AH,LSe6.COL^CH,LCSHSe =JzL:r& : OH:e,zeHrO ^k:JLRJ6SH^OJeCLrz&re^HrlJe,O&Or3O:IzL zS J^JOE r,e&e:,66SCJ&eO&Z^:66 ^NSJ,:J:^S,Jzee6Jz66H^_r&eH::^^S &HCOLJzC,r:SHeeO/6zH:i66C^6H:z, SLr,C^1SJr:&6e6SO&::LlCer^COHL z,O&,HSOC&FL&ze,H^6&r w, &^rO6LC^LSCO6:^COJ &LSJr:66zSISrez&,zLOZ SL JJb:L^S& rCH Jze,y^OH^ 6cL^CSS  CJLSerL zSrHeedz &:&6^C:OLCJ,SS&rJeLHrzC:e&H:YOzl6LOz^r:^6H ^-m&&JrL6rO^LeeH,6zzrC OLc&:6e6 HOO,C^&LzrOS e&zJ&:z&RSzz6e:&ez ez^,H JC?,&&SeeLC6Lzey,6^^H: LZ :#:L SCCJ e&&LzHr6 CHIz :^^OSLO^eSOOS:rCCJH&eS#r&6Sz656rLz:,,LC<HSe FJJ:r 6&HrOH&L,ez1rO ^66JLrC6SH OJeSLre 6,^HLeJzLr&6S^O:CLC6z:6&^JLL r,C&el,,SCzJ6eOCHzgrL  PSJO:J^HSrJCeeLrz6,C^^HOe8::JzSzOSC,LJer,rCzHezJj6zH:x6OS:L::^, ^Sr, ^wC L: 6eHJO6:JLHzOr^^:rrJ ,L&,6UOC8 L&eS6J^6Or X6:&zS:6LC:^^e,&F^C&^ &UCJH:&6zSQzJe^,:zLr^ SH,JJ:CSLSJ rCH&Czz6J^OH^^ 1L^CSS  CJLSerL z:rHeelzer:66^C:OLeC,SS&rJeLHrzC:eJ,SCOzW6LO, ,P^LH JSRJ&JrH6rMCLeer,6^z,H O,S&:l&6 CSO,C^ xzrOe e, JJ:z&G:&&re:&^z &r^LHJJCHL&SSe JC66Cey,O^^,H^&; z6:,J:CCOre&LSeHr6CLH*eH:e6:SL6zS,L,:rrCYSH&Je7HJJ:r6*HAL^:S,O^ HS^OOz&CrS6&zLOHe6,zer,: ^LeJL66&7S,OJC:O&z&6^^HCeJetA&O:e6^CLJJzSzC^JHC rH Jz:H^6Cz& e6,^^:,6zHYSeL:J:OSrO&eeO,eCrzSrHO& ::&LS &Ur6LJv9,r,^He HG6JChO6OHSL:eH,^^Sr,^^H3Jr,e6e, O&ezLwe&,  :O^J OC&OSJOCSLOrze&J^6rS 8fO&^dH&BC  6e,e&^Crr &HS &:6zLS-SOe^,:zL,zCOH,Cr:CCCSJOeCHL6&C,iC H^C BL&^SS&OA:LC: ,&e,r, 6XzJ5L 6^HLOL:H,SS^rJ CH,J&,,&HS6OzCrLOeeLL^LOHJSr6& SC6rS&66eH6C^z J OLr&:s6JICSJzeJ^&z,r& eH&Sr:z^ SOzJe:LOz ,o^,HJ:aDr&&Se6eC6LzeD,O9CH: LK zr:,6JCCOr:H,CSJr6C,HizS:^6:MjO l,L,S:rC^,H& S*&&6rr61SeLez:,L^ ,O ,,C&CH^6&H,OHe6OJzROe ^<:JL:z6S:O66eC&^z&1H^HH6JzH}JLS^ 6CLeHzS6z^Jr:e G&zL:HCqCeO_eO,ezrrLCrhS L: 6CSrO&:6LrSCrzCJHOe,::&L::OSmJLJ:L,r^JHe^,P&&zr&6O:HOHeL, ^Sr6 JLrJrr^6eHJO6ezLzzO6H :HLJ w3&,:^&OCr&:zezL^JHz kHOJ S: zC e6e,&Q^C,LeS8ez :6COSHOOe^LHz&r C&H,z,:S&rS&Oe:zL&:r,XCCH^eJ(L& :C6,nCLC: ,&^CrH^JriJIre6^HLO6e ,Sz,,e CL&J&rL&HHCOzCMO:z^66^LH JSGL&J::6zC&JLeH,&^zrn OH^ ^:L^tCSezeJ&Ozrr&^OHrzz:z^&SOOze:O6e:rSC^HJeJ}r&&Se6HSeLz:O,OCrH:ez? &S;J6JHLOre&,ezOr6^Cr&JO,r6:rHO^eSL,eJ,J^rLSJe& &6r,61S&OOz:6e^ Lr O7J&CgL6SCeJ^e6 zz-rO ^=:^b: ^OS, feC&zz&,S^ H6e,i{SLSeO:CLL CL,LSHHC Lu&&e:H&JHrO%::,^ 6rO  3S Or:6CHCO& 6Lrz6rz^UC&J^,J&LrLOSCLLJzC,e^JO, H,S&zr 6OSeJ6eL&H^SJC  oCJr: 6:SHJ:ez&,z6r^ :HL&J:S^^SJ OCrJ4ze,HzeHzeO8OzHS:66C 6DeC,JSOrreeiSJH:66z:KOOxA,:Cer C6H,JJHO&rH:OeCHL6ze,Wz&r,J:,C& T}6,CJLCCr,:^eO  6J,J=rS6^C:OCe^&Lz,62 CH,J&dSJ6S6 ,CjJ*z^r:^LH ^ T,^SSCJ^C&JLeH,6zOr=eC;^&::L6CCS6OSH,CSzr&r6H,J6:zJ(:zO^q&LL,HrSCeHJ :=L&&rO6H:^LCeu,Oze,6 LL,&SCr6 CCOre&OqzHOS zL JO,L6::66OeS&ezJ e^LH&JeBHJeSe ^COLSz:,L^ ,he^FJzJ:r&,CSOHe6LCS&rOC6>:zS:z6SS,6^kLLr:LreJyH&JzE2J&rHO:HrL JS,L^JHC re &erz66H Oce6,^^:rS ^L6J,,H6CHeO&CS&Jz66L^Z&:Jz::&LSz6HC,JrzCrs^&He HX6JO:H CC^JJeL&,^Sr,:CECzJ:&^LSHOJez6+:erzC6HL J:S,rS O:COL&:O,He>Hz fcO&^L66LHdLS:e,J^Srr^ 6HJrrC6zY&O&e^,:e66I SLzJJv,&,S&OeCH6^zz6&^OOHJ:,e& 2%zJC JOerHO^erH 6HCCO:6^,C:e6e ,Sz,LJSLH,e7:e^^S6LHC2O&:Hr:C:H z:g,&JSC6r,eLe:^,6S6rc &d^ :r&6^H&O,%H,C6 r&^SLJJ6,O&i,CO^e:LLz Or^,OHJC,z&&r66H:6 reH6S^^OJ LrrJvaO :CCJCe&H zrr6 zH_O^:^^JSL LeSL,zJrC,6H&eL<H&6Sz6#COL^zC,LS{HS ,.J&::r& H,OH:S,z:LrO ^n:JLHC6SH^OJcLLrS:rez,6zJe,J&OOeO:CLL CS&^^ OO r,:&eC&66SCJ&eO&L^:Le  gSJ,:JCrSrJ:ee&zz6rC^1r&C:-m^CS JOCOLJzCLLCSHeezx6JH:H6OC^L:SJ, S&r,CH.Cze:&&S,6O&GOLv ,r^ :HL zO,&Lr,OCLLL&ze,He66r HLM&^r^6Lz:LSCO6:^CO: &,CJH:66zS}z^e^&^zL66 SHOJJHC^OSJ &CHJHzzS&^Oree6XLzOSSzzCJLCer,&CnrHCH+zzz:O^6C:66fD,SS:rJ&^H,J&:e&HM^OzXzLO:Or:SEH ^T,^&Jr 6r}^LSeH,6^zLL OLO&:r:6 H^O,eJ6,z,6H eLeJ6:z&>SOOJe:&Cz rS^,H^JCHL^SSe zC6J:e!,O^^H:zJt z&:,^HCCJee&LSp6r&COHu:&:^6:SL& HOLL:rrCCeH&&rlHJJrr6;HHL^:%,L^ HS ,6C&Cre6&HJOHeJ,zCTOJ zL JL,,6S ^OJC: &zJ6&^H:LJz_2&O:e 6CLJOzSJz^JHC rs&^>:H^rCzJ^eO&6^:,6C>oSeY:JL^S,O&eeLHC^rzCeHOe6::zHS &TCPLJ:^,rS:HC Hn6&z8C6OH6L:n}, Szr,^^HHJr,L6eZHO6ezLnzO,H :O9J ,^&,rOOCCrOeze6e^6HC ?F&&^:Oe2C J^e,H,^Cr, &oCJH:6eSSpOOe^&6zLr  SrOzr:C^SS&6^C,L6zz,r^JH^ezlLrrSS6,CJO:Se,&SJrH,CbzJm:O6eSrOLYO,SSzr  CHr  r6&HrrOz^^LOz^r:^6HeJS,:&Jr^6,C&LeC,6n^zOe OrLJT:L6 :_J^eJ& zrCA eHHJ6kCeOS6 &e: Cz^rS^,,Je9;,zLSe SC6+&e-L&SHH:Cr- ^L:O6JCCOrCO,eSSr6 CH_J&:^JHHzO deL,6HrC^rH& rOC&6r^6EreL^e(,L^eHS ,6z&C:r6&H,OHe6,zz7JJ ^7:JL,O6SS,OJeC^Oz&re^HO,Jzi7&O:eSzCLJJzS:J^ HC rH J::H^OCzO^e&,^^:rLC^4Ser:J6SSrO eeO,LrrzC:HObW::&LS &3C&LJ:e,re6HS H96 zr,66H L:M,, :zrL ^H8Jr,&6e6zO6ezLbzOCS :O,J D>&,S OCSLLeze&P^6rO rhO&^S:^OC JCe,, ^CrL &HSGC:6^^SFrOe^,:zL,zz&H,e&:C HS OeCH66SS,HSLH^eS*Le6S:6OCzLCbr,&^^rH 6TzJV^ 6^HSOLez,SzLrJ^:reJ&,z&HXOOCC-LOC^6r^OOJJSLr&J,^6,CC^JeH&6^zSf Ogz&::O6 CSz6eJ,CzrOS eHHJ6:z^6S6  e:L6z r:^,HJL,9rz6Se6rC6LzeDL&,6H:C,1 e :O6JCC6Le:,e:!r6z^HrJO:^J:H&O^ICL,:&rCS:HJJS!L&6rz6jJ&L^z:,L^ !: ,L&&C:L6&CCOHCJO&z#66 ^^OJL: 6SS,&,eCJHz&OL^HO&Jz91& S^^wCLL zS,J^Jr:^:a&zS:H rCCO2eOL^errLC^3S:z:J^:Sr6 C:LH:JrzeLH&J^::&L,JOSH6LJzS,r^&He Hxz&z,H6OHeL:v&, e9r& JL:Jr e6CSHO6CC&&zO6C :C J^:S&,SJ6&C,JJze&,^6OS YH&zHS:^6C S&e,,J^CrrS6(eeL:66eSEOOe^,:zCr C:H,e^:CzOS&6SC6L6:C,2i:HzJ:PL&z:H6,HzLCJ6,&^erH 6CrJk,66^rHOLle,Sz,,n COHJ&,C&HS&OzSrO z^6S^L:&JS4,&J::O:C&JeeHJS^zrf Ov^Jb:L^ CSOeeJ&Czr, ^zHHe&:zLCS6O^e:LLeHrSS,HJeCdrzJSe6HS6Lz::,O^eH: 6!  _&:6JHeOr6J,CzHr6^CHeJO, 6:hzOzeSL,e^6L^rO&Je(&&&Sz61CO6Sz:&,^ OC ,LJ&CsLzeCC He6CezHrO ^t: r: ^CS,O^eCLLz&,SCJH6ezfqz S^O:CLL Sr,,S&HCCH_&ze:H&J6&O1mL,^^JrO  jS OQ66CrHO&H Lrz6rz^6&HJ^,:&Lz^OSCLLJel,r^&&: H_6&z::6OC^L:eL e^Sr, Jr,Jr:&6eSHz ezLazO,, :HLJ :S^ S  eCrL ze,r^6rCqSh6zzS:  CzLSe,,Je6rrC6Ue^ :6^eSdOOCL,::Or  SH,J :CJLSSOeH,L6r6,W^OH^ :HS& r:6,O%LC5L,&^erJ 6L^Jb,66^SnOLCzL,z,6  C^JJ&:e&HS6^:CTJLz^O&^LO^JSf,J:SC^,C&LeeH, ^z,r^zd^eH:Lr:CSO,eJLCeJr&CCHH:S:zzrSO6eCrLL:zrSe&H^JCor&&,z6HH LzeH,O^^H: LHH&S,L6JH:Orm^,ee,,S zOrJO6L&YSLO CBL6zJ&V^rr JexH&6SzJ^C6Jzz:&6^ 6H ,GJJz:r^6Ce re6,ezM,&z6o:eO: sLS,OJeCLreJreS4H6z,<iz6S^O:SJL ::,,^JHC &B&JSDO66HCO1&:,^^:rL^ HSJ,, 6CO^O&_SLHeJ6r^gO&J^r,&6S OSC, &zC&O^&He H+6&z:;&CC^ PeL&z^S66 JH:J6:&^SSH:zeeLVzO,eC6HLee:S: S OCCrL&e6,rS&HzCruOzCS:&6H8LS-O,JL6rr &;eJHLO6zr,OOez,:zLr  SrOJJ,S&rr OeHLL6eCL6^OOeJ:6S&^SS6,C^Oher&^^e&, 6#zJi:O&LSb Oe JKz,6z CHrSe:ez/S6 eC=L&z^LH: H^eS;, &S:6rC&6e:L,&Szr{COv^ee:O6:,^O,W ,C&Sr& CHHJ&:z&_LJO^e:LLerrS^,HJJC:,&&re6HCJLzeH,Oze,L LLz&SJ 6JCCOre&LezH66 z,JJO,e6:SL6reSJOzJrC^rHeJeH,&eSz^,CO :eK,L^ rS^S7Jz::rC:Ce Le6LCz^rOCCD:^J:z6SS,OJHeLr:zre^HH6Jzqw&OSeO:H6L !H,,SeHC^LpJ&e,L66JPOHeO,^eHOz  OrJ,^O6CSrO&eeLzz&6C^9OJJ^L,&L:z OC,JzzCez^&He H!6e^:y^ C^O4eL, ^Sr,zHZCeL:&^:SH ^ezOrz6r^SrHL:,::&,SJO:COL&qN,HL&Hz f?O&^z66LHzLST6,J:Hrr &HLJH,66zrrOOez,:e6,H SO,JJL^&,S&OeC&^rzz&H^OOSJ:kO& S:6,CJzner,&^ere 6/zJV:OOzC: Le L5z,r  CrL S:ez,S6:HCXLOz^r:^zH eST,^+SC^LC&Lee,,6SCr? Op^JL:L&zSCO,9z,CL^r& eHH 6Hr&or&O^L&LL:erSzOH:JCLO&&H!6,C6LzeoJL^^6, LY &S:,6JCC6Oe&&SzH6  zOLJO0eJLSL eeSSJz rC^rr e,NHz^Sz6OC&L^z:,Lz,H:COBJea:r^zCe6,:C,z:,rO,,n:JL: 6S,rOJHHLrzJre^HH6JzYS&OreO:H&L vr,,z^,_ rL^&eOz6&CzOge&,C^:6J  ,OJ,:J6CSrJHeCJ,z66S^-O J^::JJS  SC,J^zC,,^&rS CR6zC:?:zC^L:eL, zwr,CJ_C^^:&^SSHO6CJLm:&r^ :HLJS:SJO:rOCHOL&J:,H^6Hz^8T6&^,H6LOHLSo6,Jz:O  &L:JHH^6CScOOe^JSzL6C SH,JJ:C&rS&66CHJJzz&,^OOSJ:H6J^SS^6CJ:re,,&^e,,eCqzeL:OL3S#OLe ,SzCr C:Hre^:ezOS66C}&LO:Cr:,CH JS0,&J,e6rHzLeer,6^zr< OHe&:,66 rHO,Fe,CeLre eOLJ66O&HSOO^CHL&z &r^,e:JCsr&&SerJC6JCe0&J^^6, L0 J::,^JCC Le&,CzH,JzQH*eO:^zeSOO eSL HLrCS,H&^r0r&&Sz6HCOL^rr,L^ HS S>J&C:r6&HrOrT6,zzrrO zZ: 6&&6:rOOJbrLLz&re^HrOJzL0&OHrO:H6L zS,6^JO: r<&&e:r66SCO6eO&C^:Lz ^dSJ,.J&,Sr  eez z66S^=HO^,::zLS ^IC,L zCLLeTHeC,%6HH:P6OC^L:HJ, SSr,e}aCeL:&6e:2O6fCL9zOr^^LHL z::&,rzOCH&LJze,Hz6He KL&&^6&6LHeLSCOLO^C6O &,0J,:66zSc^Le^J,zLr  SH,JJ:C&&S& SCHJ zz&L^Ore^L5LzeSSEJC LCerL S,rHC^4ze,:66^C:OLC,,::OrJS/Hrez:eJ,HCOzH,LOO,r:^LH JSOr&J,H6rCJLeeH,6^z,  OLe&:,&6 rrO,C^OLzr6^ e&zJ&:z&VS&OCe:JJz z:^,HJJCvrS SC^,C6JSe/& ^^H:^Sy zS:,^^CCO,e&,SzLr6CzHv6&:^6:SL6z:JL,:JrCSCH&Je_H&JSS6(HOL^S,,O^ HS^O L&C,r6&rzOre6,zerrz ^L:JLHJ&.S,OJSC&OzJ6e^HO6JzLC&6:RzzCLJ^zSz6^JHS r%J&e:He CzODeO,z^:rL  7Sz : ^CSrO eeLrz6,CHSH6ee::^ SzOSC,LJe&,rS&Hez 26zC:76OCSL:I6, ^Sr,  *C LvC6erLO6HeLhzOr^^:rOJ LW&,6bOCHOL&ze,6^6Oz 7L&&^:n6LSzOze,&^^COC &3eJH:6z:Sl Oe^6&zL6z SH,Je:CzLS&OeCHL^zzLreHH^CrfLJJS:6,CJOCCO,&SSrHVS-ze,:O&eSJOL_e,SC&r^ CHr  ,,&Hr^Oz,*LOz^r:^Lr,J:LO&J,F6rHzLeC,6C^z6, O& JH:L6 CS6 e JHzrr^ eHHJ6_C^&SO :e: Cz rS^,r^eL1rzCSeLGC6LzeGL&SHH:Czf :6:L6JCCOrJ ,e:Or6SrHUJ6:^6:SSO^HRL,:zrCS6H& S,J&6rS6+,:Lzz:,L^zrH ,Le&CJC6&CeOHe6r^zm6& ^OrJL,C6SS,&BeCJrz&6S^HHJJzHrJ^S^^rCLC:zS,,^JHC^zX&zC:HJSCz ,eO,^z:rLCe(SJ,:J&4Sr6 C LH:^rz8JH&J^::JL:OOSH6LJ,O,rSzHe^,,C&z,L6O:SOHeL, ^S&r JOrJr:&6eSHO6ezOLzO6C :OJJ L,&,:^OSCrJzze z^&Hz M>&&CS:^ C Jre,,J^Crr^HjCeL:6^:S1 ^e^,:H r C:H,ez:C&LS&6Sr6L&:C,2:rHzJ:9L&:L^6,HzLCCO,&^CrH ^.zJ+OJ6^C:OLC,,Sz,rJ C&OJ&:e&HS:OzC1LOz^ r^LH JSH&&JSC6rC&^:eH,6^zrz OD^&::LO^CS OeJ,:zrrJ er,^H:zzLSO:Ne:LLz rSzzHJe:lr :Se^OC6LzCr,OSSH: Ls JH:,&^SLOrPe,eSLr& zH_ O:S6:rJO L6L,:CrCzLHJJeL6&6B:6rCOL^z:J,^ 6L ,.J&C:r6&CeO&e6&:z.6^ ^OOJL7z&LS, CeC^ezJre^HHJJS*>zzS^:HCLL zS,,6:HCC6G&eH:H^eCzOECr,^:HrLCCnSJL:J&:SzO&!SLH0,re^xHO FOz&LreOS:HLJzS,r^:He H6 &z:=6OS^L:eL, ^SJ6 J?CJr_e6eSHO6ez^,zOr^ :HCJ :S&,SJekCrL&ze,z^6Hz a>OCCS:6LC Oze,,J^Crr:^TeJH:6^zSaOOe^,:H&r  SH,e :C&rS&Oe,LL6zz,bz=H^J:/L& C:6,H^LCeL,&^CrH^JHSJ?, 6^&OOLe ,Sz,L, COLJ&rL&Hr^OzCAL:z^&,^LH JS4J&J::6SC& HeHJe^zr; OH^ ,:L^CCSezeJJrzr, ^JHHez:z LS&O^e:LL<JrSS HJJC-r&&Se6HC Lz4L,OS:H:C^u  #{S6JrrOr6e,CzHr6^CL&JOLM6:,^O eSL,zJ,&^,OzJeL6&6,H6MS&JHz:& ^ z& ,BJ&C:rz6Ce &e6,ezMrO ^y: z: zrS, CeCJJz&,S^&H6Cw9QC:SzO:CLLzeH,,SSHC:,(&&e:H66^rOl2 ,^:LrLC:MSJ,: 6CrLO&HaLHz&rzzrr J^LH&L,6O:C,LJe,JS^&O: H,>&e:H6OCzL:eL e^Sr, JrrJr:&6eSHJeeeJrzOre :HOJ Hk:HS ^HCr&ezS,H^6Hz e*OzeS:JeC  re,,JzOrrCzQeJH:66eS-6&C&,:: r O,H,JJ:CJr:LOeHOL6,,,vS^H^J:r3& ,R6,HeLCe,,&zSr  6L:JhJz6^C:OLe  rz,6^ C,^J&L9&HS6OCCwJ z^r:^LHSJSHOJ SC^&C&rCer,6^z,f Sl^e,:LSHCS JeJL:z r&SHHH^^:C&-SOO^HSLL::rS^,HJJCFr&&TI6HH^LzBO,O:%H:^6me&S,J6JJrO,e&,ee,OC zO6JOHC6:SLO eSLCz &H^rOeJeL&&6:C &COJ:z:eC^ HS ,VJee:r^CCeOre6,zz8rO :1:eJ: z,S, SeCOLzJreS6H6:O2H&OS^6HC&L YL,,LyHC r+&&e:z6&H:Ov*^,^:OrL  &,J,,^6Cr6O&eSLHzeJ&^POJJ^G+&OS^OSCOLJzC O^&He HHH&z:26OC^zreL, ^Sre JjCJr9 :JSH  ezO&zOr^ :r6 ::Sz6SJ^^C,L&ze,&MrHzCL4OL:S:6OC OHe,,JHbrr &yeeH:66zS+OOrC,:zLr C:H,JJ:C&rL^OeCHL6:-,b^OH^J:,^&^,H6,C^LCe,,&zS : &OmJFr^6eC:OLe LUz,6z C,^J&LH&HS66vC#J^z^r:^LH^JSHOJSSC^JC&,,eH,6^z,j^OR^eL:LSHCS  eJ,Ce&r&C:HHez:z&HSO6eCOLL:SrSCSHJJC#r&&Lj6HH LzSJ,OS:H: LH^&S,J6JCCOrez,ee,,L zO6JOrS&USLO CSL^zJ&r^rJ:JeL&&6:C6 CO pz:OJ^zHS ,H^zL:r^SCezHe6,zzhrO^LHXe : zLS, :eCOLSSreS&H6:^=r&OS^O:S^L^pO,,^^HC r=&JSrJ66r,O{J ,z^:rL^zLOJ,LH6Cz O&eeLHz6SC^BOeJ^LJ&LS^OSC,OrzS&&^&6r HLC&zGr eC^ OeL^,^:r, JA:JO:&z,SHJ,ezLGzOr^e HOeS:Sz SJ^LCrL&e ,HS HzCOBO&zS:&6C^LSRJ,JL,rr &aeJH::6zr,OO:r,:: r  Sr&JJLr&rS&OeCLL6eCLL^O6hJ:,:&^SS6,SJO^er&e^e   6OHJ<_&^HC: ^e 6rzOrJ CHrC6:ezJS6OzC-LOz^r:emH C,q,zSSC^ C&OSez,6:HrT::0z&::L6zSHO,I:,C6&r& eHHJ66C&Hr^O^HOLLkArS^,HCJCLO&&,H6HC&LzevLz^z6r LES&S:,6JS:e eJJ9zHr  zHpJOTe&}SL SeS^Hz^rC^rr  H<HzeSz:OC6L^z:L6^eHSC^gJLH:r6&Ce6,eC,z:JrOJO3:JL: 6SSOOJHULr::re^rH6JzH6&6rSO:CLL zS,,z^L& rLz&eLC6JCzO_eOOGzj6J  ESJ,:J6C:LS,eeJOz66L^rHOJ^HHJCS ^rC,LCzS,r^&rSS6o&eE:WeHCeL:eL, Oer,CeyCJL:&zrSHO^orLHzOr^LSH J^:S& H%OSH^L&6z,6^&Hz M8O&Sr66OC LS&r,C^Srr^ 6HJr,:6zrSOOe^,:e6J& :OCJJ^J&rS&OeCHL&zz& ^O6,J:LS& y8&SCJ &er&.^SrH 6Tz 6:OzOC: ze ,Sz,rJ^&HrCF:ezeS6OeCELzer,wSJH ,O1J& SC6LC&Oo:J,&^zrN,ev:Ju:L&zHOO,(S,CSCr& eHHJ6L:&ar O^:&LL::rS^,,OJCLJ&&Se6HC^LzCrL^^^66 LL,&::,6JSCOOe&JrzH S zO&JO%e&6SL^QeS6&z^rC^rr e,7HzSSze_COL^z:,Lz,H:C AJeL:r^:Ce6,:C,z:&rOv HHJL: 6SSCO H,Lr:SreSLH6 C,&&O,HO:,SL^zS,,^^rm rL:&eeL66CzO%eO6LzU6^  OOJ,Ls6CSrOCeeJOz6&H^WH6J^HH&6S ^LC,&Cz:,r^&He 6x6z::pJ:C^ OeL, e&r,CSACJr:&6CSH6JCLL2:er^HLHOJ :SJ,SCOCHJL&,L,HSCHz (Oe&^,,6LH:LSeL,Jz:^d JOrJHrz6CSmOOe^OLzL6C S,SJJL,&rS&OCCHJezz,}^OHzJ:H6JSSS^^CJh^e,,&^e,H^Ogze6:OSrC: ze ,SC0rJSHHreC:e&rS66CSOLOk;r:S6H^JSj,&J&^6,HzLeSe,6:HrQ^&LH&:,^6 :&O,eJ,CzrJe eOOJ6LH&wS&O^SH  z^&,^,,&J:2r&&de LC& 1ei&^^^6e O5:C^:,^SCCC&e&,CzHr& zHZSJ:^6:SL CeSL,zJrCO6H&CH_H&JSz6HCOOeC&,LSSHSCHV^&C:r6C1LOr5z,z Sr^ zW:JL: &rH^O eCLr^O,H^rH6 C,&&O,HO:6^L zS,,^J&H rLe&eHz66rrOteOL,^:6z  dSJ,:C6C:LO^eeJ z6^A^rHOJ^a:J S ^OC,eIzC&^^&rS^rD6e,:3J CeL:eL, :Cr,SHpCJr:&6eSHO6ClLE:er^S&HLCr:SJO:HOCH^L&6H,r^6Hz^r,e&^,J6L,eL:e,,J^Cre JO,JH,S6zr OOCe&6zL&H S^eJJ:C&rS&^zCHJ:zz,H^OH^J:.L LSS^^CJ OerJc^e,, &xzeJ:OCLS>OLe Ljz6rJS6HrOH:e&HS6Oz &LOYHr:SeH C&3,&JS:6rHeLe+J,6^eri^&HJ&:, 6 rzOLeJ,CzJJ, eO&J6HL&8S6O^CQLLz  H^,HJJCH&&&Se6HC6JHeH&^^^rH Ly^&S:& :CSOre&&Lz&r& zrrC^:zzLSLzrClL,zJ,,e^HJCHbH^S:H6HCOL^z:,JSWH: ,TJzO:J6JCe&HqC,e:OrO^ c:L,:^&NS6OJHLLr Sre^HH6JzO&&Or:O:HzL z:,,z^OL rLS&e,,6&CzOxeOe&z>6   , J,,:6C:LJSeeJJz6JL^rHOJ^::C S ^,C,J:zC,L^&rSzz16e_:_O,C^L:eLLzSOr,C:hCHJ:&6eSHO6H:LP:^r^e HLCD:S&,SSOCH L&ze,H^zHz^r#^&^,&6L:eOme,,JzC,e &O,JH6S6zrJOOCeOJzL&H S,&J^:C&rS&^zCHJ:zz,F^OH^J:>L&:SS^^CJ OerJ3^e,,^eozeJ:OA:S3OLe O>S^rJS6Hr L:e&HS6OzC^L6AHr:SeH C&l,J^rL6rH:LeO^,6^zr% OO &:,C6 C:O,eJ,CzrL, eOJJ6L,&9rSO^SH6%z &6^,JrJS*r&&SS6LC6 Le/&L^^H: L. LO:,^:CC ^e&JOzHr6zJH0e^:^z6SLO^eSOOCHrCS&H&C .r&6Sz66,HL^5O,LrLHS LoJ&S:r6&,:OHe6,zeHrO ^*:JLS^6SrJOJe:LrzJrez,HSJzL&&OJ2O:CLL zSLe^J6r r,H&e,J66Cz6reOJH^:rL  HHJ,E^&zSr :eeOzz6rz^ArO 6::zzS C6C, RzCLLeHHeC -6 ::r6OC^L:H,, :&r, JUCJr:&6e:6O6HrL<:Cr^SJHL zD &,,ROC,eLJze,H^JHS ZLS&^^J6LC LSe,::^C6  &OLJH,:6zSB6,e^JLzL&* SHLJJ8:&SS&^HCH ,ze,d^OrPSztLz:SSHCCJLSer,J^erH: bzJ<:O&zC:OLe ,S^LrJSrHrJ :e&rS66CS6LOKHr:zzHzJSx,&J:L6rHeLeSz,6:rrY Or-&:,z6 CSO,e^,CeL,- eO J6,O&KSOO^C:OJz &O^, GJCL^&&:S&HC6 ,eI :^zH: L3zJH:,zHCCHOe&,ezHr6eOHHee:^z&SL^reSL,COrCS&H&C,uH&&Sz&r:!L^_6,L,:HS ,gJ&CEC6&rHOH:b,z:&rO ^rrJLL36SS,OJCbLre ,r^HOSJz,9&OS^O:SLLSzS&^^J O rL:&eg, CCz JeOOSzHrL  YSCr:Jz6SrO&eeLHz6rzzdHOCH::zeS ^&C,O^e&,rS:He:z8&&z:56&CCL:gC, S^r, JqCJrzS6erJO6H,LK:Sr^ :H&J L,&,r:OCC,L&eSL&^668 oOr&zS:6LC:^^e,&S^C,6 &BCJH:&6zSIzJe^,:zL,^ SH,JJ:C^JSJ^HCHLJzz,H^OHe rpLzSSSreCJLCerL C6rHCz/zHe:66^C:OLC:,::JrJ^OHrJ&:eJ,, OzH6LOJHr:^LH ^PH:&J,L6rO6LSeH,6zCr: OOr&:OC6 CSO,C^,:zr&1 e^HJ&:z&E:&Oze:JSz O^^LHJJCHLJzSe^eC6LHe=,O^^,HzHs e^:,H:CSOre&LSSJr6SJHtG^:e6:SLO  3L,:CrCS:H&JC}HJJrr6gHCL^:L,6^ HS , O&S,J6&E6OH?S,zz_,z zO&JL: 6SSLOJC:& z&&O^HL&JCAa&O:^^zCO HzS^z^J66 ri&JO:r^eCz JeO,z^:,6 :WSez:J^JSrO&eeLHzCrzS6HOzL::zeS OSCeLJ3O,r^&He O{6JCmH6Or,L::J, ^Sr,^JHJJr,:6eO O6HLL=e&L6 :OCJ rr&OSJOCSLO^ze&z^6&z *FO&^S:6SC  6e,JH^C6e &HSJS:6zLSWeLee,:zLr ^JHLCh:CzzS&^HCHOJ:r,pSSH^: MO& SS6OCzLChe,&: rH 6EzJxSL6^r&OLHr,S:CrJ CH:J&Lr&HrSOzCrLOee,J^L6rJS  &JSC6rC&6reH&C^zL^ OO,&::L6eCS eeJ,Czrr^ er,J&:zz^SOCLe:LLz ,SzrHJC6_rS:Se^zC6OC:&,O:LH:zJEz&S:,6JreOrHr,ezHr6 zH>JO:e6:rCO HJL,>,rCzLrSJeLz&6OO6HCOL^eH,&^ 6  ,,z&C:r6&CeOze&JLzj6: ^O^JL: C,S, :eCJzz&rS^HrJSj0HzCS^^eCOL zS, ILHCCzB&JO:H6&CzOreO,^HrrL  kSJS:J6CSrO&r:LHz6rzzOHOJ^::&LH:O:HzLJz:,r^JHe^,JL&e,^6OR:OHeL, ^S,, JOOJrrH6erzO6ezOLzO&L :HLJ ::&,:^&JCr rzezJ^JHz lHO&CS:^SC e6e,J,^CrrzrFee :6zOS2O6e^OHz&r SJH,HS:C&rS&OerOL6F,,ge:H^C nL& :66,rrLCer,&zHrH^Jr&JELo6^O^O6e ,Se,Lr COeJ&&L&H,HOzSrO^z^&^^L,C *M,&JSCzHC& JeH,6^zrA OD^Jz:Lz,CS SeJJ zr, ^LHHCH:zHOS6O^e:O6:+rSS:HJ&e<,&&Se6HSVLev^,O:OH:S0I  9r^6JrJOr6b,ezHr6 zO:JOL66:SOO eSL,zJ,O^r6HJeLe&6,&6fS&OUz:&:^ JJ LYJ&C:L6^Ce Ce6J6zmrO ^;:JS:^zJS,^,eCJSz&re/6H6C,{xz:S^6HCLOzH,,L:HHCC:5J&e:H6e,&Ou{:,^SJrO ^sSJ&:J6CLOO&eeLHz:rz^ZHOJ^6r&LS OSCSLJzC,r^&&: H#6&zGH6OC^L:eL e^Sr, JrrJr:&6eSHJeeeJ zOre :HOJ Hk^^SJ^JCr&ezS,H^6HzHCK6e,S:JSC   e,,Je,r,Sr_eJH:66eS.JOC+,:::r H6H,:e::&r,SOeH^L6l6,4^6H^^H,z& , 6,6SLCer,&^e&O 6OLJKH:6^r^OLe LOz,&, CHrJ&AH&H:J6JCi Hz^C:^LH JSH,J^SC^CC&eLeHJr^z,r^H_^ez:LJCStO,eJ,C;Hr&S HHJ6:z&PSOO^CJLL-LrSS:HJC^0rJ 0O6HrrLz6O,6^^H:^6LK&SL(6JJrOre&,ezH,u eOzJOL66:,HO SV&^zJ& ^rz7JePH&6Sz^:CO &z:,O^ HS ,DJ&::rzrCe Ce6JJzE,&zOT:C8: CJSLOJeCLLz^reSSH6zOwB&OS^O: zL % ,,:LHCC:g&&e<O66rLO=Hs,^zbrL^zH J,LH6Cr:OJeeLHzeJ&^/O:J^z,&LS^OSC6LJzC O^&He Hq:&z:P6OC^zreL, ^SrS JfCJr:&e:SHO6ezOOzOr^ :HLz:::zeSJO:CrLJzeL,rLHeCztO^::H6LC LSCr,J:6rreHleee:66zS OOHO,:zLr  :H, ^<-&r,,OepHLJzz,9zOrSJ:L:& 666,rLLCer,C^e6^ 6O6JA:66^:H6Ce J z,zS CHrJ&:eeOS6^LC#6:z^&^^LH   +,e,SC6rC&OHeHLJzHriSHy^JL:L6 CS6,CH,C:Cr&HLHHCr:zJrSSO^HzLLCC,{^,HJJCOH&&, 6HC6Lze?,O^^,L LOL&S,:6Jr^OrC O zH&r zzOJ6:^6::6 /eS _zJJ&^,H&Je{HJySe^zCO 6z:JH^ ,0e^pJe :rWkCeOHe6,z::rOS&q:JO: 6SS,OJSLLr{rreSCH6CJ-(J&}LO:r*L rJ,L^JHC J6,&e,S66SJOHe6,^zfrL  &HJ,:J6CSCO&eeLHz6,O^H6DJ^Lz&L,6OSC,^CzC&z^&6& HwJ&z4rz^Cz  eLJ6^:r, JH,CS:&z&SHC^ezLHzOre :HLSe:S&,SJ6&CrL&ze,H- Hz bkOJ:S:6LC LS: , :&rr  XeJr:6&COSO6H6,:S rz SH,JJ> &r,HOe:zL6M&,i^O,,J:Os& SS6,C LCCLOR^e6S 6eHJ=:O6^S:OOe J^z,^K CO:J&:e&CS6^OCf Hz^,#^Lrz^6Y,eLSC:JC&LeeH,6::r*C:U^^ :LzOCSO,CL,C:Sr& eHHJ :zJrS^O^HeLLwer:^,HJ CHS&&,J6HLSLz7C,Oze,J LO6&SH&6^CCOre&JzzH&L zHnJO:^6:SL6OeSJ:zJ&^^r6OJeH,&SSz^CCOzLel,L^ r% 6}Jez:r,zCeOHe6,z&&rOS67:CH: zeS,OJCOLr3HreSCH6Je2dJ&: O:HSL 5z,L^JHC J6,&e,e666^O3e6,^zfrL  &HJ,:J6CSCO&eeLHz66H^HO:J^pH&LS^OSSOe6zS&S^&OH ,f6&z:h6eC^  eL66^S6: JDCJL:&zJSHO6ezLHzO,e^eHLC6:SJwS OCCrO&eL,H:rHzgJEOe&S:6L:rLSEC,J: rr Jwe ,:^6zreOO%O,:zLr  S6&JJL&&rHLOeHCL6zz, ^O66J:yL& :r6,S^6.erJL^e:: &AzJNDO&zC:^Xe z6z,&O CrL C:ezSS6&:CrLOz^LHCzH Ce/,CJSC6rC&Leez,&:&r.Srs^eC:L&zHOO,HO,CrHr  eHHJ6HH&H,,O^CHLLz rSzOL:JCOH&&:O6rC6LzCr6e^^6: LH^J#:,6JCCHLe&J^zH&6 zHHJO:^& SO^OeS azJ&z^rr e,_He,Sze^C6L^z:,6^eHSSHoJ e:r6&CeOHCu,e:erOS&}:Cr: 6SLJOJH&Lrl,re^,H6 COO&6,OO:rHL^zS,,^^r< rO,&e&C66CzOdeOrz^:6:  HiJ,: 6C:L6,eeJSz666^DHOJ^::J:S ^ C,&OzC&:^&He^rF6eJ:A6OC^O,eLLzzCr,S6wCH,:&6eSH66S6L1jrr^H&HLC&:SJO:TOCrhL&SX,,^6Hz^r,e&^,S6L, LSe,,J^Cre JO JHLL6zr:OOCe&6zL&& SJrJ^:C&rS&&rCr Ozz,6^OH^J:H6z+SSz,CJ:Oe,,&^e,,oCceCH:O:3SHOLe O;zSrJS:Hr6r:C&HS66CC6LOhCr:  H JSl,J^jw6rrzLeeH,&^zry^&r&&:L 6 &zOLeJ,CzrrS e6mJ6Ox&oS6O^e:LSz^&z^,66JCOH&&:S JC6  es :^zH: LNzJH:,z&CCere&,ezHr66rH8Cr:^zCSL^JeSL,eLrCSCH&C <H&&Sz&rSeL^W^,L:6H: ,7J&::O6&rJOHz&,zz8rO ^e,JLLL6SSOOJeSLre LH^H6HJz,S&&S^O:C^^,zS&S^JrS  MJ&e:r66C:J&e6,^^:,O^*d:J,:e^LS,O&ee6HzCre^tr&C:hRz:S JrC,LJzCOr6uHeCeY6e6:/rHC^6HCD, :^r, Sm:Jr:&&S:JO6HJL9,^rz :HL zxL&,,6OCr&L ze,H^6r  qOy&^,C6LCzLSCOeL^C6C &J^Jr:66z:r6He^J^zLrC :H,JJHCrzS&^&CH HzzSe^Ore r9LeOSS6 C^LCerL zHrHS,UzfO:66^C:66S6,S?HrJ:rHLJ&:e&HS:OzHzLO#Jr:^6H ^#rC&J,J6r:LLSeH,6^:O& 6D^&:rO&7C:O,C^ rz,&r e6^JJ:z&!SzJrC-J:z O:^^H JC/r&&:b JC&Lzek66zHr# LHzC,:Lz,CC&6e&,ezHL6OLH2C4:^z^SLHOeSOOeHrCSSH&HJ+H&6Sz&rC^L^be,L,LHS ,uJJ:>L6&r^OHr^,zz}rO ^reJLLL6S,HOJe:Lre zJ^H6HJz&S&6S^O:S6LSzS&S^JrH ,-&&eHHH:Cz zeOJO^:Sp  r_^W:Jz SrS,eeLHz6,Cz,HOC&::::S OSC,O^C ,r:OHe:O86&z:N6O:HL:m:, :er, ^TC LrH6ereO6SJLrzOr^zHLzJ Lz&,&SOCCrL&zeJO^666 M,r&^,e6LC Oee,JO^Crr &HHJHdJJ6S;^,e^ ezLr  Sr,  :Cz:S&CLCH LzzLrz&H^CC5L C:t6,CJLCHH,&:zrH 6GzJI:O6^S,OLH6,SAHrJSeHr  N,&H,LOz&OL6z^r:z6OtJSOr&Jr^6rC&LeeHLt^e6C OOJ&:L,6 :8J^eJJzzre+ eHHJ6:zz:SO^ e:LLz rS^,HJ^LIreLSe^:C6 ^ehL&e,H:SrQ SJ:L6JCCOLe^,e7{r66CHGJO:^6:SSO^HzL,!6rC:HH&Je66&6,66PrrL^eH,Lzz&, LOL&CHH6 CeOHS66SzH&H ^OzJLL66:S zLeCJ:z&&z^HH&JzA,&OS^erCLL zSLO^JHC rV&C::H66CzO eO,^^:rL:euSJ,:JJrSrO&eeLHSereSeHOJe::&OS &uOHL jz,rCeHS Hp6&zg&6Or6L::H, :er, JHLJrLO6eSHO6eeLIe&,J :6,J 6S&,SJOCSr6jze&:^6 , /OL&^S:6^C  ^e,J6^Cr, &HS 6:6z SoSze^,:zLr :rH,CL:C :S&^^CHL6eu,P:,H^J:3L&eSS&OSrLCHH,&r6rr 6Yz (:z6^rCOLLH,SsrrJ^:HeJ&Lz&H7^OCCdLOz^&S^L6 JSW,&JSC6rC&OCeHJL^z6: OO^&:b6&rCS^reJ^&z,r& eH,J :ze5SOHre:LLz rSeCH Czlre6SezHC6LzeH,O:6H:Sr1 &::,&^:HOrHO,eL&r6 zH(JOHH6:,8O :zL,f6rC^rrSJeL:&6Sz6>CJL^CH,z^ 6C ,hr&C:r6&SeOJe6J zc C ^OSJLuz^OS,^&eC66z re^HH6C^9ZeOS^O:CLL zS,,e>HCS5A&ez:Hz6Cz6rC,,^:SrL%,*:J,:J6:SOO&HeLHJ:rz^*HOJ^r &O,&OSrrLJaC,r^&,O HOr&z,S6OCzL:C6Or^S&H J^,Jr:&6eSH66ezJezOO& :6rJ :SJlSJ^zCrL&ze,L^6rC^ 5Oe S:SJC LSe,LJzCrrSOne: :6z^Sd6&>H,:{,r erHOJJ:C&r,6OerHL6zz,o^OH^J:Hz& ,e6,r&LCHr,&zS,C 6O^JRO:6zC:OLezLHz,&J CO_J&:e&HS6JOCH ,z^&S^L6 JSD,J,SC^SC& ^eH,&^z,r &_^eC:L::CSO,eJ,Cz^r&SJHHz,:zzSSOO^C^LL/&rS^,HJ jgrJ :C6HrOLzt:,O^^H:^LrO&SLH6JOOOrH6,ee,OC zO:JOHS&HSLO eS rzJ&C^rH&JeIH&6Sz6LCO Jz:J,^ 6S ,H^&S:rz6Cezze&,zznr& Ct:CL: &SS,OJeCLrSHrCS:H6C^steOS^O:SeL }^,,:6HC ,a&JS:&66r OjOz,^^:rL  H&J,LL6C*:O&H^LHz6L&^D6,J^::&LSeOSSOOLzCJH^&:7 rT6&zF<&^C^ CeLzH^S&r JH:z :&zzSH&^eCL*zOr^SSHLC :S&,SJOCCrL&e&,H:LHzC:1Oe^S:&6SQLSHr,JH&r, &ieJ,: 6z,<OO:o,:zLr  S,CJ Lz&r,6OerHL6zz,z^O66J:Or& S:6,S^L:erJO^ez& 6dzJA:O&LC:^}e 6zz,&6 CHr L:ez:S6OzC4LJz^LHzSH CC{,SOSS6rC&OeCC,6: r*%Cu^eS:L&zHOO,H&,CC6r  eHHJ6L^&Z,OO^e:LLz rS^,H JCOA&&,z6Hr6LzCr,6^^6S L&,&::,6JC:OOe&JezHLe eHaJO:^zrSL^&eS rzJ&C^rH& &=HerSz^SCOLzz:L6eHHSC:aJ e:L6&Ce&HC ,z:erOS6+:CH:^&L,:OJH^Lre6rC^rH6JCTi&OLCO:CLL e&,,^JHC r6^&e:H66:DOYeO,^^:CJ  O^J,:^6CS,O&CSLCz6&&^N6rJz::&LS:z^C, OzC J^&HC HmJ&z:-eJC^L:eLLz^Sr, J%CSO:&6eSHO:ezLYzOr^O,HLCO:S&OSJOSCrO e ,H:rHzCCB6&^S:6^,OLSH_,JL&rr JceJ,:66zL,OOe^,:e r  SH,JJ6K&rS&OeC^L6zz,U^OeSJ:O_& :G6,C LCCL,S^e6C 6OJJH:O6^SOzje Jzz,z, CH,J&:S&HS6zSCFLOz^LL^LH JSg,CzSC6rC&OOeH,6^zr5L /^ez:L6zCSOLeJL:zLr&SJHHC,:e&}SO6TrzLL86rSL^HJJSbr& Se6H, Lzej,OzzH: L8 &SO66JCCOrCy,ezHr6 zeLJOL66:S6O e:L,e^LL^r6,JeLS&&Sz6GCz^6z:JH^ L& Ll &C:L6&CezLe6,zzjrS ^l:JL: CHS,OJeCO&z&re^HH6&et(eHS^6HCLL^zSLO^zHCSnX& ,:,66CzOcC,,^:zrLe6{SCH:J6CS6O&H^LHz6rz^rHO eWe&L,JOSSHL zC,rz&,L HOL&z6J6Or L:C6L ^S&r J&&J,:&6eS&zrez TzOL:^sHOJ ::&,SJeYCrL&ze,^^6Hz 9iO^L:izrC  Ce,JJ^Crr^ YeeC:6z ShO6e^OHe&r SeH,zC::&rS&OeSrL6k&,fCrH^CC3L& ::6,r6LCer,&^CrH^JaCJ_LL6^L^O6e ,Se,re C6YJ&&L&H,OOzCj ez^&z^L6&JS<L&J::  C& ^eH6C^zrG OV^C,:LzOCSJYeJJzzrr&^zHHCL:z&8SO6re:O6eLrS:rHJ: nL&&Se&HCJLzsS,OrrH:S,B  uhz6JreOrO,,CzHr6^CHrJ6L^6:JCO eSL,zJL ^r6OJeOn&6,z6FS&Ozz:J,^ :O LpJ&C_L6 Ce^He6&CzrrO ^8: C: zeS,^&eC rz&,S^zH6C^uo  SeO:CLOz:O,,:JHC:,a&&e:H66SOOHH,,^:SrLS qS OLC6S,HO&::LHz6rze+eSJ^LS&L,JOS6HL e:, ^&6e H& &e:M6OSe6heLJ^^S 6  +CJrg &&SH^Jezz,z6r^ :HL 6:SerSJ^:CrL zeLH:rHeCS}O*O:;z,C 6=:^,J:errJz=eJH:6&CSrO6H^,:rzr^ SH,JJH6&r,OOerIL6*z,Tz&r J:O,& r^6,CJLCCLL^^e&H 6 OJH:O6^C:Oee Jez,&& C6rJ&BS&6S6^^C-^:zzr:^LHz H-,eJSC6zCJLeeH,6COrHS,(^eS:Lz CSO,C,,C:Sr&S^HHJ&:zJr:SO^HCLLL:rS^,HJJC;,&&,J6H=,Lz%S,O^^,2 LO&&S:,6JSyOrC L,zH&O zJ6J6:^6::L6^eS HzJ^O^r66JeH,^CSz^:CO6SeH,L^ HSSrDJeC:r6JCeOHe6,zz rOSJd:C,: zSS,6^SOLr/6re!zH&JzKh&&SCO:rLL :J,,^JHC r,H&C,:66r^OYHO,^^:Lw  O^J,L66CS,O&CSO^z6& ^qL^Je::&LS &HC, LzCO:^&6^ H/6J,:;z,C^L:eL,^^S,O zFCCH:&^eSrO6ezO_eCr^SCHLUH:SerSJOCr L&ZJ,H:LHz H/OJer66Lr&LS:^,J^Crr &6xJHLr6zDCOOHJ,:zL,O S6HJJ:C&rS:OeS,OLzz&:^OSLJ:iL& :S&SCJ zer^:^e&m 6HC e:Oz C:SRe^,Sz,,^ :H,C&:eH^S6OzC=LOe6r::rH CCD,eJSC&LCzLeHv,6JrrH O}^ HHH6 rSO,SL,Szrr& erzJ6L &{,LO^H:LLez,J^,6&JCr6& Se6HSJJresJO^^&S O- &S:,&rCS^je&JzzH&6 zrrC^:zzSSLJeeSL,zJLCOzH&CziHeOSzSSC6Oee,,L: HSa6U &C:r& SSOHH&,zr,r6 ^7: 6F&6S,OOJL7L,z&re^HrOJzL:&O,eO:C6L eS&:^ 6z r r&CL>66SCJ&eOJ ^:HJ  <SJ,Y^6:S,^&eezJz&rz^gHO H::erS ^CC, JzCLLzJHeSGm6z&:V6OC^6Hez, :Sr,rrNSJr:&6eSLO6H LM*Lr^S:HL z}L&,,&OC,eLJze,H^JHS >OO&^6r6LC LSe,6r^S&d &OzJHL66zSi&1e^JzzL&& SHLJJF:JLS&^^CHCezz,o^OH^ KKLeOSS XCJ zer,&e6rHSL+zJB:O6CC:66Cz,SbrrJ,zH,J&:eJH:,OzHSLO,rr::,H ^-,^&J,e6r:zLSeH,6^z6: OO^&::L6 CSO,eJL:zr&O e6ZJ6Lz&#:&OCe: ,z  J^LHJJCZL&^SezHC6LSe_,O^^H:Oz# ee:,z&CC^re&,ezrr6S&HQC,:^&mSL6zC:L,YLrCHLH&JeqH 6,r6HrHL^mz,LJ:HS^O,:&CLN6&^SOre6,zz=J^ ^OzJLL&6SSOOJSC&OzJ&J^H6rJz(J&&f^^6CO OzS&:^JCe ,G &::HzLCzS0eO,^^:rL:%9Se::JzzSrOJeeO,,LreSSHOz:*H&LS OSSLLJR ,rCLHeC:;6&z<J6OrJL:eL, ^:r,^^H:JrL66e1eO6ezLZeO,H :6rJ &6&,,&OCCrLSze&C^66  kP6&^qH66C  ee,eS^Crr &>eCO:6z&SEJre^JCzLr ^:H,C6:C&rS&O:CHOJzS,>:LH^zgl6& SS&,:rLCHY,&rLrHSOZz rAe6^rSOLSCLZz,rJ C6HJ&Le&HS&OzC!LOz^,/^L6&JSOr&J,C6rS OLeHJO^zJ^ 6+^&::66eCS^,eJCHzrr& eHHzj:ezSSO^ e: Lz rS^JHJC mreOSe6rC6OCeO,O:JH:r^x &S:,6JSOOrH,,eCSr6S H%JO:z6:,rO eSL,zzrCzLrOJeO-&6^S6HCOL^e:Lz^ 6e ,JE&CLH6&SSJJe6J^ztL  e!:JL: zCS,^JeCL,z&re^HH6^J};e,S^^SCL  zSLOz&HCSHP&S6:r66CzOreJ,^::rLJ6_SJ,:J6CXeOJH^LH%Orz:}HOJ^HL&L,OOSrHLJzS,rz ,6 HOL&zJ66OC^L:eLL^^S6: J,^JrLO6eSH&rezJSzOr^ :H&J H-J:SJ^eCr Sze,H^6rz HBOeJS:CeC  Ce,L^SLrrS6{e^O:J6zS0OOH ,:GLr  :H,JJ:C&r:eOeH:L6s^,f:OH^^HE^& ,C6,LrLSer,&^SrL 6OzJ2r:6zC:OLe 6JzL&6 C6HJ&Le&HS6OCCu Hz^&C^LH^JSHO&zSCzwC&SreH,6^zrW^Hg^ez:L 6CS^HeJ,CzLr&S^HHJ6:z&,SO6eS6LLyJrSrOH JCXrJ&:S6HrLLz,J,O: H:^6L>&SLr6JoHOLe&,ezH&O z6.JO:^6:SLO eSLCzJ&z^r66JeOH&6:C6HCO  z: S^^HS ,d^JF:rz&Ce&^e6,zz4rOeLHFCr: zCS,^JeCLreJreSCH6C tq&6S^&HSOL ye,,CCH: r7&&e%L66r&OpS:,^:CrL  H J,L66CSrO&eCLHeJLO^<6LJ^O^&6S OSS,OSzCJ{^& L HOO&z:5zeC^ zeLJ&^SrL JH:z :&z^SHSeezLFzOr^:,HLCO:S CSJ^zCrL&e:,H:LHz nDO&CS:&6SOLSHr,JrSrL &!e H# 6zrSOOLr,:M,r z!rzJJLe&rozOSCHL6zz&:^O6^J:mL& SS6,CJO^erJO^e&> 6OzJ>s&JOC:^,e ^JzLrJ CHLJ^:eeHS6FzCMLOz^r:6zH Ce1,e&SCzrC&Lee,,6:&r_S,G^Jp:L&zSJO,HL,C::rJ eHHJeO&&2,rO^SSLOz^rS^LHJJC6O&&Se6HSzLzes,O^^H- LOO&S:O6JCSOrC LrzH&L z^6JO:^6:SLO:eSJ:zJO&^r6OJesHJrSz^SCOL^z:,&^ ,u^C=Jee:re CSOHe6LzzOrOSJl::e: zCS,6^C:LrU6reeOHJJz+/&O, O:rLL zS,,^JHC rHH&e,:66r^ORHO,^eHr&  OCJ,6r6SSrO&eSLLz6&z^USOJ^::&LS rOC, 6zCJH^&6e H76J,:TzHC^ CeL,^^S,O^e8CeS:&z SrO6ezLrzJr^SeHLCH:S&,SJOC9JLJTJ,H^JHz H3OJe6C6Or&LS:J,^^Crr &HrJHLr6zX^OOHJ,:zL,c S6HJJ:C&rSJOeS,6Hzz&:^OS,J:ML& :S&zCJ zer^:^e&o 6mzJL:Oz6C:^re ,:z,,^^,HrCO:e?&S6OzC*LOXSr::8H zJk,e6SC6r:YLev:,6^zrt Jp^ HiO6 rCO,HH,Czrr&^erOJ6L &;OCO^HSLLezLz^,6&JCr6& Se6HC6 ^e#JO^^H: LI &S:,&SCC^ue&JzzH&6 zrrJz:^zSSLe,e:L,zJ,,:SH&CejHO^Sz6HCOLzz:,LpeHS ,+JJ::r6&CeOHCT,e:SrOS c:CL: 6SLJOJH Lr>Ore^,H6 COO&6,&O:rHL^zS,,^S&  rOO&e>666CeOBe&,^^:J&  *SJ,_^6CSrO&ee^Lz6rz^nHSJ^::&LS L:C, OzC,L^&HC HHJ &:pzLC^SOeL, ^Sr,  RCe::& 6SH^OezLiC.r^SSHLJ :S&6SJ6:SJL&ye,HHLHz iROJ^:e6LrJLS,z,J:Crr^ rJJHL66z/LO&e^,:zL&J S6LJJ:C&rS&OeCH6}zz&:^O6^J:OO& 9Q6&CJ Cer^H^CrH 6TCJ,:OzzC::&e ,Sz,rJJeHrC6:eeHS6^eCMLOC&r::HH CC;,&^SC&LSOLeHH,6LHr0 Oc^&:Z 6 reO,:r,Ckrr& eH6J6Lz&dSOO^CLLLez,6^,6 JC6r&JSe6HS6OHe7JO^^ & LO^&SKO :CC^,e&6Uz,r6 zH{CL:^eHSLO eSL,zJrC^ H&CepHe&SzzrCOOeC,,L:^HS,J% &C:r& H,OHHJ,z,OrO ^*:JL_,6:,,OJHSLrd rez,LCJzOH&OJ,O:CLL zSJr^J6: rjJ&e:H66Cz6JeOJ^^:&O  6EJ,3^&JSr^Jee^zz&rz^;H&JC::e6S L^C,LJzC,r6SHeSH/6ee:Xz&C^L:C , :er,SJ2CJ,:&&S:,O6H L2urrz :HLJ:O^&,,&OCSuL&zC,H^ Hz 46J&^S:6LSSLSe,,J^CJO &;eJH::6zSEOOe^^rzLr  SrOJJ:C&rS& rCr Lzz,r^OHzJ:H6:&S:z,CJJreL,&^erHzr9zeS:O LC:^Le ,Sz&rJSCHrJ&:e&rS66CC^LOAzr:rzH^JS4,JJ/ 6rr&Le, ,6:erN O3C&:Lr6 rSO,e ,CeL,: e6HJ6 H&YSOO^e: Jz &e^,LrJCOr&&Se6eC6 zec,O^^rr LHzJC:,z CC6&e&,ezH,6z&HUCO:^S&SL^^eSOOeHrC:,H&zjn,&6Sz6IrLL^HH,L^ HS ,?J&C(O6&reOHH&,zVrrO^erOJLL^6SLCO eCLrz r:^H6JJzHC&6S^O:CLHPzSJ,^J6S rO &e:H6eCz SeOJ^^:rO  r. z:JzzSr^LeCLHz6,H:eHOC ::,6S O:C,LzzC,ry^He Hh6J6:s6OC^L:r&, ^Sr,^ tCJr:&6eLLO6ezLYzSr^ :HLJ S:&,,6OCCLL&zC,HzJrz vOO&^JO6LC LSe,LL^C&4 &,6JHL66zSQ6Le^J:zLr  SH6JJB:&zS&^CCHzJzC,3^Or^^J>Le SSCzCJ SerL z,rHS&<z^L:&6^C:OLHJ,SuOrJ CHrJ&:e&HSzOzrWLOizr::6H ^sGJ&J,S6rLHLCeH,6^Cr, OOe&:L&6 CSO,eJWLzr&& e6rJ6LC&*SO6:e: rz &S^,H JCHLJ,Se^:C6 JeH,O^^rH &= eC:,e&CCOre&,eS&r&S HvJ&:^&5SLO:r^L,(6rCJrH&JCfH&&Sz6>,JL^z:,LzSHS ,NJJ:He6&r^OHz ,ezorO^G6zJLL&6S  OJeSLrzJre^H& Jzn3&O::O:CLL C(OC^J6z r,s&S:H66SH^eeOJJ^:Q,  o:J,: 6CSrz^eeLHz6L1^?HOJ^HH SS ^eC,eHzC,r^&rrSCD6e :fe&C^OPeL,e^Sr,:zlCJr:&&OSHO6ezL0HJr^ :HL S:S&,SJOC,OL&ze,HzHHz s1OJeH 6Lr&LS^,,J^Crr^ J^JrL66zHOO&e^,:zLr^ S6HJJr&&r,&OeCHO zzJ0^OH^J:KO& bs&:CJ SerSO^erH 6HzJe:Oz^C:eee J:z,rJ :HrCO:eeHS6OeC%O&ezr::LH rLp,&JSC6rrzLei:,6COrtSOa^&:H+6 rSO,eJ,Cz&r&^SrHJ6Le&MCzOze:LLe ,^^,6JJC&^&&,C6HSJ66eIJ6^^L, 67 &S:,z&CC^Le&,ezHr6 zHm L:^z:SL^^eS OzJ,:z^H&CC1HHzSe6oCOOe:6,L:zHS&z/ &C:r6&S6OrH6,zuHrOSeQ: 6,26S,LOJ66Lrz&re^H6OJzOr&OSzO:CLL zSLH^J6C rOJ&eL,66SCOHeOJz^:JS ^ASJ,:^&iSr^ eeC&z6rz^GHOOH::eLS ^:C, ^zC,rzOHeC:R6ez:.66C^6HCJ, :er,SOQSJr:&&r,CO6H^LnrBr^^jHLJe:S&,LzOCCrL&eO,H^6Hz }6J&^S:6LS^LSe,,J^CJO &AeJH=H6zS3OOe^&OzO&& SHOJJ:S&r: C^Cr 6zz6O^&H^J:3L&SSSzHCJ&&erJ&^erH^6(zCM:O6^C:OOe OTz rJSSHrCz:e&HS66zSrLOa^r:HeH C:v,&J:r6rrOLeHH,6^erx^&HS&:LL6 &LO,eJ,Czr&z eO:J6rO&o,OO^e:L6z &S^,HJJC*O&&:S6rC6 eeWzO^eH: LH  O:,zJCCe^e&JCzH,Jz&HUC6:^ ,S6O eSL,N&rC:LH&JeZH&6Sz6{SrL^g:,L:^HSSOGJJ:8J6&rCOH,_,ez3rO eHrJLLz6SzHOJeCLrz&:,^H66JzOH&O,eO:CLOHzSJH^J6C rYJ&eg,6CCz SeOJ&zxrL  HLC::JzeSrOSeeLrz6r:^+HOSC::&LS 6&C,LJzC,r.^He H}6Je:x6OC^L:r&, ^Sr,^,dCJr:&6eLLO6ezL+e^r^ :HLJ ,L&L,6OCCLL&zC,HzJOr EOO&^rL66C LSe,eO^S&- &,6JHL66zSQ6zezJ:zLr  SHLJJq:^ S&^CCH -zz,R^Or^Cz3Oe SSCzCJ Ser,&F,rHSLhzCV:O6zC:&LHm,:!HrJ^JHr^5:SJ,r6Oer/LO^6,?^LH JSMz&J,z6rr&Lee,,6ez,6 OOJ&:Lr6 :&OOC^O3zr&& erOJ6:z&!SO6:e: rz &S^,H^JCrrJrSe^:C6  efUr^^,H^O9 eS:,LHCCOre&LSSJr6SeH7SJ:e6:SLO ,,L,y6rC:,H&JSwHJJLK6HrLL^ge,O^ HS  6L&CLr6&HHOre&,zzrrO ^&rJL: 6SSSOJeCLrz&J:^HH6JzLS&OS^O:CL&:z:Jr^JH: r_J&eZ, CCz^HeO&ez2rL  _SHG: zeSrJHee rz6,CC&HOCz::^6S^OSC,LJrr,r:6HeSr;6&C:5&&PLL:H,,  HrL JMC LrS6e,rO66HL0zOr^ :6JJ LC&,HrOCr,L&zeLJ^66e 0vO&^:r6LSz6 e,J^^C,J &=eJHw6J,S_^6e^z&zL&z SrOJ::CeLS&JVC,L6zz,f:LH^SrvL& SS6,CJLCe,,&:CrHSJgzC,:O&e:LOLHz,SHCr  CHrJ ::&H, Oz6OLOz^r:^LSjJSOL&J,:6rr^LeeHLH^z6: OOz&::O6 :mOLeJJezr&L CHHJ6EHeeSO^^e:LJz r:^,H JCFrC^Se6HC6O6e3,O^^H:e^{^eC:,6^CCO,e&LSr:r&SeHqz^:e6:SLO e:L,3&rCeeH&CC+H&6:^6Zr6L^z:,L^^HS^OHH&CLL6&:LOre6,zec,, ^6BJL&H6S,OOJeCOJz&&z^H6&JzgH&O:e6^CL ^zS&O^ HC rU&I :rzOCz&^eOJz^:,6C?xSCL:JeCSrO&eeLHHzrzS:HOCz::&6S &PrJL YC,r:LHC H56JHLe6OrzL: ,, ^:r, ^mCJrO^6eSHO6H^LBzOr^ :&&J :S&,:HOCCrL&zerr^66z R7&&^:_6LSzO,e,J^^CzJ &MeJH:6JLSA^Oe^6 zL&z SH,^H:CeLS&OeCHL zzLr^eH^Sr#L ,:t6,CJOCe ,&:SrHXSnzC,:O&eSeOLHe,SC&r^ CHrJ&Lz&H,^OzC!LOz^r:^L,LJSOO&JL?6rrzLeC,,&^z&, O&LJ=:L6 SfO6eJ Hzr6^ eHHJ6:z,&SO^ee: &z Jr^,HJ C=re&Sez,C6LeelL&eHH:SL3 ez:L6JCCOJr,,e;rr6rLH(J6:^&rSLO ,HL,zJrC^zH&JeWH&6LS6>COL^e^,L^ HS ,6z&C:r6&:HOHe6,zzjOz zO:JL:z6SSLOJC:e}zJ&S^HLzJCdg&OS^6^CL  zSOC^J6: rV&JC:HzJCzO_eO,z^:,6^JjSC6:JH:S,O&eeOHe rz:rHOcr::e&S OSCOLJEC,r: He r86JC:^6OreL:O^, ^Sr, J6HJrL&6e!zO6HCLfzO,J :66J :S&,SzOCSLO&zeJL^6r6 =IO&^::6zC ^>e,zv^C&O &HS z:6zSS_& ee,:zLr SCH,Ce:C&rS&OeCHL6C&,f:&H^SrjLeCSS&OSJLCHO,&H6rr 6uzJr:J6^,,OLOH,Sz,rJ CC J&LS&H, OzrLLOz^L&^L6 JSOO&JSS6rS O6eHJ6^z6C 6-^&::^eOCS^LeJ JzrrJ eHLJ6:zC,SOO^e:O z rS^,HJ:8pr&&Se6eC6LzeF,O#CH: LQ J&:,6JCCOr:C,CoHr6 CHBJ6:^JH6rO^rRL,SCr:^rH&JeHz&6,z6fKBL^HH,L^ rO ,O^&C:r6&CCOHCJLrzG&J ^zzJO: 6S:,6OeC Lz&^L^H6 JzRb&CS^^:CL zzS,L^Jr:^^K&eS:H^JCeO?eO,^,erOS mS^S:Jz:Sr6 2,LH!JrzzHH6J^::&LLSOSr,LJA:,r^ He^,,C&zL,6OHeO!eL, ^Szu  OSJrrr6e,LO6CC&&zO&C :r J^:S&,SJerCr JzeJL^6HC fH&zHS:zJC  ;eL,J^CrrrLmCC,:6 6S0^ e^OHSzr :rH,CS::&rS&Oe,6L6?C,}: H^ H=LJzrO6,rCLCuL,J^erH 6 JJHLJ6^X^OLHS,SeOO: C6&J&O6&HS6OzCU^^z^Jr^L6SJSjO&J::z&CJ^4eHOO^Crt Or^zr:OzCCS^&eJJ^z,rC:JHHCz:z^XSOOze:L^z rSB6HJJCare&Se6HC6Lzr,,O^^H: :p &S:,6JLDOre&,eIrr6 zH-JOOC6:SLO S,L,zJrC^r&^JetH&6,C6TCOL^z: &^ HS ,Oz&C:r6&CeJ&e&J:z5r& ^HNJLdzSeSL^SeC&&z re^HH6^Lqae S^J^CL :zS,,zzHCSJA&&e:H6&Cz6rCO,^v6rLr&jSJ,:J&CS6O&rrLHrSrz:&HOJ^R&&L,COSr LJzS,rz rO HOe&z,r66C^L:eLe6^:&& J,JJrLC6e:,JCez 6zOOO^HHLJ HUeJS zLCr:CzC,H^6HzCH8OCHS:6OC O{e,L^SLrrS:}e:e:&6zSF6&H:LEQCr HQH,JJ:C rH^OCr^L6HL,%C6H^^H,z& LJ6,ZeL:er,&^eLO 66LJ9LS6^, OLe L,z,&S C6JJ&OO&HS6e}Cw  z^JO^LHzJSHO^:SCz C&JSer,6^zrfrrmzCL:L LCS^^eJL:S r&:,HHSz:e&lSO6erLLOHHrSL,HJJC}r&&rC6HrSLzeH,O^eH:^6L3&SLe6J,SO,e&,ee,&z e6^JOSS&5SLO eSJLzJJ&^rHJJe+,&6Sz6OCO^Hz:Jz^ &J ,qJSr:rzeCe^Je6,Cz5,&CH*:Ce: z1SLOJeCLrLLrC:&H6z6+{eCS^&HNzL H6,,r^H: rZ&JSL66&,LOFSO,z^:rL^z6,JLOr6CL O&eeLHz6,:^H6:J^Yu&LS OSC,L6zCJz^&He H!J&z:c6^C^^&eL H^S&e J3CS&:&erSH^SezLrzO,e:LHOSM:S rS^OCCr6&S:,r:CHzS&>Oe&:p6^,OLSHz,Je r, J?eJL:66zL,OOe^,:7Jr  SH,JJ6-&rS&Oer6L6zz,!^O&CJ:yL& LL6,CJLCer6C^C&J 6?CJo:66^:HCre^ &z,OC :HrJ&:eJzS6zrC2&Fz^JJ^LH ^H{,CHSC6rC&LCeHLJz,rvS:*^&z:L6 CS6,e:,C-zr&HLHHSm:z&KS O^r6LLHrrS^LHJ :HC&&LO6HHJLeef,O^^^e O6E&SHS6J,6OrC &,zH&: zJCJ&:^6:SLzSeS ^zJJ6^rH JeH,ezSezJCO &ea,L^ rLS:QJC6:r SCeOre6,CzorO:C}:JL: & S,OJeCLrH^re^HH6Sr9V&OS^O:?^L^H6,,^^HC ,+&JS6:6&,OO=:^,e^:rL  HOJ,Oj6CQ^O&r6LHz6LL^s6:J^::&LS^OSSOO&zCJC^&Tr r76&zPE6JC^^ eLzH^S&S J1CJJ:&eLSHzwezLHzO,e^HHLS,:S< SJOCCrL&Hi,H:SHzzJ1OCLS:6LSLLSHC,J^Crr ^<e ,fe6z,zOOzXL.zLr ^SH&JJO&&rO:OereL6eC,S^O&OJ:rJ&zSS6,CJ eer ,^erH 6yzJ0:O&OC:^Se   z,JL CrL O:eeeS6eOCHLOz^,H^&H S^f,O SC6rC&LeJJ,6!OrM:5G^Cz:L6 SCO,rQ,C}er& CHH JVk&M,CO^HeLOz rS^ &LJCOz&&:&6HC&Lzer,O^^Jr Ld &S:e6JCCOre& :zHr6 zrOJO:^6:SLJ:e: zzJr:^rHJJeH,:LSez^CO&:eH,L^ HS^rAJCO:rJ:Ce^ze6,zz,rO:Lc:JL: 6:S,6^SHLrHrre^JH&Jz8;JO:zO:rSL ,6,,d,HC rW:&eL 66,OO_e6,^eH,^  6JJ,JS6CSrO&ee Oz6J,^V,CJ^O &LS 6 C,^rzC,r^&H: HHJ L:7e/C^z6e6, ^S,,  /CCe:&SLSHzHezOre^r^:^HL^Cc_&,SJOCrHL&HJ,H^6Hz gDO&^: 6L,,LSHS,J8 rr^ rHJHOH6zL^O6e^,:z6re S6:JJzJ&rS&OeCHJ zzJ^^O&OJ:6Q& SS6SCJ^Oer H^err 6HCJz:OerC:&,ez,Sz,LJzLHrC::ee S6^JCHLzH6r::CH  6vL& SC6LC&LerL,6^zrw^LY^&::L6 LHO,eJ,CzCr& eHHJ6,H&H,CO^CHLLz^rSzOL:JCOe&&rH6,C6Lze#er^z&& L,H&SLC6JCC6JeJ 6zHr6 zHHJO#e^6SLzLeSCOzJrC^rr&CJVrCmSzCJCO^Oz:,L08HSSzuJC&:r6JCeOHCe,e_JrO ^-:JL: JF6:OJrOLrvLrS^HH6 CHe&OLrO:C L^zS,,z^&r ,6f&e6,66CzO_SOJHzX&C  6&J,CS6C:LJSee ez6Oe^EHOJ^::C S z&C,^,zC,L^&rSeJI6C6:8^eC^L:eL, ,zrL:H2CCz:&e&SHO6:HLHFSr^: HLJ :S&,L^OCr^L&ze,H(#Hz L,e&zS:6LjeOJeL,Jz:&& J6 JHLL6zS7OOCe&6zLJ& SzSJJ:C&rS&JyCH^,zzJC^O&JJ:H6eSS:eHCJ ^eL,&^eLHe EeC::Oe6C:eee ,Sx^rJ:^HrS6:e&rS66HCJL6Hrr:CHr,J:_,&^SC66!SLCeH,6CJr^ 6<^ Hrz6 ,JO,s,,Czrr& e6OJ6O,&nhCO^r LLz ,r^,&rJC9r&&:u6HSJ6Hev N^^&& 6V &SA,&eCC^ee&zLzHJH zrr H:^e^SL&CC.L,zJ,:C H&SJoHC6Sz6hCOL^e ,O-,HSSS/JC :r& H,OHrH,zH:r& ^W: 6LS6:,:OJH^LLz&re^HrbJeO^&OLOO:,RL CA6^^J&J r&H&C:H66CCO,eO 6^:6H  uSJ,:JOeSrzHee ez6J&^%HO ,::eeS zJC,L^zCLL^eHeSe56 r:r6OC^L:CJ, 0&r,en!CCC:&6eSCO6r6LgzOr^^HHL zHJ&,LLOCLzLJze,Hz6r: G6A&^6&6L,OLSCO6:^C&S &&6Jr:66zS6zHe^ ezL&, SHLJJ:S&rS&z:CHL6zzJJ^OH^J:=L^,S:zSCJ^ er L^erH^eTzC :OeOC:OOe O<zSrJ:JHrHC:e&HS6OzC,LOH,r:eeH S D,&Jp,6r,rLeeH,6^Srv^&H6&:O}6 rSOOeJ,Cer,O e6eJ6&,&YLHO^SH&zz J^^,,eJ:yr&&Sez9C6^Jei,O^^H: LU J^:,e,CC^Se&  zH,J^SHjSH:^C SOO eSLOzzrC::H&JO!H&6Sz6-::LzH^,LQOHS:3vJ&CYO6&,OOHrH,zzHrO^eHeJLOL6S:^O^eCLrz&L,^H6:JzrJ&OLOO:CL6OzSJS^JHC r3 &eQ,&^Cz^eeOOGz?rL  HS^;:JeJSre:ee Cz6,CC&HOS6::CSS^OSC,LSH ,rMLHe,HX6&e:<66C^L:r&, ^Sr,^,*CJr:&6edzO&r6L0HHr^:eHLJ HL&,LHOCrCL&zC,HzJ,L R6%&^JO6LC LSe,L&^C&z &,LJHOH6zSP6Ce^ ^zLr  SH6JJ_:&6S&zJCHOrzz,_^Or^^LtLCLSSCzCJ^ erL S,rH:rXz^L:&6^C:OLHJ,SHsrJ CHrJ&:e&H:^OzrzLOH6r:.HH ^-.^&JL 6rLHLCeH,6^Cr, O6&&:Oz6 CSO,eJjLzrJr e6CJ6OJ&gSO6he: Cz J ^,H JCHL LSez^C6 JeH,O^^rH &g CJ:,JCCCOre&,e^rr6:LH7J&:^&}SL6zC:L,H,rCC H&Je2H&6uJ6UrSL^SJ,LxLHS ,HS&CLC6&CeOHeS,zerr& ^6zJLS,6:S,OJCCOHz&J&^HJSJzOe&O:e6,CL^OzSz:^ HC rH &S:re,Cz: eO,^^:rL^:aSCS:Je SrzLeeO,eCrz:eHO6H!I&LS &ySzLJH^,rz&HS Hp6&z?66O,OL:r., *zr,^^r JrO,6eIOOJezLme&6H :&HJ OH&OSJOCCrOHzCJe^6&& 16r&^uHz C^^^e,6z^Crr &re,^:6e&StzHe^eCzO,z^OH,SO:CSOSJOeCHOJeS,Gv,H^<rTO& SS&OSOLCrH,&H:rr 6}zJB!J6^,zOLrJ,SzOrJ^COSJJO&&H&HOereLOee66^L&OJS:&&JSC6rS LSer ,^z & 6B^&::L6:CS^SeJ  zrJL er,J&:zeeSO 6e:LLz Lbz^HJS^Ar&,SC6HC6LzC^,O4OH::yg Cz:,&^SCOrr,,eHzr& zHQJ&:C6:LHO H&L,zJrC^rLHJCOe&6L&6V,rL^z:L^^ && ,6,&C:,6&SSO e6 6zDzz ^?:JL: &rS,zHeC6zz&J&^HH6^J#VC+S^O:CLLezSLO^CHCSSF&6q:H66Cz62CH,^1^rLHHPSC::J&:H O&rJLHC^rC^DHOJ^LS&LL6OSCLLJzC,r^&rH H6H&zLe6O,&L:C6Lr^S&: J&&J,:&6eS,O ez CzOSz :HLJ :S,^SJzJCr^,zeJS^6Hz HvOC,S:z:C L:e,L^zrrr:BmeeS:&6zSbOzr6,:nSr z<HLJ :C&,S&Oe,LL6zz,7zqH^J:XL& rL6L,HLCeL,&^CrH^JJ JHO*6^HLO6e ,Sz,,^ C6zJ&rO&HLHOzC9O z^J^^LH JScL&J::&OC&^JeH r^er9 OH^Jr:LeLCSezeJ  zrr&^rHHC::zezSOOze:O6e6rS:SHJr,Er&&Se6Hr^LzH ,OC,H:S:! &S::6J,JOre&,ezLr6^Cr JOO66:O6O^eSL,eJ,X^r&rJe& &6L&6>S&6,z: 9^ Lr OEJ&C:rz6Ce^Se6,ez;rO ^#: g: e S,zLeC :z&,Sz^H6S&hlC:SzO:CLLzeH,,+OHCS,T&&e:H66^rOfrc,^UzrL:6WSJ,Hr6C,zO&r&LHz&rzzrr&J^OJ&L,6O:C,LJe,JS^&&6 HL6&z:H6OCeL:eL e^Sr, JH6Jr:&6eSHz ezLxzO,O :HLJ :S6LSJz6CrL ze,r^6rC  >OCOS::^C LSe,,Je^rr:>je^^:6e6SgOOCS,:4:r  SH,Jz:CJLSJOerCL6:C,l^OH^ :HC& L 6,O0LCHS,&zS,e 66&JoH 6eC:OLe JCz,JO CHrJ&:e&HS6OeC8^7z^Jz^L&6JSHOJ6SCzSC&z6er,6^zrr Jt^Ce:LJ^C:O,eJ,CCerJ:&HHSr:zeCSOO^CzLLHrrS:SHJJS!rJ +J6H,HLzC&,&^^H: Lr6&SLe6JT6Orrr,ezHLr z6zJO:^6:S6O SxL zJJ ^r6zJS%H&6:z6eCO^Oz:^e^ &^ ,H^zL:re,Cezze&,zzir& C1:SH: rzS,OJeCLrSHrC:eH6S&>uCrS^O:CCL H&,,},HC ,T&JSPO66,6OVOz,^^:rL  H8J,OH6CbzO&r&LHz6,S^u&DJ^::&LSeOSSOO zCJS^&S& r{6&zDV&SC^^^eLzH^S&: JH:z :&eJSH&^eCLKzOr^SSHLS6:S&,SJOCCrL&z:,HiHHzSeTOC&S:&6S:LSH:,JH&r, &yeJ,: 6z,COOSCLmzLr  S,CJ OJ&rL,OerSL6zz,6^O&,J:O:& S:6,S^O&er r^ez& 6=zJu:O&zC:^Ce 6&z,J, CHr &:eeeS6OzCBLJz^LHz:H S^b,^,SS6rC&OeC,,6>6r*xC}^Cz:L&zHOO,rL,CC6r  eHHJ6L^&?LrO^e:LLz rS^,r JCOC&&LJ6H,,LzCr,e^^&z L&,&::,6JS,^Se&  zHCO zHHJO:z6:SLzeeSL,zJ,6^rH&JeTH^ESezzCO^6z: H^ HS^SMJC6:rerCeOre6LCzJrO:Ov: z:z6SS,OJC LrHBree^H6S69x&OSCO:r:L zS,,^^HC^LHr&eLC66LSOreO,^z:r   6 J,&K6C,SO&CS&Jz6J&^j&:Jz::&LS:z^C,^OzC:C^&HC HQ&&z:beJC^L:eLLr^Sr, JaC^e:Je&SHzrez CzOr^z^HLSr:SeSSJOSCrO CH,HPHHzr6uO&^S:6LC^LSHe,JC6rr:rAeJH:C6z,zOOe^,:z&r z3HSJJO &r:^OCCHL6ez,&^O&OJ:&e& L^6,S^JLer ,^eLO JazJh:Oz C:zHe ,Sz,rJ CHr r:eeeS6z&CQ^rz^LHzcH S^P,SrSS6rC&LSeL,6IJrkeCs^&::L6 ^OO,r,,C{Sr&: HHJ6Hr&<,SO^r^LLz^rSzOrOJCOz&&, 6rC6Lze6 H^^&  LLz&S:L6JCSOre& :zHr6 zHzJO:^6:SLJ:e: ezJr:^rHJJeH,:LSezzCO&:eH,L^ HS C1JC6:r ,Ce^ee6,zzJrO:Of:JL: 6:S,6^CrLrH,re::H&JzYlJO16O:r:L ,6,,qLHC rrH&eL^66,6OZe6,^eH,J  6 J,{:6:SrO&ee Oz6JL^PLHJ^O^&LS 6:C,^,zC,r^&HS HHJ J:{eHC^L&eL, ^S,, SQCCC:&SLSHzrezOre&r^:zHL:,::&,SJ6,rSL&H ,HOHHz HoO&zS:6L,eLSe,,JzJrr &oeJHrT6e,zOOr6,:HHr  SHeJJO6&rLrOeCrL6eC,S^O&OJ:Hz&zSS6,CJO&er f^eLC 666J;:O&zC:^:e ,Sz,r^ CrL ,:eeCS6&6CHLOz^,:eHH S #,:4SCzSC&OS:J,6_&r5::kz&::L6:,^O,rO,C,Jr& CHHJ&:z&;LJO^e:LLeLrS^,HJJCre&JL&6H,rLzHC,O^^r: L6r&SLS6JCSOrC ,SzHJH zr&J&:^6:SL6reS ezJO ^r&rJe4H ,SzzzCOL^z:,6^ ,a ePJC :rCKCCOHe6LzzCrO:O}::e: e^S,6^RLLrH,reuzH&Jz>p&zL6O:,HL C&,L^ HC ,c&&eOL66CzOWC_,^^:rL  ,JJLO,6C,SO&r LHz6,C^86SJ^O^&LS^OSSOO,zCJC^&,, ,36&z:4&^C^^JeL6O^S&S J2CJ::&e&SHO6ezLrzO,ez&HLSO:SLrS OCCrO&em,HjHHzVJAOC6S:&6HFLSH:,JH&r, &NeJ&Or6z,COO6e,:zOr  :H,JJ6K&rS&OeSrL6zz,q^OLL 5O:& L^6,,OLCer,C^e&^ 666J>:66^:H6Le   z,OC :HrJ&:eJ5S6zLCP&Hz^J^^LH ^HD,C,SC6rC&LCeHLJzurK:H=^6J:L6 CS6,Ce,CVCr&HLHHSr:z&2,eO^rJLLHLrS^LHJ :O&&JLO6HHrLeel,Ozt&  L6r&Sre&,CSOreJ,ezOOC eHZJO,,&^SOO Cr&^z rC^r&, &br&6:C &CO^Oz:6:^ HS ,pJCH:retCe&Ce6 6zMrOzDX:C:: 6SS,OeeCOLzzre:CH6 z4H&OS^6:SOL H ,,rMHCSSQ&JSv^66,&OkS ,e^:rL^zLOJ,OO6CLOO eeLHz6,O^H&#J^Oz&LL6OSSO&:zCJS^&Jz ,}6&z:F&zCz^eeLL^^Sr, JH:CO:&e^SH eeeLWzO,ezrHLSJ:SzLS OCCrO ex,HG6Hz&Ca6&^S:&6S6LSrL,J^Lrr &de ,:e6zLrOO, ,:zLr z!rJJJ6n&rLrOeCHL6eC,&^O&SJ:Cr& SS6,S^^Rer e^e6C 6<zJnG&&JC:z^e rSz,rJ CrL ,:eCJS6,,CHLOz^LHzrH :6f,:LSS6rC&OSC ,6HLr3rr%e&::L&zS O,,r,CL&r& eHH JHD&3O5O^&rLOz rSzOL:JC6S&&^&6HC6LzCr6e^^Je LJ&&S:,6JS:J e&^^zHH& zH%JO*e^6SLeJeSazz rC^rH&LS1HC,Sze:COLzz:,Lz,H:SS3JC :reLCe6,:C,zYerO{LH;JL: &2S6OJr^Lr:Jre^HH6Jz&r&6LOO:,TL Hz,,^Jr& r6v&eLe66CeOGe &HzYrL  zHJS: 6C:L^eeC ^z66 ^rHOJ^%OeSS z&C,^JeJ,,^&HC HA^zr:H6OC^^:e:,^^Sr&e:MSJr:&SCSeO&ezOrSer^:^HLeL:S&,SJOCr6L&HO,HCrHzSzIO&^::6L,LLSe,,JzHrr^ H^JHOr6z:9O6e^,:eLLH S6SJJ&O&rL,OeS,LezzJe^O,S HQL& 5Z ^CJ^^er ^^SrH 6}zJ^:6eOC:zce  zz,,^CLHrS,:eSpSJOzC}LOCk,NqHH  Sf,&JSC&Lr^LeH:,66SrD Ok^ H:J6 ,CO,:r,:zrr&^Sr7J6Oz&bSzO^e:LLezLz^,& JCd,&JSe6HSJLCeQ &^^r, L2 &SYO&CCCzOe&:Ozrr6 zrr ::^C,SLzee:L,zJ,::OH&:HKHb^Sz6=COOeeS,LV:HSOHxJ&C:r& C:OHrC,zeCrO ^g: 6l 6SLzOJr^LLz&rez,r&Jz6 &OLH62CLL C*,6^JJ& rr &S:H66SC6eeO^O^:^b  DSJ,<^^LSre,eeCLz&rz^Pr&eH::SHS ^,C,LJzC,r6 HeSSW6SJ:X66C^L:eS,^y r,:L<CC::&&SHJO6r&LbH:rz :HLJz*H&,LOOC:LLJze,H^6JC H6R&^Lz6L,6LSe,O,^C&z &6&JH:&6zSLJeez,:zLee^ HLJJq:e&SJzOCH :zC,9^Or!S %LCrSSSJS,LSer,J^erOeC+eJX:OS:S^OOe LrS^r  CHrr^c&&rS66Ck&LOHOr:C:H JSg,&JLH6r,uLeSC,6i6rd Or6&:L:6 CSO,ee,CeLrz e6CJ6Gz&HSOO^C:O,z J ^, uJCOS&&:S6:C6^&e<O ^eH: LHzzO:,eOCCzOe ,ezHr6^OHHSV:^ezSLz6eSOOS:rC:SH&:zG,&6Sz6cSzLzHe,Lz&HS ,jJJ:LO6&,^OH e,zzGrO^eH JLOJ6SCLO eCLre L&^H&6Jz6^&OS^O:S66LzS L^JLr rq&&eu,JHCzzreOJ&^:rL  r0 e:JC=Sr6LeSLHz6,Cz&HOSS::66S OSC,O^H7,rteHe ,MJ&z:t&&SPL:r^, 6Hr, J{C LmO6eLJO6z&L{zOr^zHH J 66&,rHOSCrL&eSLS^6JL PYJ&zS:6LSzO6e,^r^CC, &veJHWJ&SSAe2e^O6zOr  SH,L^:Ce:S&e&CHL&zz,}^:HzS^BLCOSSe}CJO:: ,&.JrHNBieJh:O6eSrOLr6,SOzrJ CHrJ&6S&rLHOzreLOH&r:^Lr6JSOe&JLJ6rCJLeC,6C^z&z O^a&::L6 CS^&eJ 6zrO, e6eJ6:z&zSOzOe:LLz ,H^,r^ &xrC,SeL^C6LzeRLOz&H:S:; :6:,eLCC6Lee,eICr6z:HrJO:^6:,,O rzL,zJrC^rH&JeHz&6L66P,HL^He,Lzzr^ ,6L&COe6JCeOHee &zqJr ^r^JL:^6SSLOJeC^Oz&re^HrHJzja&OS^J CO^LzSJ:^J&^ r#&J8:Hz:Cz^zeO,z^:,6 S{SCS:J^rSLO&eeLHeJrz: HOz6::e:S OSSCLJHJ,r^&He rN6JCF66O,6L::,,z^Sr,^JrHJrOr6eO O6r&L#zOJH :6CJ O &,S OCSL ezCJ^^6O& HpO&^:OJeC^^&e,XezJr, &ceJH:^^rSHOOe^H,z:r^ SrOz::CeCS& &CHL6zz,M: H^SJhL^OSSzSCJLCC&,&?&rH 65zJL:O&eSeOLrO,Se,r  CHr &+ &HLHOzLJLOH6r:z6rSJSO:&JHH6LC&LeC,6C^z&C O6CJH:L6 CSOCe  JzrJ, e6SJ6EC^&SOz6e:z,zzrS^,HJ^,3,CLSe6zC6LzePL&:CH::rW LH:,6JCC6Lez,eHPr6eOHrJO:^JHS^O rSL,zerC^rH& SHL&6Le6VJSLzz:,Lzz,^ ,6^&Czw6&CeOHCJL^zQJJ ^reJL: 6S:O6JeC^6z&J ^,H6JzHr^eS^eLCL^gz:,,^Jr:e A&Sr:HJJCCO%eOLeS6rL%sAS:::J6CSrO&JSLHH,rzP&HOJz::&L:,O:rSLJH ,rsLHe^,,C&zLe6OLLO-eL, z!r6 J6^JrS 6eSHO6ezzrz6JO :&hJ Oz&,SJ6SCr^tzeJe^6He Qx zH:N6LC 6fe:, ^C,LSejCC^:6^ SrOOe^LO?Sr :&H,6ZgJ&,S&OCCHL^:r,H^OH^6&d:&^SS6&<:LSer,& :re &{z rre6^,^OLYL,Sz,rJ C66J&OO&HHrOzrzLOz^,,^L&LJSh,&J:H6rS 6HeH r^z,K 61^&:>L6zCS^SeJzOzrJ, er,^r:zeeSO&SCHLLz L;C^HJS^7rC^SS6HC6Lze^,6IOH::Pi Cz:,&^HLOrr,,erQrJ zH%JOHj&}LHO CJL,zJrCzL6^JeO:&6^S6/COL^CHLe^ &C ,,r&::r6&SS6Je6 zzKr  ^P:JL7z&^S,z eC:zzJre^HrJ ,3_C&S^HCCLL zSLOz,HC:OR&  :H66Cz6rSH,^H,rL:6HQJ,:J&:H O&,HLH}Cre^fHO e,6&LL:OS:OL^zC,rz O, H6C&z6e6OC^L:eL:z^SJ9 J&LJr:J6eSH6fee zzOJ6 :&HJ Hl^^SJz CrzHzC,H^6HC ,iOC&S: rC LSe,,JH:r,:r%eCC:6eJS1OOCz,:=Cr : H,J :C&6HSOCCHL6eC,e^6H^^HO &^L&6,,HL:er,&zrL  &6LJqd&&6SNOLe ,Sz&O: SHrJ&jS&CS&OzSr&ez^J^^LOLJST,&JSCz6C&^OeH6r^z&z O_^J::LeLCSO,eJLHzr, z&HHSr:zJDS6O^e:OLezrS:SHJDOsrC,Se&,S LzHe,OeSrH L!  or^6J,^Orr^,SzHr6 zH^J6OO6:LBO rzL,e^6L^r&,Je&>&JSz6;CO6Ien H^ r^ ,vJ&CQLz^Ce^:e6HHzyrO ^rH :: eCS,L eSLrz&,S^&H6Sz7iC:S^O:CLOzCJ,,j HCz&8&&e:H&JSSObr&,^zer6  4S O:e6CLOO&eSL,z6rzzr,xJ^6,&L eOSC,LJe:^ ^JJH H:r&z:j6OSeO:eL :^SOe  *CJrF &^SHzCezzOzOr^ :r6^H:SCzSJ 6C,L&zeL,^^Hz: _O H:*6LC LSCJ,J?^rrIadeJr:66zS^O6rO,:HWr :zH, ^,L&rL,Oe,zL&zz,I^&HCJ:6H& C,6,CJLCer^ ^C&e 66&JDOr6^C:O e  &z,J, CH,J&gS^JS6z6C(Oezer:^LH Sr#,CHSCJSC&^&eH,6zLrQ:B7^&::L6zCS6Oez,ChSr&ezH,J6:zJ?SzO^r^LL,HrS::HJ :<6&&LJ6HLfLeeU,Oz*&z L66&S,J6JCSOre ,ezHJ  zH(JOM,6:SLO eS^6zJrC^rrrJeDH&6Szr&CO^Oz: #^ &z ,AJ  :re=Ce^ee6,ezp,&^Cg:CC: zzSLOJeCLLz^re:zH6SLiq&OS^O:W^L^H&,,^^HC ,_&JS6:6&,6O1:^,e^:rL  HSJ,OH6CHGO&r&LHz6,^^-&QJ^::&LS^OSSOOzzCJS^&zz Hw6&zKZ&,C^^^eLzH^S&: J7C &:&eOSHzHezLHzO,e^rHLSL:SJ^S^OCCrL&H-,H::HzzS!OCOS:6LSzLSHS,J^Crr  we ,:J6z,eOOSr,:zLr ^SrrJJOJ&rO:OerCL6eCLz^O&6J:6S&^SS6,C^Oder L^erL &wzJ_:O LSP^:e  ^z,JO CHr  :ee^S6z6C0L6z^LHzSH S q,J:S:6rC&Lee:,6gLrbe,>^C^:L6 S,O,r,,Czrr& SHH JHJ&sLHO^:eLLz rSz,HSJCOC&&6L6H,rLzCr6e^^&z L&,&::,6JC:OOe&  zHr& zHMJO:^  SOzLeS :zJJ^^rH&JC}He:SzzzCOLzz:L6zLHSSSwJH,:r6&CeOHC:,zq rOeJF:C:: 6S:rOJrJLrz&re^LH6 CBH&OL6O:e6L^zS,,zJre r6r&e6 66,&OWC&&H^:Jl  ,rJO:J6CSr^6ee Sz6rz^kHOJ^::J^S z C,^LzCJ:^&rS^6b6C&:te:CzL:eL,zzHr,:OaC6e:&6eSHO6:OLHHur^:zHLS6:S&,S^OCrzL&H&,H^&Hz^rHz&^L^6L6:LSe,,J^C,m &6OJHrL6z,zOOe^L^zLJL SH,JJ8i&r: &,CH^rzzeH^6H^J:HLJzSSzSCJeOer ,^e,,eC/zCe:OJSSHOLe ,SGrrJ:^HrJ&:e&HS6OzC^LOHOr:aZH SzQ,J^0r6r,,Lerz,&^zr4 z66&:OH6 e6O,e ,Cz,r& e&LJ6:z&PSSO^e:LLz OJ^L&,JCOS&&L 6HC6OrehJS^^&^ L!^&S}O6zCC^Ce&CrzHr6 zHk ::^eJSLJ&eS SzJrCzoH&S&tH&6Sz6,COOeeC,L}OHS HNJ&C:r&&:LOHrH,zrJrO:6Y: 6,c6S,:OJ:HLLz&re^H6OJzOC&OS^O:CLL zSLr^J&J r6,&eLS66SCOHeO 6^:JS ^jSJ,:^&VSrzLeee:z6rz^NHOOH::e:S z^C,^OzC,rz,HeS^f6C6:Y66C^6HCr, -&r,SOySJr:&&r,CO6rOL=^:r^^FHLJ^:S&,LzOCCrL&eO,H^6Hz a,z&zLJ6LCzLSeL,Jz:^; J6&JHrz6CS.OOe^OOzLJr SLHJJOJ&rS&&<CH^Hzz,g^OHzJ:H6JCSSz:CJ: er,&^e,H^W+zCz:OSrC:zge ,Se rJ:6HrSr:e&rS66CSzLOHOr:,^H JSV,&JLH6r,3LeS:,6j6r- OHz&:L:6 CSO,ez,CeL,6 e6CJ6 C&NSOO^C:L:z J ^, =JCOS&&:S&eC6^&eIO ^eH: L( eC:,eOCCOre&,ezHr6^OH(S%:^ezSLz6eSOOCorC:SH&:61r&6Sz6rCJL^He,L rHS ,7J&C,O6&,&OHrr,zRCrO ^r,JLOr6S,SOJeSLre ,J^H6:JzH:&&S^O::L66zSJe^J&6 rOL&C:&erCz^^eO, ^:rO  HrJ,:JCnSrO&eeOHz6rz^/HOSC::&LS &,C,LJzC,r+^He Ht6JL:v6OC^L:r&, ^Sr,^ WCJr:&6eCrO6rLLEz&r^^5HL zWO&,L,OC6JL&ze,H^6rz EOS&^HC6L,LLSe,, ^C&C &FeJH: 6z:rO6e^ zzLcz :H,JJBCJCS&z&CHzSzzJe^Ore  KLCOSSJ&C^LCer,&:zrH:,gzJ/:O6^C:OLe^,SGSrJ: HrSL:eJ,:SOzreLOrL,!^LH  b_6&JL^6r&eLeeH,6^zS& O6O&:Oi6 ,zO,eJL&zrJZ e6eJ6:e&l:&&,e: Cz &z^LHJJCRJC,SezzC6rJeI,6^^r, L= SH:,6JCCOCe&,ezHr6:SHtJO:^^:SLO eSL,HzrC^rH&eCEH&6Sz6V,JL^z:,LSJHS ,5J&CS,6&,OOHeJ,zzHrO^erJJLOL6S& OJeCLrz&,<^H6:JzrS&OLOO:CLLSzSJS^JHC r/^&eY,&SCz^eeO&=zIrL  HS w:JeJSre:ee Cz6,Cz^HOS6:: JSzOSC,LJte,rqLHe H56&z:g6OSCL:H:, %^r,:OFC L:z6e,CO6,OLHzOr^^HH&J Oz&,LOOCCrL&ze^,^&&6 P6H&^Le6LC Oee, H^C&C &+CJH:6J^Sk^Se^ JzLr  SH, S:SeeS&OeCHL6zzLr:^HzS^fL J:w6,CJ6C:O,J.&rH:HYzeC:6&1,zOLrO,S  rJ SHrJz:e&HL OzCiLOezr:^LH JS66&JSC6rSnLeeH,6^zJ, OK^&:LS6 CSO,eJ^ozrr& e6^J6:z&gSO?Se: :z ,P^,H JCHL& SezeC6 JeH,O^^rH &h C^:,&6CSOre&,e6Or6:6HKJ&:^&ISL6zCOL,H,rCS:HJJefH&eL&60,HL^:6,O^^HS OcJ&COO6&CeOHCv,zzTrO ^&rJL: 6S:6OJeCLrz&HC^H&HJz+r&OSzO:S66rzS _^Jz, r=&&e:H6JCz^zeO6J^:JH  2S ,:Je^SrO&eeLLz6,Cz^HOSJ::,,S OSC,OJeS,rwLHeZ Q6C :B&&S:L:rr, CrrO J8CJrL66eL4O6ezLKzOr^ :r J Oz&,L6OC,HL&eSLC^6&  76:&zS:6LCzOHe, &^C:S &QeJH:6 OSHzre^ CzLJJ SH,  :CeCS&z CHL&zzLr^JH^SepL p:V6,CJLCC&,&y&rHeL<zCC:O6^:,OLr6,Sz,rJ :Hr  Z_&HLLOz:OL6z^r:zLrrJS6T&J6O6r,OLeC,6C^z&S O&LJp:L6 SgO6eJ ezr,: CHHJ6:zSrS6z&e:^rz JC^,HJ  UrCrSezSC6Lee+,OePr-S:Y &S:,6JCC6LO,,eRer6^LHrJO:^JHSzO r L, 6rC^rH& S,J&6L&6;+rLez:,L^ Lr ,6L&C:C6&,JOHe6L zpJy ^HHJL:z6S:OSLeC Cz&H&^rH6JzHr&CS^z^CLLSz:,,^Jr:S&kJCJ:HOHCeOWeOLeS6rL:6mS H:J6CSrO&:hLHHrrz:eHOS&::&L &OSrSLJz:,r>LHe O,C&e:x6OzrOzeO, eSO6  6CJrO66eO O6CC&&zOJz :JOJ :S&,SSaeCr^&ze_ zrHe N66&^:, zC^LSe,HWz r, &HSC6:&ezSt^,e^,:zL,z:eHLS :CHCS&OeCHL6eB,X8OH^S:3LC^SS&OSrLCr,,&zOr, 6szJ_qS6^LHOLrJ,Sz,rJ Cr:J&Oe&HLJOzCHLOe3,&^O&LJSCHJLSS6rC LeeO6C^erN OCJJz:O6 :Y^Je  Jzrre CHHJ60CeOS6z6e:r:z^rS^,r^eLUrCLSezJCJLzeI,OeSH::gp C^:,eOCCOr&O,eIer6 CH!Sr:^&,HzO^eSL,^,, ^,H&^e,L&&Lz6{,LL^,&,LzzOO ,6 &C6,6&CeOHee^rzHJO ^:L u:^6SLLOJCH& zJre^H:z &9H&OSS 6COL zSHSzLHS rH CH:re6Cz SeO,^^:,6:&k:SL:JHJSrO&eeLHCHrza{HOS^::COS &uSrLJHS,rz?HS H+6&zcL6O,eL:r,, ^Sr, JHrJrO&6eL,O6eeLpzz,r^P6:J CS&:S OCCLL&eh6J^&Hz 9SOJ6:%6LSzJOe, O^COC &_eJH:6z:Swz(e^6SzLJ6 SH, r:Ce:S&OeCHL^zzLr^ H^SC9LreS:6,CJOCCH,&Q rH(SuzCS:O&eS&OLr&,SC&r^ CHr  ,,&HLOOz,ALOz^r:^Lr,J:6=&JLz6r,6LeC,6C^z&S O& JH:L6 :M^Je  ezr,R SHHJ6:z&^S6z&e:^rz JC^,r^eLDrCOSeezC&Lzek,&^CH::,{ SJ:,6JCCOr:H,C*Sr6: H;SL:^6:S6O r L,HOrC^,H& SB:&6LJ6%6zL^z:,L^ rL ,6,&CrH6&, OHe6LrzPJr ^(:JL:e6S:O6eeC^Yz&:&^HH6JzHaJeS^zeCLeHzS H^Jr:e *&C^:HJ^CCOseO,^:SrL:J_SJ,:J6CSrO&CCLHH,rz:SHOS ::J6S:OS,HLJr&,,^&He ,{ &zL:6OC&L:eL, ^SS^ J6^JrOO6eLhO6ezOrzOJO :&HJ ::&,:^&,Cr^rze&S^&Hz IQzC6S:e}C S^e,, ^Cr6 &WeSL:66zSn6^e^,:zLr bHH,JJ:C&zS&OeCHL6HS,i^OH^ ^%L& SS6,,zLCer,&zCrH 6vzJWS66^,^OLez,SzLrJ^:reJ&O &H&eOzC9LOz^LH^L&LJS,r&JL^6rC&6HeH ,^zr7 O>C&:M6&^CSzHeJU z,r& erH J:zeCSOCre:^rz Lk^^HJSzTr zSS6HC6Lz_:,Oh H: L{ &S:,6J: OrrL,e(:r6:^H* &vS6:LrO ,JLLzJrC^LH^Je6Y&66C6!COL^z::z^ &z ,66&COH6&Ce6Ce6 6zBJr ^HhJLkzJOS,z,eCJ:zJre^HHeS&xlCHS^CzCLL^zS,L^JHC:OW&&e:H&HCzOaeO,^SOrO:LUSJO:J6SSr6 L^LrH,rzCOH&J^::&LUrOSrSLJSe,rFLHe HyJ&zLC6OC^L:eO, e>,z J6zJrS:6CSHO6CzOzzOJ& :JeJ Oe&,SJ&JCr^rzeJS^6He kH&JOS:eHC 6OeO,J^CrrSz4eCe:6 ^Sozre^,:CHr :zH,JJ:C&LS&6SS4L6H ,9eHHeJ:WLJ :L6,,OLC,^,&T^rH^JHHJPO,6^L OOe ,Sz JL C&HJ&J &HS&OzCHLOz^ r^LH JSBS&JSC6rC&&6er ,^z&S O6 &::LJ6CS^SeJ ^zrrJ er,^D:zeCSO&HCHLLz rSz7HJSJ.r^6SezSC6LzC6,O7&H: La JE:,&^S OrrO,erer6 zHQ O;:6:LHO L6L,H6rCzLLSJeO:&6OO6HCOL^eO m^ &C ,rO&C:,6&CCOHe6 SzXrO ^r4JL: 6SS,JreS :z&J^^H&OJzxV&eS^z^CL^6zS,L^Jr: eN&C :H:eCzOqeO,^e#rL:LbSzr:Je^SrO&eCLHH,rz^tHOJC::J6;6OS,HLJ,S,,^&He^Hr_&zLC6OOrL:rr, eUO^ J6zJrHz6SSHO6ezJ:zOJ  :HLJ :S&,SJ6eCr^LzeJ:^6&^ vH&&eS:erC zJeL,J^CrL ^9eSa:6&OSHOOe^,:&zr :zH,S6:CCHS&OeCLL6H6,flrH^ +4LJz:r6,,,LC_:,J^erH e6&JNOH6^:6OOe^,Sz6rJ C&OJ&:e&H:zOzCvLOz^ r^LH JS*e&JSC6rC&^:eH,6^zrz O>^&::LO^CS^SeJ,:zrrJ er,J :zeCSO&HCHLLz rSe4HJSJ5r^&SezSC6LzeH,Ou&H: Lj Jh:,&^:*OrrO,eOOr6 zH; OHr6:LHO L6L,H6rCzLHCJeO:&6OO6HCOL^eO }^ &C ,rz&C:,6&CCOHe6 SzUrO ^H^JL: 6SS,JreS :z&J^^H&OJz7#J:S^z^CL^6zS,L^Jr: C9&C :H&CCCOIeO,^eOrL:LISz,:Je^SrO&SsLHH,rz^7HOJe::J6:zOS,HLJSz,r^&He^HH,&zLC6OOrL:rr, eqO^ J6zJr6H6CSHO6CH ezOJ  : rJ ::&,S^OCCr^^ze,H^6r6 VfO&^S:e&C LSe,Lr^Crr &Ye^z:&eJS/z,e^ SzLr ^zH,S,:Ce:S&OCCHOJet,p.rH^rOFL& SS6,C:LCHC,&CerH:,?zJ8B66^,eOLe ,Sz6rJ^:HzJ&O^&HrOOzCcLOe^L ^L&6JS&z&JLz6rS J,eH L^zLL &q^&::LzJCSzreJ,Czrr& eHH C:zeCSOzJe:^,z LMzLHJSzkrSHSC6HC6LCe,,Ot H:^^b &S:,6JL:O,rL,eD:r6:^HDJO>&6:,:O rzL,z rCerOSJCOe&6:^6A LLzeH,&^ &z ,:e&C:r6&Ce^Je6 6zqJr ^HjJL0z^OS,zOeCCJz&re^HH6C:=;CgS^J:CL^6zS,,^^HCS:y&&e:H6 Cz6rez,^lCrLzJ_SJ,:J&CSJO&r LHrSrz:SHO eVn&LL&OS:&L^zC,r^&6z H6O&z:.6OC^L:eLO,^SJM J6zJrO66e:,OJez SzO L^1HLJ 7a&6SJzeCrO,zC,H^6HzO&9OC&S:erC ^Ce,,Jz:rr:r*eCS:66eS=6&eC,:i:r SzHLJJ:C&JL,OerCL6Cz,Z^6H^ T!L& OH6,CJLCez,&^erH 6:eJjOR6^SHOLe^,SeO,L C6:J&,&&HS6OzCbLez^J^^LL^JS6s&JSC6JC&^ eH,6^zrL OHe e:Le&CS&:eJ,Czr,&^eHHS,:zSJSOzJe:O6eJrSZHHJzH>L&&Se&,wCLzH:,O#^H: LB &S:C6 ,^OrrO,eHwr6^CL&JOOJ6:O,OzeSL,zJL,^,&6JeWe&6Sz6US& Cz: L^ eO L3J&CTLJ,Cezre6O:zHrO ^rH :: C.S,S&eSLrz&,S^6H6SSt{L^SzO:CLOze ,,%eHC:JaJ&e:H&JCeO0r^,^SCrO  bS OkO6CLJO&,CLrz6rzzrLeJ^66&LLCO:C,LJe:6 ^&JL Hr&&e:b6OSeJ6eL^r^SrO  cCJrN ^,SHeyez&Jz&r^ :HLLz:SCrSJe&CrLJze,Hz%HeSCgOCJS:e,C 6M:^,J+zrrMH.CJH:66CS,OOr ,:HFr  SH,JJr&&,LLOer:L6H^,E^O,HJ:O:& Lz6,C LCCLLL^e&S 6rrJr:O6^C:6Ce   z,O  C6:J&:eJLS6zJCNLOz^,H^Lrz rs,C6SCSSC LeeHL6eHrP:r<^:&:Le&CS6O::,CHRr&g6HrJ6:z&6LHO^rSLLS^r:^LHJJSGr&&L:6HC6Lzez,O^^H: L,,&:O_6J,zOrr6,ezHL, z6zJOO&6:SOO SNLSzJJ^^rrSJS(H&6Sz6JCO^Oz:6O^ &z ,lJ&::reLCeOHe6,CzW,& S2:Sr: ^ SOOJeCOrzJre:SH6(,wMC,S^&H{zL He,,HrHS rc&JrLC66,^OhRs,zz0rL ^7SJ,Oz6CSrO&C&LHz6rz^1,:JzOe&LL&OS,rLJzC,6^&&& H6,&z:H6OSe6^eL 6^S,^ ^DCJr:&&HSHzHez&HzOJ& :HL^L:SCWSJOCCrL zeL,eHHzSSqOrLS:6LC OSC:,J(^rru:}eC::6&CH&OOrJ,:HSr^ SH,JSO &rL6Oe,:L6ze,v^6H^J:6&& SS6,S,LCer,&^eLz &6JJEO,6^,SOLe LOz,J, C6:J&:C&H:J&OC#^rz^L6^6H JSU, rSCzCC&&CeH ,^zr%^zF^Ce:L6 CSOOeJL:e6r&:^HH,&:e&KSO6^SeLLH6rSHzHJSz<rJ r,6H,LLzr^,6^^H: ^6O&SOr6JzOOreJ,ezrr6 z&,JO:^6:S:O eSL,zJO&^,&LJeO:&6L^6hCOO^z:J:^ &z ,4 &CcL6eCe^Se6OrzrrO ^Z:J6: e S,J eC :z&re^6H6SJUP&OS^6HCLOzCO,,w6HC el&&e:H&6:HOwrr,^r&rL:&.S Or:6CLtO&,6Lrz6rz^6&HJ^OS&LHOO:CLLJzS,r^&&: H06&z:z6OC^L:eL6,^:J- J6zJrO66eSH6,ez zzOJ& :HOJ Hs&JSJz^CrOSzS,H^6Hz OVOCOS: OC ^ze,,Jzzrr:L8eJH:66CSw6&C6,:Hrr BOHLJJ:CJr:kOerSL6,,,If,H^^H,z& Le6,LrLSer,&zr&C 66^J2rH6^StOLe^,Sz,Jz CHrJ&!&&HS6OzCI6:zzJe^L&&JS6r&JSC&HC&^&eH ,^zrH OHe 6:Le6CS6^e^,Czrr&z HHSH:z^HSOz&e:LLeJrS%nHJJC?r& Se&,C LzHS,O:eH: LY JSHE6J,^Or,:,e1:r6^CL&JOOJ6:LSO^eSL,zSJ ^r&6JeLC&6Se6TC6L^z: &^ HS ,H,&C:r6&Ce&ze& JzwJ, ^6SJL: 6:S,z,eC :z&rC^HrJ^J<8CrS^&6C6L zS,,zOHCSCp&^C:He,CzO8e ,^XerL  QSJO:J&::HO&r^LHCHrz^RHO ^- &LL6OSLzLJHz,rz O, H6L&zO^66C^L:e^ O^SJr JcLJr:J6eSrO6ez^,zOr^ :H:J :S&,SJJ&C,^LzeJ:^6&^ dtOJ^S:z:C ^ze,, ^C,Lz,XeCS:6JrSrOOe^,:eSr : H,z :Ce:S&OeC:L6HJ,u^OH^ H2LJz4L6,,6LCLr,J^erH^6H^J%Or6^O&OLr&,SeOO: C&(J&66&rS6OzC6^Hz^JS^LL&J:vL&JSS6rC&^:eH,6^zrz O8^&::L ,C:zaeJ zzrJ6 eHHJC:zezSOz&e:LOz L1^^HJS^DrkCSe6HC6LzCz,O}OH:e6F Cz:,6JS&OrrL,ezHr6 SH8 &Mr6:LrO zOLLzJrCzrHSJeOS&66,6w,,L^CH6z^ &e ,re&::r6&Ce^xe6 ^zBrO ^Z:JL: JOS,zOeC^>z&Jz^HrJJeD_C,S^e COL zS,O^zHC:H}&Ce:H66CzOpS:,zmerL:&;SSr:J6C:rO&r&LHH,rz^HHO eHr&LL6OS6 LJzC,r^&,6 H6H&zrr6O,&L:eLLS^SJQ JpCJr:^6e:,O^ez SzOzr^HHLJ _SJSSJz^Crz:zeJ:^6rCe&XOCJS:JJCzLSe,,J:err:6{eJH:66zSVOOCz,:HHr :eH,S&:CJLSJOer:L6rO,H^OH^ H;&& LC6,7SLCer,&^eLz &6JJxO,6^,SOLe LSz,J, C6:J&:C&H:J6HC!^rz^eO^LH JSa,JzSCzCC&&SeH ,^zr> 6B^Ce:L6 CSO6eJL:zzr&:^HHO5:e&{SO6^CeLLH6rSHzHJSztrJ r,6H,LLzSL,&^^H: LOJ&SOr6JCCOre&,ezHLH z6CJOOJ6:L,O S9L zJJz^rJHJCfH&6SC6,CO^ z:LO^ HS ,(J^&:,eLCe^:e6 ^zfrOz&W:C:: ezS,O eCOLe^re:SH6rHIM&OS^O:SzL H ,,C^HCS:s&&e:&66,JOEeO,^zrrL^zH&J,O66Cz O&eeLHe6,z^V&rJ^&&&LL&OSSO&:zC X^&Lo ,26&z:fzLC^^SeL, ^Sr, JqCJJ:&e SHzLez :zO,ezJHLS&:SCCS OCCrL z:,H/OHzs (O&^S:6L#,L:r_,JGzrr:6seJH:z6z,zOOr&,:zOr zBHzJJO^&r&COeCHL6zzLC^O&OJ:,6& Lz6,CJ6 er L^erH 6ISJ{Y&&eC:zre &Sz,rJ Crr^H:eeSS6C,CM^,z^LHCzH Se>, eS:6rC&LeH!,6b^r0 OP^&::L6 :&O,rO,CH1r&:zHH JW&&ML,O^, LOz rS^OHzJC6H&&Hz6HC6LzePO:^z&e L6&&SOr6JCC6Le& &zHJ, zHHJOveJ SLz6eS&^zJrC^rH&^r9HCHSz rCO^&z:,LzCHS:R*J&C:r6:Ce6,SH,zRSrOS6HHJL: &SSLOJr^Lrr:re::H6 C,&&OLJO:6vL^zS,,z^H: ,66&e ^66CzOyeOOL^:JH  6eJ,O&6C:LO ee :z6pr^HHOJ^HHJeS zCC,:HzS,r^&He  16CJ:!e,C^^SeLLzeOr,:64C^6: 6eSH6J3rLAHLr^H6HOJ :S&,:rOSr:L&H^,HUOHz^rO^&zLC6LGeLSe,,JeCCz &6^JHOL6z6SO6CeL^zLJJ SJ6J :C&r: 6 CH^6zz^,^6H^J:H6 rSSeLCJe_e,,&^erH zqzCS:OezC:O6e LS::r :^HrHr:Ce:S66C3&LOHJr: JH JSU,J^S:6,,6Le,J,&^zr? OH:&:OH6 ,eO,r&,CeL,O e6:J6,&&GSOO^SHOSz JC^,6HJSjr&&Se&^C6^Jev ,^^&S LHz ,:,e6CCzeeJ,ezHrJ SH>SL:^:(SLO eSL,&:rC::H&S^!HCOSz6PS6L^H^,L56HS LXJJ:8z6&,&OHH,,ezurO^I6zJLOO6SL6OJeSLrz re^H& JzPU&O:^O:CLL zS 6^JHC rHr&e:H66CzLHeO O^:r6  b:J,o^&rSrzLeeOJzJrz^fHO^&::e:S  HC,^OzC,r^zHeSS36&z:a6&C^6He&, ier,SrtCJr:&&eSLO6rJLQrCr^:CHL zU &,L6OC,eLJze,H^e&& w6L&^666LC^LSeL,J^CJO &QeJH::6zSVOOe^6 zOJ6 S&HJJOe&rS&&rCH^HzzJC^OHzJ:H6JgSSepCJ6LeL,&^erH^^/zCz:O CC:zHe ,SzerJ:^HrJ&:e&,S66CC6LOHJr:^OHzJSq,JJnH6r,LLe, ,6. r{^&LH&:Or6 LJOLeJ,CzJJ, e&.J6.9&NS6O^CHLLz  H^,HJJCUC&&Se6HC6^Se4,O^^rJ LN &S:, rCS^:e& ^zHJO zH/ r:^e^SLz6eSLLzJ,:^,H&S 8HJCSC6ICOL^e,,L{LHSe6PJC^:r6&SzOHr,,zzErO eQ: 6:C6SLHOJe^Lrz&rezHr^JzOC&O6rO:,rL C86^^J&z r&H&C:H66SH^eeO  ^:CH  q:J,: 6CSrz^eeLHz6,L^xHOJ^:: SS^zzC,^6zC H^&He^zY6C6:7erC^OVeLLzzrr,:OsC  : 6eSHO6C,LGHqr^CrHLS6:S&,:NOCr:L&ze,H^JHz^rrr&^LC6LSLOke,,JzCrJ &6 JH6S6z,SOOCe&6zLJ& S&CJ :C&rS O:CH^Ozz^^^OH^J:WL^,S:ewCJ^zer 6^erH &QzCz:Oe&C:OOe Ose,rJ:^HrHC:e&HS6OzCzLOHOr:C&H Szl,&JUH6r,LLeeH,6^SrZ^&Hr&:Or6 :6OOeJ,Cer,6 e6SJ6&,&oL,O^SH&zz Je^,,eJ:Dr&&SezGC6^^eI,6^^H: Lh &::,eOCCzRe& zzH,JzHH!S,:^C SOO eSLOzzrC;HH& JDH&6Sz6x eL^He,L3&HS:r}J&CD^6&,&OHr,,zzHrO^eH6JLOL6S,IO eCLrzCJJ^H&rJz ,&OSzO:COL zS 6^JHC rHJ&e:H66CzLHeO O^:r6  .:J,o^JOSrzLee^:z&rz^iHO J::e:S  HC,^OzC,r^zHeSS76&z:m6 C^6HCH, Ker,zJs:Jr:&&e:6O6rJLjrCr^:CHL zIr&,L6OC:6L ze,HzJOr a6L&^OL6LC LSe,Lr^S&: &6^JHOO6z:rJee^ CzL:z SH,JJ:CeHS&zzCHL&zz,(^OH^ LvLC6SSeHCJ^eerL zzrH:LmzS^:66^C:O6ee,SHrrJz:HrJ&:e&HH4OerCLOHJr:{,H JSH6&JLJ6r,LLeer,6zC,  O6&&:lz6zCSO,eJOJzrJr eLLJ6OJ&WSO6Je:^Hz rS^,H^JCHLJ^Sez:C6:OeH,O^^r:^e= Cz:,S1CCzle&LSSJr6: HaS::z6:SLOzCHL,H&rC^JH&Je_H&6HO6H,rL^HC,L=JHS ,HY&CLC6&, OHe&,zer,, ^6eJLH(&_S,OJeCLLz&J&^HL JzOC&OS^6^CL^6zS,,^JH: rH   :HeLCzL&e6,^^:,L^:?SS8:JSOSrzOeeO,SCrz:SHO:L3.&LS 6Lr:LJHe,r^rHe rU6&e:p6O,CL:eL, z&r, J7CJrrH6C,SO6r LBHLr^ :HJJ O &,LOOCC,L&eSL,^6&J R z&^S:6LC 6re, ,^COO &6 JH:6J&S{zre^,:zLre SrO S:CCkS&O&CrL6zzLlz^H^Se%L:HSSeHCJO:: ,&>^rHz^gCJ#:O6^rSOLrJ,Sz,rJ CHrJ&4:&HL,OzrSLOH r:z6,LJS6H&JO&6,C&Lee,, ^z&: O, Jl:L6 CSH^eJ ^zrJO e&MJ6:zJOSOzOe:^Hz r:^,r^  *rCrSe^SC&Lze4,zB6H::5c :6:,6 CCO,e&,eHLr6 zH*JS:^6:SLO z:L,H,rC^LH&JCiHJJ:z6*,rL^C6,6^ HS ,r,&CLC6&x:OHr,,zzi,8 ^6eJL: 6SSOOJC:LJz&J^^H6zJzxX&O:^&&CL^6zS^z^J&z rH  H:HeLCzz^e6,^^:r6 ekSSr:J&JS,O&eeLHSPre:CHOSJ::C,S OSS&LJHJ,r(LHe rl6JCoO6O,&L:Cz,z^Sr, JrJJrOr6eHLO6rJLKzOr: :&HJ :S&,S^OCSL6LzeJ:^6^H /KO&^::6:C ^ze,zg^CJ_ &HSzJ:6e SIz:ez,:zLr::^H,S&:CrOS&OCCHL&zz,;;JH^J:pLJLSS6,CJLCSe,J3 rH:L4zC::O6^:rOLrL,SH#rJ SHr  b &HL,OzS&L&z^r:^LHzJSOS&Jr+6r,LLeeHLz^z&C OG^&::66 :+6reJ zzrJJ SHHJ6>z&&SOz&e:zez Je^,r^eL%rCOSeezC&Lze4,z16H::,Z  ::,6 CCO,e&,eHLr6 zH5 s:^6:SLO LdLLHOrCNRH&SzcH&6SS6U,KL^He,L^^HS^O,:&CL:6&JeOre6,zz;zr z6^JL:^6SLoOJeC&JzJJ&^HHJJz8H&OS^z,COL zS,,^JHC r4&^C:H66CzOHeO,^^:6r ^NSJ,WH6CSrO&e:L&z6rz^nH,zrLzzJ,q &C6OrzC,r^&H^^ L,zH,& zHr J:SJPzHre JgCJr:OJ,H&JSwzJOSz6rC:H&JS:S&,SJOzHOJH5 &^^ rv ZtO&^SCJ&/: n:C,zzrrr &!e&:H:^:rL 6eCL,zLr  SHH^6LOJJS^6LCHL6zzrSeSOSC,LO^rre^JCzO er,&^eH:zrLOe fC^&HC O?rJOSC6ze6HrJ&:eJ,,zOeC*LOzSr:^LH JS:^&JSS6rC&LeeH,6ezO, 6gz&::O6 SHO,SJJLz,rJ eHrJ6!L&!SOoJe:LOz ,I^,H^JCR6^SSC6HC6OCeQ,6^^,:Czk^J,:,6eCCO e&LSSJr6^rHKJz:^6:SLO ,,L,zCrC^ H&JSlH&eLO6tC^L^ez,L^^HS LmJJHr 6JCeOHCr,zzHrO SL6JO: 6S:OOJeSLrC&O:^rHzJzvL&O:rO::^l:zS,J^JrC r/J&e:r66C:J&e6,^^:,L  <:J,:e^LS,O&eeO,z6re^-,OzCBg& S 6rC,LCzC,rJ6He 6y6&C:A6OC^OOee,^^Sr, SxCJ,:&6SSHO^ErLHzOr^^OHLJ^:SJO,COSCrL&e},H^6Hz >:e&^:k6LC LSe,,JeCOO JbCJH:&6zSrOOS^J6zOr^ SHLJJu6&rS&R^CHL&zz,r^OHeJ:hJzNS:6,CJ&,er,J^eLHCC5eJO:O6SC:Oze O!S^rJ^LHrJC:e&HS6Oz,OLOz:r:^zH  VV,&SL&6rCeLeSH,6^erm 6d^J,rz6^CSO,SJ,Cz,r&^=LJJ&:z&w.zO^C<LLC 6H^LHCJC-6&&:L6H:eHHe;,^^^L, L4^&S:L6JSHJ eJ,ezHL^ zHHJO:S^6SOO eS6 zJrS^r,&z:;r&zSz6LCOL:z:,LJJHS JFJ&::r6&CeO&eS,ez0rOzLb:JO: &sS,Oe_LL,z&rezzH6JeU5&OHzO:CLL z:,,^JHC r1&&e:H66SrOKeO,^zHrL  pSS,,&JH,L &eSLHz6rzL{Sh&HC^zLSe6OC,LJzC,_z:,&CJ,ezCr^6JCSL:eL, ^e66CrO JO::6eSHO6e 6 : O,SzLSe,LH&6:,OCCrL&z^O^e:OOCrL^zzrO^CH,&&eO,J^Crr:&Oe^Ce,^zSzOOe^,:e6&S :H,JJj,&rS&OeCH^6zz,g^OHzJ:7O& j?zJC LCer,e^erH 6HCC :O6zC:O&e ,Sz,LJ^:HrJJ:e&rS6O:ChO&CHr:^6H  T7,&JSC&LS,LeeL,6zrrX OB^ H:O6 SrO,e ,Czrr& erHJ6:e&IS O^e:LLz ,6^,HJJCar&&SC6HC6&eeD,O^^r2 LU &S:,6JCCOre&LezHr6 zH,J^:^6:SLO&d JH:z66^OrLJeoH&6S &SHJ O!,&LS,L6eCL:eJre^SC:OCe6,zzcr,z6L eCHH^zrH  n6J :H6:^LrHJz{f&OSJJ&HCJClO6Ce,6LCeLOeO:L6:CzO0eO,Je6O^CHLSeJrS^OrrO^C,LHz6rz SOCC,L6zrre ^C6LCzC,r^&H^zL,ezCr^6JS&L:eL, ^e,:CrO6 JL=zOrJ LDrJ^:S6L^rH J :S&,S6J6H6Jz:C,L^eHz MAO&J3^^zr,Jeue,zz,rr &Qe&:,z^HHS eHrLrzSr  SH,J6HO^:HC^,?&&StL6^SeHC ,QL& SS6H:6 OCJ,^z rH 6Pz&SH zHHC =*&JHS 6 eXLJe ,6&LSCOzC9LOzJL&SJOzCVHS^e:Y6^C&LeeH,LCrO^C&LSeJrSzHHCO,eJ,CeL&e CHHJ6}6&>SOO^e:& z r:^,HJJCgr&&=e&rC6Lee.,6^^rL Lr  O:,6 CCO,e&,:zHr6 :HpJ6:^&HSLO eSL,errC^rH&JeTH&JSz6L:HL^z:,Le6HS LTJ C, 6JSHOHe^,zzCrO^eL6JLVx6SSeOJeCLrz& H^HHzJzQ&&OSeO:C^&Hz:,J^J,^ rYJ&e:H66C:J&e6,^^:LH  _:J,>^erS,OeeeL&z6rz^>,O:6::& S 6,C,L zCOr^^He &36&::56eC^6HCr, zOr,^rnCJr:&6e:eO6C9LUzer^^HHLJ:- &,SCOCS:L&zC,H^6Hz L,e&zS:6L:6LSeL,J^CH  &HHJH:&6zS2OOS^&rzOrS SHJJJWC&rp&J:CrLzzz,O^Or J:rLe+S:6JCJOrer, ^e,,eCizJ&:O6SC:OLe OS:^r ^OHrJz:e& S66Ct&LOeLr:zrH JSQ,&JOr6rC:Leez,6^CrB O H&::C6 SrO,eJ,Czr&S eH6J6mL&YS6O^COLez^rS^,H:JCZ,&&SS6HC^JreH,O^^r6 LV^&S*OzCCSOre&L&zHr6 zH1z^:^&xSLO eSL,zJLCzOH&JC>H&&Sz6eCO6^eH,L^^HS LwJJ_:r6&:LOHe&,zzrrO ^v:JLo96SS,OJeCLrz re^Or:Jza/&Or6O:COL CS&^^ rr r;z&e:S66SCJ&eOLH^:rC  oSJ,:JCrSrOeeeLJz6rC^gHzzrRF& S  ^C,L zC,r^&r+eJ%&&z:l^HC^O;eLLzw,rL CACJJ:&6eSH&6,&L-z^r^^LHLJ^:S ,:rOCCJL&eQ,H^CHz^rH^&^:66LS,LSe,,J^C,r &HHJH:C6zSrOOC4LrzLrS SL:JJ:S&rS&OeCO&Cze,3^OO6J:!O& SSO^CJOrer,J^erH 6rzz,:66:C:O e LSz,LJC4H,Je:e&6S66^C46O/H,p^ H  ,(,&^SC&L%SLeeJ,6^:r= O<^ :,z6^S6O,ee,Cz^r&^SLJJ6#O&P:,O^e:LLz  ,^,r7JC#e&&SS6HC6CreI,S^^r, LB &S:,z:CCO&e&LOzHr& zH6JC:z6:SL&:eSLLzJr:^rHze,dr&6SzJ6COLzz:,LC^HS ,?J&S:r6&CeOHe6,zzZrO zZ:JL: &HSCOJeCLrzOOLS6OleO, JerS OHCLzzS,,^Jr:zeP&&e:H6&CzO}eO,^SArL  (SJL:J6CSrO&eeLHz6re^zHOJ^::&&:}OSC,LJzzL^SzOSC,rH^::,6^C^L:eL,&:^O C6O6JODL6eSHO6e OS:J&OS,OLe,r6^Cr:^JjeJSz:,J^6Hz ZU,eL,r^ p:J6w,,^^Crr &}eJH:6OzH:O&e^,:zLr  SH,JJ,C&OS OeCHL6z ,&^JHCJ:*L& Se &:LO7e^,&^erH L,rz^,&^SrJJSHHLHeCrJ CHrJOHrzzr: :S&J:7JL S&OHez, zzrO eH J6sL&:e,6LC6LSe ,z6eSzO,eJ,Czw,:ShOre^LrzJ:S L9OJO:,&Oz HJJC.rJ LH6rC6Lzer,O^^H: LL^&S:,6JCSOre ,ez&Jy zHaJO::6:SOO e:L,ze6L^,H&Jed6&6Se6PC JHe3,L^ ,, ,B &C-LzeCCOHe6L,zVrO ^r:z&:^6SS,OJeCLez&,re H&Jzj%&OS^6*CLL zS,&C:HS ri&&e:H6&CzO%Cz,z^:rL  /SJO:J C6HOJeeLHzzrz^zHOz^HH&LS OSC LJeL,r^&r& HW&&z:_6OC^L:SLO,^SrL JvSJro{6eGH6,ezLHzOrz :HOJ HSJ:SJOSCrLJze,L^6rC^^IO&CS:6JC LSe,,Jz6rr zweJH:66zSgOOC^,:z&r ^rH,JJ:C&r:HOeCrL6zz,N^6H^ ,,z&^SS6,CJLCe,,&^eOr 6+zJX:66^C:OLe ,Sz,rJ CHCJ&:e&HS 6,CiLOz^rCezO,C(L&eHr&^^C^OLeH,6^zHSeQLJe&,r^aH:JCezLrzrr& ey:^J,H^SrJO^CQL&e6rS^,HJJzrYz^,&^OH6JOSJ6::H6^eSOVJ4:,6JCCOre&,e^H6O SH&JO:^6:SrJrieJe: 6&S^H^ 6IH&6SzOS:^Jz:OJrS,6O^:Orzz:O6SCeOHe6, :^6JC:LOze, &HS^OJeCLrzOLLSOOJeCHz^ SC6 CLL zS,HSLO&Cz,5z^,^^&HO JCO,^^:rL  , J,:J6CSrO&eCLHS6rC^+HOJ^uO&L:LOSC,6LzC,,^&He H?6&zHKJxC^OMeL,^^SrL JrCJ^:&6CSHO&ezL^zOL^^^HLJ^:S&LSJ6rCrO CL,H^ Hz  sO&^S:6L:6LSe&,J^Crr &#eJH:S6zS,OOeS,:zLr  SHeJJ:S&rS&OeCrL6zzr&^OHzJ:7O& SS6,:JJ5e,,J^err 6H,JGHO CSpOOe ,:z,rz C,rz^:C&rS6OeC#Lez^O:^^H J:#,&^SC66C&Le:r,6^zrx 6T^&::L6 CSO,eJ,Cz6r& eHHJ vH&2SOO^eC6,:C6OeHOH 4G:&&Se6HCL ,:^&SSr6+CrLSzO,& SrLJze^LHzHr6 zxSeH,EzHHSOeC&L,zJrC^26oC}L z:,r SHJJ6e6,L^ HS^OOC&S:r6&CSOHe6,zer&^ zHFJL:C6SS,OJC: &zJrS^HH JznZ&O8^ rCOLzzS,O^JHS r_&^r:r6&CzOreO,^^:rLkCgSJ,:J6CSrOJeeLHS&rz^dHOJz::&LS OSC,LJzC,r^:He Hn6&S:66OC^L:erO^SJ6SCrLSJO:e6eSHO6e J Sz&rC:H&JS:S&,SJOzSz&CNO6&^ rH (.O&^SCJ:?:J:IC&rzxrJ &=eJH:LzPHJJzqzJoz6r  SH,JJ:C&rOp eCLLzzz,n^OHJCz,^z&,&66S,LCer,&^^, C&LHzS,& rHOJzl,JOeerJ CHr  OH&rS6OzCrLOz^r:eLLeJ:7,&JSC6rCSLeeH&&^zr0 Ojz&::66 SL^CeJ,CzrrC eHrJ6:e&1S  HCwLLz ,L^,H JC>6^SSC6HC66,eh,6^^,HS v^&S:,&BCCOre&LrMzr6 zHaJ::^&WSLO^eSL&S:rS^rH& 68H&&Sz6L{eLzz:,L^ HS LkJ&CS 6&CeOHe6,zz;rOz^LrJO: 6SS,OJCfLrC&O:^rH6Jzs{&OSzO::L&ez:,,^JHC rGz&e::J:CeO6eO,^^:rO  ESJ,:e^LS,O&eeLHz6re^Ar&C:Vn&LS 6,C,LJzC,Jj,He rE6&z:p66C^O,eL, e,r, J#CJ,:&6eSHO6S%LazOr^ :HLJ :S&,:COCCrL&zS,H^6Hz %H^&^S:6LCeLSe,,J^COJ J.eJH:J6zSHOOeS&6zOr  SH,JJ:S&rS&JCCHL6zz,H^OH^J:WO& SS6,L:LCer,&^:r6 6xzJd:, rHC^,Z,L(OS&HzL rOS MeOrLOCr^e,SHr:&:S&6eLr&^9SLeHOLe6^r LsS3 JHr&::L6 Ce&S1r&O:z6zS,H J 1^&8SOO^eCO::&&HCe,,ezL z:,O& H,J GH6S^Crz Lh &S:HJSr&Jem:JOC66&CHO z:Lr&HL HeC^6,L,zQ HO6J:K&&6Sz6PC,6O:C&&C:O: 6%:&C:r6&C^&6-&&H: O:^,HHHJJeJe^,O OSHr&6r:^6H6Jzg(&,,, OHeJ e?OJrren,HCzzCLe^LCC:fSS,HJSe&^&:eLr:z&,SrO&ee,:C:6:S&LCe&(r& S OSC,L6_ 6JSO6O LAz&z:N6OCJ&r:^&zSJrOJLs zJH6 SCz ,GzLrrOz JJ,,S:rHSr^66dCCL&ze,H^L,CCL,e6:H{ Sc:J&:C&:^:6e S:&J;^^,z L Oee,JJJ, &:rr6^JzzHS^6,CHL6zzrSe^OzeOLCz,:66O^&L6e^z&e6&C&SL^Jr:O6^C:OLe ,S^,6& :HrJ&:e&HS6OzzMJLzeSe6eP6SC^Jr:C^^HC^OreH,6^zHS^:rHe ,e^CCSO,e^ 6OSrHOz^J:6S ^:SJO:e:LLz reeJLSCLLz&^:,6HC6LzzSLe:L6JCCLCeH:L6^OHe z&Cz6r&&GwLSJJKO6:SLO eeOzSS&oz^OzeCLrzLrL ^CJOHz:,L^ He^eLreOre^SrOOLC&,zzPrO JreeS,z^Lr6 eIz&zCS&QSOO:zD,6ze,,6HL:HKz^&H(OCL^6LO&::666CzO.e,OH: 6zCeHHJS:J6CSrOOSLJrSe6 Sr,Ce2,6^S,!6sS:6zCJ&rLCJS :L6&S:z6OC^L:erOSS:O CoL&^ ,H^CH:JSeSLezOr^ :Hr^O,JzeU{ ^HXJJ:O&JSAOS ,Hr&^S:6LC&&6: 6:S&6 Jer6eS,z^Or& SeCL&zLr  SHH^:,z^^rLJLHOJ zS,&^OH^J:Fr OrJ^e:} &s&, &6L6 &rze,SrC^HCO6LzeSC:JJC&H;,&,e&,SSH&L.JO,O&:&LOJ HWz&JSC6rCO66SC&FSH6OC LCJH:L6 CSO,eJ,CV66& :HOJ6:z&vS,&rH J zzSz6zXOSe^&rSC ryCJ&,OHJHL^o^e,HCzS:6&OCCOre&,^e:6 S6OLeO,L &HS^hH &C::,B^eH&Je-H&L;C 6HHJC:C&C:,O&eCnzJL:r6&CeL:CSO6:&OzCeL J6er:e&o JZ &LONSe^,k:^OL6&O:CLHezJ6eH,^^JHC rhO^H,r erLJ^ee,Cz rL  %SJHHN^^HJ S0r& ::6OS&H& 6&r&LS  ,reJ?:z,LOJG6^rL6>HJCee JOrC6, ^Sr, 6OOzeL0^ H:J:cL&^:J6:S6OJeS,Jz^,H^zCOLCze,H^6H z&,:zzrC eCeOre,,J^Cr+z Lre6:JeOOS&ee^H^Jr;&OCHOL^ SrL^6H^z&Hz:^,rLHB:,es,JH^z,^H&L: H,9zL^HzZ6&6JzL6CS6OLe ,SzHLOC&LJeJLO^SSJ,^zee6O^C,6&zreCkO,Ht6CG &O,S e:6zrrS,&_LOH,CHS^,:<&L_z^r& eHHJLH6^Sr6 zS&JS:S,H^JHJJC3r&OrS &H:JJe,L6^^H: L>&^6,H^^r& ,:CJOS:6^CS,&zz,,^CrS^HCvOS :,6FrSS&6 ,zOSS6&COL^z:,reSO:e OHz&:J6^SHOHe6,z^S6rSLLzzS:e&OS,OJeCLVC6&6SLOree,^&&S^O:CLL zS,,^JHC L,d :H:66SJC*r &^zHLzJHeCrre,OOCa 6eS:^L:J,r+eS&&CLz,SzOr S6,CCz6LrH:L:fJCS6&Oz& eJekrJSCr6 :>CJr:&6^:z6Sxe&SSC6^^H,C^rOJOr^Cz::eJOzS6e^HOrzfrJJ CC^,Cz^,e8Or^C6rJ^FCe;:JOSz6Lze &z&LoCOCH6  :C&rS&O^:6JC::O6S:OLC&LC S,O^&HL L:e&::Lr,^^HLOr,LLOS6:zJJLHz^rJ CHrJOHLzOrJ CSz& zeJ&&^JHJCr&zrz,^HC^OreH,6^zHSC^L_zC,zzHSHO&eJ,CzrrOC:LzCr:S&OSOO^e:LrCr&rS&O:J:C: z:rSrLzzOOH&O^Cr& LX &S:H VHzJ^1&OSS&6  Cr^r&-LSSS^:y,RJ,z^rC^rH&Je>H&6r ^KC&OC&SOHJ^erz,HS,z:LSJ,ierL6r&r&S^O HHJrHLL^NrLOrHC &6rSr : ,^&:krSeJ6HLLzzS,,^JHC rF&e^,H6 S,O{eO,^^CLCCC,&e:,r^&rOO LCz H,S^C?LL,Hz:&&:rOSC,LJzzL CCOLCHLzzHrJ^OCCOJeL, ^SrHzOO&eLrC^:rO LvLLrH6S&z6 LLz^rJ6^J6pC^L&ze,H^LLre^L&zS,J SrHO=^,JSCCgrzrJ e,,66SSCOOe^,:zrOrSOL ezLOz&HC^,xzJ :,&S^Jr,J:5L& SeJJHe Oj3JDS^6OC GCJQ:O6^C:OLe  &:,rz^LHrJ&:e6:Mz e?6JS:L, zCHzJS<,&JSL6rC&LeeH,6^zr%zO,CJI:L6 CSO,D^,CCr,^ CHHJ6:z&y,6O^S:OOz rS^,HJJCcz&&-e6CC6Lzej,O^^,S Lr J&:,6JCCOre&zyzHLe CH2JO:^&JSLO^eS OzJ,HC HJJe5H&:Sz6HCOLS:6,O^ HSO,p &S:r6&C,OHe6,zz9rO ^M:^L666SS,OJeCLr: reeHrLJzMX&OS^O:rOL CS,O^JHC rD&&e:J66:zOreO,^^:rL  &HJ,HJ&rSrO&eeLHz6 :^T,z ^::&LS S^C,L zCJL^&rBeJs&&z:y:HC^O.eLLz5,rL JkCzz:&6eSH&6:SLHzOr^ :HLSz:SJO,zOCC,L&:6,H^6Hz^rHJ&^:H6LLeLSe,,Jz:,, &g:JHOe6zSGOOCeLJzLrC SOJJJ:C&r: 6eCHLzzzJ ^OH^J:H6JHSS6 CJJrer,&^e,,  qzJ&:OJeC:OLe OPS^rJ^OHr^D:e&HS66C3&LOe,r:^6H JSv,J^rL6rSHLeCe,6^zrv^&LH&:::6 HCO,eJ,CeLOS eHCJ6Lm&MSOO^e:^ z rS^,rLJC.L&&!e LC&LzeA,O^^ L L7 &O:,6 CCO,e&,ezHL6eSHHJ6:^&7SL 6eS6,,LrS^,H&JCoH zSzJ2CJL^eW,L^^HSpJiJ&C?H6&CeOHe6,zzHrOz^HLJL: 6SS,OJ5OLrCC,L^HH6Jzr^&OSzO:L^L er6^^ HC r,H&e:r66C:J&e6,^^: S  k:J,d^erS,O&ee^Sz6rz^YHOJH::&OS O:C,LJzCOr:SHC ra6&e:0^rC^6:e6, ^:r,  7C^&:&Je:JO6eeL?z6r^CJHLJ c&&,SJOCCLL&zC,HzJrC P;O&^::6LC LSCOON^Cr, &rOJH:66zSh6re^,:zLrz SHLJJ:CCzS&OeCHL&zz,d^O,^^rIL& SS6,CJJ^erO&zzrH 6kzJh:OJ:C:OLS,,SzLrJ CHrJ&:e HSeOzCHLOzzr:S6H ^SH&&JSS6rCJLeHr,6ez,6 OAz&::O6 SOO,SJO&zrrJ eHrJ6L^&9FOHLe:LOz r:^,,JJCrrJSSe6rC6LeeZ6S^^r:^z! &S:,^HCCO,e&LSz6r6 zHx O:^6:SL6zSOL,z rCzzH&Je?H&6:C6<COL^eH,L^^HS ,H2&C:r6&CCOHe6,zCUe^ ^n:JL: 6SrEOJSCO6z&re^HH6JzrO&OS^6eCLL^zS,,^JHC rr&  :H6&CzOHeO&e^:LL^ gSJL:J6SSr^Jee6Hzzrz^HHOJz::&zS &SSSLJzS,r^JHeeCV6 z^^6OCzL:eO, eSr,zJH^Jr:J6eSrO6_LL-eO,& :HLJ ,&&,S OCSLLeze,H^6rz EoO&^sH&+C L:e,OH^Crr &3e J:66zSkO&e^L2zLr ^rH,JJ:C&,S&OeCH666f,A^OH^J:3Lz6SSJ,C^LCer,&^erHzzwzJ;:66^S4OLe ,Sz,rJzCHeJ&:C&HS&OzHrLOC^L ^LH^JSsL&J,S6r:&O&eH,&^zrH OHH&:HL& CSOLeJ,Szr,S e,HL_:z&HSOOze:6Lz LS^6HJJSTr&JSe ^C6Oze,,O^^H:eC< &::,&^:,Ore&,eeHr6 zHM &(:6:SOO S&L,zJrC^rreJe8H&6SC6PC6L^z:Lz^ HS ,8 &C:r6&:e:6e6,zzhrO ^LeJLH J S,OJeCLrz&OH^HH6JC-P&6S^O:CLL zSO,zrHC ,P&&C:H^JCz&deJ,^zQrL ^ASCL:JJCS^O&eCLHz&rz^&HO^^j,&LS^OSCLLJe&,re&C6 H5&&z:H6O:^L:SLLL^SrL J-SJr,l6e:H&,ezL(zO6, :HOJ H%JLSJOCCrO&ze,H^6rC^e9O&zS:&CC LSe,,Jz&rr &oeJ,:66eSQOOC ,:zLr  :H,JJ:C rJeOeCHL6zz,lSrH^^:xC& SS6,CJLCS&,&^er  65eJg:O6^C:OLS OOz,r  CH,J&,S&H1666CNL6z^,p^L6^JSr, rSC6,C&LCeH,C^zL!^6*^JX:L6^CSe^eJOCSOrJ CHHJ&:z +SO&^}rLOz^rS^LHJe6TrJ&,J6rC6Lz: ,O^zH:^6OS&::,6JSCOre&,ee,OC zHHJOH,6:SLO eS& z rC^rH JeIr&6S: &C6L^z:Le^zH: ,H^Cr:,6&CezSe6,zz_,&S:HDJO: ^&S,OJeC6rS^rC^rH6JegcC&S^&Hr&L e{,,SrHC rQ&JS: 66CSOo,J,^^:rL^zH&J,:e6CLJO&eeLHeJLL^QH^J^LL&LS OSSOL:zC,J^&&O H#6&zPr&&C^O6eL6S^Sr, JH:J::&&LSH&JezLZzO,eerHL r:SJeSJOCCrO eO,HzaHz r.O&^S:&6CCLSeS,JeJrr &ke ,_H6zSeOOo ,:zLr zUHzJJD^&rreOeCHL6zzL^^OHzJ:HH& SS6,CJOher,&^erH 6ReJE: JmC:OLe O6zOr  CHr&S:e&HS6OzC1LOz^L:HHH JSj,&JSC^LC&6eC,,6^zr7 OP^^,:LJ SeO,eJ,Czrr&e,HH^6H,&DSOO^e:LLCJrSe,reJC+r&&Se6HL^LzS6,C^^H: LCL&S:L6Jr:Orez&,zrr6 zCzJO:z6:SLOXeSL,zJrS^rH&JerH^LSz6ACOL^z:^,^ ,S^6ZJ&C:r6&CeO&e6LCe&rO eM: ,: 6SS,OJS Lrz&re^,H6JC_T&zSCO:CLL O^,,^ HC r1&JGrJ6&CzOY6H,^zvrL CLOJL:J6CJ6O&eCLHz6rr^uHOJ^_p&LS OS:,6OzS,r^&He HL,&zH+6 C^L:eL, ^Sr  JH:JL:&6SSH6OezLnzOr^zeHLJ :S&OSJO:CrLCCR,H^6Hz,LDO&zS:6OC Or:^, ^Crr,zAeJr:66:H&O6e^,:6Cr  :H, ^Or&,S&Oe_,L6zz,<z&OHJ:2O& :C6,CJLCerSz^erH 6XCJ9:66^:H6:e ,Sz, O CHrJ&tSe6S&OeCG&Sz^r:^L, eH1L& SC6,C&^SeHLJ:Sr5 &v^S,:L6 CS6OCe,CzOr&CrHHJ6:zJrS^O^C,LLS rS^,HJ :FS&&:H6H,rLze2,Oze,6 Lg:&SOz6JCCOrC LSzHrC zrJJO:^6::6&HeSLzzJJ,^rH&JeH,  Sz6 CO6,z:,L^ ,s^6/JJ&:rJCCeOHe6LCzLrO^Ob:e^: 6SS,6^CrLre,reCeH6Jz!hJ&:CO:SHL H^,,^JHC rHS&e:r66SJO}eO,^^:r&  #SJ,:J6CS,O&CFO6z6rz^mrCJelq&L:zz,CLLJzC :^&He HHJCX:H66C^JJeL, ^SL,ezwSJ,:&6CSHzJezOrnJr^^HHLCr:S&,SJ6:S L&z:,HHHHz UkOJeBe6LCCLSH6,J^Crr^ HHJH:z6zSJOOe^,:e6rS SH JJ66&rS&OeS,L:zz,&^O&JJ:1L& RD6JCJOOer &^erH 6HC^,:O&,C:&re ,Sz,,^^ Hr H:e^rS6OzCnO&eOr:^:H S /,&JSC&LS,LeeC,6z6rX O?^ HH06 SzO,He,Czrr& er,J6:e&Y:rO^e:LLz L6^,HJJCRr&&SC6HC^6Le9,O^^,& 6M^&S:,O:CCOre&,SzHr6 z,me :z6:SLO eSzOzJLCzHH&JeGH&6Szz:CO6^C6,L^ HS ,.JzL:r& S^OHeJ,zRCrO ^8: 6=L6SS6OJ,rLrz&re^HHeJz{/&OSCO:C6L SL, ^JHC rCe&e:r66rCO0e &HzwrL  S,J,: 6CS6JSeCLHz6rO^GH6J^::6zS OSC,L^zC,r^&,eeLB&&z:26OC^eHeLO SHrL JgCJr:&ezSH&6HrLHzOr^ :HLeN:SJOH:OCCLL&H ,H^6Hz^r,e&^:r6L*&LSe,,J^C&  &;eJH: 6zSHOOCe LzOr  Sr,JJ:C&r: OSCHL&zzL^^OH^J:.LJSSS6,CJL:er,J^e,,  MzJ4:O eC:OLe O_eHrJ SHrzz:e&HS6OzS,LOz^r:^6H J:a,J^c 6rC&LeCH,6^zr8^&cz&::O6 :JO,eJ,CzrOC CHHJ6:C&_S6O^e:,zz rS^,H^JCYr&&we LC&LzeA,O^^ H Lr zH:L6JCCOre& zzHL6SrHHJO:^6:SL ?eSOOS:rC^LH&S ?H&6Sz&rceL^er,L:LHS ,%J&CS 6&S-OHe&,zz0rOz^LrJO:C6SS&OJD^LrC&O:^rH^JztL&OHSO:CL^Cz:,,^JrH ryJ&e2,&eCzOPeOL^^:rL  rF ::J6SSr^ eeLHz6rzzrHOJ^::&6S O:C,LJz:,r^&He ,m6&z:VJOSJL:eL, ^Sr,_^}C^r#J6eSHO6ezLvHLr^z:OzJ^:S&,SJOCR L&eS6J^6HC >6r&^S:6LSzJOe,,z^CJ& &-eJH:6erS1OOe^LrzLr^ SH&z::S&rS&&LC,L&zz,U eH^J:!L&zSS6,CJ6C46,J^erH 6.z:r:OJ^SJOLe ,Sz,rJ:eHr^&56&HS6OzCoLO:Hr:z6r-JS9O&JL^6rC&LeC,Le^zr, O,&&::L6 CS6CeJ,Czrr^ eH,J6rHJCSOO^e:L:z^r:^,, JCl6^SSC6HC6O6eH,6^^H:Jzf &S:,6^CCOre&OeH r6 zH!JO:^SHSL& CCL,zJrC^rH&SztH 6: 6pCOL^z:,LScHS^OrL&C:L6&, OHe6,zer,S ^HrJLr66SS,OJeCL:z&re^HH JziH&OSS6OCLL zSLz^^HS r*&&,:H66CzOreO,^^:LL^JwSJ,:J6CSre ee6He,rz^gHOJ^::C,S &SCeLJzC,r^&HeeJ76JCMH6OCeL:rH, ^Sr,^^r,Jr:^6e/SO6ezL#zOL6 :HLJ wH&,S^OC:JLeze,H^6,m Hg6&^LH6LCCJOeL,J^C,& JXCJH:^^rSHOOe^CLzOr^ SH,&::C&rS&O:CHL6zzOTSeHzJ:iL& SS6 CJO:: ,&^SrH^^mzJm:O6^LLOLe ,SzOrJ :HrJCrL&rS6OzSeL6zzr:^LH  r,^& SC6r:,LCer,6^:O& 61^&:H66^C:O,eJ,Lzrr& eH,J6:z&i!O^HC_LLz rS^,HSJCHL^SSe6,C6O:ei,O^^H:: F &S:,6^CCOLe&LrC r& zH_ C:e&}SLO eSL&S:rS^rH&^L{,&&Sz&rr^Lzz:,LH6HS ,vJJ:L&6JCCOH::,zzjrOz^LrJO:^6SSLOJr:Lre &:^HHJJz6S&OS^O:S6OHzS,6^JJS r3&&e+,&rCzOLeOL:^:rL  rk z:J&rSr zeeLHz6,Cz^HO =::CSS OSC,O^C^,r^SHeSzj6&z:Q&&S6L:ee, :6r, JWC LrS6eS^O6rrLVzOr^zHLzJ 2J&,:SOCCrL&eS6J^6r6 lH,&^S:6LSzJOe,LL^C&i &_eJHwJ^rSi6re^ LzLr  SH,OC:C&,S&6 CHL6zz,GH H^J:FL& SS6LCJO:H&,J^erH:&FzJZ:O6^HeOLe^,Sz6rJ CHr^&:C&HS&OzCHLOSOr:^LrJJSvL&JS:6rC&LeeHL ^zrV OZ^&::66 Sr6&eJ,Czrz  CHrJ6Hz^,S6O:e:LJz ,:^,,S::Zr&eSe:,C&Lee+L ^^r,ezg^&S:,:^CSO,e&,e^Jr6^IHxJJ:^6:SL& HOLLzCrC^&H& rEHJJrr6yCeL^C,,L^ HS ,6C&C:&6&S,OHeJ,zz6LC zHLJL&66:SLOJeCLrzz6,^rH6Jz&C&6SzO::L Kz:,J^JrH rwC&el, CCzO&eO^^^:rL  xSSJ:J&rSrOSeeL,z6,HeJH6J::::HS^O:C,LJzC,6CSHC HX6:J:H66C^6:mz,^z,r, e?CJJ:&&SHJO6CrLwC^r^ :HLJ 6,&,SCOCC L&zS,H^e&O -K^&^,e6OC^LSeL,JzHO  J1eJHL,6eSHOOeS&6zOr  S iJ :S&r3&J:CrLzzz,L^OJ^J:rL^eS:6JCJOrer&S^er:LHTzCr:OzeSvOOe L,z,reCLH,J&:ee,S&OeCuL :H,%^LH szDL& SC&LreLCe6,6z&rU OG^ :,^6^S,O,eC,Cerr& eHJJ6;q&pS6O^CTLLez,z^,HCJCHS&&Se6HC66JeN,^^^rG Lc^&S0O&&CCO&e&6SzHr6 zH<J&:^&LSLO^eSLLzJLCzLH& HjH&^SzJOCO&^eO,L^SHSz6}J ^:rJ&:SOrez,zzLrOz:.: 6he6SS OJCrLrz&reeH,HJz86&O:*O:,6L C0, ^JrL r,^&e:H66SC6&eOLr^:O&  (SJ,y^J,Sr6Vee&Lz6rz^nHOJS::&^S 6&C,L^zCLr:,HC 6Q6&e:M6zC^6HHO, z,r,1OACJr:&JeSLO6CHLuz r^eLHL^ A &,SSOCCJL&:O,HzJ,w lKe&^rJ6LC LSS,L ^Cr  &H,JHOJ6z:r6He^L&zL&z SH,JJE:&CS&6OCH^Czz,o^Oree6_LJ,SSzOCJLCer,&HHrH C#zJ^:O6eC:OLSr,:z rJ^,HrJS:e&H ^OzCOLOzer:^OH ^PK &J:r6rr:LeeH,6^zJ1 O1:&::O6 C:O,C^ rz,re eOHJ6:z&=SOOHe:L^z r:^,HJJCHL^SSe6JC6 Je<,O^^,HS (^J6:,zLCCOre&OeSLr&^,HaJC:^z:SLO rOL,zCrC^^H&JCwH 6HS6HC^L^e,,LH HSz,,z&S:&6&SHOH{C,zC6 J ^HLJL&66:SLOJH:Lrzz6,^rH6Jz&C&6SzO:S6 Sz:,J^JLO rg&&e:&e9CzOOeOJezprO  ?:J,:e^LS,O&ee ,z&re^bHOJH::& S 6TC,LJzCOrSSHC 6u6J.:t6zC^6H:z, zOr,^e#CJr:&6eL6O6C8Lqzer^^HHLJ:r6&LSCOC6LLJzC,H^6Hz L,e&zS:6L6zL:eL,Jz:&& JHHJH6,6zSkOOe^O:zOr: SHOJJ:C&r8&&HCHLezz,6^OrKJ:H6JCSS6zCJ6Her,&^erH^edzJ6:O&rC:O6e OSe:rJ^,HrJC:e 6S6&zS,LOe4r:^^H e&Q,J^w 6rCSLe:^,6^zrvzOSC&::z6 SOO,r^,CeL,O eH J6LC&QSOO^SH6Hz ,&^,&:JC4r&&:S6CC6OOetJ&^^H: L2 JS:,6:CCOee&,SzHr6^6HBJz:^&OSL6ReSL,e:rC^&H&JS_H&&Sz66CCLzz:,LSrH: L.J&::r6zH,Ore6,zS r6 z.:JJ,i6:S,OJSOLLzJre^H_CJz5g&OSeO:CLL CS&&^ HC r/&&e6,66:z6,eO,^^:rL  6CJ,HJ&JSrO&eeLHz66r^Br&^6::&6S zzC,LJzCLLz He LT6^J:>6OC^L:eC, ^Sr, z-CJL:& rSCO6ezLMeCre^NHL^r:S&&H:OSCrL&CL,,^&Hz c:e&^S:6LCzLSe,,JeCOO JTeJH:66zOrOOS^&rzOr  SH,JJOe&r3&^,CrL6zz,%^OOHJ:H6z(SS6OCJ^^er,&^e,,eCnzJ,:O &C:OLe ,Sd^rJ CHrJ^:e&rS66CrOL6z^r:zLH JS},J^S:6rCJLeCz,6^zrn OrH&::L6 STO,e ,CeL,& eHHJ6rC&*SOO^SHL z r:^,O JCxr&&Se6,C6Lzeo,&^^rM LHzJC:,6JCC6re&,ezH,J eHmJ6:^J SLO eSL,6erC^rH&JSlH&&Sz&rS&L^z:,LH6HS ,<JJ:L&6JCCOH::,zzirOz^LrJO:^6SSLOJr:Lre &:^HHJJz4L&OS^O:S6O:zS,6^Jr: r}&&eA,&eCzOLeO6,^:rL  riJe:J&rSr^HeeLHz6,C^OHO ;::zrS OSC,O^e&,r^SHe L<6&z:5&&:OL:ee, zzr, J2C LH^6eS^O6SLL/zOr^zHrrJ nJ&,:zOCCrL&eSLL^6r6 vLJ&^S:6LSz6&e,LL^COH &4eJHxJ& Su6re^J zLr  SH, H:C&,S&6 CHL6zz,NzzH^J:bL& SS6LCJOHC ,&^erH^S1CJH:O6^C6OLe ,Sz6rJ CHr^&L,&rS6OzC>LOe0r:z6OsJSuO&JH 6rC&LeeH z^zrk Oye&::66 SL&ze ,CzrSS CHrJ6:z&>S  HCULLz :O^LH JCm6^SSC6HC6HJeH,6^^H:Jzf &S:,6^CCOre&Oe:Jr& zHEJO:^&OSL6z=OL,z^rCeSH&JePH&6Oa6mCOL^eH,L^zHS  ,I&S:r6&:LO,e&,zzMrO SL6JO: 6S:zO^eSLre JH^rH6Jz6H&OS^O:CLJ6zS,L^Jr/ r(&&eHH6:CzOHeO,z^:L:  4S ::J6SSrO eeLHz6rz^HHOJ^::&LS 6yC,LeC^,r^&He^&TJ&e:7JOrHOMe , zrr, S%C LrS6eSJO6,zLFzOr^ :& J *,&,S:OCCLL&erJz^6rR xCS&z:w6LC^LSe&6:^Srr &SOJr:&6zSLJeez,:zL,:^BHLJJHCz SJ6HCHL^zz,6^Oree6ALJ%SSJJCJLCer,&HHrH zNzJ&:O6eC:O^:H,:zJrJz,HLJJ:e&HS6O:R&L6z^r:z^HzJ:l, JrG6,CeLeeO,6Hzr0zO,CJ+: 6 S,O,M:,CeBCr e6,J6CS&HS6O^CLLLzC6O^LHJJCSO&JSC6HC^JreH,O^^,O 6Z^&SH, zCSO&e&LUzH,& z,6Lz:^&LSLLDe:LLzJO ^rHze,Pr&6SzL&C6Lzz:,JSyH: ,lJ ,:L6JCe6,Hz,ezOrO^65:JL: JSH6O CrLrzerezHH6Jz6>&OS:O:COL z:,,z^&r ,Ee&er,66CzODeO ^^:r   a:J,: 6C:L^JeeL6z6 J^*HOJ^H:JeS 6LC,LezCO&^&,e zs6JH:(6zC^JJeLLzeHr, :bCzz:&6eSH&6C,L}zer^^6HLSz:SJO:eOCC^L&FS,H^6Hz^rcz&^:J6LLALSe,,Jz:O  &H6JHLJ6zSjOOe^^LzL,m SHCJJ::&rS&&OCrLezz,6^OrHJ:yL^:S:6JCJL:er,J^eLHzJgeJO:O6SC:& e OGezrJ^,HrJe:e&HS6&zCzLOe(r:^^H :3_,J^::6rCSLerC,6^zr=^&rO&::e6 L^O,eJ,CeL,H eH^J66&&iSOO^e:O:z ,L^,rHJC<L&&:e^CC&OMe1,6^^rO Lr zH:L6CCCO6e&6HzHO6^HH8J^:^ rSL&6eSOOaCrS^&H&SLTH&6Sz6.,OL^eL,L^^HS LmJ CrO6JSHOHe^,zrwrOz^LrJO:S6SSJOJHLLrCC :^HHzJzFz&&SzO:r6L er6^^ HC rHr&S:r66SC^Oe6,:^:Le  aSJ,:S OS,OeeeLezJre^/HOJ^I,^zS^OSC,O,z:,,^&r-eJR&&z:dLeCzO?eLO SHrL CQCJ6:&CeSH&6:SLHz^r^^LHLC-:S  &SOCC&L&Cr,,^&HzSr7O&Sr66OC LSC ,^^Srr &d,JH:z6zSrOOe^,:CLOe :HJJJ;r&rO Oe:H& ze,O^OH:J:6,& FS^^C Orer,e^eOJ 6HCz&:O&HC:zHe ,Sz,,^CLHrJ::e zS6OzCwLOHHr:^ H  6m,& SC6JC:LCeH,6&SrH 6k^JH:L6CHOOLeJ,CJOrJ CHHJ6re&ESOO^ClLLz rS^,HJJC2r&&Se&MC6Lzeq,&^^H: Lx &S:,6JCCOOeS,ezHr6  ,,e L,^CH:^&CHLOzJrC^rHO ,pL&SSz6MCOLJS66SSz6rCeLreO:O&JCeOHe6, eJ66CYLCe6,,^&CJ&SH&&e::&O 6LH ,}rs:J,:J6CSrO&SeS&r! :.&&e:H6L:CJ^g&&S:66rC,O6&JHOz&H O^CeLHz6rz SL,eSL 6 ne^rHe,CC^6J:rO6J6,HJr:,&rC^L:eL,&ee66S,OHer,H LHz CH6&^:erC^zHLJ :S&HHL &HOJJQQ6 S66LCL,zz,:H6LC LSe,,J^CL6C&?SJH:66zSjOOe^r:&,re^QH,JJ:C&-SCO:C6L6zz,g^,66eOLrer:H6^CJLCer,OeL6OCJLC zr JzC:OLe ,S^^rJ CHrJ&:e&HS6&zHLL6z^r:^LH  r+, Jj,6rC&LeeH,6z^r5zOH^&::L6 CSO,CH,CeLr  eH,J6KO&.SOO^SHOrz ,H^,rOJC_r&&Se6rC6Lze-,J^^rH Lr:JL:,6JCC6ze&,CzHr& zHLze:z6:SL&reSLLzJrC  H&JC<H&6Sz69CO6^:r,O^^HS L_JJH:rJ&Z:Ore&,zzHrO^ 8:^LL26:SLOJeSLreMrez,LCJzb,&O:LO:CLL Cv6^^JrH rE^&e:H66Cz^&eO,z^:rJ  .:J,K^erS,OJeeL:z6rz^/r&eH::&6S 6LC,LJzC,rOzHe rd6&C:G66C^6HC6, ^:r, ^.CJr:&&SHJO6eCL.zer^ :HL z,O&,SzOCC&L&ze,HzJOr WP &^:^6LC LSe,J:^Cr, &HAJH:&6zSLJeez,:zLL  SHLJJr,,JS&OeCH6rzz,H^Or6J:_JzTS:6,CJ6 er,J^erOeC=eJ-:OJ^C:OOe O.xJr  SHrJ :e&HS66Cy&LOzer:^zH JSQ,J^rL6rC^Lee ,6^zr_ O6H&::O6 SHO,e ,CzrOJ eHHJ6:e&ZSOO^e:LLz rS^,&CJCUr&&S:6zC6Lzev,,eeO CzLHzJ,6 SrL^We ,ezHr6HzCCz6^Lr:S6O eSL,,JH6JJeeee_L&SSz6ICOLJS^6SSH6&C&L:JO:O&&CeOHe6, ez6,SrLee6r:zHCJ&+W,J&9_6rC:O JSjz&OS^O:Cr6H:L&6eB6HC,LJz^r^^2CCO3eO,^L:H&OCL6e,:^6CSrO&SeL zj&LShH&J^::&L6 J,,e- &C,L^&He H66r ^H:6 ^Ore , ^Sr, 6r:zJ,O^:SL6OezL4zOrJeH6rCHL&zHr<OrSzJSyh&6S&OOC 7O&^:r&HC LSe,,6e:68CJL^e^rezrrSL^:rJLvrrez,H,JJ:C&80S rm^JL::66CC6,eCL:z,S,JOkS 6:e&SS^O&C&;SJe:O6^C:Or:X&J:J6 Cz,&ezLL ,He &C,Orz^r:^LH&^eL6e,,H^rHH&L:z&C:6O^CeMe&::L6 :S&e:OC,:rr^^HHHJ6:z6S=J kHH&SzzrS^,HJ6CH,,&^r^HC OHeZ,O^^HCC ,:ze,^z_C:Ore&,e He&O&J:LO:e6:SLO SSCSr^SH6rH He>P&OL^zJOL&e::,&zeHS ,9J&zH&^Or,J&>:&O^OL&CJO!eO,&zrr6JS/zJ :Hr:zLH6JzR_&,H,^,:C O:J6CSzL CGOhz #z^ rL &:z&rS r6  (SJ,zJzLzeWCJeL,z6rz^P:OCSC&6Hr 6PC,LJzCzrCzz :7e6&S: 6OC^L:erO6:J6OeSOfe6,O^OS,O6ezLo:OJrSO ze jm&,SJOCCrL&zeO:66HC PnO&^r:rzr,C:J,,ze,rr &;e&:aS^JrLJC_SJ9S^&rCJTJ :,,z Ce&,E&J:nL&HC:6H HqL& SSe,H:e &L:&^:rC 6nzJn:,JzHO :::,,CJ66SLLJCa,6&LSeOzCgLOzJL zz6,C6L&&z:e6rC&Lez:OSSO6He:LreJH6^,r&JCf:&zSJ6J :HzJ6:z&BS,&O?CJe:6r,eeLSezL,&^: 6HC6LzzSO&SL6JeSO8zer ^ :, eHuJszLrS zH+JO:J 6HS zHrJe:r&O^Or6JeoH&6S &JH JC:S&S:EOJee:C O,6 :r8J&eJ,zztrO ^,&H&z&rSS6O:eCLrz&r^zSOyeHLHzSr&6HCLL zS,,^JHCe.L&&S:H66Cz:XL6^r&LSL zvSJ,:JLCzSPO LbHz ,J^FHOJ^:CJC,; Lo:JetRr&e:OLe&L&zO:,&PC^L:eL,&eL66CLL&e,Se JH:  _&L,z:r^ :HLJ&r7^ rL :AJ,eSh&JS0HS  bO&^S:6r:z r:^6WSO6 eCOHJL_H6zSROOeJ6J:zO:S LCe H:^JrO :C,L6zz,QrOzr,:,Hz :H6^CJLCer,Oe:6O^SLezS,^6eC:OLe CSrJC S6OrJ :e&HS6zzS O:reS:^6H JSt,&JSC6rC&LeeL,S^zrl O_J  rf^,HL JieJ2zOrC eHHJ6: J&re^LHJ&Sze,O^,HJJC#ZJ:s&^J>eJC:^,&^^H: L6 CL,zr HCOOCO,ezHr6  rzzz,rzJrJ^*He,JSi&6CJOre&V,&6Sz6w OJ J:^OS rH z(J&C:r6O5O OS:J&S^O:CCHrJ : 6SS,O6H &J:O&O^,H6Jz=NHO^CHzLJJ e%,,^JHCzr6HeSLL^6CCOmeO,^J:eC6Je,e,:z&6SrO&ee,:CC6OSO,CerL6^^rS6HC:LJzC,r^O,JezL: ,rC^,HzJJwz&,:Hr6^HwCJr:&6^%, ^9rOz:,&rCe,CJe1J&,SJOCC1&,:r&rS6L,CO,:zLrJ6&CSLSe,,J^z6zeCOLeH: & SYOOe^,CCz6CSeL e :r ^rz C3^JL:O&&^Jr^J:!L& Se&SH6 O::& Sr6LJz,&z6,ezHHC JH%LHerrJ CHrJOH&^:r  LSzJ,0H&&SC,HezLHz r66OCzLeeH,6^ L:C OLJr:z6 CSO,e6OO:66 CSrez^:SJHSOO^e:LrC6&JSOLSClL6zOrOJJH^J:Z O^SN66CC%eJO:,6JCCOnYS&r:LO:C:OrJ&OO6SS,zJ6&eJOk6C^LH&JeiH,6O6:,  K^erLr^ HS ,36^ rJzUH6 JzzO6SS6HC&OJzSL%&IS,OJeCLrzzH6S6O6JCVY&OS^O:CLL :r&,^^HC rc&,e z^OrC ReJ,:^:rL  QeeOrSz6H:O^CJLHz6rz S,CerL6^^rSO,:OJr#66JSJHS HI6&z:?LrHe^H4L,z^Sr, JJC:&O :^^HO C:L3zOr^ CrCCg,L^:re^1e&O:n,6z:rH_ze,zeH,6^rHC Oe6,:^Crr &g^ zuS^eHSJCE^LrzSr  SH,J6r6z HC^&-zJ&S^&LS:HC  -L& SS6H:^J,:SOz:,OzzJL:e,:&6^C:OLS Je&JCJCCHO U:e&HS6O :OJ #r6CSCO&CrL6&z:H6rC&Lez:& SO6e JH,&::L6 Ce6eD:&&:^6:SUOJze:S& SOO^e:LrS.6JSJ,,ezL^zLHO6LS6Lzes,O^JLJCz,:e rC^ :6  vHJL: 6CC:OJzz:e6:SLO rS JOSe&6rY^J:KH&6:CzOC6L^z:&C^ HS ,rJzR:,6&CeOHe6&ezirOCzc:JL: 6:S,O^eCLJC:rC^HH6&CG,&6S^O:CLLC:O,L^JHCJLd^&C:H&J,lOHeO,^C&rL  nSJ Or6CSrO&COLHz&rz^HHOJS,6&OS OSCeLJzS,r^zO, rW6&zJL6OCzL:C6JS^:r, J,,Jr:&6eF&HeezL2zO,& :HOJ ,K&,Se LC,L&ze,S^6He =l zH:l6LC Sre,, ^C,LSeyCJH:6&6SGOOe^LOvSr  SH,  :C&,S&OCCHL^:r,H^OH^^!;L&^SS6&+:LSer,&e&rH &>z rre6^C:OLC&,Sz,rJ^: SJ&:e&HLLOzC0LOee,&^LH JS,:&JSC6r:&8OeH,6^zry O6z&:X6JLCSOLeJOJzrr& er,J^:z&rSO Ce:LLz Lk^&HJ F4rzLSe6HC6LzC6,O^^H: &; Jb:,&^t&Ore&,eeHr6 zH3J ,H&vSLO :6L,z rCzL6eJC<H&6LC6lCOL^eOJS^ HS ,r&&C:,6&CCOHe^&rzHrO ^rSJL:^6SS&J:eSLrz&OL^HH&JzHr^eS^O:CL6CzS,,^Jr:HS_&&e:HeLCzOAeOLee,rL  BSz::J6CSr&&JOLHz6rz^VHOSz::J6:COSCLLJCL,r^&He^,Hr&z:r6OSrL:eL, eur& JHgJrH^6eSHO6ezOJzOr^ :H&J (P&,:^J&CrL&zeLH^6Hz QH&e::j6LC z2e,,J^CrJz:hCJH:6 ^SVO6e^,:zLrCCOHLJJ:C^HS&OCCHOJHm,H^OH^ ^#L& SS6 IILSer,&CzrH &bzJM:O6SH6OOe ,SSrrJ SHrJz,,&rS6OzAOLOzzr:^LHEJS7,&JSC6rC&LeSHiH^zr{ O5^&:HC6 :SO eJ,Czrr& eO:J6HzJJSOO^e:LLz ,:^,r^ &Dr& SeeOC6Lzex,OzrH: LW Ju:,6 CCOrzS,ezHr6 eH_JO:^J:rzO^eSL,zJrCSSH& SO6&&SC6U,,L^z:,L^ J, ,nJ&C:L6&CSOHee OzjrO ^LzJL:^6SSLOJCH& zJre^HOrJz;H&OSS 6COL zSe,^JHS rH CH:r66Cz6OeO,^^:rLC6fSJL:J6SSrO&ee6HeSrz^HHOJz::z^S OSC&LJzS,r^ He H>6&zBO6OC^L:eL, z7r, er^Jr:&6e6SO6eeL%COOC^EH J 9r&,:zOCSL ezC,&^6&  nDO&^:OH,C O,e,&:^Cr, &HrJH:^^rSHOOe^J6zLr^ SH&z::S&rS&S CHL&zzO}SeHz LAL&CSS^:CJO:H&,Jz,rH:L<zJ#:O6^LLOLeS,Sz^rJ :HrJCO6&HSzOzHCLOzzr:^OH  r,^& SC6rrLLeer,6^:O& 6G^&:JH6 C:O,SJJLz,re eHOJ6L&&4:& He:Lzz &C^,HJJC_rCeSe66C6OreK,&^^rOSSD J,:,zzCCO,e&,CzHr^CrHHJO:^erSLO^eSL&S:rS^rH&H ZH&&SzJg?JLzeL,L^CHSzH?J CrO6JSHOHez,zCerO^JLJJL,r6S&mOJeSLrzere^OLCJe!F&O&&O:COL CIJJ^ rr rO#&e:H66:zeOe6,:^:r   L:J,:JJ,SrOeeeLrz6re^sr&^x::& S J,C,LJzC,rz,He 6K6&e:N66C^6HeC, z,r,CrKCJr:&6eSeO6C0LVz6r^^qHL zHr&,SCOCHrL&ze,HzJ&. H=z&^rz6LC LSS,O^^CrJ &HrJHO&6zWF6&e^L6zLrC S6rJJHC&,S&6,CHLCzz l^Ore rYLJHSS6&CJLCerO&zLrH S3zJJ:OezC:66CL,SzerJ:LHrJ&:e HSJOzC LOe,r::LH ^QOe& :&6r:&LeeH,6zCr6 OHO&:rH6 CSO,eJL,zr,g eHeJ6:C&k:&&&e:LSz J,^,HJJCHLJ6Se6eC6^re8,O^^,:^SV J :,&,CC^re&LSzOr6^&H!^O:^6:SL6zC6L,eOrCe:H&JebH&6dL6kS{L^ee,L^ HS ,HJ&C:^6&CeOHeJ,zz!OH ^H6JL.o6SSzOJeCIRz&,r^HHCJz#Q&OS^&JCLLSzS,,^JHS rH J,:H6zCz^eeO,^^:rL^6pSJJ:J6SSrOJee6He6rz^OHOJS::e,S JSCCLJer,r^CHe SU6 z:e6OC:L:eJ, eer,eJrLJr:e6er O6!LL4zO,L :H J ::&,SJOCSLLJze,6^6OH 2yO&^4:^zC^O,e,,e^C6S &HSC6:&&rS>z,e^,:zLr p,H,JC:C& S&OSCHLeHO,Q^^H^HH5L&^SS6LCJOH: ,J^erHHJ0zJH:O6SH6OOe ,SL9rJ SHr^&r:&rSzOzCLLOCJr:eLLeJ:0J&J:r6rb,LeS&^ ^zrO O &&::O6 H&O,ee&Lz,r& e SJ6:e&!:&^:CBL z O6^,HJJChJ :SC66C6CJeq,6^^H: LRCzO:L6JCCC:e&,CzH,J:RHHJ^:^ OSLO eSL,S^rC^&H& H_H&6SzJ6L&L^eL,Lt{HS L2J^::r6zH,Ore6,zd&rO z%:J^/H6:S,OJ2:LrzJre^,H6J:,&&6S^O:H6L z:,,^eOL ,Q&&e:H66CeOPC&J:zQrL  rJJ,:J6C:L^eeCLrz6,z^{HOJ^::^^S^OSC,L^zC,,^&r0eJx&&z:B6OC^O_eLLz.,rL JbC^^:&6eSHOe:,LHzOr^^JHOJ^:S&,SJ6H9 LJze,H^:He HiOJeLL6OC LSS ,J^CrrzC&SJH:66zS O6ez,:etr ^rL^J :C&r:mOCCrL6eCJO^6H^J:66& SS6,CS^&er,&^eeL 6geJd:66^S,Jze^,Sz,ez CH,J&:e6JS6OzCdLOz^r:^L, O w,&JSC6rC&&OeHO6^:r} Os^&::Lz&CS&,Cz,Czrr& eHH &:zJr:,O^CHLLHCrS^,HJJCue&&Se6HCJLzeH,O^^H6 LT &S:L6JCCOrS&J,zrr6 zHkJOL66::6 aeSLOzJJb^rH&Je<HCzSz6xCOLez:,6^ rLSCxJ&C:rHHCeOre6,ez=r CHH2JL: HJS,O eCL6SSrC^HH6JzBH&6S^&Hr L^zS,,zCHC rx&&erS66CeOle6,^^:rLz H&J,: 6CS,O&HrLHz6,J^}H6J^?H&LS OSC,LzzC,r^&He H*J&z:LJrC^L:eL,6^SrL JrCzO:J&HSHO^ezO,zOOG6OHLJS:Sr&SJOSCr ^ze,OCCHe 58OrSS:6OC Or:^, ^Crr LDeJr:6Jzr&O6e:,:zJr S^H, ^,L&rSSOerLL6zz,N^O&:J:1 & :O6,C^LCeJ H^er6 6eOJN:66^S-OLeC&OzLrJ CeeJ&:C&HS^ rCHLOz^re^LH^JSr,z:SS6&C&O1eHJr^z,reeg^J6:LzJCSO,eJ,CH&r&^HHHJC:z&rSO6sr LLzSrS6,HJJSvr&JSe6O_CLeeK,O6^H: OV Jrr^6 CCOreL,ezrr6zzL,J6::6:SJO SeL,CJ6y^,HeJe*6&6H&6QS,:Oz:6C^ S, ,= &C:&6&S>JJe&,zzgS^ ^H8JL:C^OSLOJeC,:z&rC^HrJSR3H&^S^^JCLL zSO,HCHS &0&JH:H^&CzOfS},^zLrL ^>SJL:J&:S^O&CHLHCzrz^BHOJ^He&LSSOSCLLJzS,rz ,  H_z&zr^6OC^L:eLLS^SrJ J<SJr:J6e:,6rezLOzO6^ :HLJ HleJS 6,CrJ,ze,H^6,zzrVOJvS:6^C ^:e,OJzSrr SMeJO:6z^Sk&OSH,:zzr ^OH,SJ:CJL:LOeC L6z:,2^OH^^:H^& :66,SjLCr,,&zS,L 6HLJFLe6^C:OLS OLz,,H CHzJ&Le&H:JzLCHL:z^L:^LH JSHO tSC6CC&& eH,6^zr+^rx^JJ:L&LCSOOeJL:eJr&^6HHCz:z&sSO6eS9LLeLrS:^HJJCGr &:,6HSHLzez,O:^H:^6<C&S::6J:COre&,ee,rz zHCJOr&6:SLO eSOTzJ,J^rrLJelH&6Sz66COOrz:,L^ rs ,TJ^ :r6SCeOJe6L,zWrOOJ!:J^: &OS,OJeCLre:re^6H6Jz4%&6S^&HSSL e,,,PLHC rR&&e:O66SPO4e6,^zFrLz H,J,:C6CS6O&HzLHS6,O^cH^J^8O&L:6OS:,OezC,&^&r! HrL&zrt6SC^OLeLJH^SOe JkC L:&&HSHO&ezLdzO,ez6HLJS:S^ SJOCCr6&8,,r^zHz LNOe6S:&6HmLSe^,J_nrr &weJHOz6zSOOOCH,:z6r ^L6CJJFr&rC&OeCrL6ze,(^ OH VtL& CS6,C LCe66S^CrH 6#JJ_:66^::J&e^L,z,re C,cJ&He^LS&6mC2L^z^Oz^L,:%HZ,&CSCO:C&LCeH6:^zrLeeKz&::L66CSOLeJL:u&rJ^HHH^S:z&jSO6yr LLzSrS zHJJSur&JSe6O-CLee(,O^rH: Oo Jrr^6 CCOreL,ezrr6^C6OJ6::6:X^O eSL,zJO:^rHeJe.6&6Sz6A:zHoz:, ^ Hz ,3 &C:S6&S0JJe&,zzorr ^H5JL:C^OSLOJeC!&z&rC^HHe ,RH&OS^p:CLL^zS,O^JrHe 4J&e:HH6CzOHeO,SS6rO  cSJ,:J6SSr6 rHLrz6rzz^HOJ^::J6LrOSCLLJ: ,r^&HezHr}&z:H6OCzL:rO, exrL J=:Jr: 6eSHO6CCLCzOrC :O,J :S&,:^O:CrLzzeJ,^6Hz >xO&SS:6OC Ore,,J^Crrz,AeJH:66zSAO6e^L,Szr^ SH,JJ:C&,S&6Sr6L&zz,?eCH^J:uL&:LJ6,CJLCe:,J^CrH &FzJLre6zC:OLC6,:zLrJ^HL JJ:e&H6KOeCHLOeeJL^OH JSr &JSC6r:CzSeH,6^z ^ 6Kz&:m,6 SrJ^e ,Czr^H CHrJ6uCeOS6O^e:^6z rS^,HSS&.r&&Se&^C&Lee;,6^^r,ezt^&S:,JHCSO,e&,e^Jr6 zH{JO:^6:SL&   L,zJrC^rH&zO=H 6: 6FCOL^z:,L:&HSz,rL&C:r6&CeOHC&,zer,& ^HHJLOC6SS,OJeCODz&re^HHJJz_H&OS^O6CLL zS,L^JHC rr&e,:r66CzOteOJ6^:,6C<GSJO:J^zSrO&eeLHHzrz^DHOJe::&6S 6L:zL zC,rHJHC rt6&z:B6 HHOZeL, H:rL  GC LLe6CSHO6S#L%zOr^ :OHJ ::&,S OCCrL&CeLr^6He Mk6&^,O6LC 6Le,, ^CrL &XeJH:6&HS%OOe^,:zLrz SH&^O:C&rS&e^CrL&zzObCJHz LpL&CSS&6CJ&,JJ,&zHrHz:/eJH:O^JC:OJpy,:z,rJe6H,JJ:e&OHCOeCQLOrJ,E^OH ^SL^& :r6rCzLeaC,6zCO& OHH&:,r6 CSO,eJ^rzrre eHJJ6:C&4SzJrCDL z  e^LH JCKr&&:/ JC&Lzep^,^zr7 Lr eO:L6CCCO6e&JJzH,JCrHGJe:^zSSLO eSL,HCrC^&H& ,KH&JSz66r:L^eL,LCCH: LxJ&S:r6zH,Ore6,zSLr6 zm:JJ,?6:S,OJ,zL,zJreeHL JetO&OSSO::rL CS66^ rr roe&eHC66S J eO&,^: r ^*:J,:C6CS6JSeCLHz6  ^HH6J^HHe S^6,C, HzC,r^&,ed6M&JW:#6^C^ 7eL, eJr, CPCJ,:&6CSH6JCHLXz^r^eLHLJ :S&,:LOCC&L&zC,H^&Hz^rHH&^:L6LH,LSe,,J^CrO &HHJH:&6zSHOOCeOLzLrS SO,JJ:C&r: zHCrLezz6e^OH^J:rL zSS6 CJO,er J^eLHz!=zJ&:O6SC:^,e OSzOrJ^LHrJS:eCHS66CS^LOerr:^JH JSu, JR,6rC:Lee ,6terI^&r#&::C6 ,OO,eJ,CCr,z eH^J67L&F,OO^SH Cz^,J^,,JJCnr&&:S6CC6O6et6r^^H: Lk Je:,&HCCOCe&,SzH,J^OH%J::^eLSLO eSOOC*rC^CH&S,.H&6SzJ3CeL^e^,LzLHSS,sJJ:Wr6&SJOHS6,zzPrO^erLJL;66SHsOJeCLrz&Lb^HrHJzhC&OS^O:CL6,zS,z^JHC rE &e:H rCzO&eOLH^:re  TSLH:J&,SrOSeeLHz6rzzLHOJ:::&LS O:C,O^eC,r^eHeSCK6&z:Y6OSrL:e , ^:r,  *C^r5_6eS6O6e:LpxLr^e:rSJ {,&,SSOCC:L&CeL6^6rV j! &^cC6Lg 66e,,C^C6^ &LOJH:6&,S4O^e^LTzLr  SrO r:C&&S& rCHL6zzOXSeHz LEL&CSS^:CJO:: ,&z,rHCL?zJ1:O6^LLOLeS,Sz^rJ :HrJCrL&rSzOz,SL6zzr:^LH  r,^& SC6rLOLCer,6ezO, 6K:&::J6 :eO,SJ&}z,re eH6J6r&&v;zeCe:L z  e^LH JC,z&&:a JC&LzeV^,^zrq LHzC,:L6CCC&^e&,ezHree,HHJ^:^CCSOO^eSL,zJ,HC HJJeQHSLSe6HCOOeHL,O^SHSz RJ&C:r6&PSOHez,zzOrO ^f:^^z:6SSJOJ,zL,zJrezaH6J:,&&6S^O:LrL^z:,,^eOL ,I&&er 6&CeOVezLrz.rL  ,,JL: 6CSLO&CP&Jz&rz^2,^Jz20&LSC OCLLJzC,r^&HC HHJC-:H6OC^6 eL, ^S,O:HuCJ,:&^JSHO6ez6+zSr^^sHLJ^:SCLSJ6:C6L&zS,HzeHz 8GOJe:C6LCeLSH ,J^Crr^ HrJH:^6z:COOe^,:zL,r SHLJJuH&rS&OeCHOLzz,A^OH^J:2O& :r ^C LCer,&^err 6HCCO:66^C:&ee ,Sz,rSeOH,J&:eO:S&OeCvLOz^,,CzH^JS3,66SS6,C&OSH6,&^zrfzz_^&::LJ:OAO,eJ,C^krJ CHHz&:z&LHeOze:LL^&r:^LHJ :O&&JSe6HSHLze},OzF&  Ly &S&e6 CSOreJ,ezOOC eHUJOJ,&YSOO eS,^zJrC^rH&JecH&6FzrzCOL^z:,L^ L& ,rJJe:r6&CeOHe6J z!LO^S_:JL: 6SS,6 eCOLzCre^,H6z:da&OS^O:SJL zS,,^^HC ,{&&eSJ66CzOoe6,^^:rLz OOJL:J6CSrO&HJLHeJ6r^BH&J^L &LS OSC,^CzC,r^&HS HdJ&z:6z:C^L:eLe ^:rL JESJr:z^,SrO6ezCEz6rz :HJeA::&,SJLrC,LJzeL,:zHe W*OJ:S:6LC LS/%,J^Srr JUeJH:6Jz:eOOez,:zOr SLH,JJg,&rSJOeC,L6zz,x^Or J:tL& SS6,C^LCe6O2^erH 6SCJH:66^::J&e^L,z,re CrOJ&rr,&S667C4C:zz,Q^L6,JSk&^:SS6rC&S6er,&^zrLeeQz&::LLzC:OLeJOC: rJ^HHHJ^:zzeSO6eB6LLehrSSCHJJC+r&&OH6HCzLze&,O^eH: ^6,&S:J6J&CO,eJ,ezrr6 :L&J6:^6:JLO^e:L,ze6L^,H&JeS,&&Se6a:O Hev, ^ rr ,OL&CWL SCeOJe6J^zErO ^F:S : &,S,O:eCLLz&,r:zH6 lb#HzSz60CLL^zS,&C:HS r_&rr:r6&CzOL:e,z^:rL&zV:JL:JJCHOOJCHLHz^rzzSHO^^,r&OSSOSCJLJS ,rzOe& H,:&z z66CzL:e , zrO^  .CJr^r6CSrO6e:&&z6r^ ::6J^::&,:^zrC,Leze&^^6Hz >rOS::B6 C O,e,& ^CrrzL{eJ6:66eSIO6e^OHzOr ^,H,^C:C&rS&OeCeL6eZ,x^6H^ ?mLJz: 6,CCLC:e,&^erH 6HzJ8:^6^S4OLe^,SeO,: CH&J&,e&HS6OzSr ^zz,O^LOOJS-,&JtCJLC&OreH,e^zJH Or^J&:L&xCSO&eJJezrL&^zHHJC:z&&SOz^e:O6C,rS^zHJ Har&&SeJHCzLzeJ,OzrH::OT  B:S6JS6OrHS,ezHr6zzHzJOv,6:SCO HSL,e^J6^,rHJerH&6Sz65S&6rz:,:^ Lz ,*J&C:r6 CeO^e6L6zir& ^rH  : &JS,^CeCLrz&,S^zH6 6{}eeS^O:CL6 e,,,z,HC C<&ee:H&J:LO7CH,^e:rL  0S OHH6CS:O&: LHz6rz^tHCJ^_^&L:6OSC,LJzCL&^&rL HD6&z:r6OC^&zeLLv^Sr^ JHOJr:&r^SHOeezL&zOr^ :HL e:S&JSJOCCrLJzeL,z:Hz O_OC6S:6LC LSCO,Jzrrr JUeJr:6Jz:eOOe:,:zJr SCH,zJHH&rSeOeC&L6eJ,UeOHSJ:V & :r6,:6LC:r,S^er6 6O,JyrS6^C:Oze L,z,r  CHrJ&7S&LS66xCw&zz^r:^L, CO}L&CSC66C& JeHLJSrrK e7^e :L6 CSO,rC,Cz&r&^,HHJJ:z&6,:O^CLLLJ:r:^LHJJS#r&zr,6rC6Lz 6,6^zH: JL=&::,6Jz:O,eJ,eCHO  eHOJO:S6:XrO SS&6z ,r^rHeJerC&6HH:6COL:z:g:^^H: ,LH&C:6 SCCOHe6H6zHr6 ^H,zz:^6SS,,^eSL,z&,S:6H& Tf8 CS^O:CLL:S6,L^CHC&LkJ&C:H66CzOL:e,z^:rL&zN:JL:J&:,&OJCHLHCerz^BHOJ^,H&LSSOSCJLJzC,reCJS HTz&z z66CzL::O, zrO^  #CJr^r6CSrO6CHLJz6r^ :^^J^::&,S^OCC6&SzC,H^6zH H_6&^:, zC^LSe,,J^Cr, &HSC6:&6zSW6:e^,:zL,z:&H,J :C^SS&OeCH66e^,4^6H^ 2_LC^SS&O:rLCeL,&C&rH 6/z rUR6^SrOLee,Sz,rJ^:H,J&Tq&HLzOzC2LOz^,&^LH^JSp&&JSC6rC&6TeH,6^zrf OWz&::J^uC:O,eJ,CzrrJ er,Cz:e&kSOJre:LLz ,L:CHJJCwr6 SC6rC6LeeI, SHrR LW &%:L6 CCO6:S,CzHr6:eHrJ6:^JH, O^eSL,CSrC^rH&zr&,&6Sz6k,6Lee4,LC,HS &,:&S:r6&,CO,e&,zer&^ zo:JLL66SS,OJC,6^zJre^HZ:JeIH&OS^O:CJJVz:,,^JH6 ,3J&e:O CCeOGeO, z}rO  VS&^:J6CSrO&eeLHz6Lz6zHOJ^::&LS J&C,6Jer,r^&He Hs6e :GJOCzL:eL, ^Sr,^ VC LiH6eS,O6rJL9zOr^ :r:J :S&,S^OCC,L&zerJ^6Hz 3D6&^S:6L:  OeL,J^Crr &OJJHfJ^rSsO&e^6HzLr  SH,SC:C&rS&OSCHLJzz,6::H^J:5L&::P6LCJLSer,zS,rr 6%zJ6:&6zC:OJ%m,:z,rJ:OHLJJ:eJ,,zOeC!LOe:r:^LH JSLu&JSS6rCJLeeH,6ezr6 O(z&::O6 rLO,eJOHzrrJ eH,J6:z&{SO6Oe:LLz rS^,H^JC;6&^Se6HC6^Per,6^^,:e&w^J,:,6eCC6Oe&6rr,r6^1HmC^:e&3SL&zeSL&S:rS^rH&SHo,&&SzJ;HeLzeL,L^CHSC:/JJ:r 6&S,OHSJ,zz5rO ^&LJL:S6SS^OJe:LrzCJ6^HHzJzHO&&SzO:COL er6^^ HC rHe&S:r66C:J&e6,^^:&  zk:J,HJzLS,OeeeLOz6&&^=r&eH::&zS ^CC,LJzC,rQeHe 6{6Jr:p6&C^OOHS, z,r,z,s:J,:&6CSHO^*rLHzOr^z^H6J^:S&&H:OSCrL&HH,,^&Hzz},J&z:L6LCCLSSH,JeCOO JHHJH:z6zDeOOCJ&JzL6r S6JJ^:S&rSeOeCO&Cze,j^O6: H4O& oRzJC OrerJp^erH 6rz:O:66:C:O e &:z,rJzJHrJe:e&rS6OeCwO&e^r:^ H z,v,&JSC6r:rLee6,6^erp 6Q^ HHl6 S,O,!r,Czrr& erSJ6-a&=S6O^C9LLezL ^,HCJCLr&&Se6HSJ^FeH,z^^Oz Lf &SH,J^CCOJe&LrzHJ& z,U ^:^&6SLOCeS rzJLCzJH& ,fH&CSzetCOOee,,LzHHS &DJ&C:rJ&SzOHeS,zzJrO:z.: 6qS6SSeOJrLLrz&reeHrpJzI &O:,O:rLL C3Je^ r& rr&&e:H66SC6,eOLO^:OH  ESJ,:JJrSr6FeeLez6rC^Zr& r::&SS z,C,LJzCLLeLHe eP6Cr:Q6OC^6:CI, z r,^,-CCr:&&S:&O6C&LICOr^ :HL zI6&,:OOC::L&ze,H^6rS =H?&^:e6LC LSe,,^^Cr^ &4eJH:J6zS}JHe^L6zL,- SHzJJ:C,2S&6rCHLCzz,/^OH^ S_L&SSS6,CJLSerL e rH zMzCe:O6^C:OLC,,SzJrJ SHrJJ:e H:zOzCOLOzSr::,H zS2^&J:r6rCCLeeS,6ez,  Ou:&::J6 :eO,:JL6zrre eO J6,L&}SO6ze:L z r:^,HJJCHLJOSe66C6JHe0,O^^,:Czd^J,:,6eCC Se&LSSJr6^rHh^&:^6:SLO ,,L,zCrC^ H&JS}H&eH,6HC^L^HL,6^^HS ,+JJHr 6JCeOHHz,CzHrOz^LrJO:S6SS&OJSzLrC&O:^rHzJzPO&OH6O::^C:zS,J^J6z LMJ&er^66C:J&e6,^^:&r z0:J,:e^LS,O&ee 6zJre^hr&C:#.& S J6C,LJzC,Je:HC 6>6Cu:r66C^L:eL,CSOrL JACC&: 6CSH6Jr+LHz^r^eOHLJ :S&,H^OCC&L&eH,H^6Hzz6&&&^:L6L:JOPeL,JC&rr zL,Jr:66z::O&ez,:z^,H :H,JJ* &LSJOeC,L6z:6&^6H^J:H+&zS:6,CeJLe,,&^erH 6oeJ;%&z:ShOLe OJz,rJ CrLSj:e&rS6 &C=LOz^L:z^H J:k,& SCe,C&OSeC,6^CrDzLn^&::L&zSzO,ez,Cz r& eHH J9&&%S O^:SLLz rS^,,LJCp,&&:c6HC6Lzeu, ^^H: La &S:L6JSHJ eJ,ezHr6 zHHJOweeLSOO eS6zzJrC^rHCzLEr&6Sz,LC&Lzz:,L^ rre^j &C:r,zCSOre6LCaOr6 ^Z:^^: 6SS,&S ,Lrz&reZ HJJe;w^OS^6,IzL^zS,,HkH: ,}&J!rJ6&CzO9  ,ezNrL^z6,JL:J6Cr:O&eeLHzeJO^oHOJ^&l&6S^OSCLLJeH6 ^JHe H&&&C:H6OC^L6eL, ^Sr, JlCJrH&,&SHO6ezL_zOO, :,L^r:S&,SJOCCr OzeOH^CHz >/O&^S:&OC 6iee,J^:rr:L7eJH:66z:LOOe^,:z6r  :H,JJ:L&rS&OeCrL6zz,BeO6H 3mL& SS6,rLLCCL6S^er, 666JA:O6^C:z e ,Sz,r^ CHLJ&tr  S&OzCqHGze,u^LH JS4&^:SS6rC&H&e,,&^z,rS^Yz&::L&SCSO,eJ,CS:r& CHHJ&:z&+SO&^C&LLz^rS^LHJC,Kr&&2 6HC&Lzer,O^^H: LHC&S:,6JCCOre ,ezO,& zHwJOer&HSOO SS&6z ,r^rHzJeHL&6HHr6COL:z:zO^zH: ,6,&C:6 SCCOHe6zezrr6 ^H,zz:^6SS,rRe:L,z&LeSJH& oo9& S^^zCLOz:O,,^:HCSCo&&e:H66L=Ole^,^z6rL z2SJ ra6SS&O& LL,z&rz^4HOJS,6&OS OS zL^zS,re&6, rqz&z:L6Or6L:C6&}^Sr^ JOeJr:&6eSHzzezLOzO,H :H6J iL zS 6rCr_:zS,r^6Hz Ia zH:m6LC H6eO, ^CLre^aCJ6:66:Sw&,e^O:S&r^^,H,JC:C SS&6^&eL6:L,3,OHe +oL&SSS6&}:LSer,&,er, &1zJLre6zC:OL HLRzLrJ^:6&JJ=H&Hr:OzCYLOC^^L^OHSJSaJ&JrS6rC&O,eH,z^zrH Oiz&:x66SCSOJeJ6rzrr& eHHJ&:z&OSOOze:LOz L;zzHJ rTrzHSe6HC6Lzez,O^:H: OV &::,&^:^Oree,e:Hr6 zH5 &L:&MS^O 2^L,zJrCer, JeA&&6:H6(,6L^C:OH^ rO ,Ke&CLH6&:e6ze6Lrzare ^6:JL=z&eS,6XeCL6z&re^H,6 OVx&CS^6&CL^^zSLOzJHC zR&C,:H66Cz&lC:,^zJrL^r{SC,:J&:,zOJC6LHC6rz^MHO eD&&L:LOSV7LJzC,r^&r  Hb:&z:z6OCeL:C6,C^SrC J6rJr:&6e:,O&ezLzzOJH :HLJ HSJ6SJ6JCrOrzeJH^6rC^JnOJ6S:JLC LSe,L^e,rr^L.e^S:66zSaOOSr,:z:r ^zH,JJ:C&rSJOeC L6zz,h^&H^J:,g& :O6,C:LCe^,&^eC: 6HHJu:e6^C:OLe L,z,rC CHrJ&:C&H:J6eCGL^z^Jz^LH JSa,JgSC6&C&LCeH,&^zL- :(^JL:L6CCS^reJ6CzOr&^HHHJe:z&CSO&^C^LLzSrS^&HJ^z;r^&:,6HCzLz5J,OS,H: LH^&S:J6JCSOre&,ee,,6 zHOJO,F6:SLO SSJ^z ,r^rHzJeLC&6:C &COOHz:J:^ HS ,oJSr:r6eCeOJe6,Czqrz:Lq:J : r SOO eCL,z&,TCJH&JzNG,!Se6+CLLC:O,L^JHCO^i &C:HJ69SOHe^,^z,rLz&YS^,rz6SS&O&CHLHSrrze6^zJ^TL&L^ 6TCLLJ:6,r^zO, rl6&zz#6&CzL:eJ&+^:r, JCOJL:J6e:,^zeeLOzOOr :HLJ NL zS 6rCrR:zS,r^6Hz jP zH:56LC H6eO, ^C,LSeBCJ6:6 HSBOOe^,:S6r ^,H,JC:C&rS&Jr &L6em,M6CHe moL^ SS6&o:LSer,&&Lr, &3zJLre6zC:OLO L<zLrJ^,H^JJ:e&H6,OCCHLOzer:^JO(J:V,&J6^6LCJLeeO6C^erg O*^&::O6 :1^Je ,CzrLH eHHJ6!Ce SOOze:JGz rS^,,J^O9r&JSe6rC6^ee.L&zSH: 6W  r:,6JCC6LCA,ezLr6CrHDJO:^JHS:O CrL,C rC^rH&Je!e&6Se6lC L^z:,L^ ,r ,_J&C:r6&CCOHe^&rzHrO ^!:JL:^6S:O^CeSLrz&OL^HH6JzX6e:S^O:CLrHes,L^JHS rnzz,:r66CzrJe&,z^:rJCRw:J,:JCdSOOJeeO,Bzre^RHOzY::&LS JL  LJzC,rJ,HS rT6C,:b6 HHOXeL, J^rO  +CJ6rS6CSHO6rSL,z6r^zH6 J^:S&,:,OCCrL&erJz^6Hz jSO&e:x6LC^LSe&6:^Srr &SeJ,:&6zSLJeez,:zLH,^UHLJJ_:^ S&OeCHJHzz,p^OreHzjL& SS 6CJLCerL zOrH 6(zze:O6^C:&LJr,Sz,rJ CHrSJ:eJ,SzOzCHLOeLr:^LH ^oHS&JS:6rDeLeeH,6zCr: OpC&:O,6 CSO,eJO6zrr& eHLJ6:C&t:&JLe:LLz &,^,HJJCu6^SSC6HC6L:e,,6^^,HS G^&S:,e^CCOre&LrTzr6 zH+&,:e&#SLO^eSL&S:rS^rH&&^m,&&Sz6L{eLzz:,L^HrQ LBJJ:r 6&CeOHe&,zz>rO^e zJL: 6SH6OJeCLre LJ^HH6Jz,e&OS^O::L!rzS,,^JHC r6J&e-,J+CzOHeO L^:rL  rU H:J6:Srz%eeLHz6,Cz HOJC::J6S OSC,LJCH,r^&He LR6&C:.&&%LL:eL, :,r, JsCJ6rS6CSHO6e:L,z6r^zH6 J^:S&,,OOCCrL&erO ^&Hz Rs &C:#6LC LSe&6:^Srr &HfJL:&6z:rJee^,:zLLr SH,JJB::SS&OeCH& zz,7^Ore &7L& SS :CJLCerO&6OrH 6*zJU:OezC:66C6,SzLrJCOHrJ&:eJ,:,OzCrLO<Sr:^LH ^{HL&J:I6rHzLeeH,6^z,r O2^&::&6 S9O,C^6&zrr& eO6J6:z&jSOOHe:LLz r:^,HJJCrrzSSC6HC6LzefJH^^,HS Y^J%:, zCCOre&,eH6r6 zH{J&:^&HSLO:rJL,zJrC^CH^JCPH&&Sz6L7eLzz:,LzLrH LKJJHr 6JCeOHrO,SzHrO^e6LJO: 6S:JOJeCLrz&6 ^HH&Jz>H&OS^O::L6OzS,L^JHS rLC&e:H&zCzOHeO,e^:rL  .S 6:J6CSrO&eeL,z6r:zHHOJ^::C(SeO:C,6J:E,,^eHe OR6JS:_&&r:Oie^, SHr, JbCJJ^66eS6O6SHL,z6r^^OHLJC,O&LSJOCSJL^zC,H^^Or H?O&^Lz6&C^LSS,&:^Sr& &H=JHLr6z:r^^ezL6zLOe SH,JJ:CC&S&6HCHLCzz,r^Orvz&jO&SSSz:CzLSer,&^erOeCNeJ%:Oe6SrOOe OS:^r ^rHrJz:ezCS66Cl&LOeHr::,H JSh,&JOr6rCeLeeJ,6^Cr/ z6L&:: 6 ::O6e ,Cz,r&^VLJJ&:z&(U6OCCxLLzC6O^LHJJCOS&^SC6H:6&SeH,^^^r, Lr&&SH, zCSO&e&LHzHOr zHSzS:^^JSLzOCHLLzJ,r^rHze,Rr&6SzzeCJLzz:L6:SH: J!Je6:r6&Ce&H,z,ezOrO :c:eO: 6SSSOJCrLrzJre^rH6 CHJ&OS:O:: L zS,,^J,H rMe&e:r66CeO_C&L6^:r   LJJ,:J6CSr6zeeL6z6re^TH6J^HHJ:S 6,C,JJzC,r^&rSS6o&JH:k^HC^L:eLO CBr, S4CJJ:&eCSH&6CzLpzer^^,HLCJ:S ,:LOCC L&e,,Hk6Hz^rH{&^:&6LCCLSe,,JeCrO &HLJH:S6zLHOOCeLJzL,r S6^JJ:C&rv&OSCHL:zz, ^O6^J:H6CrS:6CCJ6Cer,&^e,, :<zJz:O &C:OLe ,SzJrJ^6Hr r:e&,S66CS,LOeLr:: H JSE,J^:^6rSrLeHJ,6^zrizOHe&:::6 S O,HJ,CeL,C eHCJ6Hz&KSOO^SHL^z ,z^,LOJCdr&&Se6^C6O6eVLr^^H: L9 JL:,&uCCOre&,SzHr6e&H4Je:^&6SL6HeSL,&6rC^JH& ,wH&6Sz6?CCL^eL,L^ HS LvJJ::,6&SHOHrr,zzQrO ^H&JL:S6SSLOJeSLrC&,J^HHzJz4L&O, O:lL6rzS,J^Jr, rHL&eHH& CzOOeO,S^:Lr  ,S &:J&rSr :ee&^z6rzz6HOJ:::&OS OSC,O^ee,r^eHee&.6&z:oJOrHOMe , zrr,SLYC LLe6CSJO6:SLizOr^ :& J m,&,S:OCCLL&erO ^&ru n6H&C:?6LC LSe&6:^Srr &6JJL:&6z_pJJezLLzLrC S,HJJHC^OSJ6HCHLzzzOe^OL.rOwL&SSSz&CzLSer&4^erOeC+eJy:OzSSrOOe LrS^r  CHrS,::&rS66CrOL6z:r:eeH JS1,&SHO6,CeLeHC, ^er+ Ov^J,rz6^CSO,rLLhz,r&^S66J&+F&8EzO^e:LLz 6_^,HCJCk&&&Se6H:eHHeg,^^^&z &N^&SLz6JSHJ eJ,ezHJr SHHJO:S^6SOO eS6JzzrS^rHC Llr&6Sz&HCJLzz:,6^ rre^< &C:r&JC:Ore6,:S&r6 ^s:JL: 6:S,6^rrL,z&rezzH6Jz3tJ&,:61COL M,,,^JHC r,C&C:H66CCO=e6,^z,Oz ^ESJ,:J6CS,O&CS 6z&rz^N,CJ^::&LS:zJC,LJzC  ^^HC HB&&z:L eCzL:eL^>zHrL JHHz :J6eSHO6ezLHzO,e:LHOJ :S  SJOCCr6CrS,H^6Hz ?3O&zS:JzC Or:^, ^Crr &neJr:6&C,OO6e^,:z:r  SH,JSO&&rS&Oe,:L ze,(^6H^ ,,z&^SS6,L6O8e,,&zBOJ &.zJq666CSjOLCz ,zLrJ CO:J&:e&HSezOC.LOz^^6^&H^JSML&J:H  CJLeeH^C^SrH OG^&6:L6 CSO,eJ,CzrL&6&HHJ6:z&4SOJ,e:6LeLrS^,HJJC!reOSeJH:rLzeQ,O^^H:^Oa  8:e6JC:Or:z,ezHr6 zH6JO:^6:S6O e:L,e^Jr^,H&Jele&6Sz6XCz^Lz:,L^    6> &C:,6&SwJJe&,zzW^u CH+JL:C^OSLOJeCe&z^rC^HrJervy&OS^^^CLL zSLO,LHC r/&e,:H66Cz6rCL,^^:rLCOqSJ,:JJC zO&eeLHz6rzdHHO e> &LS^OSS:LJzC,rz ,6 HXJ&zhJ6OC^L:C6,C^Sr6 JOSJr:&6eSH6&ezL7zOrC :H6J Hm CSJOCCr^^ze,H^6H:e&T6&^S::OCeL:e,L^_rr, &yeeS:66zSjOz:rLczLr r:H6J :C&rS&6whJL&zz,t,6HC nkLJzrO6,CJLCe&,&^erH^J &Jp:O6^r6OLe ,SeO,r CHrJ&,J&HS6Oz:_:Sz^r:^LH JS6L&J::&&C&LCeH6L^zr; OHe e:L6zCS OeJ,Czr, ^:HHJ :z& SOO^e:LLz:rS^,HJ cUr& Se&,aMLzel,O2CH: L? &SS^6JCCOreJ,ezHr6zzO&J6:^6:SLO H^L,e^Jr^,H JeLJ&6Sz6%CO^:z:,L^ rh ,_^&C:JeHCeOHe6C,z,r6 ^HDJL:C^OSLOJeCC^z^rC^HH^ernH&OS^LCC&L^zSLO:CHS r{& H:H66CzO*(r,^z%rL ^dSJ,:JJC::O&eCLHz&rzS6HOJ^HH&LS^OSCOLJzC,r^&rO Hh6&z:m6OCeL:eJO,^Sr, J:JJO:J6eRHJ eeLOzOrS :r&J HGeJS 6,CrJSze,H^6rH,:lO&:S:N&CeL:e,,S^Cr6eSyCJH:6(SS,O6e^L,Szr^ SH,&,_Y&,S&&eHJL&eZ,.^ H^Cz2LJzL,6LC:LC{ ,&^erH 6&IJA:^6^S6OLez,Sz Ou SH&J&S&&LS&OzCnLOzS66^OH JSSS&zSS6r:& ,er,z^zrL OO6&:P6^<CSO^eJJezrr& eHHSz:z&OSO6He:L6z ,L:CHJ rorrOS:6rC6Leeb, SHrl Ld re:66 CCO6:S,CzHr6J6H,J6:^J:H&O^C,L,zerCeAH&^e,L&&:p6*C^L^Sz,Lz&e  ,LH&C^O6^CCOHez,zzLOe zU:JL^e&HSLOJCH& zJre^H(HJSQH&O:ezLCOLSzS&e^JHC rr&:H:r6zCzOOeO&z^:rLzOlSJJ:J6SSrOJeeO,zSrz^OHO^:::&LS OSC6LJer,r^JHe rm6JC:r6OC:L::S, ^Sr, JHHJr:e6eSrO6eeLse&,z :H J ,S&,SJOCSL ezC,&^6O& 8<O&^+:J6C OLe,,S^CJ, &reJ :6&rSpO e^JSzLL ^OH,J::C& S&zeCHOJCO,x^CH^ ,qL& SSJ,CzLCe^,&zLrH:&(z r:^6^SJOLru,Sz,rJzCHOJ&*O&HS:OzrcLOeeJJ^Or,JSr,&JSC6rS O,eHLH^zLC OR^&::L&^CSOeeJLJzrr  er,Jz:z&^SO^:e:LLz L7z:HJ J/reSSe6HC66zeC,OzOH: :l eS:,&^: OrC,,eCHr6 zH# &4e6::HO :zL,zJrC^rrHJe!e&6:J6MCOL^z:Lz^ r6 ,QJ&C:L6&Ce&Ce6Lrzlre ^H&JL: reS,OSeCL z&re^HH6^L=9&^S^O:CLL^zSLO^:HC &-&CJ:H66CzOuC,,^zLrL ^ySJL:JJC:^O&CHLHz^rzS:HOz^HJ&LSSOSC LJe^,re&,, H<z&z:L6O:JL::LLC^SrJ JOOJr,06eSHOJezLOzOrz :HLJ H(&:SJ6rCr&Cze,H^6,zC&F6&:S:6JC  ^e,L^0rr, SceeJ:66zShOOr:,:z r ^OH,J^:C&JLHOeC6L6  ,,^6H^ iFL&CrO6LCJLC^#,^^CrH ^LrJH:O6^e^O&e^,SC,Oz SH&J&>!&HbLOz:%&Jzz,L^LHSJSr:&JH,:JC&OHeHH ^SrH OL,&::J^hC:O,eJrMzOrJ eHOzC:e&?SOLOCrLOz Lf:JH  r2r :Se6HC6OHSJ,6^:H:&:_e&::,6JCCO6:S,CzHr6J6H,J6:^JH, O^C,L,CSrC^rH&Je,,&6:p6/C^L^z:,Le:SL ,;C&CCC6^CCOHSC,zzLOe z>:JLSL&HSLOJCH& zJre^He JSWH&O:46&COL zSCH^zHS rN &e:O CCeO!eOCJzrrO  Hrz^: 6CSrO&eeLrz6,C:OH6J^::JSS OSC,O^Hr,,^JHe:Lu6&z:R6OH;O7eL, zKr,  3CJ6rS6CSHO6ezLbz6r^ :LOJ :S&,S OCCrL&ze,H^6Hz q0e&^S:6LCe6re,,J^CrIerL^eJ,:zOH6 6SJJr: &,S&,OzSL-^Jr, 6HJL e;,i^OH^JCL-^:,i CCzOrer,&^eH:SrLHzS,S6CSeOLe ,SzHOfC&OOe.He^z,L&OHz&::C&J^&rHJSh,&JSz^^HH ,ae&LS,O^ J#:&::L6 Ce e:SJO:rrJe:HHJ6:z 6O&O^CyLLC,rS^LHJ LRr&zr,6rC6LzC^,O^zH:^6OS&::O6JC:Ore&,eCH6C eHrJO:e6:S O S5&^zJ,H^rHJJe+H&6SzeOCOLez:,J^ r= ,rJeL:,6 CeO,e6,:znrOO>w:JJ: 6:S,OJeCLr,Sre^6H6Jz1-&OS^O:J^L eL,,^JHC rw&JSL66&SrO#e&,^^:rL  6OJ,:^6CS O&eCLHeJJX^HH&J^RO&LS OS:,&zzS,L^&HS H1 &z:9eOC^OHeL,^^SrL JH:C&:J6SSHOJezL>zOL^S6HOJz:S&OSJ6rCrO :,,H^^Hz H_O&^S:6L,SLSeO,JzHrr  ye^H,C6eSrOOee,:zJr  Se JJaH&rS&OeCHL6zzz&^OH:J:cL& SS6,CJw,er,C^erH 6MzJun&z:S2Oze LUz,rJ CHrCS:e&,S66rCsL6z^,,CzH^JSF,^^SC6,C&OSH6,&^CrZ &.^&::LJ rOOLe^,CzLr&^HHH J,r&uS O^CBLLz rS^,&CJC!L&&:G6HCJLzSX&e^zrH Lbz&S:&6JCCuJe&LlzHr& zHtJO:^:6SLOSeSL,zJrC^rH&Lr8H&eSz6kCOL^z:L6:SH: ^8J&::r6&CeOHHC,zzrrO^Hq:JO: Jb,JO e:LrzCre^HH6^z,,&6SeO:C6L eH,,^J^L r>^&e:r66CzOgeOSS^:r6  HVJ,: 6C:L6^eeL,z6rC^_HOJ^H:zzS^65C,L^zC,&^&rSeJa6&::966C^L:eL, H,r, ^8CJ6:&6SSH&6HrLHz&r^^HHLJC:S&, SOCC6L&ze,H^6Hz ;Je&^:L6LC LSe,,J^CCJ &HrJH:66zSUOOCe LzO,1 SHOJJ:C&rS&z,CHLJzz,&^OHzJ:!L^^SS6,CJLSer,&^erH 6*zJs:&6CC:OLe LHzJrJ CHrJOLJ^&rL^LC,Lzz^r:^LH&C,,z^SrS^,C^O&eH,6^zHSzeL%zCrCJSHe ^:SJ6Se,& eHHJ6-CeOS6O^e:LOz rS^,HJeSKr&&Se6rC6LCeT,zsLH: L} J,:,6 CCO,e&L<SJr& zHpJ^:^&*SLOC}OLLzJrCzHH&JCdHJJLB6HCOL^er,L^ HS  6r&C:r6&SOOHe&,zzHrO SL6JO: 6SSeOJeSLrzz6,^rH6Jz_G&OSzO:S6 Sz:,,^JH: r0&&e:&erCzOHeO,^^:rO  HkJ,:JJrSrO&eeLHz6rz^9HO :::&LS O:C,LJzC,rCCHC H36&C:K66C^O,:z,^^Sr, J!CJ,:&6eHrO6ezLEz6r^ :HLJ^:S&,SJJJCrL&ze,LzOHz N=O&JE^^rHeJ&CS&6:L6^SYrLzS,L^eH OJe:,:zLr  e,ze6Le^eS^6CCHL6zzrSer6LCH,^ze,r^HHH&Lg6&z:OL6eeOre :J&LC:OLe ,e:OOSC OOeOLOzzH: OCrH6_5He^,^SS,Czz&S:zL^& H^H,:O,O:C,BCJ&:L6 CSOH:HJHCz&,C6Lze :S&JSOO^e:LrC,O^CCLSCrL6z^Se6HC OOep,O^^HC^eL6zL,^ SHO zPHJ,z,r6 zH*JO:^6:,r  CYL,zJrC^rH&eeJ=z6SC&C&rSrCS^&SeJHCHm^&C:r6&&ej::SSr&Rr& ^_:JL: 6Sr,:&_CLLz&re^HH6Jzpmz,r^6H,Or^   H^6zSBSeO&::O66CzOve,&CS &+ zYSJ,:J6CSrO&eeLHzJLOLJ^Hx FS^&J:HSC6OrzC,r^&H^z,,ez&,,^,r,  :C&,zR:LCS:^JHJeeHz HOeSL&zOr^ :Hr^6,J^ r ^67:L^e,,H^6HzJSHC O,6 ^HzJJe6,C^Crr &M^eCre^ r O&HeJre:^ Sz^::z,C&LS&OeCHb6.^C,O^C^ ru:& SS6,C66O:J&^eL6OC&LezSrS^LSHe&H8&COOr&eH =eO::&&S6OzC5L,::6OSr62C68O&JSC6rC&HzOC^ Szrr :OOzz L OO6;JJJL3z r& eHHJLr2^6re LHrJCzzrS^,HJJC*rS&J,^HC OLeY,O^^HCzHO,eZr ^zrH fny,:zCr6 zH*J,H6^ rC&HtzJH: 66S OHe:N,r&,HJ ,O_6O&rHSJrH SxJ&C:r6Oh,J&aL&LCO6,SHLOeC,,&HSzOJeCLrzOO&CzLSCLLLze:r6rC^L zS,,^6,&^ OHeL,O6JCzOfeO,^^:rLJ LCJ6:S6CSrO&e^O :&6 CJOOJC+J&LS OSCH6CgH&^SO6Oe:L^zS6S6OC^L:C6JS^:r, JrOJr:&6e4HJ eeL>zOr^ :r6J Hte6SJOSCr6&ze,H^6rC LXO&eS:&SC LSe,L^zzrr ^se O:66zS.6&CH,:zJr e,H,JJ:CJL:&OeC6L6eH,.^OH^^HH:& :L6,CCLCer,&zS,, 6HrJ%Gr6^C:OLCz&Oz,,B C,zJ&:e&H:J rCbLSz^L;^LH JSHO^:SC6eC&6reH,6^z,reea^J^:LJ6CSO,eJL:S r&^JHH^z:z&lSOO^,LLLz rS^:HJJ:vrJ ^H6HC&LzCJ,O^^H:zLr?&S:L6JCSOrC ,ee,Lr zHrJOHO6:SLO SBOrzJ,u^r,6JeIH&6:C&6COLSz:Lr^ HS ,yJ ,:r6JCeOOe6,Cz_LO^^Q:JO: 6:S,J,eCLre re^,H6Jz7i&OS^&:S&L eN,,^^HC ed& erL6&CCOae&,^zrrLz LHJL:^6CSLO&:&LHz66^^HH6J^.3&LSzOS:,&zzS,,^&HC HHz&zH6:zC^OXeL^O^SrL JH Jr:z^,SrO6ez^ezOrz :r6CS::&LSJ&zCrL&ze,HS,Hz r/O&zS:6LC 6Se ,J^:rr  !e^O:66z:^OOee,:z&r  SH,JJ:S&rSJOeCHL6zS,4^ ,rJ:?L& O&6,C LCCLJe^Cr& 6,HJ.:O6^SO^Se LLz,Ow CH,J&:C&HS^ rCHLOz^O&^LH^JS/&^:SS6rC&zOeH,&^zLaCeVzJO:L6SCSOLeJL:S r&^LHHJ :z&}SOO^,LLLz:rS^zHJJ:Ur&CHL6rCeLzr ,O^zH: L= Jrr^6 CCOr,N,ezrr6zzO&J6N_6:S O e:L,e^6L^rH:JerL&6Sz6*CO^:z:,^^ r6 ,+^&C:JJ:CCO&e6^LzWr6 ^s:JL:C^OSLOJeC^zz&rC^H,6zSFH&zS^6LCL6ezSO,CzHS JK&Jr:H&CCzOS&t,^errLC_FSJL:J&,SrOzI,Lrz6rzC&HOJz::&JrKO:C,LJr6,r^JHezH, &e:66OC:L:e&, eSO6  H,Jr:C6e=eO6ez,&zO,H :HLJ :S&,<J <C,LSze,J^6rO 0rO^C:G6zC OOe,,z^CLre^;CJJ:6&rS?J{e^,::,r^^LH,JS:C& S&&e-LL&eH,D^zH^^L#L :Le6,CSLCrz,&^CrH^OKzJLre6zC:OL,r,SzLrJ^:6&JJjr&H::OzClLOz^J:^LH:JS#L&JSS6rS ^Her,e^zLJ Od^&::Le CSO eJ,SzrrJ er,Cz:e&6SO6re:LLz rSR,HJ ,Zr&JSe6rC66z:,,6zFH:  } JH:, JS,OreC,eeCr6^LH_^OHe&xS^O C,L,zzrCzL,HJemJ&6Hr6/COL^C:,J^ rO ,Y:&C*L6&SSOCe6L,zD,n ^7:JLZz&LS,6HeCLCz&re^HrJ^1mi&:S^6^CLL zS,,^:HC  x&J6:H6JCz6hHH,zzOrL z=SJ^:J&:,,O&CrLHzCrz^vHO^^X:&L:gOSCJLJeI,re&r, H7C&z:&6O:rL:C6Lz^Srz JrOJr:&6e+HOeezLJzO,r :r6J H(& SJ66CrO^ze,H^6rC^r8OJLS:&LC LSe,L^SLrr^r<e L:66zSiOOr:,:zer ^ H,J^:C&ri7OCCJL6er,X^CH^J:zJ& :L6,C^LCe,,&zSrL 6HHJkH:6^C:OLe  Sz,rS CH,J&:C&HZ6JSCHLzz^,L^L,eJSr,^zSS6JC&OreHLC^zL6rz7^JO:LeeCSOLeJO;zrrzC,HrJ6:zC,SOOze:LJ:Zr:^,HJ:6=r&JSeJHW Lee6,O^:H:zOR JLHz6 S,Or,q,ezrr6 zHWJ ,H&NSLO ,&L,z rCzL6eJCa&&6HH6fCOL^eOJS^ rL ,L &C:,6&CCOHe^&rzHrO ^O(JL:^6SS 6oeSL,z&OG^HH&JzEr&OSS 6COL zSO&^JHS rczz,:r66CzeCeO,z^:LLee*:JL:J6CSrJreeLH^Crz^rHOJ^::&LS &S<6L z:,r^ He z56 z6e66CeL:e6, zHr,zJHCJr: 6eS,O6:6L{zOL6 :HOJ ::&,S^OC:rLeze,r^6He (s &^HO6 C L:e,^S^Cr, &rSJH:^^rSHOOe^zOzLr^ SH&z::S&rS&C6CHL&zzLr:^Hz 3%LJ>SS6,CJLCL ,&^SrH 6YzJs:O6^HOOOe^,SzOrJ SHrJz,,&rS6OzLCLOzzr:z66SJ:_L&J:L6rC&LeeHzC^zrr Od^&::L6 CSJ e ,Szrr  eHrJ6:z^HSOO^e:LOz rS^,HJJCXr&&Se6HC&LzeY,O^Cr^ L_ &S:H LH, z(HJ,C66&CHO,z::e6:SLO S;6CzJrC^rHJJe#H&6Sz HCOL^z:,O^ HS ,mJ&C:r6&CCOCe6,zzUr& ^Y:JL: 6SS,,J/eLOzzre^HH6J L,^:,66rCzL zS,,^6,O^CLSzr,,^sCSO^eO,^^:rrzHLzz ,:^,H^^ki6JJz rC^PHOJ^:C^,SzOSC,LJzC,r^&6OCHu JJ:?6OC^LCSr&e: 6&CJL&^^,Hz,re >HrL,z^r^ :HLJ&L^^ r6^6COL ze,H^6H zCFJJ6S:6LC LeSJ&:Sz6LeCO,e:Hz^Hr& SeCL:zLr  SHHe:,&zJ,H 6H J:CO&,SS6HeOL&zHrJ66C^LCer,&^^L:z6EzJQ:O6^C6OLe^,Sz,rJ CHr^&L,&rS&OzCHLOeHr:z6O%JSf6&J:J6rC&LeeHzC^zrL Oq^&::L6 CS^^eJ,Szrrz eHrJ6:z6&SOOze:LOz rS^,,JeGd,&JSe6rC6L:e(OOCCrM O# &::,&rCC6LHe,Cz,r6 SH=JO:^J:H&O^C*L,z^rC^LH&Je:J&6SS6#C6L^z:,Le OH Ltz&C:O6&SjOHS66SzHrJ ^HrJLq,6S2,:CeCLOz&r:^HH Jzr/&eS^6rCLLezS,e^JHC^^I&J0:H6&CzOpeOO^z,rL CXSJ&:J&HSr&&C^LHz^rz^LHO L:: L3HOSC&LJeH,r^^HezH( &z:L6OCSL:Ca, eSSC JHHJr:z6eS&O6ez,&zOr: :HOJ :S&,qJ MC,Leze,6^6H: ArO^C:D6 C O,e,Lr^CLre^?CJ6:6&=S3OJe^O:S&r^^,H,JC:C&&S&Oe,6L6zC,;^^H^ H{LJ ,^6LC LCeO,&^SrH^J6=JH:66^S&OLe ,SeOO: CHLJ&:C&HS6OzCc&zzz,Y^LHzJSaL&JSC ,C&LeeH,&^zrv Ow^&::L6 C:JzeJ,Czrr^^rHHJ6:z6SEC &tOJz: ,H^eHJJCur&ORC :HrJJB &,SCOz &DC&S:,6JCz&^-OJOz,r6 zHyJO:^6::J  CHL^zJrC^rHO^LLOzJrC&z; LCC4,L^ HS HrOe&,L CH: OUL&LC&6 CSOJ^ r:zOreOzC Lrz&re :LHeO,Cz,rr^xuS&H:J6 :Hr>^,x&&e:H6L:6JS/C&&^L,eSbLJe:SCJ:He  <,&z:CrC^<HOJ^H:^ezO,  ,Lze6,r^&HeJ:r,eO,r zHC ,;r&rzHrS J_CJr:OJ,r: zXHJJ:CO,C OOe,iH&:SJOCCrLOCC&OCSOHCHr^zzrOzrH, OeO,J^CrrO&OJ eH:^zS.OOeCL&zLr  SHHzHLH z,, 65zJ zS,z^OH^J:%r^J,r^6Hr6OCC&SSr6,C*1S r:O6^C:Or:f&J:J6 CzL^zCLO^zH:J,H J -H6OSGO, Hr6&JSC6rCO6:XO&:^b,zC OLerrCOSbHJC:SJL^&LrzSR6e^Lr6O4E&eCU, SH&&C O:C6:& L,q^6C OOeN,O^^HCzOLCz6r zHHz 6k^JLzLrS zHUJO:J Lrr^ZILJ6:O6,^OrHJeoH&6S &JHrJW=66^SH6&eCL:J3Y66&CeOHeL6,:^6&CeO,e&H ^ere^2H&JO:HL^S O&eHL,^SSC6CCLL zS,He.O^ee,:zeH ^IHH6&::&v:&6C eH^J,:J6CSvJh%6JJ:C6:S&OCe&,Ozzr 6HC&LJzC,r^OO:ezOr&S: 6OC^L:erOLSe6zCOrLe6rCzOSLOCezL<zOrJerOJCr,e^S,66oC^L&ze,H^L,rC^O, H,, ^rrOHCr,J^Crr Or&z:, ^L:z ,HHJ&:CLHCzOHe ,6&LS&OeCHL6zz,bSSO^ rHL& SS6,C66O::&HSL6HzzL e&rzz,H 6z*C&L:erz^&HrJ&:e6:MC :H^JH:&rLeeO,eL_6JrSC6rC&L^CeJ_Se6HJ^ree,,J^eSHO^eJ,CzrrOz:OO S,e^Sr^OCCeLLz rS^H,6C8LCzzre z:SJOQ&J-SL66 6> &S:,6JCCOr:z&ezL,H zH!JO:JJzHS^r:6&C::&JSnL:e6fL&CSz6fCOLJC&L::-OLCOLr&::r6&CeOHe6,zCJ6O CH&JL: 6SSH&C/S&JpO66SJOSJCNf&OS^H:^r, &J&,^^HC r1&&e:H^6&^ AeJL6^:rL  _e^S,r^Orz zH,L eC6:C6OSJCGJ&LS OSCH6C>H&^SO6Oe:L^zS:,6:C^L:eL,&ez6&CC,Oze,Sz&Hz CeSLOzOr^ :HrCO,LzH,H6=C:L&ze,H^L,Ce^L&zS,6^rH, 6zJOO:&O  ^HLJH:66zCS&eWLJH:J&rCJOzJzjr&rS&Oee:Jr:H&rC:HC ^}L& SS6H:26Jk 6CSSOz^CL:z6,S6CS OLe ,SzH61C^Lez:,e^Jr^ HH LJeLr:^LH JerO^Sr ^OHO Oqz6:SOr,^V8^&::L6&jHJCHOJ6^&L^C^LCe,LL&,S:O^e:LLz&L6SLOeeOLr^9r^^,HpLSe&,O^^H: rLzer,&^zrO ze^LJzHr6 z.S e,S^OrC&evLJO:rLLSe6OzSVr&6Sz&rr^Lzz:,LC&HS ,IJ&C,,6&CeOHe&,zzrrO^76 JL: 6SSJOJeSLrzJre^OLCJedY&OS:O:COL er6^^ HC r,J&C:r66SC^Oe6,^^:,^  4SJ,:S OS,O&eeLHz6re^GHOJ^o,^zS^OSC,LJzC,,^&rSS6B&&z:8 eC^L:eLO:&Lr, JMCJS:&6CSH&&ezLLSerz :HL O:S&LSJ6Ht LJze,HzeHz HXOJeLL6OC LS:L,J^Crrz&,:Jr:66zS<OOee,:CLOe :H,JJ:C&rHCOe:&OHze,+^O,LJ:fO& :r6,CeJLe,,&^e,z 6QeJ/>&z:S*OLe 6:z,rJ C,rz^:C&HS6OzCxL&z^L:C&H^JSP,&JSC JC&O^6e,6Crru^:n^JG:L6 CSO&::,Szrr&z6HHJ&:zJr,^Oze:LL:#rS^,HJz,eJ&&Se6H:ALzeH,OC:H: JL_&::,6J:&OreJ,ezOOC eHoJOr,&3SOO S_ Jz rC^rrSJeKH&6Sz^HCOL^z:,O^ rk ,fSC&:r6&CeL^e6,ezDr6 ^H,zz:^6SS,OHeCL,z&,S:6H&JzQU LS^O:CLL ::,,^JHC ,v&&S:H6e4,OHeO,^CrrL ^*SJ,:J&HH OJeeLHC rz^HHOJS,6&OS OSeeLJzS,r^&H, Hl6&z:k6OC^L:SLJP^:r, J%CJrHL6e:,JCezLrzOrz :HLJ :SCJSJOCCrL ze,,^6rHS^hO&^S:OCC L:e,, ^Cr6eS8CJH:66LSdO6e^,:^zr  SH,JJ:C&rS&&eHJL&zz,t^OH^^e}LJzrO6,C^LCC6,&^erH 6&+J/:O6^SHOLez,Sz Og SHrJ&re&HS&OzChLOzS66^OH JS,,&JSS6rCzJ,er,6^zH  O7z&::L62CSO,eJ,Czrr& e,HeC:e&8SOO^e:6Hz LaC^HJJ:ArJ:Se6HC6LzrO,O^^H: 6M JK:,6SvOO,e&,eSJr6 eH=JO:^&,HzO^eSL,S:rC^,H& ;,J&&Sz6ZeSL^es,L^ HO ,wJ&C:r6&CeOHS6JrzHrO ^*:JLH66S:OJ:eCLLz&,L^HH6JzadC^S^O:CLLzzS,O^Jr,z^dJ&e:H^LCzOHeO,^^:rJC?3:J,:J^zSrOJeeLOSCre^_HOJ,::&OS OSe^LJzC,r^&He H36 z,&66C^L:eL, ezr,^^LLJr: 6e:zO6ezLDzOJ: :HLJ 90&,S^OCCJ^Hze,H^6HL cq6&^:R6LCCJOeL,J^CHz &GCJHEJe(SHOOe^&rzLr  SH,e :C&rS&OCCHLJzz,6eCHzJ:nLerSS6LCJLCer,zS,rr 6pze :O6zC:OJnh,:z,rJtCHrJJ:eJ,,zOeCjLOSOr:^LH JS:^&JSS6rCJLeeH,6ezO, 6Tz&::O6 :,O,SJ&7z,rJ eHrJ6*H&XWOJCCWLOz r:^,LLJCcrz6SC6HC6Lzek,6^^,:e&}^&S:,6JCCJ6e&L^S^r6eOHmCz:^&wSLO eSL&S:rS^rH&SriH&&Sz&rr^Lzz:,LzLHS ,<JJ:L&6JCCOH:J,zz/rO ^LOJO: 6SSOOJeSLrzz6,^rH6JzI1&OSzO:S6 Sz:,,^Jre r?&&eI,zzCeOHeO6e^:rL  lSz : 6CSrO eeLrz6rzO6HOJ^::&OS OSC,O^L ,r^&Hez,m6&z:{&&:rL:eL, C r, J7CJrS 6eSrO6eeL<zOr^z:rSJ ::&,S OCS&L&Ce,O^6He Tp6&^:O6L: 6^e,, ^Cr, &,JJH:6&CS;OOe^,:zLr^ S,,Jz:C&rS&OeCH&^zzO6z,H^J:{LCSSS6LCJ&Her,zS,rr 61zSO:O6zC:OJIb,:z,rJ CHrJJ:eJ,,zOeC}LOSzr:^LH ^SL^& SC6rC&LeS6,6zCO& O_e&:NO6 CSO,eJ^rzrr& eH,J6:C&5/OJCCpLLz rS^,LJJCrr^^SC6HC6Lze_,^^^,:Czx^&S:,6JCC&Oe&LSSJr6 CHj^H:^6:SL6zr,LLzzrCC^H&JeIH&6Lr6lCOL^er,L^^HS &,:&S:r6&CeOHe&,zer&^ z=:JLre6SS,OJeCJ,z&re^HH&Jz7r&O:#z CLL zS^J^JHS r;J&e:O CCeOheO^:^:rO  Hrz^: 6CSr:JeeLrz6rz &HOJ^::&6S OSC,6JC^,,^&He HD6JS:XJOC:L:eL, ^Sr,zOjC LHL6eS,O6SzLvzOr^ :rQJ :S&,S^OCCLL&erLe^6Hz -^6&^:26LC^LSe&6:^Srr &^CJH:&6z:r^^ez,:zLOe SH,JJ:Cz,S&OeCHL&zz,r^O,^erNO& SS6,CJOLerO&C:rr 6azJn:O 6C:66HS,:zLrJeJHrJ&:e&HrOOeC9LOz^r:^OH ^S,6& SC6rC&Le:O,6z ez OrJ&:&^6 C:O,eJ,Cz6OS CHHJ6JH&xS6O^C,&zz^rS^,^,JCm,&&:Sz6C&LzeW6J^^H: LI z::,6JCCO,e&,SzHL6eSHHJO:^6:SL6xeSOOVCrS^,H& eWH&6Sz&YrHLzz:,Le:HS LjJJ:L&6JCeOH:&,zzWrOz^zzJL: 6SS,OJ:rLre , ^HHJJzrJ&OS^O:CLOrzS,,^JH: r* &eHH&HCzO0eO,^^:,d  rSJ&:J6CSrO&eeO6z6Lz^SHOJ^::&LS 6JC,6Je ,r^&He Ht6&S:c6z,LL:eL, Ler,  hCJ,:&&XHJO&ezLiO,r^^4HLJ zL&,SJOCC,L&ze,HzJ^& ;2O&^HH6LC LSCOLe^Crr &HzJH:66z:reCezLYzLOe SH,JJ:C& S&OCCHL&zz,r^O,^ ,#L&^SS6LCJOLerO&zJrH &azJH:O lC:OLCO,Sz,rJ :HrJJ:e&O:MOzCtLOz^r:^OH JSz &JSC6rC&LeeH,6zCL^ O<^&:H66 CSO,ee&Lz,r& eHHJ6:e&2:&^:C/LLz 6H^,HJJC0rzJSe6HC6LeeB,&^^rOzex^&S:,LJCCO,e&,ezHr^CrHHJO:^L:SLO^eSL,^:rC^rH&JS8H&6SzJW:rLzz:,L^ HS^6{J C+66&CeOHe6,zeCrO^eH&JL:z6S0,OJeCLrz&,&^HH6Jz_r&OSeO:C^OHzS,,^Je^ rwJ&e:r66C:J&e6,^^:CH  G:J,:e^LS,O&eerHz6re^vHOJH::&LS O:C,LJzCOrC^HC HB6&z:%&^C^6::&,^^Sr, J_CJe:&JeHLO&ezLXzOr^^rHLJ:r6&LSJOCJ L&zC,H^6Hz L,e&zS:6L #LSeL,J^CH  &leJH:&6zS5OOS^&rzOr  SH,JJHr&rK&J:CrL6zz,a^OrLJ:,L&:SS6,CJORerLO^e,,SzheJn:O CC:OLe ,S, rJ CHrJJ:e&,S6&zCLLOz^r:^LH  O7, J:J6rC&LeeH,6C&r(^&rH&::O6 R O,eJ,CzrLH eHHJ6:z&9S6O^S:OHz rS^,HJJC,6&&:^6rC66 eg::^^rD LY &S:& :CSOre&T6zHr& zrrC^:z6:SLJeeSL,zJrCS,H&JeRH&&Sz6rCO6^SH,O^ HS ,QJJL:r& S OHe&,zC6rO ^Q:^LyO6SSLOJeSLrCFrez,H Jzor&O:,O:CLL CXLe^JrQ rHL&e:H66SC6OeO,S^:LC  ESJ,:J&ZSrOJeeLOz6rC^drOC6}x&LS JLC,L zCLL:eHC HF6^e:(6OC^6:&9, ^Sr, JFC^&:&&SS,O6eCLICCr^ :HLJ HH&,SJOCCLL&zS,He6r: %{O&^S:6LSOLSS,Le^Crr &-eJHnz6zmE6Le^,:zLr  SHCJJHC&SS&OeCHL6zz,,^OrvS >L& SSL0CJLSer,J^erOeCDeJb:OL&C:OOe ,S6 rJ CHrJJ:e&HS66COeLOz^r:e6H JSZ,J^:r6rC&LeCV,6^zrp^&JrJF:O6 HHO,eJ,CzrL, eHrJ6:e&7S&O^S:Lzz r:^,H JC* &&pe6&C6Leed,6^^LO LI Jz:,6JCCOLe&,CzHr^^:H4JO:^6:SLO^eSL,6SrC^rH&JeBH&6Sz&r::L^z:,LezHS ,IJJHr 6JCeOHe6,zzHrO^e6LJO: 6SH6OJeCLrz&6C^HH6JzFH&OSeO:C^^,zS,,^JHC r7J&e:r66C:J&e6,^^:rL  B:J,:J6LSrO&eeL,z6rz^y,O^&c3&LS OSC,OzzCOrz6He HQ6&z:0JrC^6HCJ, zxr,zJRCJr:&6e:&O6ezL_z&r^^HHLJ:H(&,SJOCzSL&zC,H^&Hz L,e&zS:6LeOLSeL,JzHO  JFeJH:66zSHOOCe LzOr  S,SJJ:C&rS&O,CHL&zz,H^OH^J:rL^eS:6LCJLSerLe^eLHe AeJH:O6zC:O^e OSS6r  SHrJJ:e CS6Oz5:L6z^r:^LH J:0, Jr.6,C&LeeH,6C:r?^,L,&:HS6 CSO,e ,Czrr&^ZLJJ&:z&oSOO^C2LLezJ,^LHJJC3C&&Se6HSJ^(eH,6^^OH L< &S:, SCSOre&,SzHr& zHLze:z6:SLO eSLLzJ,::&HJJe8H^ Sz6hCOL^hM,L^ HS LKJ&::r6C,6OHe6,z^SrO z!:JO: &rH^O eCLrzOre^rH6J:,&&6S^O:CLL z:,,z^&r ,3&&erL66CzOReOe7^:rL  s:J,:^6Ckr6:eeLHz6rz^dHeJ^H:JCS OSC,LJzCOS^&rS^,_6&e:f 1C^L:eL, zHr, J*CJr:&6CSH&6COLYzOr^ :HLzC:SJH: OC:DL&eJ,r^&Hz 2tO&Sr66OC LSe:, ^Srr^ 6HJr:66zH,OOe^,:zL6^ SH,JJ:S&rS Oe:H& ze,>^OH^J:vz& 0mzJC LSerL&^erH 6Hzee:66^C:&^e ,:z,rJ LHrJ&:e&rS6OzC%6OSC,p^LH JSa,JCSCJr%^LCeH,6^zrc :E^ :r&6^CSO,eJ,CzOr&^r6zJ6:z&Y:JOzCILLz^rS^&L:JSkr&&::6rC&LzeL6e^zH: LrM&::L6JCCL e&,ezHr& zH4JOH^^rSOO eSL,zJLr^r,&z:8r&6Sz6_COOLz:6L^:HS ,MJJb:r&OCeOHzC,zzGrO zQ:JL: JSH6O eCLrz&rez6H6^z,,&6S^O:CLL eJ,,eJOp ,M&&e:H66CSOkez L^:rL  ,LJL: 6CS,O&Cx&Jz&rz^_,zJzlA&LS HLC,LJzC,,^&He HHJM&:!6OC^&HeL, ^S,O zXCJr:&&zSHO6ezOrrCrz^vHLze:S&,SJOCS^L&zC,H^&Hz r0O ^Z 6LC^LSeL,JzLrrz&HSJH:&6zSHOO:0,:zLrC SH,JJ::&rSJOeCO6,zz,B^OH^J:jO& SSH CJLCer,&^erH 6HC^^:O6^C:&6e ,Sz,reCLH,J&:e&HS6OeC=O&{:,s^LH ^ b,&JSC&LpSLeer,6C^r9 OK^ Hrz6 S/O,C^,Czrr&^SLJJ6:S&VS O^e:LLz JO^,HJJC4O&&SC6HSJ^1eH,O^^Le Ll &S:,eJCCOre&,CzHr& zHLze:z6:SLO eSLLzJrCC,H&Je{H&&Sz6qCOL^z:,L^ HS C%J&C:r6^SHOHe6,z^SLJCiOHzS:e&OS,OJeCLnCL66C&O&CL,C&JS:O:CLL ze6SS66VezN &e:H66CzOZeO,^^:r&^rMSJ,:J6z::^H4S&&: 6:CSLSJCH4&LS OSCH6O.&&LCCO:COLLzLH&^ HS JS 6::O6e zH,Jr:&6eC: :NH&&:66L^rr,J :S&,S6&JH4J^:OLeSL6rCJLS rre^rH^J&e6LL^Crr &F^ C,/zL:J rqJJISC&GCJO6JzN,&rS&Oee:Jz:H6SSe6rCLaL& SS&OrCLSeL,&z6rH 6/zJ},r6^SrOLe ,Sz,rJzCrOJ&::&HS OzC LOz^,O^LHeJS%&&JSC6rC&OLeH,J^zr4 OuS&::JJLCSO,eJOezrrJ er,Cz:e&&SO6He:LLz LSC6H  Lor&SSe6LC6LzL&,OzrH: L8 &S:,JJHqO,Cm,ez&r6 eHVJOO:6:SzO C&L,z^rC^J,:JCXJ&6p^6cC6L^z:,L^COO L/J&CHH6&CCOHS6JrzHre ^HOJLDH6S:OJ:eCLzz&,H^HH6Jz_uC^S^66CLOrzS,O^Jr,SeP&J,:H& CzOHeO,z^:rJC<h:J,:JJ2SrOJeeLOSCre^UHO^ ::&OS &SH^L eL,r^CHe  +6JCr&6OS,L:e^, ^Sr, J&rJr:S6eS^O6eCL=zzJL :HzJ H&&,S OCC,L&ex6J^&Hz VHS&^:y6LCCJOeL,J^CLH &RCJHH6 SSHOee^LOzLrS S,,zz:S& S&6,CHLJzz,SO!H^ ,VL &SS6LCJOLer,zS,rr 6qz S:O6zC:OJQh,:z,rJzeHrJJ:e&HeOOzC6LOzer:^LH  L-z& S:6rCCLeer,6^Cr8  LHJp:L6 SLO,e ,CzJJH eHrJ6H:&0S6O^CqLLzC6O^LHJJCr6&&SC6HC^JreH,O^^6, Ll^&SWOzCCSOLe&L6zHr6 zHFer:^&rSLO^eSL,zJLC^:H&J:YH& Sz6 COL^eC,L^eHS &hJ&C:r6&SeOHeJ,zzxrO Sc:JJ:e6SS,OJM:LrzJrez,6zJef&&O:HO:CLL CS66^ rL rlS&e:L66CzC&eOLr^:rL  .SJ,HJ^<S,6#eeL&z6re^.HOS:::&zS 6&C,L^zC,Je:HC JD6zC:n66C^L:eL,CSOrL JdCeL:&6CSH&6HrLHzer^^OHL H:SJOH:OCCzL&eH,H^6Hz j6^&^:66LSrLSeO,Jz,L^ JH,JH,J6zSHOOe^,:zJ69 :H,JJ,:&rSJOe:HJCze,&^Or>J:Ve& E3 ^CJO6er,C^erH 6KzSO:O&HC:OCe Laz,rS:&HrJS:e^CS6OeC?L6z^,,CzH^JSU,zLSC6,C&Oo:J,&^zr>C&R^JB:LJ HHOLe:,CzJr&^HHH^6rS&HSeO^C6LLzzrSzHe,JCc6&&rC6HC&Lze&,O^SO6 O_ &S,L6JCSOrez&,zrr6 zOrJO:z6:SL,JeSL zJr:^rH&Je3&&SSe6rCO&Lz:,O^ rf ,EezL:,6&Ce&ze6,ezZrOezR:JL: 6:S,OJeCLrz&re^HHJJekv&OS^6rCzL zS,,^6,J^^r  rQeJSCCODeO,^eHLS  xSJ,: 6CSrO&ee&rz6rz^{H6J^::&LS OSC,LJzS,,^&He HT JH:/6OC^LC_eJO:r6^CHw:Jr:&6e:,J(ezL=zOrz :HLJ :S^LSJOCCrLJze,H^6Hz U(O&^:96OC LSe,,zz6rr &3e&:mCz rOJzHrJ&CCLS^?H,JJ:CJLHHOeCHL6ze,n^OH^J:,O& SS6,C LCer,&^erH 61zJH:J6^C:OLeeL,z,rJ CHtC,,r^:r:OSC6LOz^r:^rOSe6, z rS6OCeLeeH,6^ 6 ezOrz:Tr6 CSO,C^ rz,r& eHLJ6:z&/tOJCC+LLz rS^,H JC%rzJSe6HC6LeeY,&^^rOzeK^&S:,&OCCO,e&,ezHr^CrHHJO:^&eSLO^eSOO7CrS^rH&JS-H&6Sz66,HL^eA,L^ HS LwJJH:r6&:HOHe6,zz!rO ^/:JL1S6SS,OJeSLrz&re^HrzJzBE&OSeO:CLL zSLJ^JHC r4^&e:H66CzJ6e6,^^:r6  8:J,:e^LS,O&eeLHz6re^9HOzz::&LS O:C,LJzC,,^&He H&e&z:56OCCO6eL, ^SrHzYOHeL, J&HOO C6L0zOr^ Cree^,LzHr^J,HeJHvL&^^JHz c7O&^S:6LSHJSe6,e^Crr &<^z-,^zOS,Oee^,:zLr&SOL ez,6z6r O:C L6zz,j^,LOeCLez&rO^LHrO%e ,&^erH LrSeLGC^zHC  ezCJC6O,Oe SI&6HzHS 6 C3LOz^rCeeO,CH,e Jr&zA:H &:z& :L6J JHr&::L6 Ce  Hr&&:^&dSOLzJJ:z&MSO:^L&C6OJSS^6rKJChr&&S^JeH(J,P & :Hr& &H &S:,6JCz6exCJ6S:6ze&L^zz,:z,r&&e#LJO:rr:^rH&JeNH&6Sz SHOLCe&,L^ HS HrOz&rJ^JrOJSSJ,Sz&rO ^-:JrHSzrrz&^HHJOz^,r^HH6Jz:SJ:EH^ HeJCeHLH^JHC rXO  r&z5HS  ::&,CO6SC,O6ee::&NSeO&eeLHzLL,SLOJC,,Ozrre JH^L^zC,r^&He H%6^ ,b6JC:L:eL, ^eLOeSLzeO:^6SSHO6ez,SSrrC^zHLJ :S&HIx ,HrJHzHO6SCO C,,CzL:r&OC LSe,,6e^6eC LreL,^^ H &eASJ,:CLSCLO^CHg>&JS&OeCHLLSL6SSSOze F6& SS6,CJLCer TSer,6::6OCHLS &OH6J Lbz,rJ CHrJ&,eH!r6OSCCLOz^r:^r,reJLOze,V^(Z:LHS &^:O6H &f^&::L6 CSO,HH&CzOr  eHHJ6:  :SJ6Oe:LLz rezzLSChH^zzrC^rHLJL:^,JzOH: Lj &eHz^rHSJe::JOeeOeSrOrJJ7J6:SLO ee6OSS&OSzOHC,L: ^,7^ H,JSqr,&z&HS ,EJ&zj^^LH6J 86OCS66CerL:er,^^:S66reCLrz&r^e,Lee&L,z,,,^ uCJ,eHLo^JHC rTO rrJ eHSJ _ &CCO6SC,O6ee:z&LSrO&ee,:q/6SSOLzer,:&&:&OSC,LJzzO SHOSCOOHzOHHzq{,JCBC&^SJr6^r1CJr:&6^p^ C4HJzS:6zeSOJC,=H&CSJOCCrLOSH&rCe6 e^Le 6, ^rCeO^e,,J^Crpz:Ooez,&6{:e :MJJJS^&V^HHJJJ:C&rSO JB&JJ:O,r^OH^J:iL& OJ6zH OyeC,&^erH Lr&z^,S rH  zHL&eSz6r^RrqJ&:e&HSL&,MC&::r6:zzOCC6Lz Nr,^rHHLSeH,6^z^GeHO6LHzL6eS O,eJ,CzbLCS6LzeSLL  r,^,HK&SzzrS^,HJ6C r:&,C^HC OOev,O^^HCeKLCeO,,z>rrJJ::&6zL,H zHpJO:J &rCJ:HOJeC,6,S O CLY,HgJL: 6SS,OJ:CSJrH JxJ&C:r6OrJJ&wLJLz,,9 ^I:JL:&JzHCJS%SJz:LOLS^O^C%c,&zS^O:CLL&C:6C:,O&C,R^JL:H66CzLSS^&zSO&rC,OOez:z&rSrO&ee,:C:6OSCOSJe::&LS CSz^^&&O&r^&HC LHH&z:56OCJ6&C:JXSL6OCrr^ee,^zOSL6,ezLGzOrJz&OHe,,6z,::^HHOJHCS&OCCHS LKO&^S:6rQ:Je3O,zzrrr &3e&:HS^ r:J:eCLOzLr  SHH^SL&^er:^OCLLCzz,t^OHJCOLSz,,6^erHL:er,&^e^HreJ L&zO6CSJOLe ,SzH,:SLOse^,J 6r^^,CrLOz^r:^LH JSn,zJ:!6&C&LeeH,Ler6LCJLLJr:S6 CSO,e6OOS:OCS,L&zSLL^^reOCCzLLz rS^H, CH,^^CrCJ6H&JH4S6::Hrr^H# &S:,66:z OHrJX:H67e,L^eeLO^ rzOeCrL,zJrC^+O^e6LC&JSz61COL^z:,L  OC 6HT&C:r6&C^&^c^6L:eO:CLOrJ6: 6SS,OJeCLrz&re^LrrJzYR&OSJ&z8S rC6&4S6OSezLSz6,L6 SHO;eO,^^C6 e:Lee^LY&YS O&eeLHzL&,S OeeJLrz_SzOSC,LJ C4L:SzeOH+ JL:t6OC^LCS-&,:&L SrL&e^L}6:SeO6ezL/z,OrSJL^CXL&J^r: zHOJ,z:,6^6Hz nm,zerO^CH6Oqe,,J^Crr &qe&HzO6SSOOOe^,:zrLeCLOOerwx&CS&OeCHLLC,6CC:Ore:r^e,rJ^zrHOUe ,&^erH Lr, z,e^prHJSez,Sz,rJzCL^L^6&zHS 6,CpLOz^rCe6OCeOr6^Sr: eC^OOeH,6^zHSzrOLeHr^^err HTHLQeLr& eHHJLrr^^r^ zQC&eS:&&CCOHzOLzzz,, &HrJOe,,S^^H: Lx& Or ^VHC &:C&L:Hr ^eH4JO:^6Crd ,H&66:r&^Sz,eCUL zL,L SH JCe6,&zrHS ,jJ&zH&^zrLJ:v:& :L6J e=:JL: 6SS,OJSHJrz^,,^HH6Jz:SJ:;r^<HrJH:S,6^:HC rF&&^GS^3HH H#S&&zrr:  ySJ,:6JL,. exrJ :SOLC^O6eLyH&LS OSC,z,&L: 6&H:^HU6&z:_6,H6J pCOeSJ&kSH,re6,:^^r^ Lp:J,z&D,J^:H^J&O,H : CCOOLze,H^6H ^JLrzLr&^L:HJLZ,&re:66eS*: x:66zS1O,SrJ,:J6 CeLC&CHOz HC &H^J.jr,r^OH^J:-L& SS H JOUeC,&^erH L,,e rzzHrJ&^H,&J:z&H^YH^J&:e&HSL&O:e&::5&LSJOe Hte&JSC6rCO6,y:&zSH6JCC,,^L:&6SCSO,eJ,zSC6OC:L^JJ:z&0SOO^&Qr :z6S^6rFJCGr&&S^&zH JORr&,SL6& &H,&S:,6JCz&L:CJ eS6.CHOHeS,&&HSLO eSL,zJrCC6O&J:Xe&6Sz6QC,6r:O&LS,LLCCLreO,z6CC:6(e6,zzTr,zOLCe&,rJ rH :HOJze:6 C:O&eL5,&^S^O:CLL&o&6 :uOC rI&&::,66CzO_e,JOzrre  3SJ,:6 LHe  H<J^:K&,o,H^J^::J6,SO:C,LJ:8,r^&He &6m&z:b6OCSL:eO, ^:r, eLLJ,:&6eSOO6eeLXz 6H^AHLJ 66&LS OCSL ezC,H^6,e *xO&^HOr^C LSe,L_^Cr, &L,JH:^^rSHOOe^L&zLr^ SH&z::S&rS&eLCrL&zzLr:^HzJ:BL^LSS6,CJ6C6S,&^erH 67z^C:O&eSrOLez,SSzrJ CHrJ&H,&HS6OzCrLOzer:eL,6JS4,&JSC6rHSLeSHLL^zr4 O.^&:HC6 :SO^eJ,Czrr& er6J6HzJ&SOO^e:LLz 6S^,HJJL?r&JSe6HC6Lze0OOCCr. O} &::,&CCC&r:^,Czrr6 eHIeO:^J:H&O^e:L,z rCzOH&^e,L&&Se6>C6L^S:,Le OH La &C:,6&:OOHS66SzHr6 ^HkJL,r6S:O^CeSLLz&&z^HH6JzrP^JSz6HCLLzzS :^JHCH ?&&::H6&CzO%eOLeqLrO C%SC :J6CSrO&tCLHz^rz^HHOJe:: LHeO:C&LJeH,r(bHe H6z&z:r6OCSL:e6, zLLz  b:JrHJ6eSrO6ezL/z 6H^KHLJ H:&,S OCC6&SzC,H^6LO >=6&^4Hz C^ONe,6,^Crr &reH^:66CSPO&e^6ezL,z^ H,Je:CeCS&OeCHL6z:,+^&H^ ,<L&zSSJ,CSLCeL,&^SrHBe9z^8.r6^SHOLez,SzLrJzCrHJ&:S&HSJOzHJLOee,S^LHCJSrJ&JSC6rC&O6eH,J^zrL Oxz&:HL eC:OOeJ,CzrrC e,&:J:z&rSOz:C?LOz 6 ^,HeeLQ,&&See6C&Lee7L&::rm 6u ^ :,6JCC&r:^,Cz,r6 CHKz&:^J:H&O^C>L,z^rCHEH&^eLJ&&SC60C&L^,H,Lzz&, Loe&CLJ6&CeOHe6&ez>r  ^HTJL:z6SX,JzeSL6z&,F^H6:JzU(C^S^6HCLLCzS,O^Jr,SeN&&S:H SCzOHeO,z^:rJCUm:J,:J^OSrOJeeLOSCre^hHOe^jW&OS &9rJL z:,r:OHe Hq6JCLO66CCL:S:, ^Sr,zJLBJ,:^6eSLO6:CLjCOOC^vH&J 9H&,O6OC:rJSzC,L^6HS KOr&^S:J^C^OHe,,e^Crr &leS,:66CSpOOe^L,zLrCCOHLJJ:C^:SJOCCH66SS,H^eH^ OtLeSSS&OrCLSe^,&GrrH 6czJ3,66^S&OLe^,SzOrJzCLOJJXL&HSSOzr LOeNCS^LrNJSL^&JSS6rC:LeeO6C^erD OOH&::O6 SrJ^e ,Czr6L CHrJ6Hzz&S66He:L^z ^/^,r^eLQrJfSe& C6LzeP,ON:H: z* J&:,6^CCOJS:,CzJr6CJHHJ6:^6:SLOCYOLLzJrCC:HJJC2H 6,r6HCeL^eO,LHzHS^O,:&C:z6&,6OHe6,zz>J^ ^H6JLlr6SSOOJC,6^zJ,,^HO,Je9H&OS^O:CJJ.z:,,^JO^ ,IJ&eHH  CeO&eOLA^:&S  rSz6: &LSrOSee^rz6, C HOC6::zHS^O:C,L:zC,6CSHC HX6zJ:H66C^6HH ,^zOr,8zjCJr:&JeO6O&CrLdzer^CLHLJ < &,S:OCC,L&zC,HzJrJ _}e&^O 6LC LSe,Lr^Cr  &yCJH:&6z:r6ze^L6zL,^ SH,JJ:C&OS&6,CHL&zz,H^Ore^&/LJ*SS^SCJLCerL ?Hrr S.zC&:O6^C:&LSz,SzzrJ^OHrC+:e H:eOzC LOe{r:zeH ^ShC&J:66rSPLeH:,6zC,- OHL&:906 CSO,SJO&zr,H eHzJ6LL&}:&6ze:L:z JH^,HJJCrr rSe6eC6O6eF,^^^,HSC/^J^:,C>CCOre&LSe,r6^JH}  :^6:SLO S6L,e,rC^:H&JSvHJJpO6tSHL^r:,L^ HS^OHO&C::6&r:OHe6,zCpr& ^HeJLm66SSJOJC:O^z&,^^H&SJz-Q&O:e& CLOJzSL&^JHC rj&JJ:H&,CzO:eO,^^:rL^,XSJC:J6CSrO eeLHSrrz^ HO ,::&SS OS: L eO,rzRHe H#6&z6L6OSHL:eL, ^:r,^^6rJ,:S6eh,O6ezL?zzJL :HzJ &L&,S OCC,L&ed6J^&Hz ?&z&^:<6LCCJOeL,J^C,  JMCJHAJeASHOee^&OzLr  SH zb:S& S&&,CrL&zz,/^OHSe6MO& SS&^C LSerO&C:rr C8zJ6:OeLC:&L:e,:z^rJ^LHr:6:e &:HOeC&LO,Jr:^OH z^G,&erL6,C&Le,:,6^er_  LHJx:L6 :OOLe ,CCrO^ CHJJ6xH&0,:O^S:&&z^,O^,H:JC6,&&<e LC&O,eA,z^^&  Lr zH:L&1CCO^e&^zzH,J:=HHJS:^^OSLO eSL,CHrS^^H& LwH&:SzJa^6L^e&,LzHHS^C#JJ,N66&S,OHLS,zzHrO^rP:JJ,Z6:S,OJOOLrzJre^OLCJeN#&O&,O:COL zSSz^JrL rn&&e:H66CzE6eOLH^:rO  gSJ,j^: SrOSeeO;z6rz^0r&  ::&zS 6CC,LJzC,Je:HC J%6LH:Y66C^L:eL,CSOrL JaCLJ:&6CSH6Jr3LHzer^HrHLJ :S ,HzOSC L&e,,HCzHz y6O&^:66LC^LSeL,Jz:&& JH,JHH 6zS.OOe^yTzL,7 SHLJJZO&r: ^CCHL:zz&z^OH^J:rL&^SS6CCJO,erL:^eLH^CqzJ^:O&LC:^ze OUe,rJ^JHrCS:e&HS6&zCzLOeOr:^:H C&E,J^:H6rS,Le5C,6^zrR^&H&&:QH6 SeO,eJ,CeL ^ CH:J6L&&gSOO^e:L6z , ^,r6JC1L&&Se6^C6OOeE,:^^r^ L5  r:,&HCCOLe&,CzHre^qHvJe:^HCSLO^eSL,zJ,HC HJJecHrLSz6HCOO2S&,OzHHSLHxJ&S:r6&CeOO:C,ez4rOLJ{:JO: JB,JO C6LreLre^HH6JzJ&&O:LO:CzL zS,,^JCH rH;&e:,66CeOfC&Lz^:rC  H&J,:J6CSrCSeeLzz6,,^bHOJ^::^^S^6&C,L^zC,,^&HeL&/6JL:F66C^L:eLLz,^r,^H_CJ :&6eSH6JCIL(zSr^HrHLJ :S ,HzOSCzL&eO,HCzHz^r,e&^: 6LDCLSe,,J^COJ JHOJH:J6zSHOOe^:OzL,r SHLJJ:C&r: J6CHL:zz6S^OH^J:rL^eS:6eCJO,erL:^eLHe {eJ :O&,C:^ze OWCCrJ^6Hre,:e&HS66H:JL6e2r:6&H J:X,&JSC66DSLCeH,66Srj 6k^ :,z6^S&O,eS,CrLr&^SLJJ6P6&1,:O^e:LLz  ,^,rHJCyC&&SS6HCe&,eH,S^^Sr LA^&S:,6JSHJ eJ,ezHS  zHHJOH^z6SO6reSL zJ :^rr e,nHJHSz&JCOL^z:,L<SHS euJJJ:r6 CeO&SS,ez rOOCh:JO: 6SS,Oe+LL,z&re6LH6Je}- OHC6vCCL eL,,qrHCzr,^&C:^66SLOdr6,^COz^  H&J,J66CS,O&HJLHz^6r^HHOJ^JC&LS^OSC,:SzC, ^&He HZ6&z9rJ:C^O6eL&&^Sr, JHHz :J6eSH6:eeLHzO,e:LHO 4:SJrSJOCCrLCH6,H^CHzO^WO&zS:6OC Or:^, ^Crr6HTeJr:66:H&O6e^,:eJr^ :H,JJ:L&rSSOeCrL6zz,?eO,& lfz& :O6,,LLCSrL6^erJ 6HrJ#6&6^:H6 e L&z,Or CHrJ&:e&eS66rCMLSz^,H^LH:^6T,&:SC,^C&LCeH,&^zrLeeXz&::LLHCSOLeJ,C^ r&^,HHJ&:z&/SO&^:CLLexrS^^HJC,Ur &:e6HCCLze&,OHeH:^6HO&S:e6Jm&Ore&,ezH,: zH&JOc,6:S6O CLOJzJ,L^rrzJCEr&6Sz69C JHeq,L^ ,r Lm &CaLzeCCOJe6^Sz-rO ^r:z&:^&OS,O:eC&&z&rejHH6 rk2&6S^6qCLOzH,,L^:HCzOq&&e:H66HeO2ee,^zNrL z-S OL 6CS^O&H&LHz6rzetr6J^VJ&LS:OSSzLJCC, ^&rO Hg:&zL&6OSeO,eLL,^S&^ JkCJrH&&OSH6sezL^zO&, :r6J::S&SSJ^ CrL&zeL,z:Hz e.OJJS:6LC 6i:^,Jz^rrS,9eJH:66zLOOOCL,:eHr ^RH,JJH6&,:1OeC^L6eO,k^OO7 mqe& :?6,C LCeJ H^erJ 6:6Jq:66^S%OLeC&OzLrJ C:CJ&:C&HS^ rCHLOz^r ^LH^JSHOeCSS6^C&O eH,6^zr_H,d^JJ:L&RCSO,eJ,Ceer&^LHHJJ:z&HSO6eSOLLeHrS^eHJJCxrJ :,6HC:LzC:,O^^H: Lje&S:z6JC:OreJ,ee,,& zHJJO0,6:SLO S-L:zJ,6^rrCJegH&6Sz 6C6Orz:,6^ H: ,pJ,,:r6:CeOre6,zz+,&r6i:Je: &OS,OJeCOLezre^ H6:SEF&OS^&:8&L^e6,,zjHCe&i&JSrJ66SLO_: ,^^:rL  LLJLs.6CSLO&eCLHz6SH^RHCJ^9u&LS OSSO&rzC,^^&O^ HW6&zHu JCzO&eL,:^S,z JrCzO:J&LSHOSez &zO,ee HL H:S^:SJOCCrLCSL,r^eHz^Hx6&zS:6LC Or:^, ^Crr^JFCJr:6Jzr&O6Cr,:z^r H8H, ^,L&r:HOerzL6zz,u^O&:J:ke& :J6,C^LCeJ H^er  6HrJH:66^SnOLeC&OzLrJ CH JJ:C&HS^ rCHLOz^Lw^OH^JSr,z:SS6^C&OreH^J^z,reeR^J :LJHCSO,eJ,CH&r&^LHH *:z&rSO6dr LLeHrSzxH JSVr&JSe6OiCLeeE,Oz&r- OV Jrr^6 CCOrCJ,Czrr6zzL,J6nr6:S^O rJL,CJ6>^,H:Je9 &6Le6u:zS0z:,e^ :6 ,F &C,S6&S-JJe&,zz}:C ^H.JL: rLS,O:eCLrz&re^HrJzO-K&eS^ CCLL zS,&C:HS r!& O:r6&Cz6rH^,zz6rL: !SJ,:J6CLrO&C,LHz&rz^HHOJS,6&OS OSSeL zS,rz &H rFC&zOV6OC^L:eL  ^Sr^ JISJr:J6e_HJ eeL&zO,f :reJ H0eJS 6OCrO,ze,H^6,zL ZOJrS:6eC  &e,L^zLrr^}Ve ::66zS26&C,,:zSr zeH,JJ:CJL:eOeCeL6C ,%^OH^J:A & :66,S,LCeL,&ze6C &HrJV,L6^S&OLS &HzLr: CHJJ&HL&HH66HCKLez^L:^LJCJSr,^zSS6 C&OreHLS^zLheJNzJ6:L&PCS^^eJL:Cer&^,HHe :z&0SOO^JOLLearS^LHJJCWrJ H66HCCLze&,O^^H: Lz:&S:^6JCSOre&,ee,zr zH&JOLe6:SLO ShO5zJ,L^rL^JetH&6:HJJC6OHz:6:^^H: ,5J&C:6 SCCOHe6&6zHr6 ^rHC :^&OS,& eCLrz&reC,H6 rju&eS^O:CL6:JL,,^:HCeC_J&C:H CCzOL:e,z^:rLCLM:JL:JJCHOOJC,LHzerz:^HO^^,r&O:uOSC^LJHS,reCJ: HiC&zrz66CzL:Hx, zrO^  =CJr,r6CSrO6SzJ&z6,H :H^J &a&,:^ LCrOMzeL ^6Hz kAOC:S:6zC O&e,,^^CrJz:/CJJ:6^6SHO6e^,:zLrCCOHLJJ:C^CSJOCCHL^:r,H^OH^SL(L&^SS6,JSLCe ,&^erH 6*z rH:6^S6OLHz,Sz,rJ^,H^JJ:S&Hr6OzCHLOzer:^JOEJ:o,&JrC6rCJLeeO6C^er! O6eJL:O6 CSL^eJ,:zrr  eHHJ6Hzz&S6Oee:L6z ^_^,r^Sr{,&zSez&C6Lzeg,OSzH: JU &::,6^CC&r:^,CzOr6 :HfCS:^6:L O C2L,zerC^LH& rr &&SC6K,&L:eu,L^ HS &,:&S:r6&,SO6e&,zer&^ zHHJLL&6SS,OJeC&:z&r:^HHJJzc-&Op^&zCLLezS,6^J6^ rh& r:H6 CzOLeO,^^:rLzEUSJO:J6CSrOzeeLOe6rz^THOSeWP&OS &S96L eL,r^CHeS6l6JC:C66SrL:Sz, ^Sr,^^HCJr{N6e,&O6ezLWzO,, :HCJ ::&,S^OC:rL ze,^^6rL ZOS&^S:J<C O6e,,^^CrL &Hr &:6&rSjz&ezL<zL,H SH&z::S&rS&zSCrL&zzLr:^Hz 6fLeLSS6,CJO:H&,JzLrH:,AzJ}:OJ^_HOOCr,Sz rJ:LHr  :S&H:8Ozr&LOz^r:eLr JS_C&J:&6rrkLeC,LS^zrz OO6&::L6 :R6zeJL zr,z eHHJ6dCJCSO6&e: lz rS^,HJ ^?rJHSe6SC6LCeM,Oe,r_ CN J&:,&rCCOrSC,Cz r6^LHwJO:^6:OJO COL,zJrC^,H& r0 &&SC6%r,LzeR,L^zHS &,:&S:r6&r^Ore&,zzLOe zF:JLOz&,SLOJC: &zJrS^H6&Jz5p&OS^z:CLLzzS,L^JHS rNzz,:r66Czzre^,z^:,6SS9:J,:J^dSrO&eeL&Hlrz^?HO:6lh&OS O:C,Le:L,,^&He:C4&&e:k6 HHOleL, :Jr6  sC LLe6CSHO6SeLkzOr^eOC^J :S&,OJOSC,L&aH,H^^Or HBO&^O:6OC^LSe&6:^Srr &O6JL:&6z:r^^ez,:zLrC SH,JJ#,eeS&OeCHz:ze,H^OHzJ:hJzAS:6,CJe6e,,J^erHJC?zJa:O6CC:OLe OS&SrJ CHrJ&:eS&S6&zC^LOz^r:^LH J:2, J:,6rC&LeeH,6:,r.^&HJ&::66 o6O,eJ,Czr,S eHHJ6:C&jS6O^SH  z^rS^,OOJCNr&&Se^rC6Lze=,6^^rH Lk:CJ:,6JCCCTeJ,CzHr& zHLze:z6:SLC&e:LLzJ,HC HJJe!H LSS6HCOOeHL,O^ HSCBZJ&C:r6&HCOHe6,zzHrO ew: 6JO6SS,OJLrLrz&rez,r,Jzsi&OO:O:CLL eLOz^ HC r6 JH:r66CzONe &HzGrL  &TJJ: 6C:L^eeCLHz6 S^IHOJ^H:S S^OSC,LJzC6&^&He^CE6&z:s66C^OGeLLze<r, JmCSe:&6eSHO6C,L4zOr^^;HLJ^:SJO:eOCCrL&eC,H^6Hz vH,&^S:6LC^LSeL,Jz:,S &QeJH:J6zSROOC1  zLr  S^rJ :S&rSJOeCO&Cze,i^O^  NtO& :r ^C LCerO,^Srr 6HCCO:66^C:&:e ,Sz,LJL HrJ&:e&HS6JJC_O&C6r:^6H e6l,&JSC6rS2LeeH,6^Crk &R^ :(F6 CSO,eJ,C: r&zeHOJ6:z&vSOO^:JLLC ,O^,HJJCRr&&NH6H:6LSeT,O^^H: LL &SH, zCSOre&,ezH,  z,szJ:z6:SLO eS&,zJLCCOHJJeKH&6Sz& CO6^:r,O^ HS ,7Jz6:r& 6JOHe6,zz^rO ^0: 6H,6SS,OJHeLrz&reeHL Je4A&OS^O:L7L CbJJ^ HS rHH&e:H66SCJ&eO,e^:LH  NSJ,:JCrSrO&eeL,z6rC^wHzzrv_&LS 5rCLL zC,r^&rYeJw&&z:jf CzOxeL,CSOrL J_C,H:J6CSHO6JHLRzOr^ :HLJ :SJO&LOCCrL&IS,H^6Hz^rHJ&^S:6L;LLSe,,JeCzz &ReJH:66zvCOOCeOJzLrz S6SJJ:C&rS&&rCHL6zz,r^OHeJ:rL LSS6,CJLCer^C^eLH S7zJt:O6^C:OOe OSCmrJ CHrJ&:ez S66CC6LOzer:e H JS8,&JXL6rC&Lee,,6^er>^&O:J5:L6 = O,eJ,CCrC, eHHJ6:z&*HrO^SHLSz ,n^,O7JCQr&&Se&,C6Lze*,&^^rH Lr  z:,6JCCOre&J,zHL6^cHcJO:^6:SLJreS6,CrrC^rH&Je_HJzSzJ{S^L^z:,L^ HSC,+J CrO6JCeOHe6,zz6rOe;COJL: 6S SO eSLrrzre^OLCJe0d&O^O6ECOL er6^^ HC r:e&C:r66SC^Oe6,^^:6:  <SJ,M^erS,OJee Jz6rz^s,OzCUh&OS O:C, HzCLL:^He ,26 6:?6OC^6HC , zHr,^o<CJr:&&S:6O6e:LaH^r^ :HL z76&,SCOCHSL&ze,HzJ,H V}z&^,z6LC LSCOLO^Cr  &6*JH:66z:r6Le^L&zL&O SH,JJu:^ S&6OCH ;zz,M^Oree6!LJ,SS^:CJLCerL S,rH^H5ze^:O6^C:66I_,Sz:rJS HrJ&:eJ,HCOzCCLOD6r:^LH JSCJ&JSS6rSLLeeH,6^z L On^&::L6 C:O,eJ,Lzrr& eHrJ6:z&VcO^^C{LLz rS^,OSJCrr&:Se6HC6Lze.LC^^,: :- &S:,6JCCzPe&LSerr6 eH?Ce:^6:SL& CJL,z rC^,H&CO0HJJ:^6RC&L^C^,L^ HS^O5z&C:O6&SLOHe6,zer&J ^H,JLOS6SS,OJC:O:z&,H^H6rJzGi&O:e6 CLL:zS&:^JHC rH J&:H6CCz^LeO,^^:,6^:BSJz:Jz SrO&eeO,e&rz^ HOCL::&LS &_SOLJe&,r:,He H96JCr&6OSOL:AS, ^Sr,^^LLJr3,6erCO6ezL7e&6H :rHJ L^&,SJOCCr^eze,r^6rJ XW&&^M: &C^L:e,, ^CJx &ieeW:&6zSROOe^LZzLL CHHLJJ:C&rS&J#CH6erS,4^OH^&LiO&^SSerCJOH: ,J^erH&z#eJH:O6SH6OOe ,SS6r^ SHrJ&Hr&rS6OzC?LOzCr:CLr^JSF,&J,&6rLdLe:HOr^zrg OLS&:Z66 tS6&eJ,Czrr^ eOzJ6aCJzSOOze:6:z rS^,,J^63r&JSe6rC6&Je-L&zLH: &D C :,6JCCOrC,,ezrr6 SHuJ&:^J:H&O^e:L,z rCHJH&^e,L&&Se6sC6L^eK,Le 6O LG &C:,6&rLOHCJ hzHrJ ^,OJL: 6SS,C:eCL6z&re^HH6JzVW zSz6rCLLCzS,,^JHCp6G&&C:H66CzOHeO,SS6rO  qSz6:^6SSr6 rHLrz6rz^rHOJ^::&^L,OSC,LJz6,,^JHe r26&:r&66C^L:zC,^^:r, eLLJ,:&6eHLOJeeLWe&&:^uHLJ r &,SJOC:r:,ze,H^6Hz w,r&^VH&eC Oge,&y^Crr &neJ,:66zSWO&e^LHzLL zOH,JJ:C&rS&^,CH66CH,i^OH^J:AL^rSSJ,SJLCer,&^erH^zBz^+Ie6^C:OLe ,S:,rJzCLOJJ:e&HS6OzC6LOSf^H^LH JS,6&^SS6rHrLeeO6C^er; O,CJH:O6 :-^Je ,Czr&r eHHJ6vCCHSOOze: zz rS^,,J ^7r&JSe6rC6 Le<L&z H: 6h :,:,6JCC&reC,ez,r6 CH; C:^J:SCO CiL,z^rC3hH& SHz&6SS6xSHL^z:,Le r+ ,Kz&C:O6&rOOHCJL zur  ^6rJL: 6S%,&SeCL6z&,u^HHzJzHr&eS^6LCLzHzS,,^Jr:^CV&Jr:H&^CzOQeO,^zOrL C5SJ :J6:Sr6 S6LHzzrzH}HOJ^::J6h,OSC LJHb,r^&HezHy&&z:66OSGL:e , esO^ JHLJrO:6eSHO6CCzCz6,r :rJJ :S&,SJ&rCrLCze, ^6Hz .{OJ,S:6&C LSe,,^^Crr^JPeJ,:66CSZOJe^,:e,r  :H,J^:C&rS&OeSHL6zz,.^OH^ EIL&C1z6,CJLC:O, ^CrH^J6hJH:O6^r^OLe ,SeOJ  CH,J&O,&HS6Oz:gO:z^,%^LH^JSLe&J::&4C&LSeH^z^zrw Or^Je:L6zCSOOeJOOzrL&zLHHJJ:z&rSOzJe:O6zerS^6HJ  Ar&&SeJHS&Lze,,O^CH:CC=  2:^6JSHOrH^,ezHr6zz,6JO:S6:SJO C,L,e^,6^rHeJe6 &6Sz6kS&OCz:,^^ ,r ,wJ&C:r&,CeOOe6LHz_r& ^rHJC: &,S,eJeCLrz&,S^LH6 HfTeJS^O:CL6 e,,,^SHC JP&JH:H&JHrOlee,^H&rL  ZS Or:6CS^O&S1LHz6rz^>S^J^lO&L:HOSC,LJzC,N^&H: HZ6&z:r6OC^&zeL,z^SrO JH1Jr:& rSrO&ezLrzOr^ :HL:C:S&,SJOCCrLJzeL,:zHe IVO eS:6LC OLSz, ^Crr&e%SJr:66zSMO .HLazLr J,HOJ :CJL,eOCCHL6:H,v^OH^ OOS& SS6,HrL:e,,&^CrH ^LrJH:O6^H O6e^,Sz&O: SHrJ&SH&,S&OzSr ^zzr:^LJSJSU,&J4C OCJLeeH,6^z&^ Or^zr:O6 CSO,eJ^ezrLC:^HHJ6:zOOS&Oze:&%z ,rC^H JC/rOeSS6rC6OCHO,6^^H:? g &S:,JJH-O,e&,ezHr6:OH0^OrC&9SLO eSL,H rCzL6eJCUr&66/6pCOL^C:6&^^H: ,_ &CLe6&:eJLe&,ez1r6 ^&SJLjze,SLO^eC&Jz&re^HH6^LfH&6S^6jCLLzzSO,& HC ,(&&C:HJcCzO6C ,^^:rLSLHZJL:J6SSrOz},Lrz6rzSzH&Jz::&JrAO:C,LJ1 ,L^JHe HzS&z:l6OC^L:eL, ^SC  J(CJr:J6eSHO6CCeezOr^ :r,J :S&,:^O:CrL&zeLs^6Hz k_z^r:96LC CSeO, ^Crr &HkzJ:&6zSvSOeeLZzL,z:,HLJJ:CSOS&OeCH66SS,H^OH^J:WL^SSS6,,JLCer,&^CrH &Dz rL^6zC:OLSe,Sz,rJ CC,J&:e&HS&OzCHLOeeJL^OHzJSLS&JSC6rS  CeH, ^z O ON^&:HLJLCSO6eJL5zr,: e,HJ :z&,SOOCe: zz L3^&HJ HEreSSe6HC66zC^,O^SH: J_ e&:,&^SzOree,e:Cr6 zHj &xL6:S^O CeL,zJrCzLJ^JCZJ&6,&6}COL^z:OH^ rr ,v:&C:L6&CeOOe6,SzbrJ ^H,JL: J6S,O^eCLLz&rC^HHe OE%&OS^CHC6L^zS,,^JrHe 0J&e:HCJCCOHeOLjC&rO ^aS:O:^6SSrO&eeLOSCre^THO:e}H&OS &PrJL z:,rzLHe HB6&z&&6OCCL:eL, ^Sr, JeHJr: 6eS,O6eeLEe&,e :H6J }&&,SJOCCreSze,L^6He 3UO&^S: ^C^O.e,,^^Cr, &be,&:66CS2O6e^,:zL,zr^H,J^:C& S&OeCHOJeL,q^&H^-r=L& SSJ,wzLSeL,&^SrHezwz rre6^SrOL:C,Sz,rJ CLJJJ:S&HSJOzCHLOz^SO^LHzJS_L&JSC6rS CJeH,J^zOS Oo^&:h6&:CSOOeJzrzrr& e,Hz :e&rSOOee:Oez LSC6H J:ir& SezJC6OCLe,O^eH:Ck+ &S:,&^SrOre ,er6r6 zH5JzOL6:S6O L^LOz rC^,H& 9,J&&Sz6hOHLeel,L^COO LMJ&C&:6 CCOHCJ FzHr& ^JLJL: 6S/, :eSLLz&rS^HJJJzHr^eS^6,CL^,zS,,^JHC:&s&&S:H6^CzOreOLYC&rO zlSHQ:^6SSrO&eeLOSCre^_HOH&MH&OS &RrJL z:,rHeHe H56 z,&66CeL:e6, r!r,^^LLJr:z6e: O6ezLqzOJ: :H6J /r&,S^OCCJ6:zC,,^6^J r26&^S:6LCCJOeL,J^C^:  RCJHRJefSHO&e^zLzLr  S,,zz:S&LS&OSCH^pzzOlCJHz H!L&zSSeLCJ&,OJ,&^SrHS&3CJH:Oz6C:OJlj,:z,rJSSHLJJ:e&H eOzCMLOz^r:^LH ^PrC&JSC6rHOLeeH,6^:O& 6N^&:Cz6zC:O,C^ rz,r& er5J6:z&8SzJrCMLLz H/^OH JCQr&&:v JC&LzelH&^ert Ln &O:,6JCCO,e&,ezHL6zJHHJO:^6:SLzOeS6,eerC^rH&JeMHSJSz&rS&L^eH,LC,HS ,DJ&C- 6&CeOHeJ,zzrrO^+H&JL: 6SJOO^eSLrzJre^OLCJeZq&OJe6HCOL zSr^^JHC r9J&e:H66:z6Ce6,^^:rL  OLJ,HJ&JSrO&eeLHz6 C^Ar& L::&6S JJC,LJzC,rzSHe H46&C:.6&C^OOC7, ^Sr,,^W:J,:&6CSHO^yrLHzOr^LHH6J^:S&&H:OSCrL& S,,^&Hz^rO^&zS:6LLeLSe,,JeCOO J?eJH:66zHOOOe^ :zLr  SHLJJ:S&r: zHCrL6zzO,^OH^J:jLz^SS6,CJLSer, ^e,,Sz?eJH:OzOC:OLe O-2LrJ :Hr:e:e&HS6&zSQLOzer:^6H ^6V, J: 6rC Lee,,6arrY^&H6&::&6 ,OO,eJ,CCr,L eHLJ6:S&GrSO^SHOrz ,r^,6LJC>r&&:S&,C6OYexL,^^H: LHz:H:L6SCC Se&,ezHr6^zHAJJ:^&OSLOzeSL,eOrC^LH&JS0H& Sz6XC:L^eF,L^zHS LaJJ,:O6&CeOHJ^,CzHrO ^*:JJ,Z6:S,OJ HLLzJrez,6zJeKH&O:&O:CLL zSzH^JH: r?&&e:H66CzO6eO,z^:r6  -:J,n^&:SrOJeeL^z6rz^mr& r::&6S &CC,LJzC,rz:He rP6&C:A66C^6HCz, ^:r,^H#CJr:&&SSOO6eCLGezr^ :HLJ ,L&LS OCCLL&zC,H^6CH i_6&^:E6LC LSCOeL^Cr, &H,JH:66z:r6He^LpzL e SH,JJHC^OSJOCCHL&zz6O^Oree6}L&zSS &CJLCer,&Srrr &dzJr:O6zC:OL&:,SzLrJ SHrJ&:eJ,,6OzCHLO:Jr:^LH ^mr4&JSS6rLeLeeH,6ez,H OPz&::O6 :6O,SJLOzrrJ eHrJ6Or&x:&6:e:LOz 6^^,HJJCHLJ Se6rC6e!eQ,O^^rO^S4 &::,L&C:O,e&,ezHr^CrHHJO:^LSS6O^eSOOuCrS^,H&1H{H&6SzJlHeLzeh,L^^HSEO8JJ:r 6&C:OHr<,zzmrO ^&LJL:^6SS6OJe:LrzCOL^rH&JzC:&&SzO:CLL er6^^ HC rS6&S:r66SC^Oe6,z^:    FSJ,HJzLS,OJeeLrz6 C^ir&eH::&&S &6C,LJzC,r%eHe rP6&S:06&C^OOHS, ^:r,&rv:J,:&6CSHO^frLHzOr^& H6J^:S&&H:OSCrL& z,,^&Hz^rO^&z:n6LLSLSe,,JeCOO JQCJH:&6z,^OOS^&rzOr^ SHLJJOS&r/C:rCHL&zzCr^&HzJ:O?& :r ^C LCerC ^Srr 6?z,6:O6^C:OLe ,Sz,,^e&HrJ&:e^:S6OzCdL :H,=^LH &OQO& SC&LreLCeH,6hzrQ Og^&:OL6 CSO,e ,Cz,r&^ULJJ&:z&FeeOeC2LLezJ,^LHJJC6r&&Se6HC6^ze;,O^^r8 Lu^&SYOzCCSOre&zHzHr6 z,I^&:z6:SLO eSOzzJ,:zrH&JC=HJrSz6TCO6^Cr,L^^HS LuJe6:r& S^OHeJ,zeSrO ^h: 6tO6SS6OJSzLrz&rez,rOJz/L&ODJO:CLL zSL&^JHS r_z&e:,66Sz ee6,^^:6,  q:J,j^erS,O&eez6z6rz^b,OzCdd&LS OSC,63zC6r^CHe H_6 z:qC C^6HH ,^^Sr,}C<CJr:&JeHLO&ezLBzOr^z&HL^ ,H&LSJOCCrL&H,,HzJLO g_O&^,r6LC LSe,SS^Crr &tCJH:66z:r&:e^,:zL,Q SH,JJ:CrJS&OeCHL&zz,>^OreHz/L& SSzOCJLCerL zCrH 6yzz,:O6^C:O^r,,Sz,rJ eHLJJ:e&rS6O:I&L6z^r:^,HzJ:s,&erL6,C&LeCe, ^erv^&O:JF:L6 ::O,eJ,CzrO  eHHJ6:z&7SOO^:OF^z rS^,,, 3n,&&,H6HC^JreH,O^^,^ &U^&S%OzCCSOre&zHzHr6 zH6C::^6:SL6pCHLLzJrS^rHze,yr&6Sz6&CJLzz:,JSAH: ,#J J:O6JCe6,Hz,ez9rOP:B:JL: JSr^O eCLrz&reH,H6 C,&&OSeO:rSL zS,,^JJr ru&&e:,66CCO_ez L^:rL  HeJ6: 6CS,O&Cq&Jz&rz^.r,JCE-&LSC OCLLJzCLC^^HC HHJC*:H6OC^eLeL, ^SL,C:5SJr:&6eSHeJezOrSer^^HHL^H:S&,SJOC,&L&ze,H^JHz rwOJEL 6LC LSCJ,z^Srr JoeJOrC6eSBOOC:LrzOr ^rL^J :C&rXrO:CrL6eCJO^6H^J:& & SS6,:JJ3e,,&^erH 66OJlHO CSQOLe ,Sz,J  C,J:^:e&HS6&6C,L6z^&z^LHCeO;L&JSC&CC^LCeH,^SrrH Ok^h,:O6^CSO,&S,Czrr& eHHJ6:zJrd:O^e:LLTzrS^,HJ H, &JSe6H,JOyeH,Oze&L O% &SL^6JCCOrS&:OzHr6 zHhJOL,6::66*eSLLzJOe^rH&JeH,& Sz6rCO^rz:,L^ ,E^:>JJ}:r^HCeOHe6,zzLrO ^M:J&: &gS,6^rrL,zJre?eH6Jzuj&zHr6mCOL kL,6^ HC r5&JVrJ6&CzOu4z,CzQrL^z6,JL: 6CTCO&eeLHC6OS^HH6J^Y>&LrHOS:,&zzS,,^&HC HLC&zH9 JCzO/eL,^^S6  JrCzO:J6CSHO&ezOJzOL^CrHOJ^:S&LSJzzCr6&S:,r^JHz M-OCJS:6LHJL:eL,J^Srr  _e^Hr 6eSHOOez,:CJr ^ezSJJH &rH^O:CrL6ze,;^ OH NZL& rH66C LCe66S^CrH 6LrJ,:66^:H^ e^,:z,J^ CHrJ&:e:JS6OCCZLOz^r:^LH eL/L& SC6LC&LCeH,^SrrH Op^SH: 6^CS6OHC,Sz,r&e&HHJ6:z uHSOzC0LLz^rSCzHJ^CHO&&SC6HC&Lz4&,Oe^rJ L(^&S:L6Jr,OrS&O6zHr& zHHJOHr6:5L6HeSLLzJrS^r&OJerHJ Sz6rCOL^z: r^ HS  ;J&S:r6JCeO,e6OzezrO z#:JO:  rS,&SC LrzJre;,HzJes( HS^6,MzL^zS,,1^rr ,b&JSL66&CeOoH!,^^:rL   OJ,:^6CSrO&eeLHz66H^HH6J^tH&LS^OSC&&:zS,r^&&S 6!&&z+rz^CzOieLJL^Sr, J/C/ :&6SSHO6ezL.zOr^COHOJ^:S&OSJOSCrLz:,,r^6Hz:ro^&zS:&6rSL:e,,JSVrr &QeJ&HS6eStOOreLLzOr  SH,Je,L&,S&Oe,,Lzze,Fz&6: i}L& 1:6,CJLCSJ:C^erH 6OeJ,:66^:6OLeC&OzLrJ C6,J^:C&HS^ rCHLOz^ H^ H^JSHOeCSS6rC&ODeH,6^zr6zC7z&::LzSSHOLeJ,CzrrzC,HrJ6:zeOSJOze:LJ:xr:^,HJSJ3O&JSe6HeCLzek,O^CH: Lk  SzS6JCCOre&,er&r6zzrLJO:^6:SLO e:L,CJLL^rH&Je1H&6,,6=S&O&z:,6^ L6 ,8J&C:r&CCeOHe6,Cz4r6 ^rHC :^6SS,zSeCLrz&reSrH6JzYT&6S^6HCLL:S6,L^JHC&eyz&C:H66CzOL:e,z^:rLJ,HrJL:J&:,&OJeeLHHerz^9HOJ^Lc&LS OSCLLJz:,rz ^J H%6&z6O6OC^L:C6LS^Sr, JJrJr:&6eS&zgezLAzO <^rHOJ ::&,Se LC,L&ze &^ He /# zH:_6LC zQeJ, ^C,LSe;CJH:6CSSvOOe^O:r r^ SH,JJ:C^&S&OeSCL6zz,o^6H^ !aLJzx 6,CJLCre,&^erH 6H&J{:O6^SxOLe^,SeOrC CHrJ&NC&HS6OzC5O,z^r:^LH^JSdL&J::&6C&LeeH,J^zru OHDC :L6 CSCzez,SzrrJ eHOzC:e&ASOSrCrLOz Lx:JH JC<rerSe6HC6OCrH,O^zH:SzT &S:,JJ: OreJ,ezrr6SLHw &{r6:S6O L,L,zJrCerH:JeV,&6SC6wSCL^C:LL^ rh ,g^&CO+6&SSO6e6,Sz8,H ^g:JLH &&S,OzeCLOz&&O^HrJ^LZ_& S^zrCLL zSO,eSHC 6.&Jl:H6zCz6rC6,^zLrL7H5SJ,:J&::^O&CrLHe^rz^!HOJ^H &LSCOSC LJz:,rz HS HDz&z6x6OC^L:C6O,^Sr  J6DJr:&6e2H6OezL6zO,E :H J HZ^^SJ6LCr^:ze,H^6rCWCu6JrS:&JC LSe,,Je6rr CVeJ :66zS%OOSL,:z&r  SH,J^:C&r:,OeC,L6zC,n^JH^J:Hz& S:6,C^LCer,&^e,H 6=zJ{:O6^S_OLeCO,z,rJ CHHJ^:C&H:JzwCHLOz^O^^LH JSr,rLSC6rC&LeeH6,^z,r^J#^JH:L^HCSO,eJ,CeCr& eHHJJ:z&rSO&^SJLLz rS^,HJCLXr &nL6HC6LzeX,OC,H:zLr6&S:,6JCCOrCe,eCHrC zH1JO:^6:rLO SS&6z rC^rH&JeHL&6yz ,C6L^z:,L^ LS ,rJzf:,6&CeOHe6OLzBLOeCH8JL: 6SS, HeCOLL,re^HH6eebZ&OS^&HS,L zS,,:&HC r4& erL6&CzONeO,^HzrL^z6,JL: 6Cr,O&eeLHeJ6r^3H&J^66&LS OSC,^CzC,r^&HS HcJ&z:6JCCzL:eLC6zHrL JWCJr:z^,SrO6ezCCzJrz :HJe;::&,SJkOCOLJze,HOeHz b0O&^S:6LC 6kL:,J^CrrS _eJH:6&C:LOOe^,:C:r  SH,^J 6&rS&OeCHL6SJ,{z&r&J:26& L 6,CJLCerOL^erH 6ECJm:&6^::6Se ,Sz,rJ CJJJ&He&LS6OzCELOz^,m^L, ^&W,&JSC6rC& LeHLJzrr_ &>^^L:L6 CSO,Su,Czrr& SHHJ&:zJr,^Oze:LLSLrS^,HJ^C^S&&Se6HC6LzSC,Ozerr LUz&Srz6JCCOre&,:zHr6 zHrJO:e6:RL6^eSL,zJrC^rOSJerHJOSz6#COL^z:OC^ ,S 6hJ&C:r6&Ce66e6OzeJrO ^%:JL: ^SS,&Jb3L,z&re^HH6 HKg zzXO:CLL &r,6^ HCT6F&J/rJ6&CzOG& ,Cz_rL CLOJL:J6CzSO^eCLHeJJq^HHOJ^L^&LS OSSO^HzC,,^&&, Hh6&zHd&6C^OmeL,^^S6e JH: P:&6SSH6HezLEzO,e^_HLJe:SS-SJOCCrO z:,H^^HzCryO&^S:6LSzLSeL,JzHrr &?eJHvL6zSuOOe^,:zOr  SI^JJ:C&rSJOeCHL6CzJX^6H^J:_L& ,L6,:J6^er,&^erH 6r,JpHO6CC:OLe ,Sz,J6 CrL ^:e&rS6zrClLOz^L:zeH J:W,& SC^zC&OSCr,6^CrW^Ro^&::L&z:6O,ez,CH:r& eHH J,r&9S O^HHLLz rS^,&CJC8,&&:X6HCJLzSP6J^zri L(^&SOH6JCC HeJ,ezHr6 zHHJOH^^rSOO eSL,zJOH^r,C::VH&6SzreCJLzz: ,^ rre^K &C:r,,C:Ore6,:S&r6 ^o:J,:e6:S,OJS,L,z&re^HH6JSgi^O:zO:CLL *J,,HHHCerVJ&e:H66H:Os,6,^C:,^  wSJ,:z6CreO&CSL^z6re^qLvJ^::&La &zC,L zC,,^&L  HHJJz:V6JC^^^eL, ^Sr,^,%CJ,:&6:SHOJez6FSJrz^_HLJ^:SS SJ&CYOLJzC,H^&Hz HcO ^,66OC^LSeL,J:Orr^ 6HJr: 6zo6OOe^,:zLzW SH&JJ:C&rS&OeCH6eze,,^OHSJ:}L& SSC&CJLSer,&^err 6m:z&:66^C:O,ee,:z,,^:rH,J&:e eS6OzCn6O66r:^LH JSj,^OSC&LSOLee,,6S,rq Os^&:7 6 CSO,e^,CzLr&zeHLJ6:z&YSOO^H6LLC ,L^,HJJC1r&&HO6H:6Oreu,O^^H: LHS&SH,& CCOre&,ezH66 z,AzJ:z6:SLO eSL zJO,6JH&Je-HOSSS6HCOJOz:,JSaH: ,ZJ6O:O6JCeOO:C,ez4rO  HrJO: Jj,JO eCLr>rre^HH6 C6H&OSzO:rzL zS,,eJr  rmJ&e:r66rLOiC&Lg^:r6  J,J,:J6C_r6CeeL,z6rC^frCJ^H:&&S 6BC,L^zC 7^&rS^ (6&S:8&HC^L:eLO zSr, z!CJO:&zOSH6JCrLBz r^:rHLJ :S ,KSOCC6L&ex,H^zHz^rHH&^:L6LLHLSe,,Jz:,J &HrJHP^6zSjOOe^L^zLrC SH JJ::&r: &,CHLzzz^s^OH^J:H6JzSS6 CJ^Ner,&^eLH^z{zJ6:O&lC:O e OtS^rJ^LHrS::e&HS66C>&LOerr:zJH JSt,&Jer6rCCLee ,6^zr= O+J&::&6 CSO,e^,CzrO, eH,J6:C&tSJO^e:6^z^r:^,H^JCdr&&SeCOC6Lze<,O^^rW LHzC,:L6JCC&Le&,ezHre:OHYJO:^&rSJO^eSLLzJ,HC HJJe0H& S:6HCOLS:6,O^ HSL 2e&S:r& ,HOre6,zS6rO ^M:J^O,6SS,OJCLL6zJre^rH6J:,&&6S^O:CzLCz:,,^eOL ,d&&e^&6^CeO+C&J:z5rL  J,J,:J6CurJ^eCLHz6rz^{6:J^H:^&S^OSC,LJzC^H^&Lr eF&&z:P&rCSOMeL6O^Sr&e:sSJr:&& SOO&ezLLSerz :HL,:nr&LSJ6:r&LJze,HHzHz 1PO ^rr6OC LSe,,Jc&rrz&,:Jr:66zS>OOrz,:e6&S :HLJJ&r&rS&Oe:H& ze,H^OHzJ:OS& DS 6C LSer,J^e F 6HCCO:66eC:J^e ,Sz,rJz6H,JJ:e&rS6OCCx6OJzr:^OH J:T, rSC6J6rLeeH,6eLrL 6D^J_:L6CHOOLeJ,Cezrz CHHJ6z,&%SOO^e:LLz rS^,eSJC9r&&SC6HC6LzCreH^^H: LHJ&S:,6JS:O e&,ezH,O zH0JOjse SLO eS6rzerS^rHJJeRO^CSe6BCO6 e,,O^ rre^; &C:re&S_Ore6LCGOr6 ^h::&: 6SS,&J8ML,z&re^HH6e<lP&OL^O:CLL z:,,^ HC^LOe&C:H66:SOEeO,^^:SO  5SJ,: 6CS,O&CS 6z&rC^b68J^::&L:z^:C,LzzC^&^&He Hr6Je:d6JC^OreLOH^SL,^rTCJO:&6:SH^CezOreHr^^,HLS/:S&,SJ&CCLL&eR,H^^HzC qOJeje6LCSLSc:,J^Crr^ HHJH:e6zSSOOe^,:e66o SH^JJL &rS&OeCH^zzz,L^OrHJ:B6& SS&eC Oser,^^erO 68zz6:66eC:O6e ,:z,rS:&HrJ&:e^LS^OeC0L6z^,,CzH^JSa,^z:H6,C&Oh:J,&^zr{C6oSJ+:L6:+6OLe ,C:,rz CHHJ6:z&LHeOze:LL:^,r^LHJ :O&&JSS6HS,Lze=,O^^^6 Lbe&S:,6JCCOre&:}zHrJ zHrJO:z6::66CeSLOzJ,6^rH&JeKH:CSz6,COLzz:,L^ HSe . &::r6 CeOre6,z66rO eM:JO: 6SS,6^O Lrz re^JH6Jzw{J&=LO:C6L ,H,,^JHCzr,^&C:,66CCOb:^,^eHOz  HHJ,re6CSrO&ee&&z&rC^VH&J^39&LS HLC,L^zC,,^&He HHJez:h6&C^JCeL, ^S,O ^8CJL:&SHSHO6ez6Tz:r^^HHLJz:SJzSJ&CC^L&zS,H^JHzS&bOJe:S6LCzLS::,J^Crr^ HeJH:J6zOOOOe^,:z^,6 SHOJJO^&6SJOeCHL6z:6&^6H^J:6H&CS:6,S^^re,, ^e 6 6hzJgHOzHSEO6e Lqz, ^ CrLzS:e&OS6zOC5LOz^r:8 H  Ej,&eSC6LC&OrHz,6^CrvS6RSJj:L6^CSO&::,Szrr&SCHOJ&:z&LHeOze:LLH6,r^LHJ :O&&JSS6HLzLzeM,Oe^66 Omz&S:O6JL:OrC &,zHr^ zrJJO:^6:SLzSeSLOzJ,H^rH Je2& SSe6rCO^&e,,O^ HS ,2ezL:,6&Ce^Se^,ez+,&S:HVJ6: S,S,OJeC6rS^rC^,H6JCp0e:S^&:i&L^eM,,^^HC:,Y&^r6L66CCO5rr,SzarLSOoSJ&r:6SSrO&r LOz&rz^LLeJz::&LbJ6rCLLJzCSJ^&He H<6&z:T6OSe& eL, ^S6H JACJr:z^,SrO6ez:Jz rz :r6CS::&,SJ6eCrL&ze,&o%Hz }(OCS:,6OC L:e,,eSLr, &-eSO:^6eSDO }HLgzLr OHH&J :C&rCSOeCHL6ze,A^OH^^:rH&^SS6,CJLCHS,&eerO 6?zJg:O6^OHOLCzOOz,r^ C,eJ&:e&HS6&&CbLOz^,H^LHzJSf  rSC6rC&zSeO,&^zrH OPSz6:O6 CSeOee,Szrr& ,HHJ6:z&HSOO^e:6LS&rS^,HJJCprzCSeJH:HLze_,O^^H:y6c  cZ:6JC:Or:H,ezHr6 zrrJO:^6:S6O CkL,zS,J^rH&JezL&^Se6nCOL^e,6z^^HS ,zzJH:,6&SS^6e&,zz4 J ^8:JLH ^HSLOJeCLrz&6H^HH6SzfX&OS^6_CLL^zSLO:CHS rp& ::H66CzO9{6,^^:rL ^ASJO:J&:,&OJeCLHqHrz^<HO eOD&LSzOSLJLJzC,re&HS HuJ&z:r6O:rL:SLO6^SrO JV:JrLS6e:,O ezL,zOJH :HLJ HSJ SJ6xCrL^ze&^^6rC^&*O&SS:zPC LSe,L^zerr eveJ::66zS96&,CLWz^r S^H,JJ:C&r: OeCLL6eH,2^&H^J:HO& :W6,C^LCeO,&^er, 6VeJ!:&6^SbOLe:O,z,rJ C^6Jz:C&HS6OzCL&ezzr:^L^C r<L&J::z&CJLCeHL,^zr( OR^:C:L6zCSO,eJ,Czrr&z2HHJ&:z&rSOOze:O6zSrS^LHJ 62r&&Se&,SPLzer,Oe H: L= &Scr6JCSOre ,ezrr6^CH JO:z6:SCO eSL,e^LL^rH JeH&&6Sz6+COJ_e%,O^ rT ,u &C:rHCCeOre6,ez-rO ^rHHX: 6:S,O:eCLrz&,S^6H6JeyMSJS^O:CL6 :H,L^ HC ,8&zH:H&JHrOte&,^S,rL  mSJ,rS6SS,O&eSLHz&rz^VezJ^xU&LS^OSC,LJe:Jr^&HC HLL&z:E6OSe66eL,^^S J JjCJrH&J,SHO&ezLHzOLr :,LJz:S&LSJOSCr SzeL,zLHz H/Oz6S:6LC 6.Ce,J^SrrUe!eJH:6&HS&OOez,:6LrC :H,JJ:C&6HSOCCHL66z,L^6H^^HO &^S:6,LCLCer,&ee6J &ceJP:66^OHOLCz&Oz,rz C6eJ&:e&HS6evCUL6z^,r^LHzJSk ^+SS6,C&:eeO,&^zrc OFSz6:O6 CS*,ee,Szr, :HHrJ&:zSOSOO^e:6LFIr:^LHJJS8rS Se&,lCLze,,OerH: Lv &SOJ6JCSOre^,ez,r6^H6^JO:z6:JSOCe:L,z rC^6LSJC#H&6 O6LC6L^e,6z^^HS ,zJJH:,6&SS^6e&,ezP ^ ^x:JLH ^HSLO eCL,z&J6^H,6zSxH&6S^6YCL^^zSO HzHC ,n&re:O6&Cz eeO,SS6rO  hS,,:e6SSrOzg,Lrz6rzHrH Jz::&L :OSC,LJzC,r^&He^,,a&z:Y6OHJL:eL, zrO^  fCJr^:&MSrO6CC Oz6r^ :&LJ :S&,SJzCCrL&ze,r^6He Ph zH:06LC _6e&, ^C,LSeiCJH:6ezSGOOe^,:HLr  SH,J :C&,S&6Sr6L&zz,gH^H^J:GL  Hc6LCJLCer,&eLrH^JHtJc:66^SzOLe ,SC,Lr CH,J&:C&Hr:OzSrO,z^,H^L,&JS.,&J::6zC&L:eHOL^zr{ OHe ,:L6CCS&HeJ,Czrr&zJHHJ&:z&LSOOee:OL5Or:^,HJeejr&JSe&,rzLeeI,OH:H: L=  Sr66 CCOre&,ee r6ezH6JO:^6:ELO LrL,e^Jr^,H&Je&6&6Sz6G:O&Ced,L^ HS ,rn&CHr ^CCOHe6,zz.&e ^rH^S: 6SS, zeCLrz&reO&H6JzG}&6S^O:CLOzL^,,^JHCSL}&&e:H&JC:OneO,^SrrL  mSJ r86SSrO&z,LOz&rz^WHOJS,6&OS OSz^LezS,rz &H r56&zHH6OC^L:eL6z^Sr, JoCJr:&6e-&HeezLozOHH^,HOJ HO&,Se LC,L&zeHJ^^He YH&e::i6LC e,e,,J^CrJz:8CJH:6OrSLO6e^,:zLrCCOHLJJ:CO SzOCCHOJHG,H^OH^qLbL& SSJ,H:LSer,&^erH<J%z rre6^SHOLr,,Sz,rJ C&&J&:e&HSJOzCrLOeDJ ^LH JSCS&eSS6rCJLeeO6C^er0 OSOJ,:O6 SrJ^e ,Czr?S^yHrJ6vCeOS6O^e:z z rS^,,JCLm,&&Se6HC6zCemL&SHH: 6t  6:,6JCCOrre,ezHr6 CHMJ&:^&OQeO^eSL, :,H^,H&Je-H&^rr6HCOL^^6,J^^HS^OOC&S:r6&OHOHe6,zC{OJ z;:JL: 6S,COJSC&OzJre^HH6Jz6H&OHhCrCLL zSH^^eHS rO,&e:O CCeOGeOrHz,rO  Hrz^: 6CSrzCe:Lrz6rzO6HOJ^::&LS OSC,O^S&,r^&HeS,X6&z:76 HHO=eL, H?rJ  wC LLe6CSHO6: LizOr^ :OOJ :S&,S OCCLL&erO ^&Hz 9,e&::f6LC LSe&6:^Srr &L,J6:&6z:r^^ez,:zLO& SH,JJ:Cz,S&OeCHL&zz,r^Orez >L& SSCJCJLCerL RHrr 6?z:,:O6^C:&L,S,:z,rJ CHrze:e&H:SOzCcLOzzr:^OH ^-H6&JSC6rLHLeeH,6^z,, Oy^&::O6 C:O,C^,:zrr& errJ6:z&>SO&re:LLz r:^,H JCHL&JSe6HC6 6eB,O^^,HS 5^&::,eeCCOre&LSArr6 CHY:^:^6:SL& S&L,z^rC^LH&^L%H 6:e6.C&L^eH,L=MHS^OrH&C:O6&,,OHe6,zCE,H ^HrJL:e6SreOJC:L6z&,;^H6rJz0#&O:e6rCLLSzSLH^JHC rH z,:H6eCz eeO,^^:rL:S_SJ6:J&,SrO eeLHe:re^rHOJe::&&S OS: L zS,r^ He HG6&z6L6OC^L:eL, ^:r,^^6rJ,:&6eO6O6ezLsCOLe^<HLJ :S&,olOCSL6Lze,r^6r& KnO&^R:&LC L:e,, ^C6z &HS &:66CSh&,e^,:zL,z^AH,Jz:C %S&OeCHOJz:,K^ H^^CRL& SS6,CCLCe,,&zXrH J/z XLH6zC:OLAJ,SzLrJ^:6&JJ:e&HOzOzC4LOC^6r^OH JSI,&J.O6r!&OreH,6^zL? O&S&:%6zSC:O,eJzrzrr& e,Hz :e&kSOO^e:Oez LSC6H JCmr&&SezJC6OCLe,O^^H:^LE &S:,&^:&Ore&,eHHr6 zHDJOO^6:SLO e:L,z rCzL6eJC(H&6HS6aCOL^eOJS^ HS ,rLJr:,6&CCOHe^&rzHrO ^rzJ :^6SS&J:eSLrz&JS^6H&JzHre^SzO:CL6^zS,,^JHCeLs&&e:H66CzO!eO6w&OrL  kSSO:C6SSr6SeeLOSCre^xHOSeBL&OS &KrJL zC,rHeHe HU6JHL^6OC^L:SJ,S^:r,  YCJ6rS6CSHO6S:LOz6r^^,LzJ^:S&,L^6rC,L&eSJ6^&Hz w&^&^S:6L:  OeL,J^Crr &&SJHhJ^rS_O&e^  zLr  SH,SC:C&rS&OSCHLJzz,6eCHzJ:mLCz:,6LCJLCer,zS,rr 6bzSr:^6zC:66HS,:z,rJHrHrJ&:e HrCOeCbLOz^r:H6H ^=,^&JS:6rS:LeeH,6^zJO O#^&::66 ShO,eS &zrr& eLrJz:e&hS6O^C,&zz^rS^,L  r1,&&:3 JC&Lze= &^:r{ LHzC,:L6JCCe&e&,ezHL6eSHHJO:^6:SLz,eS6,SzrS^rH&JenHC&SzJ66zL^z:,L ^rr L>Je :r6zH,Ore6,z^Hr  z<:JJ,=6:S,OJr:L&zJrez,6zJeUV&OLHO:CLL CSSe^JHC r?&&e,^66SC6LeO,z^:&L  ?SJ,<^JKSrO ee&rz6rz^qr&JC::&&S eHC,LJzC,rzeHe H#6&S:-6&C^6HH ,^^:r,A,dCJr:&&r,zO6eeLq:6r:^<HLJ^:S&&H:OSCrL&:C,6^&Hz L,e&zS:6L,JO,eL,Jz:&& JpCJHrH6zS9OOS^&rzOr^ SHLJJ,O&r9&J:CrL&zz,H^O6HJ:rL^eS:6LCJLSer&C^eLHe }eJH:O6zC:6ee OSS6r  SHrJJ:ee:S6&zj,L6zer:^LH Sep,&Jre6,CJLeer,6^CrdzO,CJd:O6 C:O,Se,Cex6b erCJ6Lz&OS6O^CTLLzC6O^LHJJCOr&eSC6HSJ^ueH,6^^JH Ls &S:,S:CCOLe&,ezHr6 zH%zz:z&gSLOzeSLLzJ,HC HJJeRHCJ:=6HCOOeHL,O^^HSzSBJ&C:rJ&HOOre&,zzHrOCrg:^L:C6SSLOJeSLr:SreeHrSJzbH&OSzO:H^L CSO_^JHS r3J&e_ 66:z6HeO,z^:rO  6eJ,HJJOSrO eeLHz6J ^?HO^,::&OS O:C,L^zCOrz6He rc6&e:fJ C^&Oee, ^:r,:^HrJ,:&JJSHO^wrLHzOr^gHH J^:SJO,COSC,L&W&,H^6Hz YJe&^:H6LC LSe,,J^COJ JuCJH:J6zSHOOeS&6zOr  S&OJC:S&r: zHCrL&zz&z^OH^J:GLtfSS6OCJLCer,&^erHee+eJH:O6eC:OOe ,SSLrJ CHrJJ:e&HS6OzC#LOz^r:^LrJJSN,&J:166C&LeeH,LeCO6C^wCJL:L6 CSOHHH&,:^6& :H^J6:z&NS,&eF Je:6O,C O:C6ROJ,Se6HC6L Ce6::,,&CHL&z:re^:H& Oe^LrzHr6 ztSe^,k^Crz^HCHLJzJrC^rHOCJ,&zL,L6,SrL^z:,L^&, CHLzz6l ^Jr6JzSr&OS66e CH,JL: 6SSH&6HOOJz^,O^HH6Jz:S &rI^JFS !:e6 S r/  n&&e:H6L:,6z2e&#:HOS eH,J,:J6CS1&^N6JO: rS^JHOJ^::&rHr^r:e L:&6eS^H: 686&z:y6,:L rlS&zzH,r JaCJr:OJ&H:  TLOz:,&HS&OC^H,zzHr  6COOLze,H^6H zrO,er,J^rHH6e>z& S,6OC7,6JH:66z:r^^ez,:zLrz SH,JJHC^OSJOeCHL6zz,6^OH^C2_L& SS6LCJL:er,CCLrr 6(z^ :O6zC:OLe LrS^r  CHrzp:e&rS66CrOL6z^r:^zH JS},&SL&6rC&Lee^,6^er2 61^J,rz6^CSO,CH,Cz,r&^1LJJ&:z&xSOO^C!LLz rO^,HJJC(r&&Se6H:6& eI,O^^H: LK^&SH,&OCCOre&,ezH,L zrr H:^&HSL6JeSL,zJrC^eH&Je+H&JSz6rCOOseL,L^ HS ,-J&S:r6&CeOO:C,ezKrO ^R:JO: J(,JO eCLrzere^HH6Jz,r&6SzO:CLL zS,,eJrC rBJ&e:r66CeOaSOLO^:rO  W:J,3&6CRrOJeeLrz6re^lH J^::JSS O:C,L^zC,r^&He^,K6&z:n6OC^OHeL,C^:r, JiC^J:&6CSH&6HrLHz^r^^,HL H:SJOH:OCC L&z:,H^6Hz G6^&^:L6LSXLSeO,Jz,L^ JHHJHHe6zSHOOe^,:zJ6a :H,JJr,&rSJOe:H& ze,O^OHSJ:EC& iFzJC O,erLL^erH 6rzz,:6&KC:O^e L&z,LJCAH,JC:e&&S666CdLzrH,2^ H zLs,& SC6JC&OT:J,&^zrKzz?^Jm:L&z,,OLeC,CzSr& eHH^6rS&HSzO^C,LLe,rS^,LSJSA&&&SS6HC&Lze6,C^zH: LrH&S:L6JC:Orez&,zrr6 zrJJO:z6:SJ ue:L,zJrC^rHJJexH^&Sz6bCOLzz:,L^ HS ,{J&C:r&eCeOHe6,SzCrO ^?:JrrO^LrH^HSJJ6:SLLCSOLee, &J:zO:CLL zeOg:rO:eJL^eAr: :=r LV J,CLO^SlO&J6M66CSrO&e^Oz:J6rC^Oez,, z6rS :I  H:&,Oz/He Hf6& .6zLrL6 f6&KSJ6^ zH&Jr:&6eC:&&%:&JSz&,CCOJeeL6&6:,OCCrL&z^LCSb6LzJ,:eH,^^rHHJJe6,:^Crr &V^  HHzrH6 &vLLrz r  SH,J6rr^JrS^OCLLCzz,d^OHJzrLJ Hr:^HHCOseJ,&^erH LO.z6,,zHr&O&Cr,Sz,rJ z,reOLOz ,u SV^6,zC,&^LH JSUH^H,HJzr,J6:z& ^SrO OI^&::rzOHL HHHLtzer& eHHJLr&zLre ^H&J S:66CCHz rgr&&SeO:H:JH9J&O^CrS LK &S:HJJHz z1:J6:L6c grSeC,z^Or& rCHOrzJrC^rHO^&,:z rL&zH, H_&&CeHOzCHL z6:O&,CeOHe6, eeO:S,r&eH,&^:He :t&JOz^,H^HH6Jz:SzHrT^HmSLeeJ,,^JHC hH:z r&^CHHJJ2S&L:6r&^eTSJ,:J6z:J^%HO&&SS6JC^LS^<LSzS,* JSCJ^:L6eSSOz H26&z(rz^CzL:eLLJ^Sr, JrCzO:J6eSHO6ezLCzOr^S0HLJ :S&LSJO:CrLCSL,r^6HzeS3O&zS:6LC Or:^, ^CrrCO1eJr:6&C,OO6e^,:z:r  SH,JSrO&,S&Oe:rL6ze,{^OH^ ,,z&^SS6,: LCe,,&zS&6 &+zJs::6^C:OLe &,z,r  CHrJ&:e&H?6&OCpL6z^,_^LHSJSr, 2SC6,C&LCeHLJ^zrm^:M^J4:L6zCSO,eJ,Cz6r& eHHJ6:z&rSOOSSJLLz rSerHJJS?r &,,6rCzLzeL,OzzH:^6L7&S:^6JSCOre&,ezHJz zHOJOVH6:S6O CL CzJ,r^rreJexr&6Se69C JHeq,L^ ,, ,Y &C:6 SCCOHe6OJzbr6 ^rHC :^&,S,6LeCLrz&LeSJH& H19& S^&tCLOz:O,,z5HC^ra&&e:H66z9OZez,^z&rL  *SJ,6e6CS&O&eeLHz&rz^TezJ^cL&LS^OSC,LJe:Oe^&rH H7:&z:t6OCSJ6eO, ^SLr J_SJr:&rrSHOzezLYzOr^ :r6z,:S&JSJ66CrL&ze,&^SHe TqOJ S:6OC Oce,,eSLr, &fe l:66eSk6&H:LwzLr ^rH,JJ:C&JLHOeCHL6Sm,(^6H^ B+L&CrO6LCJLCS&,&^CrH ^LrJH:O6^C:OLe^,SeO&C SHrJ&x:&HS6Oz:YJezzr:^LH JS# &J::  C&LSeHLL^zr( On^SL:L6 CSOOeJ,:zrL&S,HrJ6:z&(SO6ze:O6:_rS^OHJ^rRr&&Se6H,zLzeb,O^eH: 6; JLHz6 CCOre&,ezrr6 zH{J ,H&_SLO eSL,z rC^r(SJenH&6Se6pCOL^C:6&^^HS ,8J&Cs66&:eJLe&,zzsrO ^HHJLDze,SLO eCOOz&re^H,6CraH&6S^6ICLL:zSLOSJHS Oi&J^:H66CzOoC:,^zIrL eUSJO:JJCSeO&eCLHz&rz^HHO eH^&LSeOSC6LJzC,r^&rC H;&&z:,6OCeL:SLL,^SrL J+SJr*J6e:,6jezL,zO,r :HLJ :SCJSJOSCrL^ze,,^6,ze,k6&zS:6OC OOe,LJ: r, &IeJJ:66eShO mHLhzLr  SH,J :C&rHJOeCHL6ze,.^OH^J:KL& SS6,C LCer,&^:re 6NzJ4:, rrJ JH7&JeS6:S&OICd:S&HS6OzSr6:z^r:^LH^JSZ,&JSC ,C&LeeH,&^zrn OU^&::L6 C:O:eJ,Czrr  eHHJ6:z&KSOO^e:L&z:rS^,HJJzH zzrr^^HSLSe ,O^^H: rOrer,zzHrL jU^&JzLr: zH*JO:JJerS z1LJ6:e6zCzH^ rwH&6SzOS:  6%r6S:7rH  uJ&C:r6Os&J&o&JOS^rJ^ y:JL: 6e:S 6Hg&zCr6^SJOSCLHJzrrJ^xjCLeeL,,^JHC nr e2r^^_HeO,e ,^^:rL &reezoS&wS&O&eeLHzL6SC^6rC,br& S OSC,L6SD6JS O6 LHr&z:v6OCJ6z:SJre66YC6LSzz,S^6rL&eezLmzO,e:LHOJ :S&CSJOCCrL&z,,H^&Hz DxO&^S:JLjeL:eL,J^Srr  le^H,C6eSHOOez,:e5r  SeHJJ:S&rS OeC,L6z:6&^6H^J:rO& S:6,:J Le,,e^erO 6HLJ1}&^HC:Oze L6z,rJ CHrSe:e&6S66rC?L&z^,O:SH  ,Z,JLSC6,C&LCeH,^SrrH O.^Jz:L6^CSO&::,Szrr&zCHHJ&:z kreOzCLLLzCrS^^HJ :, &&:,6HCzLzen,O^^JL L}S&S:^6JC:OreC 6zHrz zrrJO:z6:SOO Cr&^z rC^rr Je-r&6S: &C6L^z:OO^ H: ,H^Cr:,6eCeOLe6,zz9LOeCHmJ^: &rS,OCeC6rS^rC^&H6 HW7&zS^O:SrL e,,,^^HC L8&&eSJ66SHO5e6,^^:rLz LHJL:S6CSJO&C&LHzeC^^+H^J^H^&LS^OSC LJeH6 ^JHe HrH&z:H6OCSJ6eO, ^SLL JjSJrH& :SrOzezLLzOrS :,Lze::&JSJ6rCrLCze,:OHHz HsO ^S:6OC O,e,,eSLr, &!e^H:66eSAO YHLWzLr z:H,J :C&re6OeCOL6zC,n^OH^ Ohe&^SS6,CSLCe,,&^SrH ^LrJH:O6^SOOLe^,Sz,CS CHrJ&:e&HS6OzCqrLz^r:^LHzJS>,&JSC ,C&LeeH,&^zr_ O0^&::L6 CS6meJ,Czrr^^CHHJ6:z6Sxr^LHH&^:e&rSHOHzLL6zz,OJ6?e rT ,&^^H: L( &S:,&JHCOOCH,ezHr6  rJer,9z6H^ HH&&C::r:^rH&JefH&6Sz6JHOLCe ,L^ HS Hr^z,rS^^H^ ^Hg&LS^rJ^zv:JL: 6eDeJScLJ,:HL^S O&eHL,^S,rJ61^J&:&,6zJHC r;&&^q ^,HOJJ.OOJ:&6Oe:OHzeH:^,r8 VeSLHz6rz^>HOHSzUzLSzOSC,LJzC,r^&,gCHQJ&z:A6OC^L:eL, SSr6 SaCJr:&6^r6Je2 J&:Cre :HLJ :S&,SJLCHHL^eO,H^6HzJSr^zS,&^rrrJeR&&zCrrr &GeJHUe6eSUOOe:,:zLr zWJ^J :S&r:WOeCHL6eC,,^OHeJ:Y6& SS6,S^OOer,^^erO 61zJvn&&HC:OJe LJz,rJ CrL C:e&6S66&CmLOz^r:^JH JSR,&CSC6,C&OSSz,6^zrs z#^&::L&z,,OLeJ,CzCr& eHH JOD&HS6O^COLLz rS^,e6JC<r&&SS6HCJLzeL6e^zH: Lrz&S:L6JS:^&eJLHzHrC zH+JO:^:6SLO:eSL&zJrC^rH& ^?H&zSz6rCOLez:,^c,HS JAJJ::r6JCeOre6,:S&r6 ^>: 6: 6:S,Oe?LL,z&ree,H6JeAcJ&,:6EC L eO,,^JHC r,&&C:&66C:OfeO,^^:,&  H,J,:^6CSLO&SeOCz6,K^uH^J^ve&LS &OC,LSzC,r^&He Hr6 ,:I6zC^OOeL,e^SL,^JUCJJ:&&rSHO&ez6+e:r^^OHLJ::SJ0SJOCHHLJeH,H^zHz 6MO ^rr6OCSLSeJ,JzrrrzC^rJH:z6z1rOOez,:zer ^rL^J :C&rp OeCrL6eCJO^6H:J:Pz& SS6,CJCLer,C^erO 6?zJ(:O HC:O e LLz,rJ CHrH6:e&6S6OzC#LOz^,O^eH^JS7,JLSC6,C&LSeH,^SrrH Oa^Jz:L6^CSO,: ,Czrr& CHHJ6:z&GSOO^e:LLeSrS^,HJ IX &&Se6HCL6OCJ&6SJO&CLWeJO:,6JCCO?S^J?e 6&C OOJJ::6:SLO eeOz:e&LCeH^ rgH&6SzOSS:6HP &eSCrRLrC6^SHrSrS,eCV6,SzOrO ^k:JrHe^LrO re:z,CO&^BHO5rH&z,OSeO:CLL zS,,^JHC r_^J,:H66CzLSSr&LSO6OSrLzJ6>L6CSrO&e^OC:w&LzJOreJL3^C,w JH6Lzer,r^&HeJ:OrzHrS^SCe*H S,O6CJCJ,&Oer:^&,SHO6ez,SeCLOS6L^ez,J&6:dOCCrL&z^LzCrOOe6L^zS,r6&SJLSe,,J^z,CCOL:z^HH^ r& CH,O&:H6&C:LeJzF,&rS&Oee:Jz:H6SSe6r r(J& SS6,C6 *:eJ,^:r  6ZzJE:, ,r,&CHO&JSC6z^FHSJ&:e&HSL&6}6Je:eL^C^OHC&L&z:,z6OCeLeeH,6^ 6 ezOrz::&&rCSO,eJ,ze:&HCSL&e ,:^SHS^He:LLz Lc:JH JCcrJrSe6HC6Lz1H,O^^H: O# JQ:,6S,&Ore&,ez6r6 eHUJ6:^&,HzO^eSL,zCrC^,H& P,J&&Sz6wHzL^e7,Lzz&, LNJ&C1O6&CeOHee OzIrO ^HJJL:^6SSLOJCH& zJre^HH:Jz/H&OSS 6COL zS,,^JHS r-&&,:H66CzO/eO,^^:LLS3=:J,:J6CSr66eeO,SCrz^rHOJC::&LS OS,JLJzC,r^ He ,T6JHHJ66C^L:gH, ^:r, JACJ6rS6CSHO6kJLjz6r^zH6 J^:S&,:JOCCrL&ze6S^6He nNO&^S:6L: OJe,, ^Cr, &H6JH:6&&SXO6e^LHzLr  SH, e:C&rS&OeCHLJzz,Lz^H^J:2Lz,SS6LCJ6C:O,JzHrH ^?zJ6:O _OHOLeS,SSCrJ SHrJ^:e&OHCOeC!LO:Lr:^OH ^S,6& :r6rCzLeC6,6ezO, 6X:&:: 6 S&O,C6&6zrr: eLzJ6:e&0S^O^C,&zz^rS^,OrJC;,&&:Sz6C&Owe=L ^^H: Lr :,:L6CCCO&e&L&zHr6z6H{J^:^&uSLO^eSOOCErC^&H& _%H&6Sz6tSCL^eL,L^^HS LRJJ:GC6&SHOHCL,zz_rO ^rLJL:S6SSLOJeSLre ,b^HHzJzHr&OS^O:S6^rzS, ^Jr^ r2&&eHH&JCzO6eOLP^:,O  r4 L:J&LSrOeeeLHz6,CzJHO r::JQS OSC,O^Cr,rz%He J+6&z:26O:HL:e^, z&r, JqCJr: 6eS6O6ezLyz6r^zH6 J^<,&,S OCCrL&ze H^6rD 8>6&^:h6LC lLe,,C^Cr, &beJH+J OS(O^e^LHzLr  S,,zz:S&&S&6xCHOzzzObCJHz LBL&SSS6eCJ&,OJ,&zHrHe^1zJH:O&rC:OJb<,:z,rJCHHrJJ:e&OHCOeC<LO:rr:^OH ^FOJ& :r6rS^LeeH,6zHLJ 6I:&:re6 C:O,eJ,Cz6OS CHHJ6,,&8S6O^C,&zz^rS^,,LJCN,&&SeH&C6Owew,O^^H: LHz^J:,6CCCOLe&,ezHre^,HHJO:^JLSLO^eSLOzJ,HC HJJeZHJzSz6HCOLS:6,O^ HS ,bJ&S:r& ,HOre6,zerrO ^0: 6Or6SSLOJC^Lrz&reeHrLJzVH&OSzO:SOL C8LC^JH: r.e&e:H66SCO:eO,C^:,g  #SJ,.^&6SrOzeeLJz6rz^DHO^&::&OS 6rC,LJzC,rzCHe H_6&z:%66C^O,:z,^^Sr, JyCJ,:&6eHrO6ezLiz6r^ :HLJ :S&,SJOCCSL&ze,H^ rO %lO&^SC&:u: 6ReOHS&6,eCO^JL:e6zSxOOeJLLz&r:^^HCJzar&rS&Oee:LzzS,6^:Heer,&^erH 6ZzromH,^z^rH 6Bz&SH&^0r& Ct,JO8HLeSrOzeOLEzLSJ6O^&SJr^6e^SSueCo6&eSC6rC&L^e6, zrrr O#^&::L6 CSOzbJ,:zrr& eHHJ6:zO2rLOe:J^/LJ:. JLVL LH&^:#6HC6LzzS,^^CrO OL&&S:,6JS:^&eJ,ezHr& zHGJOrwSHSLO eSL:zJrS^rr,JemO^CSe6ECOO6z:,O^ ,}SJc &C:r6eCeOHe6LHCJr6 ^!:JC: 6:S,OJeCL6SSrC^HH6 L=o&6S^&HlzL zS,,z_HC rt&JSHz66CzOxe6,^^:rL CLOJL:J6CH:O&eCLHeJ6r^xHOJ^K,&LS OSSO&rzC,r^&HC Hd6&z:L eCzL:eL&6^SrL JH:C&:J6eSHO&ezL!zOOW6OHLJ :SJ,SJOSCrOrze,OCCHe n.OJ^S:6OC Or:^, ^CrrzgVeJr:6&C,OO6e^,:z r  SH,JSrO&,S&OeS&L6ze,>^OH^ ,,z&^SS6,SSLCe,,&zSOJ 6-zJ%:C6^C:OLCz6Jz,rJ CH,J&:e&HS^ rCHLOz^6e^LH^JSHO^:SC6rC&O6eH,6^z,rz:M^&::L6^CSO,eJLHS rJ eHHe,:z&HSO6erLLOz rS^LHJJC?r Czr6HC6LzCC,O^zH: &B Jrr^6 CCOrSL,ezrr6 :L&J6:^6:m^O e:L,e^Jr^,H&Je!6&6Sz6sCz&rep,L^ LH ,8 &C:r6&SgJJe&,zzPLJ ^HsJL#z^OS,OJeCL^z&re^HrJzO-?&OS^6(CLL zS,&C:HS rZ&z :H6&Cz6r:e,^^:rL :_SJ,:J&:+eO&eeLHz&rz^}HOJS,6&OS OSHsLJzS,rz &H rf6&z:H6OC^L:S^^z^Sr, J,:Jr:J6eS,O6e:&&z6r^ :L6J ::&,:^zrC,L&ze,6^6Hz /=z^r:d6LC &Ce,, ^Crr &H7zJ:&6zSkJLe^LdzL,zCOH,JJ:C&^S&OeCHOJSO,Y^OH^ NDL& SS6&{:LSer,&S rH &iz rre6^C:OLeC,Sz,rJ^:,eJ&:e&HS&OzCPLOzS66^OH JSLX&JSS6rS ^Her,6^zrH Ot^&:H^CzCSO,eJ&^zrrJ eHJJ6::^&S6O^e:JHz r:^,r^SrD,&&Se66C6Lze5,zCrrv Lm z :,6 CCOre&L*SJr& zHRe3:^&4SL6z+OL,zJrC^^H&JepHJJHO6cCOL^e},L^ HS &,:&S:r6&H OHe&,zerOe ^N:JLGr6SS,OJC:6ez&re^HH&Jzgn&OS^ }CLL zS,L^JHC r2&&e:H66CzHSeO,^^:r&^^TSJ,:J6zW{J:}6,6eS&rC^Lzee:L r,H :a Jz:6,LzCHe He6r,zLCe ^OH^,,J^Csr,O^&RL,&6SezOOe^&:Jrr1rOOLJz^H ,HSzC&zCJC &H^JSzJ:BL, &O6OSeJSeOCC^Crr,&LJee c^zSr^Ce^,:zLSSrHJeeJ::&rS&Oe:He,HSJrSOHeJ:ZL& 6S6zeSZrJr,^z,rH 6wz&SHLzLrr au^&Jz6,, CHrJ&:^JCrC OG6JS^:OJSzO,eJiO6rSe6HH6K :ezL6zrrSCQ^&::LJe^HCHdJ,Cz,r JHH1JOH^HHJ(&j_:L6eLrS^,&JC4J,7Lre6,:VLzea:O^:L6zHL JF6H6JCCHr{,zHL,S6 CvOJL: iS6:JCO^0,z^rC^rH&JeCCJrJ:rtCJO,z:,L^ Hez:L6e3rzJ H^ ri&,CzprO ^S: :O&HO^,O^MLLrz&JeOJ O,:eB&J:^O:CLL zeOOS663C#:e^L,HzLC-6S%C&zSO6&CrHH A:J6CSrOOSLJOSS6:C6c^^JL&zOH:^H9eL^J6,H^6,zHC:JH:,76&S,^SHr:J^J2,COLCJO:^6eSHO6e &LCHre :HLJ ,S,,J:re rL^e ,H^6HzJSr,zC,^^JH JJSz&r:L6CCHO,J,:66zSBCO,6zO& S ^9H,JJ:CHrOzrSJLc6zS,L^OH^J:BrzerJ^:CzO er,&^eH:zSLSeLLHO::C e.^&L:66H :HrJ&:e,H&zz6 JIOze C^LH LS:OH6JHrrC rzC6:&^^&6C  Oz::&&,CSO,eJ,zezOCS,OH&zHHz&H: 0CHLLz rS^,CL zSrz&SS:,COL^::,z :zSCLVzL&:r6&:eJeC6CH:HrJCrHiJOO^OHOt(CkSLOr6rC^rO& OC&H^^z6rCOL^z:,LzeOL&LeJJZ:S6&CeOHeLO,:^6eSrL zCSS 6rw 6HrLL,cre^H,6zSJ!C r^6H;zL zS ,z&,S,Oe&&:::66CzOQe,O:S O^CeOJeeSCJzr^ JZrJLS:rSz,HOJ^::&rH,^H.eJrgLr&C,OrC^L;erSOJ,rr a:^&eS&rO JWCJr,&6&LSrrJzL,zer^ :HLJ&H6JSr: ,HLJHzS,H^6HzH*ebJ z&rLCzJOe,,JeCr OvzeeH: &CSwOOe^,CeeO:S6Oee ,&6&2z :e66::J6^ ^Lre ,^&e:C6,CJLCeFOeS^6JeeOLz^S^ OHC Oa^&LS:6r^>HCJ&:e&HSL&6H&J,0r&J  LHC,L&eHS:6SC6Lz^AAC:JLSCORe&::L6 &SzO&^z^:rr^^&HHJ6:z6STH^HV &S:er,CrOeCo,e& Se6HC6Lz: Cm6&C: &H6&S:,6JCz&^t&J^^6LLS,OHzz,C^JC O:CHLzzJrC^rHOzOLO :,& ^a:JCeH,L^ HS,,z&HrzLr&C:O e6,zz;r,zeLCe&,& 6r,^6e:6Sz&rerHzzHCJO,OSeO:CLL :Sr:zSC Or5 L&:*6OC^SrJ 6,S:r6  nSJ,:J xOH:,!eLLe&rz^WHOJJH^zOH:^1HHJz: &6 e,Se&L e,rS^ HCOHC&,^^Se,Cz:^Lzz&6SSHO6ezrZr&:,6OCLJeH#&,SJOCCm&8NJ&O zL,C,L e6SLJ6HC JB6JHS,6?C^{:J::66zS/O,:,JzSS6,SHOeeeHzz^rJ rHL&:zS,O^OH^J:UreOrL^HrHOweC,&^erH LrCz6,e^JrrJSSLJr:^6H^=HSJ&:e&HSLJAH^JJ:^rLeHL:CC, z:r66LC&LeeHO6&O,O&CL^JH:L6 CS:,P&SOrO6& SLJJ6:zH%eHr^JHJLzzrS^,HJLC66r^&zrHCJ, z:,L^ r:*HLzzS:O6JCCOrJ&zL eLkCzHr:,:^6:rLS0&:S^&Jr: &H6Jz^R ^&LS&HOLez:,L^ OS*SSO6^,r6 L^OHe6:z^,CC,rL:J&l&6SS,OJez&H:z6SCJOLeO:O ,,r^hp^Je:&,OC:HC rS&^^rL:: zOreO,^^:SLr,zHSO,J6:SrO&eeeHOCH^O&COJero&LS &SCze^,&&r^ He H/6zz, HOJC>:e&LO^Sr, J;z ^rC^eHzLzS JJ:66jSrLCJz,O&,SJzC6:SH&P:H^JSLJ:mL  JerLLCJSeO6:^Crr&&LS 6 :rzSr&6e^,:CLLOLr&OeJ::&rS&Oe HC, ^SLSOHC  3L& SS6H:D HX,&z:L6 C0OOer:J&rC:OLe ,eeSOSCOOzezL,z:S 6JC>LOz^rCeeO Ce:J 6,O^,bCJ::^rzz,rr OE^&: L^}#^&O>JL_zCr& eHHJLr,^CHz CG:, S_&rS&O^J:Se&6Sz^XhCr6Le&O^Cre Lg &S:H BH& ,vH&L:^LLS,OHzz,C^JS6O eSL,zJkH&^zJee0,OHS^O::L^r,^&CS rH^yaJ&C:r6OjOJ:P6& ^OL SLOJe ,Cz6reO^z&LHz66z?OzLH La&J:^O:CLL zeLSS 6HeJOVz^,L^rCp& h:JH:J6OC,HHJC:J6CSrOO:HJO:C&L O,SeSLzz&SzeLCrL&&eOS?eJ6CHBJ&z:W6OO^O^6zCSSSrOJzdeJHz6 J^H^,azLr,Cr^ :OL&C^L^ rJ6RC:L&ze,H^LLOCJLCzS,LO :& 6TL6S:yOz ^H&JH:66zCS&,Dr& ^ LHCLOzCH,S^eS &rCHL6&z&JH,^rL:D&J6SS6,CJLzCz&O:LO&eCLez^HSz6H JSxeLHzSrJ CHrJOHSzOHCOcSSJC:z6OS&Or s,^&JSCLr:L^H&z:6^CH& L5 :S e^Or& ,ezLzzrr& eI:^H,e^6r& JHrJw:Cr,e^OeCHLL& r,6HC6^zr , 6rO: 6A &S:,rJ 66&^:&ez,Hz ^b:rL^I6^,&  CHL:zJrC^rHO^S,:^:rL^H{:,:SJ&J:O6H Or &C:rJ&Jz,eLe&zzrrO ^R:eLez^l 6HJe:Lrz&re6HeO,Je,,OSe 6CLL  S&:zCeSCrK 66:16OH^eCP:^^6:r6  jSJ,,JJ&S&X^JeL,S:rz^aCOe^J,^Lr 6HS7LJzC,r^O,Le&L zL,SO^:J &lO6::HOe zHLJr:&6eC:&JPHJ&:,6CC H6J :S&,rJM:lJrJ&e,LzOHz FtO&Jpe ^r, Hke&rS6H&^:Lre ,:^eH^O&e^,:zLr H^^:LJ,C&LS&OeCHk6 ,J,CJO^ HRL& SS^,rSL H&&&^S:O Ot^::O:6LLS Lez^ez,rJOCJ&?q6&zHSJe C4LO&^^CeHz LS!O6 Se6Hz666-:J Szrr&:F &S,,LJz:CO(J,:S r& e,HrLCHrS^OOe:zLLz ^S&h&OHJLr& Se6HC6LzeN HCHO: 6SJ&C:rL&SL ,H &ez,r6 zHnJO^rzrL,  C9rCz&reSHrr:z&Jz6SC66C6L^C:^zLJLLO,>^rr:r6&&eJSrzC9:fr&CH!:JLO JO ^TO9CLLJmrz^?zOrSO:Hzr^6Hr:LJzC rrO zr e&&S:H66Cz 7S SO6L6L eH6J,:J6CS(Jrt6& ::6:S&HCJC7J&LS OSCH&H:^6e e,Le&LHzO:r6eHecHLLSr,6z OJ3:HL:66zrACHH C6&Ore^CHLJ  S:6C,&CHrL  z,q^O:^rN^,:^r:66C LSe,:J:OHSO^eeJL:S6zS}OOeJ66SS6zSrOeerLO&Le6OzCfJOS: ee-O^ HCx&&SCSr  &&He&&^:rJ 6{zJc:,J:r6 rHHJr:6rz^LHrJ&:e6::S :HrJ&CO6,^6LOJSw,:Je66CL xee,6C^zry:O OO%  r SHO^eJ,CzrrOzOLzeS,Oz&rSOCC:LLz rS^HO:e&LJeHr6^ H:6Oq,&S:HOOC&LHzJ:6&6CCOre&,^ee6^SOO,eS,<^Cr&LSS6JHmH&z^OrLJexH&6S JJHO JzLOr:HO:e Lzz6S&6SCSH^eO,^e:CA6HJ6LL:z6SS,OJeC6SAeC&6HHJ&&6 :e^ eOHJS:&S,O^JHC r6& O6Lq, zOr:e,^^:LLDzH&,,,J6:eHO6ezrGOzS,H^COJC# &LS OSCH6=DH&,Sz6LC O8z ,r6&erLSe, JrH%SeeLCJLOe,,r&&6e r^6 6^^HR JJ:CHrHJe,LLJ&zSJ ^6Hz vOSOJ6r^LCzLrH6^:6C:r:HLJLH:J,LO6H,6 HHz,C^OSH6  :C&rS&O^SeJ^dr6eS 6,CJ,SzeS,JHrGJS:J&^SOr,eC2zJZCOJ^S6MJp LWL8rJ CHrO:Lr^Sr6OCCxLOz^r:LJ^ c,L,&^,S6rC&^eUSHCC^6M &1^&::LS ^z&S,^:CzLr& eHHM6L:&z J ^CHLLz rSr,eOtez:,&SS HcOsz:S6:zJz OLgz&S:,6JOC6HL:S :HrJf H+JOz^ S,JS:ASL6emrC^rH&J^r,^erS^JH,JSTr,&z6HS ,nJ&zk:zOHO J:e,veS6CCzLOe&,r&H:HOJeCLrzOLSC&OreC,66^HO CHOJ^:L6:SrH:^2i6&zz-^&kz&SiO,e&Jr, J^C r rr,rr:6eSLHz6,CreHOJ^::zSS OSC,O^eJ,r^JHeCz46&z:_Jz^RL:eO, z,r,  3C H:&&UHJO&ezLdz^r^^RHLJC,O&LSJOC6CL zC,HzJ&5 H*6&^,^6LC LSe, J^Cr, &ECJH:&6z:r^^ezLszLL6 SH,JJHC^OSJOCCHL&zz ^^OL;lH7L&^SS&&CJLSerLC^erOeCceJF:O&SC:OOe O-!Jr  SHre6:e&HS66Cr LOzer:CJH JSm, JhO6rC Lee,,6eCr+^&HS&::&6 LeO,eJ,CeL,^ eHOJ6Jr&ESOO^SHLJz ,,^,SHJCBr&&Se&^C6LCe?,^^^H: L* JC:,6 CCOre&,CzHr^CrHHJO:^76S6O^eSOOGCrS^,H&^ vH&6SzJdiJLzej,L^^HS:CoJ^,zJ6&CCOHC:,zzHrOr,8:JJ,y6:S,OJS6LrzJre^OLCJeE_&OReO:COL CXJJ^ HS rL6&e:H66SC^ eO,e^:OJ  FSJ,HJJ^SrO eeL,z6LC^4r&Je::&&S &,C,LJzCLLzrHe O(6r,:p6OC^6HCb, z,r,eHgCJr:&6eSOO6eCLgz^r^ :HLJ ::&,S OCCrL&zC,H^^Or HmO&^J666C^LSCOJC^Sr, &r JH:66zkdJJezL_zLr^ S&CJJr,SLS&OCCH&Ozz,H^O ^J:!JzwS:6,CJ&eer,J^e,,SzneJH:O^ C:OLe On.erJ :Hrzz:e&HS6&zCJLOzer:^6H zbP,J^tL6rC^Le_,,6^zrt^&HJ&::J6 ^zO,eJ,CeLre eH6J6Or&mSOO^e:6Hz ,M^,HCJC8r&&Se6:C6Lee_,O^^rV LiCzO:L6JCCS e ,CzH,J:9HHJ6:^JeSLO eS6,SzrS^,H&JC*HS5SzJ6L&L^eG,LSOHS LTJJJ:r6zH,Ore6,zSerO z9: 6LS6:SLOJieLrz&rez,6:Jzwr&OHSO:CLL CSLr^JH: rc &eH,66SCOeeO,C^:&C  mSJ,I^6SSrOzee ,z6rz^4r& O::& S evC,LJzC,rzrHe ,Q6Jm:(6OC^L:e:, ^:r, JkCJ,:&&YHJO&ezLULere^3HL zO,&LS OCS:L&ze,He6LS H(6&^:+6LL,LSS :S^Cr, &LCJH:&6zHJOOeS&6zOr  SOLJJ:S&rSz ,CrL6zz&^^OHzJ:H6eSS:6LCJJeer,&^e,,S:qzJr:O SC:OLe OSe6rJ :HrJ :e ,S66CC,LOzCr:z&H JS?,J^}&6rCzLee&,6^zrB^&?e&:: 6 &^O,eJ,CzrLT eH,J6tf&MSOO^e:Orz r:^,HJJCE,&&:M JC&Lze7ee^ery LHzC,:L6 CC6:e&,ezHL6eSHHJ6:^&ISLe,eS6 r^rC^,H&S,yH&&SzNSCOLS:6,O^ HSS^sJ&S:r& ,HOre&,zS:rO ^Z: 6Or6SSOOJ>HLrz&reeH,rJzjr&OSeO::6L C3,z^JrT rHJ&e:H66SCO^eO,S^:CC  =SJ,R^&?SrOeeeeOz6rz^jHO ,::&6S 6,C,LJzC,rzCHe rB6&z:F66C^O,:z,^^Sr,r:Q:J,:&&S,6O&eeLPCrr^ :HL^ ,H&LS OCC,L&r6,HeeSH uD6&^Lz6LC^LSS6,JzHO  JxeJHOr6zSHOOeS&6zOr  S&JJJ:S&r: zHCrL&zz6:^OH^J:H6CrSS6OCJJHer,&^eLH^JdzJr:O6eC:&6e O_zJrJ^fHrzH:e&HS66CC&LOzSr:LCH JSV,J^/66rCeLeS6,6^zra OHe&::66 S,O,eJ,Czr,z eHrJ6:z&XS6O^C,&zz^rS^,^:J:.,&&:Sz6C&Lee4Or^^H: Lr zH:L6 CCO,e&^6zHLeNCH4J6:^SHSLO^eSJ:zJ,HC HJJefHSJSz6HCOOeHL,O^^HSCrgJ&C:r& ,OOHeJ,zSLrO ^h:^L*e6SSOOJe:LrC rez,rZJzU,&O6eO:CLL CuL-^JrH r&,&e:H66SCOLeO,:^:O^  7SJ,:JJ&SrO eeL6z6rz^IHO^L::&OS OSC,L zC,6CSHC HM6Hr:r66C^6HH ,^^:r,zOGCJr:&JeHLO&eeL}z6r^v HL^:&>&,S OCOHL&zC,HW^Hz L,e&zS:6LOJLSeL,Jz:&& J%CJH,O6zSUOOCe JzLrz SL&JJ:C&r=&6LCHLJzz,r^O,eJ:H6JeSS66CJ:ter,&^e,,^ChzJL:O&eC:OLe O8eHrJ^rHr,L:e&HS6OzCOLOzer:^ H JSN,&JS:6rCJLeeH,6^er(  LHJ%:L6 &OOOe ,CeL&e CHrJ6HJ&_SOO^S:&&z^r:^,H JC6e&&Hrr&C6Lee1z ^^rT LL&&S:& :CSOre&egzHr& zHLze:z6:SLS6eSLLzJ,::&HJJCjHzOSz6hCOOeHJ,L^zHSe&.J&C:rJ&:JOHeJ,zzrrOze%: 6!&6SS6OJO,Lrz&rez,ruJzmL&O6zO:CLL C;,z^Jrr r,,&e:H66Cz6/eO,e^:r   <SJ,:JJOSrOJeeLHz6re^{H eHxf&LS :OCOL zCLL:eHC rY6 J:%6OC^6::&,^^:r,  KCSe:& rO,O6eeLwO,r^^vHL,^:S&&H:OSCrL&O^,H^&Hz h:e&^:_6LC LSe,,JeCOO J-CJH:&6zJ&OOS^&rzOr^ SHLJJ^J&r-&^,CrL&zz,H^O, J:H6znSS66CJ:eer,&^e,,S:izJL:OI^C:OLe OSe,rJ^HHrJz:e ,S66CCOLOz:r:6rH JS!,J^S:6rCCLeS&,6^zro^&HS&::z6 ^OO,eJ,Czr,C eHOJ6Pr&mSOO^e:OCz r:^,HJJC5,&&:+ JC&LzeTee^erZ LHzC,:L6 CC6:e&,ezHL6eSHHJ6:^&PSLe,eS6 r^rC^,H&,z/H&&Sze6COLS:6,O^ HSLrkJ&S:r6&C,OHe&,zz?rO ^+:^Lre6:SLOJeSLrOSreeHL Je9H&OSzO:&:L CS&^^ HS roJ&eHE66SCJ&eO,C^:C,  WSJ,.^e6SrOzeeSHz6rz^K,O H::&JS 6rC,6^zCLLzSHe 6#6!::.6OC^6HC,, zLr,,&ICJr:&&S:JO6CrL{z&r^ :HLJ Hr&,SeOCC L&ze,H^6H: pZ6&^S:6LC^LSe&6:^Srr &^,J,:&6z:r^^ezLmzLL6 SH,JJHC^OSJOCCHL&zz ^^OLNOOZL&^SSH&CJLSerSH^erOeCbeJc:OHSC:OOe LrS^r  CHrLL:e&rS66CrOL6zzr:S,H JS_,J^L66rC Le:O,6^zr?zOrH&::66 SlO,S^,CeL,O eHLJ6e0&<SOO^SHO:z ,r^,rJJC-r&&:S&SC6OYe_, ^^H: Lt J::,6^CCO&e&,ezHr6zLHcJ6:^6:SLO^eSL&S:rS^rH&r,N,&&Sz&rr^Lze_,Le6HS ,NJ CrO6JCCOHe&,zH^rOeYJHJL:^6S^COJeSLrJ,re^OLCJe(s&OzLO:COL ChJJ^ HS rL6&e:H66SC^ eO,e^:OJ  5SJ,HJJaSrO eeL,z6LC^cr& z::&&S &6C,LJzCLLz He O*6z::(6OC^6He , z,r,rLjCJr:&6e:6O6eCL!z^r^ :HLJ %r&,S OCCrL&zC,H^^Or HAO&^J666C^LSCOJC^Sr, &r JH:66zZiJJezLbzLr^ S&CJJr,,JS&OCCHHOzz,H^OLeJ:sJz+S:6,CJHeer,J^erOeC0eJw:OL6C:OOe ,S^^rJ SHrJ&:e&HS6&zb,L6zzr:^OH ,Ov, Jr;6,CJLeer,6O6rUzOOHJ8:O6 C:O,S&,CeLOS eHLJ6^^&lSOO^SH Cz ,r^,zJJCFr&&#e&6C6L:ep, ^^LH LHz  :,6CCC^Je&,ezH,J^eHnJz:^YOSLO eSOOz^rC^ H&CH4H&6Sz6oS:L^e,,Lz=HS ,xJ&Cv,6&CCOHe6,zzHrO SL6JO: 6S&^O^eSLre JH^rH&JzHC&OS^O::L&ez:,L^JHS r&H&eH&CJCzOHeOr,^:rO  zSJ,:e^LS,O&eer^z6re^gr&C:tA&OS  CC,LJzCLLh1He ,R6^::16OC^6:e , zEr, ^QC^L:&&SSeO6eSLi&Or^ :HL zge&,SeOCLOL&ze,HzJri df^&^^O6LC LSe,,^^CrL &HHJH:66zS%6re^LGzLr  SHLJJBH^ SJOeCHCCzC,H^OreSLKO&^SSJhCJLCerO&C:rr &qzJH:OCLC:&^,z,SzLrJ ,HrJJ:eC S6O:(&L6z^r: ^H J:%,J^Lr6,CJLey(,6^zr_^&6,&::66 HrO,eJ,CCrLH eH,J6:C&mA&O^SHLez ,H^,z^JCvr&&:S&6C6L:eMOH^^H: LHzJe:,6CCCN:e&,ezHr6z6HPJ&:^&LSLO eSL,errC^,H&Je%H&&Sz6LheLzz:,LL%r8 LuJJ:L&6JCCOHS,,zzwrOz^LrJO:^6SSLOJ,&LrCC S^HH&JzN,&6SzO:LCL er6^^ HC r9^&C:r66SC^Oe6,z^:6,  }SJ,c^e6SrO ee&Oz6rz^R,O^&::&6S 65C,6^zCLLzLHe L}6r::#6OC^6HeC, zrr, CvCJr:&&S:CO6CGL{6:r^ :HLJ H^&,S^OCC&L&ze,H^6rS F#6&^S:6LC^LSe&6:^Srr &^,J,:&6z:r^^ezLszLL6 SH,JJHC^OSJOCCHL&zz ^^OLDUHlL&^SS&,C LSerCJ^erOeCIeJR:O&^S.OOe O%UJr  SHre6:e&HS66Cr LOzer:CJH JSI, J::6rC Lee,,6eCr_^&H&&::&6  FO,eJ,CeL,6 eHOJ6JC&_SOO^SHL6z ,,^,^&JC_r&&Se&6C6LCeD,^^^H: LR J6:,6 CCOre&,CzHr^CrHHJO:^{6S6O^eSOOTCrS^,H&^ iH&6SzJFmJLze;,L^^HS:CWJ^,zJ6&CCOHCz,ezHrOC,x:JJ,M6:S,OJSrL,zJre^OLCJedN&OkJ6*COL CdJJ^ HS rL6&e:H66SC^ eO,e^:OJ  =SJ,HJJ6SrO eeL,z6LC^Mr&^6::&&S :JC,LJzCLLzCHe O!6,e:%6OC^6HCz, z,r,a^>CJr:&6e:HO6eCLkz^r^ :HLJ HJ&,S OCCrL&zC,H^^Or H2O&^J666C^LSCOJC^Sr, &r JH:66zlGJJezLizLr^ S&CJJr,SLS&OCCH&Hze,H^OLHJ:dJztS:6,CJ&Je,,J^e,,SzUeJH:O^ C:OLe O3?erJ :Hrzz:e&HS6&zC,LOzer:^6H z_d,J^:^6rC^LeJ ,6^zrj^&rr&::J6 OrO,eJ,CeL,& eH6J6^S&nSOO^e:OHz ,E^,HCJC7r&&Se&OC6LeeB,O^^r0 LWCzO:L6JCCS e ,CzH,J:sHHJ6:^JeSLO eS6,SzrS^,H&JCwHStSzJ6L&L^eR,LSHH: LoJe,:r6zH,Ore6,zSJr6 z+: 6LS6:SLOJNeLrz&rez,6:Jz{r&OHSO:CLL CS,e^JH: ri &eH,66SC6zeO,C^:,H  NSJ,9^JHSrOzee^Hz6rz^(r&^H::& S 6HC,LJzC,rz:He ,#6Jx:V6OC^L:Cr, ^:r, JpCJ,:&&-HJO&ezLjLere^GHL zO,&LS OCS:L&ze,He6LS Hb6&^:86LL,LSS ^^^Cr, &OHJr:&6zOeOOeS&6zOr  SOJJ :S&r: zHCrL&zz6:^OH^J:H6CrSS6OCJJHer,&^eLH^L/zJr:O6eC:&6e O#zerJ^dHr:r:e&HS66CC,LOzSr:CSH JS<,J^PJ6rCeLeO6,6^zrc Or6&::66 S,O,eJ,CzrrS eHrJ6:z&;S6O^C,&zz^rS^,^:J:m,&&:Sz6C&Lee(Or^^H: Lr zH:L6 CCO,e&^6zHLe?CH1J6:^eHSOO^eS&:zJ,HC HJJe!HeJSe6HCOOeHL,O^^HSCrfJ&C:r& ,OOHeJ,zSLrO ^0:^LHO6SSOOJe:LrC rez,,rJz+,&OH^O:CLL C7,&^JrH r S&e:H66SCO^eO,:^:JO  YSJ,:J&rSrO eeL6z6rz^1HO J::&OS OSC,L zC,6CSHC H/6Hr:r66C^6HH ,^^:r,zOECJr:&JeHLO&eeLbz6r^< HL^:eL&,S OCr LJzC,H/zHz L,e&zS:6L,{L:eL,JzHO  J#eJHO66eSHOOCe LzOr^ SOrJJ:C&r: zOCHLJzz6L^OH^J:rLJ,SS6OCJL:erO ^e,,zr%zJ,:Oe6C:OLe O>e&rJ^HHr:J:e&HS66CCzLOz:r:OzH JSP,&J:z6rC Lee6,6^zru OHz&::O6 CSO,e ,Cz6OS CHHJ6 r&rS6O^SH  z^r:^,,OJCGr&&%e LC&Lee8,6^^J  Lr::P:,6 CCz:eJ,CzHCS zHLze:z6:SLe6e:LLzJ,::&HJJCaHzOSz6TCOOeHJ,L^zHSe&iJ&C:rJ&: OHeJ,zzrrOze(: 6Y&6SS6OJ6zLrz&rez,r,JzAL&O&^O:CLL CcL,^Jrr r^r&e:H66Cz6eeO,e^:r   NSJ,:J&rSrOJeeLHz6re^QH eHa<&LS :OCOL zCLL:eHC r86 J:46OC^6::&,^^:r,  FCSe:& r^&O6eeLar&rz^*HLSH:S&&H:OSCrL&rS,r^&Hz L,e&zS:6LOLL:eL,Jz:&& JwCJH,O6zSdOOCe JzLrz SL&JJ:C&rk&6eCHLJzz,r^O,eJ:H6 HSS66CJO&er,&^e,, S!zJL:O&JC:OLe O#eSrJ^rHr:S:e&HS6OzS&LOzer:^ H JSV,&J_O6rCJLeeH,6^er8  LHJv:L6 &OOOe ,CeL&e CHrJ6HJ&2SOO^S:&&z^r:^,H JC6e&&HrC,C6Lee?zC^zrn LOr&S:& :CSOre&eLzrr& zrrC^:z&bSL JeSL,zJ,::zH&JSlH^^Sz6pCO6^Cr,L^zHS O>J ::r& :{OHe ,zuOrO ^>: 6H,6SS&OJCOLrz&rez,rJJzWO&OL O:CLL zSL&^JH: rPe&e:H66CzOreO,z^:rL  l:J,:e^LS,O&eeCJzJre^0r&C:xb&OS &zC,LJzCOrC^HC r!6&e:>e:C^&OJ^, ^:r,rOKSJ,:&z SHO^=rLHzOr^reHOJ^:S&&H:OSCrL&Or,r^&Hz^rO^&z:/6LHJLSe,,Jz:&z &_SJHr^6zSuOOS^LSzLrz SHOJJH:&r: &HCHL zzJz^OH^J:H6&:SS6&CJHPer,&^e,, SVzJO:Oe&C:OLe ,Sz rJ :HrJe:e&HS6OzS6LOzzr:^LH J:3,&erL6,C&LeOJ,J^erk^&O:JU:O6 :zO,eJ,CCrO^ CHrJ6:e&fL:O^:Oz6z r:^,zzJSA,&&H^6HC^JreH,O^^er OX^&SZOzCCSO,e&&zzHr6 zrrCS:^&HSLJCeSL,zJLCzSH&JS7H&JSzJrCOOeen,L^eHS:eEJ&C:r& SJOHe^,zLJrO ^-: 6<L6SSJOJ:OLrz&re^H,HJzhr&OS:O:CLL zSLz^JHS ro&&e:r66C:J&e6,^^:zz zq:J,0^erS,OJeeOSz6rz^u,OzC_Z&OS O:C,zrzCOJH He r-6rz:H66C^eOeL,CSOrL JgC,r:J6CSH6Jr}LHz6r^CSHLJ :SJOLHOCCLL&:d,H^6Hzz*HS&^:H6LCzLSSO,Jz:,O &a:JH&,6zStOOCeLzzLrC SeSJJ:C&r: & CHLzzz^^^OH^J:_L&zSS6OCJOrer,&^erH SjzJH:O6^C:OOe LrS^r  CHrHS:S&rS66CrOL6zzr:eHH JSl, JrP6,CJLeer,6HOryzzCI&::O6  ,OLe ,C&Hr&^=LJJ&:z&N ^OzCiLLzC6O^LHJJCe<&JSC6HSJ^veH,6^^OS LK &SUOeHCCOLe&&jzHr6 z,/J :^&HSLOzeS6OzJ,:zzH&J:EHe^Sz6/COOeee,L^CHSL:RJ&C:r& SJOHez,z,,rO ^E:JLQC6SSOOJCrLrz&re^HrJJzWH&OS^O:COL er6^^ HC r S&S:r66SC^Oe6,z^:LH  MSJ,HJ^mS,OJeeLrz6 O^(,z:e::&OS r CLL zC^&^&rDeJ0&&z:Y,VCzOceLLzq,rL  #CeH:&6eSH6JrLLZz&r^C,HLJ :S ,:HOCCLL&zS,HeJHz^rHC&^:r6Lr LSe,,Jz:,  &H<JH ^6zSEOOCeO6zLrS Sz{JJ:C&rS&6eCHLJzz,O^OH^J:xLJ:SS6LCJLCer,J^erOeC=eJ=:OfHSHOOe Og8Jr  SHr^L:e&HS6&zP,L6zzr:^OH :J0, Sz,6rCJLe H,&^ery^SG^J,rz6^CSO, J,Sz,r&^KLJJ&:z&fzSOzCxLLezJ,^LH JCLH&&Se6HSJ^Le4,&^^O, L/ &SH,&SCCOLe&,SzHLJ zrrJC:^&rSL7OeSL,zJ,:^^H& /cHeLSz6*COOeCO,L^SHSeV1J&C:r6&S OHeJ,zzOrO ^(:JLb,6SSLOJeCLrzJre^OLCJe>y&OJH6HCOL C1JJ^ HS rrL&e:H66:zJ,e6,z^:rO  &JJ,HS,,SrOJeeH:z&re^trHJ^d,^zS^OSC,r6zS,,^&r4eJ1&&z:_LeCzOFeLLz3,rL  aCeH:&6eSH6JrLLmz&r^C,HLJ :S ,A<OCCLL&zS,HeJHz^rH:&^:r6L:LLSe,,Jz:,r &HuJH:C6zSyOOCeOJzLrS SO6JJ:C&rS&& CHLJzz,O^OH^J:aL OSS6LCJLCer,J^erOeC*eJN:OkHSHOOe Op2Jr  SHr^L:e&HS6&zX,L6zzr:^OH :Jt, Sz,6rCJLe^C,&^erDeeI^J,rz6^CSO,zL,Sz,r&^3LJJ&:z&8C^OzCkLLezJ,^LH JCLH&&Se6HSJ^Le4,&^^O, L% &SH,6 CCOLe&,SzHLJ zrr L:^&rSL&^eSL,zJ,:zOH& }UHeOSz6bCOOeCH,L^SHS^^*J&C:r6&:,OHeJ,zzOrO ^w:JLj:6SSLOJeCLrzJre^OLCJe>p&OJH6HCOL C#JJ^ HS rrL&e:H66:zJ,e6,z^:rO  &JJ,HSC:SrOJeeL,zJre^wO6J^_,^zS^OSC,L^z:,,^&rSS6.&&e:k^LC^L:eLLz0&r, ^GCz6:&6eSH&6SOLyz&r^^HHL^z:SJO:SOCCOL&LH,H^6Hz^rH:&^:,6LO&LSe,,Jz:,r &HHJHJ96zSDOOe^L,zLrz SHJJJ:C&rS&6LCHL&zz,i^OHzJ:YJz+S:6,CJSLeL,J^e,,SzheJH:OJ&C:OLe OSS6r  SHrJJ:eCzS6JHLrLOzzr:z,HzJ:I,SJSC66ySLCeH,6z^rr 6{^ HL 6^C:O,E&,Czrr&^S6^J6:C&_H O^e:LLC ,L^,H^JCTL&&?S6HSJOSe0,J^^S, L{ &SWO& CCO6e&J:zHr6 zrr H:^&LSLzeeSL,zJrC^OH&JSUH&zSz6lCOL^Cz,L^^HS ,QJ&S:r6zH,Ore6,zL&r& z}: 6LS6:SLOJS^Lrz&reeHL JeoH&OSzO:,SL SL: ^JHS rHz&S:r66^6O4e &Hz3rL  rrJO: 6CS6JSeCLHz6LJ^rH6J^HHe S^O:C,J&zC,r^&rSS^}6&C:v  C^L:eLO z^r, ^ACJL:&JSSH6Je:L!zJr^e^HLJ :SJOS:OCC6L&L:,H^6Hz^rHJ&^:L6L zLSe,,J^C,S &9SJH:z6zSaOOe^OJzLr^ SH,JJ:S&rSz ,CrL6zze&^&HzJ:H6eSS:6LCJ6^er,&^eLHe 4eJH:O6zC:zSe 6LrOrJ SHrzH:S&rS6e^CvL :H,w^LH zJ1O& SC&LreLCer,6S^rc O#^ HLC6 SWO,:e,Czrr&zerCJ6:C&3S&O^:HLLezLJ^,HzJCL &&Se6HSJOzeY, ^^eL L0 &SGO&eCCO&e&& zHr6 zH.  :^&HSLOSeSL,zJrCzeH&JClH&6Sz6HCOLS:6,O^ HSr^.^&S:r& ,HOre&,zeCrO ^A:^Lre6:SLOJeSLrrHree&CeJzbH&OH 6HCOL JJ,,^eOL ,b&&erW6JCeO#e &HzprL  L^JO: 6CSrLSeeLrz6rz^xHOJ^H:^&S^O:C,L zCC ^&,eeLb&&e:166C^:^eLO :OrL  UCJ,:&JzSH6JBrL<zJr^LSHLJ :SJOLHOCC6L&Oe,H^6Hzz3P:&^:,6LCCLSSO,Jz:r& &HHJHH^6zSgOOCeLLzLr: S^eJJ:C&r: &rCHLCzz:6^OH^J:9L&^SS6&CJOLer,&^erH ^qzJH:O6^C:OOe LrS^r  CHrHS:S&rS66CrOL6zzr:eHH JST, Jrm6,CJLeer,6HOr%zz&e&::O6 r&OOe ,C,Cr&^=LJJ&:z&7rSOeCBLLezJ,^LH JCLH&&Se6HSJ^LeE,&^^O, Lx &SH,&&CCOLe&,SzHLJ zrr H:^&rSL  eSL,zJ,:^ H& 5mH^OSz6nCOOeeJ,L^SHS6H1J&C:r6&CSOHeJ,zzOrO ^p:JLHL6SSLOJeCLrzJre^OLCJe_#&OJH6HCOL C<JJ^ HS rrL&e:H66:zJ,e6,z^:rO  &JJ,HSC:SrOJee &zJre^7H6J^c,^zS^OSC, Sz:,,^&rSS6W&&e:;^LC^L:eLLzy&r, ^=Cz6:&6eSH&6C,L*z&r^^HHL^z:SJO;OOCCOL&CA,H^6Hz^rH,&^:,6LOJLSe,,Jz:,C &HHJHH66zScOOe^OezLrz SHJJJ:C&rS&&HCHL&zz,G^OHzJ:fJznS:6,CJSLeL,J^e,,Sz*eJH:OJ&C:OLe OSS6r  SHrJJ:eCzS6JH 6LOzzr:::HzJ:*,^ SC66MSLCeH,6v6rr 6-^J,rz6^CSO,re,:z,r&^S66J&:e&7rLO^e:LLezJ&^,H^JC,6&&Se6H:6O&eT,&^^rH Lrz&SnO&LCCOOe&eCzHr6 zrr^r:^&,SLCLeSL,zJ,:zzH& HqHHeSz6ICOL^C ,L^zHS JNJ&C:r6&CSOHe&,zz{rO z7:JJ,=6:S,OJ6LLLzJrez,6zJe!H&O>&O:CLL CS66^ HS rcJ&eOz66!HereO,z^: O zV:J,O66CS6JSeCLHz6 e^rH6J^HHe S^O:C,J&zC,r^&rSS^!6&C:;  C^L:eLO e&r, ^<CJL:&JSSH6JCOLuzJr^OLHLJ :SJO(HOCC6L&L ,H^6Hz^rH,&^:L6LrHLSe,,J^CrS &qSJH:z6zS>OOe^LzzLr^ SH,JJ:S&rSz ,CrL6zze&^&HzJ:H6eSS:6LCJ6^er,&^eLHe ZeJH:O6zC:zSe 6LrOrJ SHrIO:S&rS6&OC/L :H,i^LH Be7O& SC&LreLCer,6S^ry O>^ HLC6 SuO,:e,Czrr&zeH:J6:C&US&O^:HLLez,^^,HzJC V&&Se6HSJOSeF, ^^rJ La &S!O6zCCO&e&&HzHr6 zHv C:^&HSLOSeSL,zJrC^JH&JCYH&6Sz6HCOLS:6,O^ HSr^<^&S:r& ,HOre&,zeCrO ^(:^Lre6:SLOJeSLrrHree&JJJz?H&O&O6HCOL L6,,^eOL ,4&&e&e6JCeO7C&J:z;rO  LCJ,:J6C:Lz8eeL,z6O:^2HOJ^H:J S 6lC,L^zCOL^&rS rG6&S:{z6C^L:eLLzzJr, eYCCe:&6eSH6JSOLnz^r^CrHLJ :S&,{LOCCLL&eH,H^6Hz BH &^:}6LC LSeL,JzHO  JkeJHJC6CSHOOCe LzOr^ S,{JJ:C&rb&J:CrL&zz,H^OJLJ:r^SzSS6LCJSLeL,J^eJS 6<:z&:66^C:Szez,:z,,^:rH,JJ:ezGS6OzC{O&H,r:^6H er_,&JSCJr:rLee,,6^CrFz&_^ H:&6 SHO,S6,Czrr&^SrJJ6::&wLeO^e:LLezL,^,HCJC,C&&Se6HC6OZep,&^^rL Lk &S:,&eCCO,e&,ezHr& zrrC^:z&!SL^,eSL,zJ,,e^HJJCbHHHSC6HCOL^z:,JS}H: ,xJHJ:L6JCeOO:C,ezQrO :0:JO: Js,JO eSLrr:re^HH6 COO&6SeO:HSL zS,,^JO, ,4J&e:,66CeO5eO6z^:rL  _:J,:J6CSrO&eeLHz&,S^ZHOJ^QHL&CC,&CLH::r HS&H: ,+6&z:>6,SrOHeL, ^Sr, J7C&r,66SSHO6ezLtzOr^ :HLJeDr&,SJOCCRJ^:6&C^ rH k=O&^SC&^r! rs:&rznr  &seJH:LJ,rL &neO^SJre^OH,JJ:C&{,H :H6&e:,&2^&J,Cz,H& r.wHr gCeL,#6 6SHOLH r Lr^SrOze ,Sz,r6zOrCeS,rz,rfOSCJLOz^r:^rL-eJLOze,6 eH:LSee6 LO^!S&L,LO,,6eS^O,eJ,CzWO,C6OLe&,:^JrO^,H,&^:r,y:SzSJ6LH0z6:Ot OLSeC,O^^H: rr&eH,S^eHCJeS:&6:J&HCOO&J&OOHOCC J6re6^&6e^LH&Je.H&6Sz6{CCJ^eH,L^ HS ,sJ&C:r^&::OHe6,zer&^ z(:JLuL6SS,OJSC&OzJre^HH6Jz3O&O:ezrCLL^zS,C^JHC rH  J:H6JCzOHeO,^^:,6^&?SJ6:J&6SrO&eeO,zzrz^LHO &::&LS &RSrLJer,r^zHe H/6JC<J6OS?L:CO, ^Sr,^^HCJr:S6eSOO6ezLme&6H :HeJ 8H&,SJOCSL&Sze,^^6H: DvO&^xH zC OJe,L&^Crr &HSzJ:6&6SWO e^,:zL,zCOH, L:C&:S&OeCHL6rb,;^OH^ zIL&zSS&OrCLSe,,&z&rH 6#z^Y^S6^S<OLe^,SzJrJ^:rCJ&:S&HS^OzCxLOee,,^LHeJSHO&JSC6rS 6,eH,^^zrL O{^&::L6CCSOLeJLHzrr  eHH ::e&?SOO^e:LOz L#eCHJJCdr&CSe6HC6LzP,,6^^H: L0 JW:, JC:Ore&,ezLr6^ H{zOtz6:SLO SHL,z^rC^rHJJeWr&6Sz6YCOL^C:L^^ H: ,s &C:S6&:e6Se6,ezEr6 ^H6JLH J,S,O eCL,z&,e^HrJS#wH&JS^6&CLL zS,,r:HC 6x&&e:H66CzOKSz,zzrrL C#SJ,:J6CO6O&eCLHz6rz^HHOJ^,8&LS OSCLLJzC,r^&He H46&z:J6OC^L:e&Lo^Sr, JVz  LHzOr^ ^iSL,z^r^ :HLJ&rh^ r6^{COOEze,H^6H ^ LezL,&^eHC O: ,zzHrr &ge&:HJ^HrOOJCe,:zLr  eLSe6LL^eH: C3:&S:z6 C:6,e ,eer,r^^CzO^er,&^eH:^SL e&rC^zH &rHH&:S 6zC6HO O:e&HS6O SJJ6:J6&SL,reJLezrrO^zHz ,eLLH^zru OmJ^6r^^&H&&zHr&::L6zC:H:J6:z&p:&^:CmLLz ,H^,HJJC>JCHSe6HC6L:e.,6^^r{ LnCzO:L6JCCO6e&,CzHr^CrHHJO:^&eSLO^eSOO9CrS^rH& HbH&6Sz6{eeL^e%,L^ HS ,EJ CrO6JCCOHe&,zzLrOz^LrJO:^6SSLOJC,LrC&O:^rH&Jz(H&O:rO::L&ez:,L^JHS rhJ&eHH  CeOHeO,z^:r6  rSz6: 6SSrOJeeLJz6rzC6H6J^::&6S O:C,LJSS,r^&He rD6&z:86OC^L:eL, 36r, J-CJO:S6eSHO6e 6,: LrSYOreSjG&,SJOCCrL&zerHSOHC .;O&^S:6LC &eb,,zzHrr &*e&:HS^Or OJCL,:zLr  e,:zS,Szrt:^HpzJU:L,,zLH^J:DL&&v ^HHzJ6CC&O:,6 C:r,zC,,^zHJO6e ,Sz,rJ CHr^:,e&LSSOzC7LOzJL CBO,eLLJze,b6OCzLeeH,6^ 6,e:O6JHrz6 CS&,66H,&MS& :rrJ6:z&BS,JrlCJ67,6:C 6HezL6z^H, &v:J T^&C^Crz L1 &S:HJLH& zSB&^: 6:CHO,zC,L&r:lO eSL,z6OrSCOe^O,:zSrH &H6JL:J,&ztHS ,1J&zgz^HH&Jz:eJLzrrO ^P:eLHCH  J Je:Lrz&re^HH6Jzxc&OSC66CLL zS,HCIO^eJL^zOr&6 SuO-eO,^^C66e:O&eF:z&6SrO&ee,:Cz6:SJO,C,,CzJre6?S LJzC:rL:S!PJe6&C:W6OC^L:eL, er6, zHrJr:&6eC: Hp J,SSrC^LHLJ :S&HrL ,HLJHz:LH^6Hz 13,eHr ^^r,JJ/zJHe&6OSXO,z&, ^,H^OJe:,:zLr  e,OzS,zzOS^6LCHL6zzrSeeOLCHLJerrJ^zCzOLer,&^eH:z*r,eH,,^rH:O&e:,Sz,rJ zO&zC,^zJrSOSCJLOz^r:^rLLeeLzz6rL^,HHL:e&,6^zrE ,OreL,O^&r&OOeJ,Czrr& eHHJS,z&,SSO^e:LLz&LLCeOHzrL6zOr:^^C O0e(,O^^HCzCL,ez,e6zSJOre&,e^:LrCOO ^^,z^O,r ,HOJzzz,^^rH&Je:: zre 6r,JL86OH:,6HCeLreL:r6JC:O6e6,zz4r,S,LOee, &HSzOJeCLrzOOHSrLeC ,^ze,r6rSHL zS,,^6,zCOOre8,H^Pc,J^1eJOS 6z eHOJ,:J6CSA SarJLS:6:SrHJJ:::&LS OeSe&SR66J^^rr HI6&zSS&::H  se&CzHr: J%CJr:O^CrOJS.HJHC^6zCO6re,LO&6SSOCCrL&z^OeCeOeC^,:&C:J6LC LSeHOO:&6LeCL:eO,L^LS,O^e^,:zLr&e6OHC&,&&OSSOeCHL6z OOS OJCrLCeH:H6:CJLCer,OeJOzC:r,zC,,^zHJ z9,JHz6r: CHrJ&:^J r^ CHr6fSS,r^JH JS!,&6Hr^,rOL:Cr,6^zr( ,r&e ,6 :rH &;6&6C 6zSmO^^z,Hz&rSOCCOLLz rS^H,SC&,ez:,O6LSJLzeY,O^J6&eSOrzz,H^HH6JeW^JH:J6^S#L^eeL,zCS&6zeSL,zJrze OHCHLrzLr, 6HSJL:JOe:r6rC^,Sz re6^S,OHe6,z^S6:CCOLz^,H^SSOOJeCLrz&re^HH6ezD,&eS^O:CLL&S,&&:w,:C6L^&::e66CzOpe,60: OSSHO&^e,6z6r, HeSLHz6rz^4HO:^ 6zLSe6^C,LJzC,sz:O ez,SzzHO^6HV C:SJdzHrC J/CJr:OJ6rLJe?rJHS:L:S^O Jz:S&,SJOCCrL&t^&H^ rO uuO&^SC&eHC HTe6SSz6OCHO,JL:z6zSkOOeJJzS^6&S&H6 %:C&rS&O^:r HC,&LS:OCCJy&&SSS6,CJLz::JHSJOz  H6Jy:O6^CC&ol,J&Cz6rSLOCeO,L^zS 6HCkLOz^rCeOO,C ,Cz :o6eC&LeeH,Le,OCezOHzOrezrHJ ^ezLLzrr& eo: SH6z&Hz eZ L&:,rS^,HJJzrk6erO^OH L&} r^S&OOC:L,&,r ^zrz zML&^:L6r 2Lze LH6L,r CHJ,J::6zCSOLCO:6z r:^eCJ,:C&&JSzOJJJ,:z,r^^&CH r:eJLS^6e CHrJS: 6SS,O6S^J6:eOLCzOCC6,^zeSeO:CLL zS,,6JJ:Cr=&&e:L6SCzO}eO,JSzOSSrL^zC,zzJSOO eeLHz6r  OHJ 3::&LS Oe:OJr:S6eSHH: JQ6&z:s6,:&J :^&^:&6t zHLJr:&6eC: SHLJ&:,6CCzH&JS:S&,SJOz:O&C:S6z^ r6 b>O&^SCJerrJLs^JHeL6 COL:zC: &6SxOOe^,CeeO:SHrzee,Sz,rO O>zL eL,h^OH^JCH:^:,O^OZyJCMK&e^:r  6DzJ!:, ,r,&CHO&JSC6z^{H^J&:e&HSLJ6%^&CT,&,SzrH H1 &JSC6rCO&O::&:SeO^ &%^&::L6 CSO,:6:CzLr& eHHJ6:z&kH  ^,HLOz rSzO6CJSfr&&re6HC6Lzeo&6^^H: LX^&S:O6JS,^ee&,ezHrz zHHJO:z6:SJ be:L,zJ,r^rHJJe{O^CSe6ICO^ze_,O^ ,tSJF &C:rz^CeOHe6LHZ^rO ^E:JC: 6:S,O eCL6SSrC^HH6 L{N&6S^6,VzL^zS,,^JHC ,(&&eSJ66CzO2eO,^^:rLz eSJ,:J6CSrO&H7LHC6,r^gHOJ^::&LHOOSSOL^zC,r^&OC HQ6&z+r&^C^L:eL&^^Sr, JHz 6:&6SSHSSezLHzOr^ :HJeo::&,SJ:OCrLJzeL,:zHe {POzzS:6LC &LrH,J^Crrr:7eJr:6^ SWO DHL1zLr ,6H,J :CJL,eOCCHL6EH,.^OH^^:zC& SS6,CJLCez,&zS,z 6#eJT::6^C:OLCzL z,r^ CrHJ&:e&H:J6zC(LJz^L,^LH JS7,JrSC6rC&L:eH,J^z,rS^!zJw:L&OCSO,eJOCSOrJ SHHJ6:zJ,SOO^CCLLz^rS^OHJJ:qrJO &6HHHLzC:,O^zH: OE Jrr^6 CCOrS6,ezrr6 :L&J6:^6:HrO e:L,e^Jr^,HJJeHJ&6Sz6;:O He2,O^ H: ,Lz&C!L SCeOLe6&HzDrO ^+:S : 6:S,OzeCLLz&LeCLH&JeX0&6S^& CL6 :H,L^ HC ,V&^C:HJ6rrOHe6,^z/rLe_>S Or:6CSOO&SLLHz6rzzr6SJ^#,&L,SOSC,LJCC,6^&r* HB^&z: 6OSeOSeL,S^SrC JiCJrU &HSHOeezL:zOr^ :r6^0:S&^SJ&HCrL&ze,H^ Hz L3OJHS:6LC LSCr,J^Srr &ceJr:66zC&OOez,:zOr  SH,^JLL&,SJOeCrL6eH,Dz&OHJ:K&& ::6,CJLCer e^err 6>SJj:&6^SO^Se ,:z,OC CH,J&:C&HS^ rCHLOz^6L^LH^JSY&^:SS6rC& Jer,&^z,rS^kzJy:LJOCSO,eJ,CS:r& SHHJ&:z&VSO&^CSLLzzrS^OHJzCqr&&:,6HCJLze,,O^^H: LrL&S:L6JCCOre^,ezOr& zHAJOJ:6:SOO SS&6z ,,^rHeJeOH&6HHr6COO(z:&,^ H: ,H &C:6 SCCOHe6&^z>r6 ^H,zz:^6SS,SCeCL,z&LeSJH& HUV&^S^6OCLOz:O,,zUHCeO7&&e:H66LjOXez,^z&rL ztSJ rn6SSJO&6HLHz&rz^lHOJS,6&OS OS6JLJzS,re&6, rPe&z:O6OScL:C6&Z^Srz J,^Jr:&6eSHzzezL6zO,r :H6J !L zS 6,CrCeze,r^6Hz 5U zH:76LC S,e,, ^CLre^oCJ&:6&gSjJre^O:S&r^^LH,JS:Ce5S&6^M^L6ez,_,^H^ R*L&:SS6&3:LSer,&LHrH &_z rL^6zSOOLSS,Sz,rJzCJ&JJpr&HSeOzHxLOz^,G^LH:JS;L&JSS6rS L:eH,e^zrJ O-^&::L6zCSO eJ,SzrrJ er, L:z&6SOJLe:LLz rSz^HJ ,2r&JSe6rC6OCCz,Oz;H:SJ{ &S:,&^,rO,eS,e:&r6 zHc^OHe6:SzO COL,eHrCerrrJep &6:d6F#JL^C:O-^ r6 ,H=&CGO6&SS6^e6LLzw&^ ^4:JLH J S,6HeCLzz&,O^HrJ Huh&:S^&HCLL zSO,eHHC eR&J6:HJSCz6rHS,zz^rL:mBSJ,:J&::LO&CJLHz rz^7HOJ^H&&L:,OSC:LJz:,rz rL HHH&zLJ6OC^L:C6L^^Sr: JH:Jr:&6eQH6zezLezO,6 :,eJ H/J6SJ6^Cr Sze,H^6rC &xOJJS:6&C LSe,,Jz^rr^,_eJ::66zSiOOez,:zCr  SH,J^:C&rH,OeC L6e,,+^SH^J:r^&^:O6,SuLCer,&^e O 6HHJA:O6^S2OLS &HzLrS CH&J&r:&HY6JSCHLzz^,O^LO:JSHO^rSC6JC&JOeH,6^zLnz&!zJO:L6SCSJ6eJL:eer&^,HHCz:z&(SO&^C,LLelrS^^HJ 6VrJ aJ6HCSLzer,O^^H:^6Hz&S:e6JC:Ore&,ee,,6 zH^JO:e6:SLO eSLJzJ,L^rrHJeX,&6:z^eC6O=z:6r^ rO ,rJzV:,6CCeO6e66SzgOOSL_:J^: eKS,^reC6rCrre^&H6 xvp^rS^J::9L eL,,^CHC^rG&JS:z66SHOn:^,^^:rL  r&J,::6CSLO&eeLHeJLr^BHCJ^?^&LS OSSOOezC,z^&rS Hp6&zH+ JCzOJeLLr^S6O JZCC :&&rSHO:ezLHzO,e:LHOJ::SJSSJOCCrL&He,H^eHz HTO&zS:6LJ:LSe ,J^Srr &Te ,r36zS6OOHz,:zLr  Se JJA,&rSJOeCHL6eCze^OrpJ:BO& SS6,S^OJer,C^e&L 6KzJ3:z rSVO^e CHz,r  CHrJ&Pv^JS&OzCnCJz^,4^L, CO?L&SSC6&C&OreHLJSrr* Ca^zr:L6 CSO,rC,CzJr&^LHHJJ:z&6,:O^COLLL&rS^LHJJS/r&zr,6rC6LzLS,O^zH: JLG&::,6J&ZOreJ,eCHO  eH6JO::6:HHO SS&6z ,,^rHCJeL:&6HHC,COO?z:e&^ H: ,HJ&C:6 SCCOHe6eSzvr6 ^H,zz:^6SS,^OeCL,z&reO&H6 Hd_&OS^O:CLOzSJ,,^SHCS,m&&e:H6eS,OHe6,^S^rL ^.SJO:J&HH OJeeLH:Hrz^HHOJS,6&OS OSH:L zS,rz &H rT6&z,H6OC^L:CrCz^S6H J^ Jr:J6eSHO6e:&&z6r^ :z5J ::&,Se LC,L&ze&O^&He uH&e::?6LC J:e,,J^CLJ^r>CJH:6jzShO6e^JJzLrCCOHLJJ:CHrS&OCCHL^:r,H^OH^C,AO&^SS&O9:LCer,&zerH 6fz rJH6^C:OLMO,Sz,rJ^:HeJ&:e&H:COzCALOC^r,^LH JSN,&J,n6rS 6&eH,J^zL6 Oq^&::L&zCSO,eJ,:zrr  e,HJS:z&8SOO^e:66z rS^&HJJCkr& Se6,C6Lze&,O^zH: &4 &S:,JJ:,OreJ,ezrr6zLH1^O.L6:SOO e:L,SerC^rrSJe<,&6Sz6tCOL^C:La^ rN ,5^&C,66&:eJLe&,Cz-r& ^,zJLH ^HSLOzeCL,z&6z^H,6 SwH&JS^6rCLJ,zSO,zOHC OI&&::HzeCz&1SH,^zrrL elS^L:JJC:^O&CuLHz&rzzCHOzAH &LSCOSJ LJzS,rezHe O,C&e:K6O ZL:eO, zrO^  NCJrrF6CSrO6CC Oz6rS :6,J :S&,vJ jC,Lzze,O^6,H MgO8HS:6 C OHe,,J^C,LeS!eJ&:6& S>OOe^,:H r ^rH,JS:C&LS&6rrzL6z:,m6,H^ tBL&^SS6&7:LSer,&6^rH &yzJLre6zC:OLSC,:zLrJ^:6&JJTZ&H,HOzCwLOz^&k^LHCJS=L&JS:6rS ^Her,z^z6: OW^&:HL eC:OJeJLrzrLO eHH0C:z&6SOOCe:LLz LsC^HJ LNre,Se6HC6LzrO,O^:H: zW JV:,JJH4O,ee,ez6r6C,H9 OL6&MSJO F_L,zCrCzL6eJCqO&65&64COL^z:zz^ r, ,4J&C:r6&Ce::e6,:zBr& ^HOJL:C^OSLOJeC6,zJrC^H,6zSRH&SS^6&CL  zSLO:CHS eB&e&:H66CzO.d6,^z rL ^BSJO:JJCHOOJC6LHe_rzCrHO u66&O:rOS:LL zS,rzHHe O,C&e:i6O:zO}eO, eSO6  H6Jr::6er6O6Sz&,z6,, :HCJ rz&,UJ aC,O!ze,^^66  .H,z,S:&LC 6:eL, ^Crz &H2zJ:&6zSa&6ezL7zL,z:,HL H:C &S&OeCH66SS,H^SH^ J{Lz SS6,,JLCez,&^CrH &%z^9rJ6zSJOLCH,SCerJzCLOJJAO&HS:OzHLLOC^6r^OrrJSae&JH 6r:C^^eH,:^z:: O}z&:Le6 SrJ^e ,Czr{6 eHrJ6::^&S6O^e:r^z r:^,,JeKZ,JySe6 C6&LexOOCCrw C7 J&:,^eCC&r:^,Cz^r6^LHfzH:^J:5&O^CJL,z^rCz&H& rAH&&:O62zzL^eQ,LzrHS &,:&S:r6&erOHe&,zzLOe z1:JLS,6SSLOJeC, z&,O^HH^Jz<y&O#^^6COOrzS,e^JLL rH z,:H&HCz&,eO,^^:rL:qGSJe:J&JSrOJeeLH^Crz^ HOJC::&LS &S/6L e6,rzwHe^^/6 zr,66S,L:eC, zzr,zJL{J,fh6eS^O6SJLwCz:V :HCJ S:&,S OC:6L&el6J^&Hz ?:6&^:i6LCCJOeL,J^CH& &jCJH:66rS#OSe^L,zLr  S,,e::S&zS&6OCH6CzzLrCeH^ ^vLz6SS6,CJLCH ,&zOrH^HdzJH:O&e,LOOCr,SzzrJ CHrJ&Oe&HS:OzCHLOzzr:z66SJ:Ge&JH&6rC&LeeH 6^zr  O!z&::O6 CSx eJL6zrrJ eHHJ6ZC:eSO6,e:LOz rS^,r^^6YrJESezOC6Lze2L&::r9 SK eL:,6JCC&rS ,ezzr6^OHWJS:^J:SJO C L,eBrCCOH&^eH &6:66MSRL^Cr,Lzzr& ,HL&CL&6&CeOHS6L,z1,H ^HzJLvr6S:O6{eCL:z&,S^HH6Jzr;J6S^6eCLO6zSOz^Jr:SzZJJ^:HzCCzOTeOLezrrL^J/SJ6:J6CSrO&eCLHe,rz^:HOJe::J6orOSSHLJHO,r^&He^,H:&z::6OSeL:eL, eSr: JHeJr766e0 O6CCOzzO,^ :6zJ :S&,:^6SCrOJze,L^6Hz kxOJzS:&,C O:e,,J^Crr^^1eJC:66zSVO&e^,:S*r ^ H, ,:C&SS&OeO&L&eO,dz9H^J:%L& Nz6,SHLCer,&^CrH^JDCJ9:S6^:^OLe ,Sz,,v CHzJ&:C&HS&OzSrL:z^,J^L6eJSy,&J:,66C&OOeHO&^erH O%^&::J^kC:O,eJOSz,rJ e,HeC:e& SO6re:L^z LGC^HJ J8r^^Se6HC6LzrO,Oz,H: :+ J2:,6S,&OrCp,eeCr& eHmJ6:^&,HzO^eSL,CLrS^,H& F,J&&Sz6U:6LzeA,Le OH LHH&C:^6&rHOHS66SzHrS ^HJJLr66SZ,JzeSLzz&,O^H6LJzr6=zS^6JCLH:zS,L^JrC r=zz,:r66Czr6eO,z^:r^^Hi:J&:J,JSrOJeeL,z6r:C&H6J^::,:S O:C,Le:L,,^&Hee,G&&e:b6OCHL:eJ, zrr, JPC^r,S6CSOO6e:L9Cer^zHLzJ TL&,!zOCCrL&zeJJ^6H: 8jz&^:R6LCCJOeL,J^COL J%CJH:66rSqO e^L,zLr  S,,e::S&6S&6!CH6CzzLrCeH^ OQL eSS6,CJLCr&,&zZrH e;zJr:O 8OHOLeC,SSOr  SHreS:e&OHCOeCxLOSe,F^OH ^oOJ& :H6rH,LeeH,6ezS^ O9S&::J6 SMO,C^6&zrrz eLCJ6:z&4:&^:CvLJz 6^^,HJJCH2H Se6JC6JHeH,6^^r, LuCzO:L6JCCJJeJ,CzHr^CrHHJO:^zzSOO^eS6,SzrS^6H&JC=H ,SzJ6 zL^e,,LS,H: LUJe&:r6zH,Ore6,zS^r6 zA:JJ,(6:S,OJH L,zJrez,6zJexL&O, O:CLL CS66^ rH r1z&e3&66CzC&eO,:^:r&  ESJ,{^^LSrOCeeL:z6rz^iHOS:::&JS 6LC,L^zC,JhHHe O36e&:H66C^O0eL,CSOrL J*CeS:J6CSH6JrvLHz r^S&HLJ :S&,LJOCC6L&zC,H^&Hz L,e&zS:6LrOL:eL,J^CH  &VeJH:z6zS;OOS^J6zOr  SH,JJ7H&r:  ,CHLJzz&L^OH^J:hLCZSS6,CJL:er,J^erHJClzJ?:O&!C:OLe OS:^r  CHrJ&:e&OS6OzJ6LOzer:^OH JSF,&JLL6rC&Lee,,6^ern^&O:Jj:L6 :OO,eJ,CCrO^ CHHJ6:z&3FzO^S:&&z^rS^,HJJCrC&&Ne LC&LzeW,O^^LJ Lr zH:L6JCCOre&6zzHL6eSHHJO:^6:SLJOeSOHSHrS^LH&JeYH&&Sz60COLS:6,O^ HS ,UJ&S:r6&:rOre6,zz#rO CZ:zL::6SS,OJe:LrC&reCH OJeom&OrrO:rHL SSLm^JHC rr6&e:,66CzO,eO,z^:rz  qSJ,HJ& SrOJeeLrz6LO^!,OJe::&OS O:C,& zCOr^^He r56&e:hJeC^6HC , zHr,e:UCJr:&6e:JO6e:LQzOr^ :HLJ V4&,SzOCC6L&ze,H^6rS aM6&^S:6LC^LSe&6:^Srr &/eJH:&6zSbJ6e^,:zLr^ SH,JJ:C&rS&OeCHL&zz,M^OHC ^.L& SS6HS: H:JJ9CLOzC&LOzJ,S6eC:OLe OxCCrJ CHrJJ:e&HS6Oz#HLOz^r:^OH JS7,&JSC6rC&LCC!,6^zr2 JH6&::L6 Ce6:crJ6e^6LC^Orz:Lr^^rJOe6 CCOre&,ezHL6LH&^:H6HC6LzzS&HS76HeS.eJJ:,6JCCOn:?&6:r6mz6O&e:,JzJS&6,eSL,zJrzz^OLerLJ^er,^ Z: Her,^^ HS ,h6 J, zHH^ ^e LEz4rO ^oC^&r:zyHCOzCrLrz&re :OHe L,^SSC6 CLL zS,HCL6HC L&eL,6 eH,J^eJLH^:rL  le zH,zLHJ  Y6LLzCrz^>HOJJHe^^re &HLJreRL,^&He HPL J,^^&H> roJ&&S&L^CeOHezHe^rrJ :eSL6zOr^ :HreS,LzHr:^OCOLSze,H^6H CJLSeHrC^&HOOHeJ,J^Crr OOJz&,LzLgrOOe^,:e6&S :H,JJ#e&rS&OeS,&Czz,H^OHeJ:xL& SS&HCJLCer, ^er, 6HH^J:66^C:&Oe ,:z,rJ CH6zS:C&HS6&eC}L6z^LH: H^JSg,&eSC6rC&OrHz,6^zr+ Sg^JM:L6^CSO&::,Szrr&^OHHJ&:z&LHeOze:LLz rS^LHJ :O&&JSe6HS,LzeI,Oze,z O*^&S:66JCCOrS&LSzHr& zHHJOy,6:;L&6eSLLzJrS^rHJJePH& Sz6HCOLez:,L^ HS SnJ&C:r6&CeO,e6,:z,rO ^b:^r: 6:S,6^rrL,zere^:H6Jz32 OSrO:C L e,,,z%HCzrA^&e:&66C:OYee,^eH,H  HOJ,:S6CSrO&eeOSz6,8^%HeJ^cH&LS:6&C,LCzCL^^&HC HI&&z:L eCzL:eLOH^SrL JHHz :J6eSH&LezLHzOr^ 6HLJS:S&,SJOCCr6&S:,r^zHz OgO&:S:JLReL:eJ,Jzrrr^,De^Hr 6eS6OOeS,:z:r zSL6J y,&rSCOeCzL6ez&e^6H:J:iS& :L6,CSOOe,,&^e,H 61eJG:&6^S,Jze^,Sz,,J CH,J&+;^JS&OzC_LOz^,Q^LH z:7,&JSC6,C&LeeH,6^zr1 Ou^JL:L6 CSO6CZ,Czrr& ^, eDLL  H: mHHL&eBrS^,HJJzH^zzrS^,:H&:e,,C^^H: L8&^OrC^^rH zvHJLzLrS zHfJO:J HH^^5AeJ6:r&O^OrLJeMH&6S &SHJ O/,&LS,L6eCL:eJre^SSLOHe6,zzEO: ^{:JL: 6SS,OJSCLSz&re^HH6JzB,&O{^6JCLL zS,,^JH: rr&&C:H66CzOveO,:^:,6zH9SJO:J6SSrO&eeO,z^rz^,HOJS::&LS OSSCLJzC,r^^He rR6&z: 6OC^L:eO, ^Sr, JYCJr:&6eSrO6ezL/zJ,G :HLJ :e rre L:%6wzS,H^6Hz^rr:&^S:6LC^LSe,,J^CO, &qeJH:&6zSYOOe^,:zLr  :HJJJ:C&rS^6,CHL6zzrSzCOSC Lez&,H66SYLCer,&^^LJChLCeL,S^Lr&O&Cc,Sz,rJ zr^ez,Sz,0HJ:C,L z^r:^LH&^OLCe6:B6:C&LeeH,Le 6,S.LSz:rS HHJ ^H,&&: r: eHHJ6:z^^SOO^e:LLz rS^,,JJ:fr&&Se6HC6LCe2OO^SH: L( &S:,6zCC&rCq,ezHr6 zH1J^:^JH::O C7L,z rC^rH& Sc^&6SS6BC L^z:,L^ r: ,;J&C:O6&CCOHe6OJzlrO ^HoJL: 6SS,OJeCLrz&,,^HH6Jz_,JJS^O:CLL&C6&}SrOOCrH:es,r^^rr&&N,&:eC6&CrOOz :z&LSrO&ee,:eSL6S&Lzee, &&:&OSC,LJzzOzSz66e L,  ,,^SHL 6:SJH:&r6^68CJr:&6^:&JSHL&S*_6PSJLS^HLrzLre^LCOLCze,H^6H CO,zzJ,6^eCe6_e,,J^Cr<CrL^eJ,IzLrL :ur&e:r6eS&LCe:,&z^,KO:C L6zz,_^,L,Cz,Sz,,H^eHeOSer,&^e,,^6WeJf:O6:C:OLe Oye:rJ SHrJJ:e&HS6OzCSLOzzr:^OH JSI,&J:66rC&LeeH,6^Cr8  #:&::L6 SeO,e ,CeL&e CH6J6::&4SOO^e:ezz ,L^,HzJC>r&&SeHOC6O?eE,&^^rm LHz J:,6CCCO e&,ezHL6eSHHJz:^&,SLOzeSL,6erC^&H&JS5H&&Sz&r:rL^eL,L^:HS ,IJ CrO6JSrOHe^,zz,rO ^LOJO:S6SSOOJeSLrzC,L^rH6Jz}O&OSzO:C6L er6^^ HC rfe&e:r66CzJHeO,^^:rO  MSJ,:J6CSrO&eeO&z6rz^%HJ &::&LS Oe:,J6:S&,eeOCe&OLzO,&JC:LOree, ^Sr, 6,6e6rYzJHz PxSL,zCr^ :HLJ&HJ :rr ,H&Jz::,L^CHz #lO&J! &eH^Je:z&Jz/re &neJH:LJ,HCJzHH&OSe&rCJO^J^:C&rS&OeCHL6zz,c^JrzJ:TL& SeJbrrJ::J&^:>O:e:,reL, z,0LJ^H?J&z,rJ^(H&J&:e&HSL &l6J&:L,r^ H JSj,&6,  JHO OeL,C^zrY O?J &i:zqHL O-rLgz r& eHHJLHJ^^Hz zHJJHze,&^,HJJCt{ L,6^,qeJS_L&,S,rr ek &S:,662r ,:CJ^Sz6CS,H, L:^6:SLO&S JH:z66zCOOC,L z:f, CH,Jz:J,&zHHS ,>J&zH^JeHCJ&HL&O:&r& ^l:JL: 6SS,6e1CL,z^,r^HH6Jz:SJ:tH^ HeJCeH,&^JHC r2Oz:rzzrCSOOeO,^^:rrSrLLez,J&FSCO&eeLHzLL,C6OJ^rL,zOr^ eoeJrHL,r^&He^,Oz&e:{6OS:L:eL, eSO6  pCJr:&6eSzO6ezJHzOr^ :HOJ Ua&,SSJOC,L&zeJ&^6He qNO&^:, zC^LSe,JS^Cr, &HSC6:&6zSvO6e^,:zLr::JH,JJ:C&zS&OCCHL&zz,LCeHzJ:DLJrSS6LCJOH: ,J^erH 6;zJH:O&e,LOOe ,Se,rJ CHr^C6S&HS6OzCCLOzzr:z6H  r,^& SC6rSLLeer,6^:O& 6?^&::L6 C:O,C^ rz,r& eH^J6:z&MGOz/e:LLz rS^,r6JCrr&zSe6HC6LzehLL^^,H^^x JU:,&JCCOre&,eeOr6 zHTJ&:^&HSLO:S L,zJrC^rH&JCZH&6Sz6LAeLzz:,L^ HS LkJJ:L&6JCeOHe:,zzorOz^LrJO: 6SS,OJCzLrC&&,^rH6Jz18&O: O:S6 Sz:,O^JrC r{&&e:HezCzOUeO,e^:r6  rSz6: 6CSrO&eeL6z6LzC,H6J^::&LS 6zC,6J:v,,^&He H46J&:I&,JOL:e^, eCr,  tCJr:&&{HJO&ezL(CLr^^NHLJC,O&LSJOCCrL&zC,HzJ&o H2O&^sL6LC LSS,^C^Srr &heJHo=6zS06:e^,:zLr^ SHLJJt:J:S&OeCHL zz,}^OH^^T{L& SS6LCJLSerL zLrH 6xz ,:O6^C:OLCO,Sz,rJ SHrJJ:eJ,:SOzC9LOe,r:^LH ^S,6& SC6rC&Lee:,6ez,e OZ^&::L6 SCO,C^LOzrr  erHJ6:z&iSOOee:LLz ,2^,H^JCrr rSe6HC6LzeP,^^^,:^eV &S:,6JCCO e&6eeHr6 zHE z:^&&SL6zCJL,zJrC^LH&JeRHJJe 6xC6L^eJ,L^ HSz,HC&C:,6&CCOHCL,zCa,6 ^H;JL:^6S:rOJC:L6z&r:^Hr6Jz*9&OS^&&CLL^zS,6^JH: rr&ee:r6&CzOHeO,:^:LLzOFSJL:J6SSrOSee6He:rz^HHOJz::&:S &%S&LJz:,rzrHe HN6 zAe6OCeL:e6, err,^^H=Jr:^6eS&O6ezLQe&Lr :HJJ 4:&,SJOCSL&Sze,6^6rH {0O&^S:e C Oce,,C^CrL &+e ^:&6eS>O6e^LHzLr OrH,JJ:C&LS&OCCHOJC5,d^OH^ ,XL& SS6,,JLCer,&^CrH &Az rC,6^C:OLCr,Sz,rJzCHeJ&:e&HS6OzCSLOC^L&^LH JSW,&J:e6rS O6eH,J^z,s OV^&::L6eCSO,eJ,:zrr  e,Hz :e&8SOO^e:L z LSC6H JCMr&&Se6SC66z:,,6^^H: L% J^:,JSO*Ore&,ezHr6 eHuJz:^&,HzO^eSL,zJrC^,H& SO6&&Sz62CSL^z:,Le &L ,;J&C:r6&S^OHS6O6zQrO ^n:JLdJ6S:O6zeCLLz&,e^HH6Jzs=&SS^O:CLLzzS,O^Jr,^:2&&e:H66CzOHeO,^^:rJCmy:J,:J6CSrOJeeO,Kzre^2HOJz::&LS 6LrCLJzC,re6He rh6&e:T6 HHO4eL, eCr,  3CJ6rS6CSHO6ezL=z6r^ :LOJ :S&,S OCCrL&ze,H^6Hz Q86&^S:6LCeO^e,,J^CrkevL6eJ,C^:r&&C7&&O:z6 ^EH,JJ:CJLHHOeCHL6ze,a^OH^J:,O& SS6,C LCer,&^erH 6/zJH:66^C:OLeeL z,rJ CH_ :,C^&rL C:6J::L&&SCHzJS*,&J::JeC&LeeH,&^zr0 Og^z+:L6 CSOLeJ,Czrr& eHHJ6:e&SSOO^e:L&exrS^,HJJzL/z^,L zHC Le,,z^^H: L{&e,,^^6rT ze^LrzHr6 zFSeS,=^6rO ,CHL&zJrC^rHO^JLzz SS6^COL^z:,reOOJCe,Lz&rJ^er; Le LzzDrO ^PC S,:zJrH C: &eSC&HSOO ^S,6z&rL6rC^L zS,,^6,:eeLJz6rz6 CSOZeO,^^C6S^HHHJJ:J6CSrOOH6L S^,,^,H^J^::&LS&^JCz&eeL,O^CHe HU6& ,O zHJ 6_e,ezLr, JECJ*H:zJrO C_LL,eAr^ :HLJ&HOzLre^^e&6ra,&zSL6L ,HO&^S:6LC&6e<z6L:rL^z&L^er,&JerLJzh,& SCO, SH,JJ:CJJSJOeCHL^zz,A^Oree6lL&^SS6^CJLCerL S,rH JjzJC:O6^C:66VF,Sz6rJ^ HrJ&:eJ,HCOzCLLOzSr:^LH JSeO&JSC6rCzLeer,6zCL^ O+^&::e6 CSO,eJO,z,r& eHHJ6:z&>:&S6e:LLz ,J^,HJJCHL&eSe6HC6O6eR,O^^,HS 8^&::,&GCCOre&,eO:r6 zHWJ&:^&HSLOCmOLLzJrCzJH&JC(HJJLM6HC^L^eL,L^ HS ,J:&C:J6&SZOHe6,zz+,, ^HLJL:z6SSOOJC:eSz&,H^HH:Jz?8&O:e& CLLSzS,6^JHC rr&^::r6zCzOOeO,z^:,6SS?:J :J&&SrO&eeO,}zre^&HO ,::&LS OSr^LJer,r^SHe ri6JH:J66C^L:CH, ^:r, ^3CJ6rS6CSHO6CJLiz6r^zH6 J^:S&,:,OCCrL&eSJ6^&He -n:&^S:6LC :ee,,J^CrL &NSJH:^^rSHOOe^66zLr^ SrOCC:S&&S&6^CHL6zz,AreH^ OKL&CSS6,CJLCCK,&zHrH JFzJr:O&y, OLeS,SC^rJ SHrJJ:e&OHCOeCELOSHr:^OH ^#OJ& :r6rC LeeH,6^z^& OHB&::J6 CSO,eJ:Hzrre eH,J6:e&A:&Oee:L z ,L^,HJJCYr:SSe6&C6L:e8,O^^H:e^q^J,:,6^CCO,e&Lrz r& zHh^H:^&MSLOzeSL&S:rS^rH&^JZH&&Sz6s*6L^z:,L^^HS ,2J&C:r6&CeOHe&,zz8rO CH&JL: 6SSHJoHr&J: LOzeOSJCB1&OS^&H:SL zS,,^ HC r(&&err66CzO8e6,^^:rL  .SJ,:J6SSLO&eeLHz , ^YHOJ^:CJCrC^JG:JOCC&4S^OJzHLLze,H6JS&L:eL, ^e,eC6OOzJrS^CHz&:H&&^S:6C^LHLJ :SJOCJOCCrL&zC,H^6Hz^rHz&^:76LCzLSe,,Jz:,e &KSJH:&6zS3OOe^O,zLr^ SHOJJ:S&rS&OCCHL6zz,H^OH^J:vL& SS6,C O&er,&^erL ekzJ*:O6JrLJ^q&JO:zrz :HrJ&:e6:rSOSCOLOz^r:^r,eeLLOzr:s6eC&LeeH,Le,OCezOHzOrezrHJ ^ezLHzrr& e}:^LL,J6SJ66e:LLz rez:OrC6H^zLr^^rE: r:^&J^CH: Ln &S:6&HCCOre&,^eJOeC,O.e^,R^&rLOeC,L,zJrC^9L5CqLOz&SS6JCOL^z:,rCr6rC&L ^6,V^eD OHe6,zerOe ^H%JL1p6SS,OJC:eSz&rC^HHJJz_t&O:e6yCLL^zS,L^JHC r?&zH:H6JCzOieO,^^:LL^,1SJO:J6:SrO:ee6He6rz^rHOJe::&^S OSCzLJz:,r^^He HD6&z:L6OCzL:eL, zHr, e?SJr:&6e:OO6eeLECO&H^DH^J D,&,SCOCSL&Sze, ^6rL *_O&^S:e C OLe,LF^CrL &Hr^ :&&HS46 e^LEzLr  SH&z::S&rS&&VCHL&zzO-CJHz OvL&SSS6CCJO,&H,&zrrH^JGzJH:O6^C:OJgn,:z,rJ^:HrJJ:e&OHCOeCcLOeSr:^OH ^S,6& :,6rCeLeeL,6zCL^ OHK&::66 CSO,eSLOz,rJ eH^J6:e&qS&O^C,&zz^rS^,rHJCB,&&:Sz6C&LeeP,6^^H: L> z,:,6^CCOre&,ezHL6z,HVJ&:^&HSLOCeS6,CrrC^LH&JSvH&eSz6sC6L^eH,L^eHS ,NJ&CPO6&CCOHe6,zz,rO SH6JL: 6S/zOJeSLrC&&,^rHeJzpO&OS:O:S6JnzS,z^Jr6 r_&&e:HezCzO6eOLr^:r6  HL^z: &,Sr&:eeLrz6rz^AH eH3-&LS J6C,L zCOrC^HC &R6JP:v6:C^OO&,, zLr,zS=CJ,:&6eSHO^+rLHzOr^eOHLJ^:S&&H:OSCrL&SL,H^&Hzz5,J&z:O6LCSLSe6,Jz:Le &HrJH:J6zSDOOCRL&zOr^ S,1JJ:S&rS OeCO&Cze,D^O,&J:0O& ?vzJC LSer, ^erH 6bzO::O6zC:O6e ,Sz,rJeSHrJ&:e&rS6OzC{LOz^r:^LH^ ,b,&JSC6OCSLeeH,6^ ,JC LeeH?: CSHOzeJ,CzrrOz,OzCLHJ^6rO JCrL z rS^,H6zOL6zS,66LCSLzeK,O^JL6eSLzer,e^rrOOOCL,ezHr6  rSeJLOz,rL ,:6&C::&JCeOS LFH&6Sz6Rn:L^z:,L^ HS ,VJ C4:6&CeOHe6,zzLrOz^rLJL: 6SS,OJeSLrC&LO^HH6Jz7h&OS:O:S6O^zS,O^JH: r}&&ef,&&CzO,eO,C^:rL  3S z:J6CSrO^eeLrz6rz^JHOJ^::&OS OSC,LJzC,r^&He rx6&z:D6JSJL:eL, ^eLzCrLSzer:zOF^^LH3&^C&6/S&H6J :S&,:^J&CrL&ze,r^6Hz T8O^zS:6LC L:e,,J^Crr &NeJH:&6CS1OOe^Lrz:r  SH,J6rO^erJ 6Y J:S&66SeO: r+&& SS6,C6JHCS,^^erH 6HCCO:66zC:O6e ,Sz,,JS H,JJ:e&rS6OzC4LOSzr:^LH J:5,&JSC6rC&LeeH,&^er5 O{^Jr:^6 CSO,e6&J: &HC^O^JJ:z&4SO6e: LLz rS^LHJJCvr&&HC6HC6LzeH,O^^H: LK &S:,6 ::Ore&,ez,r6 zHfJO:^6:rJ  CHO^zJrC^rHO^6LrzL,L ^e^&rtJ6^:r6JCzH&&rH^^eHr C} &OS Hz CH,JL: 6SSHJ/Z&Jzz^LL^HH6Jz:SJSrS^ HjJ6z,O,S661eS:e  r&^SCU&Jm^&/:z6&C,L&& :z&rSrO&ee,:Tr6HCSOSJCHH&LS OSCH6f:,&rSHLHCJLLzSrJ :Ir L:^JO:HOCC:H-J :&6eSHOLH,J :e6JSrO?JeK,&,SJOCC9 c:r& S6HS C1O&^S:6r:& H>S&eSCOez:L6eJLH^Or&OJC#,:zLr  er^eeL*^er:O:CJL6zz,g^,,rC,L6zzu  &CzOHer,&^eH:eOL:e^:&6^C:OLe ,S,,6eCCHO r:e&HS6O S J cL6zSHoS^SLHzzr 6OCzLeeH,6^ 6He:LCJr+I6 CSO,e6OOSJ6&C6n6^zLr^SrJ ra L&z:rS^,HJJzrezSr, &H LSeJ,O^^H: rrrzJr ^zH6  ?H,SzHr6 zH0JO:^eOrLOeS&L,zJrC^Vr:erLHzBSKJOHeJJwr6eS,H,zq,SeOS&J:rHJ&Hr&SS^OS IHr^r: 6SS,O6S&J,:O&OCz<zz,L ^z,,^ HeOJz,O6Se66J&rres,z^ HLLOC:&zSC6CC,H2J,:J6CSrO&LeJL:6rS^&HOJ^::&rjr e4 &::S&6^^rS Hh6&zSS&:HzJCiC&,^,LJC:OHzS,S^6r  SeBL:^^rCz6HLJ :S&H.{ ,HrJHzHOJShOCe6L,zCrC^&HOL,S,&6SS6,C:Hz&6: &&SWOOe^,CeS6^CeOeerH^zer^^O>zJCzC,Y^OH^J:3L: L,^,CzO,er,&^eH:^SLJz^rC^^Sr6,e ,Sz,r6zJOme^,OJerL^rHJJSCr6eSrO^e&A6JHSC6rC&L^S6&CS:OeCeLLe&,e6eS6O,eJ,CzbLSC6O,e^LL^^rCOCC6LLz rS^Hr:CHLOzH:zO6C L:e=,O^^HCCeO,zO:O6JCCOre&,e&H&zCzz JO:^6::6^Se:L,zJ,O^rH&JerH^ Se6BCOL^z:, ^ HSCLnJ&C:r6JCeO,e6LHCJr6 ^m:re: 6:S,OJeCL6SSrC^HH6,,Wm&6S^&Hr L^zS,,zLHC r8&JrLz66CzO7eS,^z4rL ^RSJ&r:6SSrO&COLHz&rz^LLeJz::&LS OSCLLJzCr ^&He HD6&z:_6O:^ 6eO, ^Sr, JHhJrG ^,SHOJez6mzOr^ :HLJI:S&6SJOSCrL&zeOHC He ,bO&CS:J,C 6S:6, zZrr ^{eJe:6Jzr&O6eC,:z&r ^&H, ^,L&rSeOeCzL6zz,Az&OHJ:(^& 1^6,CJLCer e^erL 6HHJ.:&6^C:O e LXz,r^ CHOJ&:eeJS6OzClL&z^,-^LrzS,kL&JSC6 C&LeeHO6CrrH O>^&::L&JCSO,SO,Cz,r& CHHJ6:z vS^O^CoLLz^rSerHJ^CHC&&SC6HC&Lzez,Oe^,L L<^&S:L6JS6OrC O,zHr  zH6JO:^6:SLO^eSLLzJ,p^rH&Je3H&&Sz6yCOL^z:,6^ LL :hJ&C:r JCeOre6LSznr CHHqJL:  :S,O eCLr^Sre^HH6JCT_&OS^&:O6L^zS,,^JHC OP&JSyC66CCO<CS,^^:rL^zrpJ,:z6CS O&eeLHC6,S^VHJJ^4r&L8^OSC,6OzC,6^&HC HF6&zHV6zC^O,eL,C^SLr JrC ^:&&1SHO^ezLzzOL^crHOJC:S&&SJ66CrO CJ,H^eHz 68O&^S:6LS:LSe&,Jz,rr  xe ,Y 6zSOOOS0,:zLr zKrLJJ/,&r:LOeCHL6zzLr^OHCJ:N^& :_6,CJOSer, ^er, 6uSJG:O&CC:OLe Lyz,r  CH6 e:e&HS6C^CtL6z^LH: H^JSX,&:SC6rC&6e:L,&^zr( OU^JS:L6 COO,e ,Cz,r& eHH^6rS&HS6O^CvLLCJrSe,LzJS/,&&SC6HSHLzS8&e^zrg L1^&S:e6JS:J e&,:zHre zHbJO:^LLSLO^eSL6zJrC^rH&J^}H&6Sz6+COLez:O^6:HS ,dJz^:r6JCe&,e6,:S&r6 ^W:eH: 6:S,Oe_LL,z&reS:H6Je+j&OSHO:CLL eF,,^JHCzrJ &C:H66CzOqeJ,^eH,H  HlJ,HH6CSrO&CSOHz6rS^PHeJ^::&L# &,C,LzzC,O^&,C H16&::86 C^OPeL, ^SL, :VCJ6:&&3SH&Oez6Peer^^,HLJC:S&SSJ&C,OLJeW,H^^Hz  BOJe:&6LC:LSe ,J^Crr &H6JH:^6zS6OOee,:e6,S SHJJJH,&rS&OeS,LCzz,6^OHzJ:cL& SS&fCJOker,C^er, 6czJe:O6eC:O6e LHz,rJ^0HrJ&:e&,S6OeCjL z:r:^LH cCw,& SC&LreLCeH,6zrrZ Oh^ :Hz6^CSO,eJ,CeHr& eHeJ6:e&TS6O^e:LLC ,^^,H JCx,&&;z6H:66<ei,6^^rP LHL&SH,JHCCO,e&,CzHr: zrr 6:^&rSLO:eSL,zJrCzCH&JCuH& Sz6TCOL^CJ,L^ HS ,MJ&::rJCS,OHe6,zH^rO z2: :: &rH^O eCLrrHre^rH6Jz:&&OS^O:C6L zS,,eJ : ,n&&e:H66CSO9C&L&^:r6  r&J,:J6C:L66eeLLz6,r^4HOJ^H:&OS 6HC,LzzCO,^&He^ea6&::G66C^L:eLO zSr, eoCJ6:&JzSH&6CzLZz r^^,HL L:S ,LzOSC6L&eM,H^:Hz^r<&&^:O6LC:LSe,,J^C,J &HBJH:e6zSrOOCeLJzLrS Sr JJ:C&r: 6&CHLezzL6^OH^J:?L TSS66CJO,er, ^erHz,(zJr:O6eC:O&e ,SeSrJ CHrJ :e&rS6O:SOLOz^r:r,H J:f,&JSL6rC&LeeL,6^zr2zOOHJK:L6 CSO,SO,CeLOS eH,J6Yz&>SOO^e:^ z rS^,H^JCQL&&:rJ C&LzeP^^^^rv Lq &S:& :CSOre&zHzHr& zH<&e:^6:SLOzeSL,zJLCS HJJe(H&6Sz6,COOe:6,L^zHS^&MJ&C:r6&,,OHe6,zzrrO zu:JJ,#6:S,OJLeLrzJre^H3CJz}0&OSCO:CLL CS&^^ HC rR&&eTS66SCJ&eO,e^:,r  =SJ,:JCrSrO&eeL,z6rC^nHzzrkk&LS CCC,L zC,r^&rleJ*&&z:+SLC^O+eL, ^Or, JFCJL:&6eSH&6HrLHzOr^ :HLJe:SJOH:OCCLL&eA,H^6Hz uOe&^S:6LCzLSeL,J^CH  &>eJH:&6zSTOOS^J6zOr  SH,JJH^&r:  ,CHLJzzLr^OH^J:;LCSSS6,CJL:er, ^er&zSUeJX:O:{C:OOe ,Sz,reCLH,J&:e:&S6OeCGL :H,3^LH rl4,& SC6reSLeeH,6^erw OF^ :,z6^CSO,eJ,Ce:r&^SLJJ6:C&g:6O^e:LLz  ,^,HJJCtL&&SS6HCe^Oeo,O^^zH LD^&S:L6JSHJ eJ,ezHzJ zHHJO:^66SLO eSLLzJrC^r,&C,vr&6Sz6hCO6&z:L6SGHS O(J L:r6&CeOHrz,zz>rO ei:J6: &LlzO eCLrLSre^rH6JzXc& rH64CLL OO,,^ HC r:S&e:H66C:O!eO,^e:6z ^dSJ,:J6CSOO&CS&Jz6rC^DH&J^::&LS zOC,LJzC,L^&HC Hw^zr:H6OC^S^eL,^^Sr,J:XCJr:&&>SHO6ez6?:erz :HLJ :S&6SJ6:# L&zS,HzzHz 0fO&^L66LC LSeO,J^Srr &M,JH:66zSOOOe^,:CL&A :H,JJ:C&rS^OeS,&Czz,r^O,rJ:kL& SSO^CJOqer,J^erH 6rzz,:66CC:O&e OCz,LJChH,J^:e&LS666C<6OlH,Q^&H  HB,JHSC&L/SLee6,6eOr> O8^ Hrz6 SLO,S6,Czrr& e&6J6:S&2SzO^CHLLz ,,^,H^JCkL&&S:6HC6^rex,O^^rH LE^&S:& :CSOre&,ezHr& zH0z6:^6:SLO^eSL,zJrC^rH&Je/HJ6Sz6pCOLCC_,L^ HS HrOe&,L CH: OjL&LC&6 CSOJ^ r:zOreOzS,Lrz&re :reeLLz^zrC &fSJrz,LSS:6&CwOG&Hw^^kHH H::JHzr,,  vSJ,:6JJr7 ^xOOe:L&rSJOS^r,ezrr^ &C6OuzC,r^&H^z^L^^L,e :HL re&L_^Sr, Jxz ^Hrz,H& JtOL,zer^ :HLJ&,ez6,} &H  *z:,&^6Hz ?1,z:rO^rrW 6e6,e^Crr &Y^^,rez;S,Oze^,:zLr&S&L z:,S^eS^6HCHL6zzrS:HO>eCLC&e:,6,CJLCe+O^Sr6,C<PSJJ:O6^C:OrC:&::LLzerr^^:::&6S6OzC8L,CCOLze6H HHX&JSC6rCO6Sg:&S:LOSeCrJe&,O :rHJeezL zrr& ex:^r,Oz :C &!CJO:r&OCCOz yHr&&Se6HCLJ&:^&SSCOCCOL&eH,zzHH, O::&6: O6 zH>JO#eeLSOO eSLCzJrC^rH&SeBH&6Sz6HCOLzz:,L^lHS ,2J&C:r6&Ce&H:L,zzbrO ^E:Je: JS:JOJeCLrz&re^LH6 CAS&OSeO:SrL zS,,^J,6 r.&&e:,66CCO1ez,:^:rL  ISJ,: 6CSrO&Cw&Jz&rz^5HOJ^R>&LS OOC,LJzC,r^&He Hr6^ :P6OC^L:eLLH^SL,^C#CJr:&6eSHO ezOreer^^HHL &:S&,SJOCC^L&ze,H^JHz rqOJa:O6LC LS:r,J^Srr &GeJOrC6eSWOO: ,:zOr zY6JJ :C&r:&OeCHL6zz&H^OH^J:jO& :p6,S^C er,&^erC 6%zJWs&&CC:OLe LOz,rJ CHrze:e&rS6OzCPLOz^L:zeH J:R,& SC6:C&6eeS,6^erW 6<^JS:L6 SzO,e ,CzLr& eHHJ61z&fSOO^e:LLzzrS^&rJJCir&&lz6HC&LzCrJ^^zrL LHr&S:,6J:CJOeJLHzHrz zH6JO{eeLSOO:eSL:zJrC^rH&H,ZH&CSz6LCOL^z:,L}_HS JWJJL:r6JCeO&eS,ezjrOzLa:JO: &RS,OeTLL,z&rezzH6Jen+J&,:6NCLL eO,,^JHC^LOe&C:r66S&OQeO,^^:Cr  FSJ,:^6CSLO&CT&Jz&rz^MLrJ^y0&Lt  HCLLCzC,6^&r& HreLH:B6^C^&JeL,^^SrO JHHz :J6eSH&:ezLHzOrSC6HOJ :S^bSJOSCrO HH,r^zHz LZO&^S:JLQeL:e ,JzHrr Jme^Hr 6eS6OOCU,:z r  SL J 5r&rS OeCrL6eH,J^6H^J:r & S:6,C^LCe66S^CrH 6,{Jw:66^C:JOe ,Sz,r  CHrJ&:e&HS6OzCEOzz^r:^LHe ,4,&JSC6YH^J6(S&:^Srz O-^&::r rHJ^lHHOO:66JS2OJJS:S&OSOO^e:LrCz6LSHOz }1z&&Se6HCL6,kL& SzOJCJOOeH:66eCCOre&,^:L6*S&H, H:^6:SLO&S^&CdHLOC:OOeC,^zCrO^,CJLSz:,L^ HezHO8 ,:O6CCeOHe6, C^,SCJOHJz:e&OS,OJeCL1e:&?SrO^Cr%J&J:LO:CLL zeOJS O,S0LHe,?Cz-H O,CH,^^:rL &LJe Lr^zr&^,>6&&:z6:S,HJ ,::&LS Oe:eJr::&&SJOrC^L.&C:_6OC^L:eL,  SSr zHLJr:&6eC:&S!z&S:66zS&H6J :S&,SJOCCr,&:z,L^zHz 1wO&JH&^rrJJJe6Lr^Crr &R^^Lre^CH^&CH6J,:z6r^HHJJJ:C&rSO&:(&JJ:O,r^OH^J:lL& SS6,CJOieJ,&^erH Lr6e&rz^eH O&e:,Sz,rJ z,zeOLOzrrQOSC:LOz^r:^r,LeeL6zHgJ^vHS Ls^LSSJOSC6L,Co:L6 CS6OHC,Szrr&^CHHJ6:z&1r6O^e:LLz^rS^OHJ ,Oe&&Se6HCzLzeH,O^zH: JLm&::,6JSrOreJ,ezHO& zH}JO:z6:SLO eS,^zJrC^rH&Je<H&6(z:CCOL^z:,L^ rJ ,rJJ,:r6&CeOHe6,SzoLO eK:JL: 6SS,66eC6rerre^HH6JzGBJzS^&H:}L e8,,z HC r(&&e:C66CCOKe6,^^:rL  HHJ,:J6CSrO&eSLHzere^cHOJ^}:&LS^OSC,LJeH6 ^JHe HH6&z:H6OCSJ6eO, ^S,  JASJrn eHSrO6ezLzzOr^ :r6CS::&LSJ6SCrL&ze,Hz^He H!O&zS:6LC LS,&,J^Crr &ueJr:66z 6OOe^,:zLr  SH,JJCe&rS&OeC,L6zz,.z&6: tML& S:6,CJLCerrS^err 6jzJT:O6^::J&e^,:z,r  CHeJ&He^LS&OeCXL6z^,r^L, eHaL& SC6,C&O^eHLJb!rH &V^ I:L6 CSO,> ,CzLr& CHHJJ:z&E. O^C*LLz^rS^OHJ^CL &JSC6HC&Lze6,O^^eC L0^&S:O6JC:Orez&,zrr6 zOSJO:z6:gL^}e:LJzJ,H^rHSJeH,^CSz6&COOSz:,L^ HS:J2JJr:r6SCeO,e6LHCJr6 :{:Cr: 6:S,OJeCL6SSrC^HH6C Zs&6S^&:a&L^e,,,^eHC^L3&^r6,66S-O}S:,^zfrL^O}SJ&r:6SSrO&:6LHz&rz^LLeJz::&Lr^OSCLLJCC6O^JrH Hm^&zsO6O:^&HeO,S^SrJ JI:Jr2 &CSHOeezL zOr^ :,L  :S& SJ6,CrLezeL,^SHz &TOJ S:6LC 6iC:,JzOrr^6xeJH:6&CSOOOC,,:e,r  SH,JJ3C&rSCOeC^L6zC,j^ze J:t & r,6,C LCeJ,&zxOJ &jzJWr^6^S+OLeC&OzLrJ CO,J&:C&H/6JSCHL^z^,,^LHCJSr,^zSS6&C&OHeHL6^z,rS^}zJO:L&HCSO,eJOCSOrJ^rHHJe:z&OSO6ew6LLe>rSz6HJJCFrJ r,6HCSLzC,,O^^H:^6L=&S:e6JSeOre&,ee,OC zH^JOV&6:SLO eS^JzJ,,^rrHJex,&6:He&C6L:z:&O^ H: ,GS&C:6 SCCOHe6&ez_r6 ^H,zz:^6SS,^LeCL,z&LeCLH& c_T& S^6,CL6 :H,L^CHC &F&Je:H&J,+OHez,^z&rL  VS^,rz6SSJO&CrLHzzrzzrLeJ^v6&L:JOSC,LJe:6 ^&rL HH &z:G6OSeJ6eLLr^S,r JaCJrQ ^,SH6<ezLCzOr^ :HLSS:S& SJ6&CrL ze,&bCHe OqOeJS:6OC OLe,,eSLr, &Yee::66eSn&O:CLjz r ^rH, ^:C&re6OeC6L6zC,G^OH^ O(e&^SS6,: LCe,,&^SrH ^LrJH:O6^MqOLe^,Sz,O  CHrJ&:C&HS6OzCTLOz^r:^LHzJS?,&J:m6:C&LeeH,LeLOSCCL_z6,O^,T& :mr&&:Or^^ HHJ6:z6S*& LHJ&S{h6eC O ^,LeeW,i66C6Lze4L& ^H: L_ J%:,6JCC6LCr,ezrr6 eHDJO:^JHS^O CZL,z^rC^rH&JeV,&6Se6_C&L^ek,L^ ,, ,PJ&C:,6&CeOHe6,zz?rO zHHJL: 6SS66,eCLrz&r^e O:eHL&zS?O OHzJz{6,6zOHC r1&&^/^^Lr,J6:e&zS LCSOLJzC,z&rSrO&eeO,^6rz^cHOJz::&LS &!:FLJzS,r^ He HT6JCd66OCeL:eO, ^Sr, JH&Jr:J6eS,O6eeLpzOr: :HLJ ::&,SJOCCrL&ze,H^&He _AO&^:r6^C LSe,,6:rO^eCLCer:^6zSQOOCe LzOr  SHLJJ:C&rS O:CHL&zz,o^OH^J:DL^:S:6,CJL:er,J^erHe&vzJA:O6zC:OLe ,:z,rJ CHLJ&:e&HS 6HC7LOz^rCSC6OeJ,Czz:d6 C&LeeH,Le,O6CJLrz ,O6CCSO,eJL:+&rJ eHHJ&:z&ESO&^H6LOz rS^,HJJ:fr&&rr6rC6Lzer,O^zH: L,^&S:,6JCSOre&,ezHr6 zH*JO:^&lSLO eSL6e}rC^rH&J^,^zXr6 ^HJ r: ,6^ HS ,H^^&:r6&CeOre6,zzfrOez*:JL: 6:S,OJeCLrz&re^HH& O?K&OS^6r:6L zS,,^6LOCz,CeO,z^SS^LOS,r:eJ6JCe=^eeSCJCrO zHJ,6ee6SSSOSe&,Cz&rOO,PHJrw6,O^zHe Hx6& HJ :r,Ore6, ^Sr, 6H,JO_O6eSHO6e OS:J6OS,,Oe,L zHHS^6(:&C::,LeOHz n2O&JH&^Cq: &XCJjzeH&eOOcezSzJ,H6 Jz:O^:r6eC&<J^ ,&zCrO rH^J,:H&,^JrrJ:pL& SeJ^HrJ:s6JvS66  JjzJK:O6^C:OLe &Sz6rC CHrJ&:^zCHe  H LJeHr:^LH JeHzzer:^L:rJ;eLL,^zrk O2J C,&zLrr ,Zr6OSe6SS&LzeCHL&{SOO^SH  z^rS^,r+JCkr&&Se^rC6Lzem,6^^rH L2:CJ:,6JCCO&e&,CzHr& zHLze:z6:SLOSeSLLzJ,HC HJJe!HJSSz6HCOL^z6,L^ HS ,{J&C:rJ&rBOre6,zzmrO^N?:^LH66SS,OJeCLreMreeHrcJzhR&OS^O:CSL C7,:^JH: rQz&e:H66SCOHeO,C^:r&  %SJ,:J&:SrO&eeLLz6rC^<,z O::&LS &HC,L zC, ^&rFeJ<&&z:A&JC^OReL, ^Or, J8CJ,:&6eSH&6HrLHzOr^ :HLJz:SJOH:OCCLL&eH,H^6Hz aOe&^S:6LCzLSeL,JzHO  JAeJH:66zSHOOe^,6zLr  SHLJJ:C&r*&^,CrL6zz,R^OHeJ:H6zvSS6OCJLSer,&^erHSCMzJ*:O6eC:OOe LrS^r  CHrJ&:e&rS6OzRHLOz^r:^OH JSI,&JSC6rC&Leer,6^zru JH6&::L6 Ce&^Ar&::6&rC6LOe:Lr^JrSOee:LLz LseCHJJC8r&JSe6HC6Lz:H,O^^H: Og &S:,6JCCOre&,CSSr6 zH+J&:^6:SLO 6,ZO6e6C^OHeJe9H&6S ^rbz ,:e,6^ HS ,6JO,6SHCHeO,:r,zzp^O&&^ SLz &IS,OJeCDrOOorO:C6JC=4&OS^O:6^C6::&,^zr  r*&&eS:JrHO  CS&J:&6Ce:OHzz,r6:SrO&ee6H&eJSOCCOJe::&LS  SLSrO^^&r^ He Hu6OzC:ze^r9:e6, ^Sr,:J&H O&^^eS,O6ezLu:O6L^C^SL gH&zSJOCCrLOS&6zCS6LCLLeJr:H6LC LS6,,OOe^LC&v:J6:66zSVO,j&J :j6,^t:CJ&:ezH ^,OOCJ6zS,r^OH^J:7rJr:x6,CJLCSrH&,-LJC6vSJr:O6^C:OrC,Lgz,rJ Czr& z:SJ^6OCCNLOz^r:zz,z/HL,&zS:6rC&Lez:,e^Crl Ot^H:JS&,zS ,e^,Czrr& eSLO: ezuS&O^e:LL, CrLH:,eCAL&&Se6Hz6 rwCC,6^rH L. &S&,^&JOeOt&,SzHr6 zz0HLLrHCrLOeC&L,zJrC^h,eCEL zL,L SH JCeH,L^ HS,,OSeH&C^&C:OOe6,zzYr,CCL Cb:z6SS,OJ^C^Se:: SHH  >Qq&OS^OC:6&::e&6^zH: r%&&eS:&HCCO(eO,^J:^HLre,e,:^6CSrO&6eH,zOCe6GH& O::&LL  zHO S:C,L^&He Ho6OJ,z:HH^Ore6, ^Sr, 6HOJL:&6eSHO6SS^:OH6^^HHLJ :S&,eH^^GBJ&z:,&^6Hz iw,z:rO^rrE 6eO,J^CrrC&O^:COOrzSrOOe^,::LJ:^OJOLJ::&rS&OeCH^,r66 SOHC ,xL& SS6H5& H#e,^zzrH 6iz&SHS^vH6 O+,O::&6BC,OzeOL9zLrSOCCRLOz^L:rLMOxrL,&^SC6rC&Se6r^Lrr63 &A^&::L^ ^r:^&b:CzLr& eHHS6eH,r JH^CrLSz rS^,H6^:,Jz,r: :H: O: 6:^eO6 LM OS6 r6,e re ,ezHr6:zr&ezzzr:S6 ieSL, Jzz<SCyLe0L&JSz6}COLJe6,&z HS ,wJ&zHz CH, r=fOe:LOCCBOJer,CzHrzO:e:Lrz&reSHS>:&e&,OSeO:CLL HSC:SS&&CrP &e:H66&zSeJr^ 6:r&^r3SJ,:J6z:z S+6J :S6:S&LzrS::&LS &7rJL zS,r^ He H86 zr,66CzL:eO, zCr,^^6rJ,: 6eS,O6ezL9COOC^3H6J 1V&,:&OCCr66ze,L^6HS k5O&^3Hz C^Ore,66^Crr &HrCz:66:S>OSe^LKzLr^ SH&z::S&rS&6OCHL&zz,LCeHzJ:RL^:SS6LCJLCCJ,Jz+rH 6bzJ6:O&e,LOOeS,Se{rJ CHr^&r:&rSzOzCOLOC r:z6O6J:o &Jr76rC&LeC,OH^zr& OrO&::L6 :56JeJLOzrO  eHHJ6:zJ&SOO:e:Lez ,w^,rJ Lbr&zSe&&C6O-e0L&z^H:  A Jz:,6JCC&rCO,ez6r6^THu^L:^JHrHO^CLL,zzrC^rH& SHr&6:r6pSsL^z:,Lzz,J ,HT&CrS6&CeOHe6L&z_r^ ^H&JL:z6S:,6zeCL6z&6L^HHzJzHrJJS^6LCLO6zS,,^J,C^ p&JH:H6zCz6:eOLeSerO :lSJC:J6CSr6 CCLHzCrzCHHOJ^::J6(6OSCzLJeO,r^&He HH,&z:O6OSrL:e6, zS,r JHHJrHS6eS6O6CCL^zOr: :rHJ :S&,MJ6LCrLeze,6^6,^ }H&z&:26^C 6&e,,J^C,L^eveJJ:6JzSFOOe^OHz6r ^6H,e,:C&rS&OeSSL6ef,2^CH^ H<LJ :,6,CeLCC,,&zHrH^Jr&Jw:^6^SeOLe ,SC,,L CH&J&ZH&HwOOzSrJrzz,O^LO,JS0,&J::6eC&O,eH66^zrK OHe H:L&HCSJ eJ,Czrr&^CHHJz:z&JSOOee:OLe^rS^&HJ^E9r&eSe&,SrLzeO,Oz&H: LM  S#&6JSrOree,eC8r6^CL&JOG-6:SOO eSL,e^6L^rHSJerS&6Sz6bS&JHz:,e^ L  ,DJ&C:reeCeO6e6L,z{r& ^H:C5:^&rS,&^eCL&z&,SezH6J:mK^LS^O:CLLC:O,L^JHC_C!&&C:H&J,sOHe ,^SerL  _SJ Or6CS6O&f6LHz&rz^HHOJS,6&OS OS/CLJzS,r^zO, rV6&zL 6OCzL:eLL:^:r& J?CJr:z6e:,^zeeLOzO,& :HLJ HS^6S 6rCrLezeO?^6rCeC-6JcS: RC LSe,L^z&rr SGe 6:66zS?6&SO,:zer ^eH,JJ:C&r:2OeC6L6e,,u^&H^ :H & :r6,SSLCe&,&zS,e 6HjJo=r6^C:OLS LCz,rC CH&J&Hz&H:J JCHLzz^L&^LH JSHOJrSC6 C&&OeH,6^z,r^zA^J&:LJ:CSO,eJ,CzOr&^HHHJS:z&rSO6^SHLLzCrSCzHJ r#rJ :e6HCzLzeC,O^^H:zLHz&S:J6JSrOrS6,ee,6, eH6JOB^6:SLO S8OOzJ,L^rLeJeFH&6:C6LCOOrz:Lz^ HS ,KJ J:r6eCeO e6,CzA,O^JF:JJ:  OS,OCeCOLeOre^6H6 Jxv&OS^&:SOL e,,,^CHCzH8&JSrJ66SHO;:e,^^:rL^zLOJ,::6C>&O&eeLHeJ6r^>HCJ^1,&LS OSC,^CzC,&^&rL HQJ&zkFzHCzO,eLL^^SrJ JH:^e:&&cSHJOezLdzOrSC6HOJ :SSSSJOSCrO HH,r^^HzzHdO&^S:6^,,LSe&,Jg^rr J/eJr:66:H&O6e^,:HHr  :H,Je,L&,S&OeLeL6ze,N^O,l dbJ& SS6,CeLCCLJe^Cr6 6HJJR:O6^::J&e^L,z,rC C,HJ&=S^SS&6HC(L^z^r:^Lrz^rp,&:SCJOC&LeeHLJerra CV^ ,:L6 CSO,ez,Cz&r&^LHHJJ:zJo:6O^C,LLe:rS^JHJ :%O&&:H6HS,LzeZ,Oe^rr LwS&S:J6J:eOrC & zrre z,LJO:^6::66reSL^zJLz^rH&JeH,J:Sz6JCOO6z:,L^ HS OZJJr:r6:CeO,e6Lzz&rO SM:ze: &,S,6^CHLrzere^SH6JzwZ O:uO:C L e,,,e&HC^LLL&C:&66SLOfeO,^eHr6  HOJ,a^6CSrO&CSL6z6,,^Z,CJ^::&LS &6C,LCzC,^^&HS HH6JJ:-6 C^&6eL,S^S,O^CnCJ&:&& SHO6ez6Ieer^^LHLJS:S rSJ6:P L&er,HerHz g!OJer66LSPLSe ,J^Crr^ L,JH:S6z:^OOe^,:zLJS SHJJJ-O&rS OeSH rze,L^OrzJ:- & RdJCCJOHer66^erH 68z 6:66SC:OLe ,Sz,,^r HrJz:e^^S6OzC.O&eLr:^JH zJ_,&JSC&LreLCe6,6C^rj Oy^&:^r6 SrO,e^,CzJr&^wLJJ&:z&!6zO^CYLLezJ,^LrHJC,z&&Se6H:6&SeH,:^^H: Lr6&S:,^&CSOee&LLzH,t z,_zJ:z& SL6,eS&&zJrC^eHJ OhH&CSz6^COONe&,O^CHSHLqJ&S:r6 CeOO:C,ezarOHzg:JO: JG,JO CHLrSHre^HH6 COO&6S:O:-CL zS,,^Jez rlz&e:,66SHOZe &HzwrL   :J,: 6CSJO&eCL z6z^^;H6J^Q4&LSC OCLLJzCeH^&HC Hx^zr:H6OC^S*eL,^^Sr,H:=CJ,:&&LSHO6ezL{,er^^HHL H:S&,SJ6,C^LJeY,H,rHz H4O&eS:6JHZL:e,,J, rr JWe ,Lz6eSLOO:L,:zLr z/6JJ Br&rrQOeCHL6zzCS^OHSJ:I6& :L6,CeJLe,,&^eze 6yeJ%:z&SC:Oee C z,r  CH,J&m<^JS&OzCTSbz^,!^LrzS,uLJHSC HC&LeeH,6e:r} JP^JJ:L&BCSO Cb,Sz6r&,,HHJ&:z&rSOOSo6LOz rS,^HJJS;rJ LH6rC^Lze&,O^^H: L y&S:J6JCCOre&,ezH,L zHLJO:e6:S6O CLO&zJr:^rz^JeVr&6S:6FC JHeo,L^ eH ,a &C:rL6CeOLe6,CzsrO ^D:zO: 6SS,O eCLrz&re^HH6Jz{H&6S^O:CLLeeO,,^JHC E,O^O,C^xHO ,e&,^^:rL^z,JJ,:J6CS,O&eeLHz6Oe^fHOJ^op&LS OSC,LJzC,r^JrC HW6&z:,&,C^L:eL,&:,6^CeL:e&LR kre WHrJHSz&J^rHzJ :S&,S6&SH6&C:O6zC:HS O1O&^S:6rrrJe:z&J^:rr &XeJH:66z%L OeCL&zLr  SHHeL,&zzr, 6HL HzS,O^OH^J:qrzOrL^OHrO+e^,&^erH Lr,eL,e^L:z Sn&LHzzrJ CHrJOLO^:HS zHHJ :C,rzjH JSw,&6M  eri6L:S&LSeO CeLLer:L6^SHOSeJ,CzrrOzLLSeL,e^ :z ,jJ&S:r,H^JHJJCwr&O,O &HSJze,LO^^H: L+&^O,& :HS 6HL6H:J6^CCOOeSH6z rrOzeSL,zJrC^rH&&eLy& :n6BCOL^zCJYC:OeCe*zJ,:r6&CeL:<z&HSS6eSrHrJe: 6SS,O6SOJ6:^6:CzLSCL,z&OS^O:C^&Hz:,,^Jr_ rGJ&e:H66C:J&e6,^^:r&  s:J,:e^LS,O&eeLOz6re^8r&eH::&LS 6rC,LJzCLL:eHC r{6&S:l6OC^L:fO, ^:r,  4CJL:&&SAzO6eeLhzCr^ :HL zO,&LS OCCSL&ze,He6J, Hy6&^:g6LSJLSe,Or^Cr, &XCJH:&6z:r6He^LAzLre SH,JJ:CJOS&OCCHL&zz,r^Ore^ 8L&zSS6zCJLCer,&zSrH &VzJH:O6eC:6rC^,SeHrJ^LHrJJ:e&rS6O:_&L6z^r:^zH J:b,&SL 6rCJLeer,6^er_ Jx^&:l 6 CSO,eJ,Czrr& er6J6:z&dS6O^e:LLz  H^,HJJC4r&&Se6HSJ^DeH,&^^rL Lw &S:,^ CCOLe&,CzHrJ z,azJ:z&HSLOzeSLOzJ,,:eH&JS!H^ Sz6HCOLzz:,JSVH: ,iJz*:r6JCeO,e ,zzrrO ^T:JL: JV,JO CKLre&re^HH6 C6^&OSSO:C^L zS,,eJ,J rYz&e:O66SrOvSO,e^:rJ  HrJ,-O6CXr6&eeLOz6r:^IH6J^H:JCS 6rC,LezC,z^&He O-6&::-6^C^L:eL, zOr, zWCJr:&&HSHO^C6LazOr^eOHLJ^:S&,6:OCC^L&zS,H^6Hz DJe&^:J6LS=LSe,,J^COJ JHLJH:J6zSHOOCUL&zOre S,6JJ:S&rS OeCO&Cze,}^O,CJ:KO& EVzJC OWer,C^erH 6rzOz:O6CC:O&e LOz,LJ^&HrJ^:e&LS66JCV6OCLr:^&H  Hj,& SCJrSJLeeL,6^SrX^RN^ :: 6 SHO,ez,Ce,r& eH^J6TY&BS&O^e:LLz ,O^,HzJC>&&&SC6HSJ^IeH,J^^rL LW &S:,^ CCOOe&,CzHrJ zLFJz:^&rSLOzeSLCzJrCr H&JS_H&&Sz6_COL^!W,L^zHS LBJ&::r6C,6OHeJ,zS^rO zw:JO: &rH^O eCLr:Hre^rH6 COO&6SeO:S,L zS,,^J&C rl &e:r66CeOoe &Hz1rL  LHJ,: 6CSrJJeeLHz6re^yHOJ^YH&LS OSCSLJzC,r^^re H;6&zSSJSHL *:S&S:r6^SH-r CrC^^rr BoLL,z^r^ :HLJ&rH^ r^ &CrL&z:,C^6Hz 7l, L,6^zHC OSJ&::H6LCeOOJL?H6zSjOOeJ6J:r&rC:LC^,LL^Jr  6CLOHzz,0^OHJ^ LzeN,r^^iHJzpz&JS6rL z1zJ5:O6J/JJSH6J&z6LH CHrJ&:^JCr-^L:OJe:S&LCS6sC&OH <r^ JH^JJ:z6:C,OSCHLCzO,O6eSJO,eJ,CzGLLSfO6^S,Oz&,c LH6L&eHrS^,HJJzrCzO,L :_CJe:^,JzrH: LR &e-z^er4 O4H&L:^,C zHuJOH^^rSOO^eSL,zJr:^r,COrmH&&Sz6LCOLzz:,J^ rre^l &C:r6zCeOre6,:S&r6 ^Q: ^: 6:S,&JQTL,zJre^HH6 O_X&zHr6FCOL eC,,^ HC r(&J/rJ6&CzOfCL,^zFrLz LHJL: 6CSrO&CHLHC6OS^HH6J^B+&LS:OS:,&zzS,,^&HC HiC&zH6C&C^OGeLLJ^SrL JqSJr:z^,SrO6ezL:zOrz :r6CS::&LSJ66CrL&ze,HU6Hz HUO&zS:6OC &Se ,J^Crr^HQeJL:6Jzr&O6ez,:zLr ^6H, ^,L&rS^OeCzL6zz,D^O&:J:fO& :H6,C^LCSr&S^Crr 6aeJ-4I6^SOzoe LHz,rJ CH,J&:C&HS6zSCKLOz^r:^LH JS1,e:SC6,C&L:eH,&^zrxe6/^&::L6^CSO,eJ,Szrr& eHJJ6:z&wSJ6Le:LLz ree1OeCrr^zH,,^eH3 re,,C^^H: Lf&^ ,Hz1HzJ UJ&6zHr6 SHOJO:^6:SrJrkJ VEH,d^CH&JeQH&LHL SHSJz: L::;OLCOLrJ3:C6&CeOHeLOO:&6eCSO6^C,&z&rL rC1Orz&re^HHLzL,^z6rL^LHJ d}&rJe,O,CYLJz6r^&6CzOueO,^^6rL  kSJ,:J6CSr&&::Lrz6rz^aHOJe::&^HHO:C,LJee,r^JHe Hf6&:r&66C^L:C,, ^:r, JTLJr:&6eSHO6ezLGCOOC^IHLJ :S&,SCOC:r&^zC,H^6Hz 9*z&^P: &C^LSe,,J^Cr6 &,rL&:66zSc6>e^LYzL,7 SH&z::S&rS&6&CHL&zz,LCeHzJ:KLJJSS6LCJO:H&,J^erH &mzJ0:O6^,:OLe ,SzLrJ SHrJ&:,&HS6OzCtLOz^r:CLH:JSG,&JS:6rC^LeeH6&^zrA OQz&::L6 CSO,eJ,CzrrJzHHHJ6:z&,SCO^e:LLz&L SHO C6,ezS,L6LCeLzey,O^J,SCJL3 ere6zS^Ore&,e^:LSCOL6ee,r^e-z ,_^JH:e&4^LH&Je9H&6Sz6teOJ er,^^ HS ,d6 J,  CHSJze Lgz=rO ^NCeHL,^^HCOzC&Lrz&re :,zee,6e,rL^6:A ,:e,6^CHC rX&&^H^^vrJ  eJL&^:rL  ?e^H,zzJr6 &066 :E&rSzL:CHFr&LS OSC,Lze,,r^&HeJ:HSz:,^^Jr,Ore , ^Sr, 6L zJ, ^6SL66ezLvzOrJC,LJzH,Jz^,, &H OSE,&O:r6,e^Le&C: 6LC LSeH6iSz6OC,Lre6,^zrH^OJC&,:zLr  erzeOLHz6r: 6:JJq:&6SS OC r.C& SS6,C6 6:e&JS666C^Ore :J&JC:OLe ,eCz6rSLOCeHL,JJrC :HeJC:L&6^&H:JS_,&JSz^&MCJ^>J&S^SrJ Ol^&::r rHJ^_HHOL:6&L :H6J6:z&YS, e3OJC:6r:C HJJC_rJ z^6HC6LzeL,O^^H:^6H:&S:L6J:HOre&,eCHr& zHHJO:z6:S^O SML:zJr:^rHzJelH&6S:6HCOL^z:6&^ H: ,H^Cr:,6zCe65e6,zz0LzieE:JJ: &&S,O eCO&z&,QCJH&JzQE&SS^6cCLLC:O,L^JHC S!&&C:H&J,POHe ,^zSrL  NS^ 6^6CS6O&CzLHz&rz^^HOJS,6&OS OSSrLJzS,rz O, HX^&z:S6OC^L:C66,^Sr& JHeJr:&6eSOJCeeLhzOLr :HOJ :S6^SJ6HCrL&ze,H^6,ze,=6&SS:6JC OOe,OJSXr, z(eJO:6&eSm&O:CLRzJr ^rH,JC:C rH^OCCOL6z:,Y^6H^^:,&&^:r6,CeLCeO,&eeOL &u:Jt: 6^:rOLCz ,zLrC CrHJ&:e&H:6^&CHL z^,&^LHSJSl,6:SC66C&LCeH,6^zL3eJ5zJ,:L6CCS61eJOC: rJ^qHHJ^:z& SOO^O6LLz:rS^6HJJC8r&&OH6HC^Lze6,O^eH:^6OS&::J6JS:Ore&,ezH^C zH6JO:S6:SLO eS:HzJ,r^rH Je_J&6S: &C6L^z:6L^ H: ,H^Cr:,&HCeOCe6,zzgLOeCH+JS: &JS,O^eCLJ66re^ H6zzk;&6S^6 CLLC:O,L^JHCer;&&C:HJ6vSOHe:,^zJrL^LGSJ,S:6CSCO&eSLHz6rz^6HOJzc &LH,OSCLLJeJ,r^zO, rU6&zH^6OCzL:eJ&R^:r, J,CJr:J6eSHLCezL^zOrz :HLJ HS^6S 6&CrOHze,S^6,zC&26JLS:6SC O&e,L^SLrr^,te H:66zS{OOOH,:eHr ^6H,JJ:C&r,SOeCzL6eJ,8^6H^ Obe&^:,6,: LCe,,&^SrH ^LrJH:O6^IlOLe^,Sz&6L CHrJ&uH&HS&OzCn:zz^r:^LH JS8,&JSCLHC&LeeH,J^zrI O2^z5:L6 CSOLeJ,Czrr& eHHJ6:z&HS6O^e:LLze,z^,HJJCYf rr^^LU:6r7H&:SL,zeS,:eO:O6JCCOrC 66zHr6 zHHJO:^6:SLJ^eSL,zJrS^rH&Je/H&6Sz6<C6Lzz:,L^ rH zqJ&C:r6OQL&6f&&H:SO:SHHHJL: 6S:OJreCLrz&rC^HH6JzsF^6S^O:CLL^zS,,^JHC r7&&e:r6&CzO.eO,CzerL  gSJHNS^Sr,&:X &&:C6ze*O,ezLl&6S OSC,O^S&,r^&He rh6&z:j6O#zL:eL, ^:r, JWCJr:&6eSHO&eCLxzOr^^rrrJ :S&,S6J6:L OkL&^SLO,^SLCzzrO^&HrOHC4,J^Crr OrOz:,S^HH& 6/L6JW/6,CJO6JC:C&rS&6SeHL6zz,(^6H^J:BLJz:z6,C LCeL,&^erH^JH J0:&6^ShOLe ,Sz,LO CH,J&:S&HS&OzCjOOz^r:^LH^JSB,&JSC6rC&LeerLr^zrN OXe&::L6 CSO,eJrC:Hr^^6HHJ6:z6S:C &mOJzS:66SeOrCLgO&eSe6HC6L +e6zSJ6J 6^,H&JebH&6SzJb&zzLrS zH2JO:J 6HS zHrJe:r&O^Or6JeBH&6S &zH,JC:JL:S&6OCzOH Or:^OHCJ^e Lrz%rO ^hCeS,ez,H  1mCLOz:re^HH6J HC^z,r&6HS Hkr,6^:HC rY&&^R ^^HC rSY6Szrr:  _SJ,:6JLre :HjOz: 6HC&O6eL_r& S OSC,L6CL&eS:6w LH,&z:46OCJ6C#&JL:r6,Cr,Oze,Sz&Hz CS LjzOr^zH6 J^:S&,SzOCCrL&eS6J^6He 2; &^S:6LC Oee,,J^CrL &ESJH:eeOSgOOe^LOzLr^ SHLJJDH^ SJOeCHLezz,H^OHSe6FO& SSJsCJLSerL dHrr 6%zJ^:O6^C:O^r,,Sz,rJ^&HrJJ:e&rS6O:j&L6z^r:^SH J:P,&erL6,C&LeeH,6^er2 OpH&::L6 CSO,eJ,CCrOO eHHJ6:z&PS&O^S:L^z rS^,HJJCmJ&&:S6LC6LCe_,C^^H: L_  J:,6JCCOLe&,SzHre^ H*JO:^JHSLO^eSL,zJ,HC HJJe!HJJSz6HCOLS:6,O^ HS ,IJ&S:r6&:rOre6,zz.rO z2:zL::6SS,OJeSLrerre^HxCJzoH&OSzO:CLL CS66^ HS rhJ&e:666:zJ,e6,z^:rO  H&J,HJzLS,OJeeLrz6,&^fr&C:tq&&S 6OC,LJzC,rrSHe O16&z:T6OC^L:S^,^zHr, eICJr:&6eOOO6eeLZzOr^^_HLJC,O&LSJOCCrL&zC,H^6Le tjO&^:%6LC LSe,,J^Crr &#SJH:66zS,6re^,:zLr&e6LCe ,&^^,9&^H J&:H&,CSHC rvL& SS6H5e6 eO,&^erH^J6mJH:66^SHOLe ,Se,&L SH,J&:C&HS6OzC<&6z^r:^LH^JSi,&JSC6rC&Leer,z^zry OXCJC:L6 CSOHS:&&:O6EC6OJ^SLL^^r^ :k &Cze, ^,HJJC>v ,r6^^:SJOv&J*SJO&eSleJ6:,6JCCOjC:Ja:L6 COLJeS:C&^SLO eSLHC:&&SO,:e6LJeHr  Jh:LCeL,L^ HS HLLz,,L^HS6OHe6,zer&^ z;:JL:S6SS,OJSCJ zJre^HH6JzGr&O:e 6CLLzzS,&^JHC rk&SH:H66CzOreO,e^:LLee1:J,:J6CSrOJee6H:Cre^gHOJ^::&&S 6Lr:LJz:,r^&He rQ6&e:i6OS:L:eL, ^Sr, JfCJrLS6eSHO6eCLjz6r^ :LOJ :S&,S OCCrL&zC,H^6Hz LBO&^S:6&SHLSe,,J^z,zCHOLe^,C^:rSOOezLreHr  SH,J6r{z6,h ^4eJL:,66SSOJC,L&&e:^6,CJLCegOSS66,C^O6z^r z,r6JeHrL&z,rJ CrLCe:C&HS6O:CALOz^OO6^H JS#,&eSC6,C&LSeH,^SrrH O_^J,:L6^CSO&::,Szrr&^LHHJ&:z&ECeO^e:LLz rS^,HJ^C,O&JSe6HC6Lze,,Oe^66 OB &S:,6JCSOre&&rzrr6 zHrJO:z6:SLJ^eSL,zJrS^rH&Je9H&6Sz61COL^er,L^ HS 6HO&C:r6&C^6^(LJ,S6OeCzL ^CLO^JHC zCiO,z&re^HHL^HL^zSrSJHHS H:S6C:HO&eeLS  r&^:CSO,eO,^^:rreCr^J^:J6CSr6 rHLrz&rz^,HOJ^::JL,OO:CLLJz:,r^&He^,Oz&e:H6OCzL:eL, eU&J  +:Jr:^6eSHO6Sz&,z6re :H6J 4i&,SJ ,C,LJze,,^6He MGO^zS:6LC L:e,,J^Crr &DeJH:&&fScOOe^Lrz:r  SH,J6rLzer^JLxzJC_66SCCOL rHr& SS6,C6&L:e&^SOOzCC,,e r:^:rLJShrLHzzrJ CHrJOHLzOr  Su^&CZ,,r^:H JS7,&67  erG&L:z&C:6OSeCLLJr: 6 CSO,e6& SJ6 C6HzJ6:z&p:&^:CDLLz ,,^,HJJCrrzSSC6HC6Lze{, ^^,HezQ J?:,6 CCOre&,eH6r6 zHiJ&:^&HSL& uHLLzJrC^rH&JSAH 6,r6HCOL^z:,L^eHS  6L&C:L6&CeOHe&,zzHrO ^rLJL: 6SS,OJeCLrz&J,^HH6Jz_r&OSzO:CL&^zS,,^JHS rW&&e:r66CzOwez,^^:rL eH6J,:J6CS_&SP6J,:^&LC^OCJCl^&LS OSCH6,:z& SHLLezLCe6r^^eCCOOeL, ^SrHzjOHeL, J6SL66ezLwzOrJzOLeCr,ezSHS^6ceOC:,6:S&O C O,&C: 6LC LSeH6H:&6 C^,,z&rS^OSJOJeC,:zLr  eL&^LNJ&rS&OeS, zze,o^OrlJ:lL& WS 6C LCer,&^er6 6HH^J:66^C:OSe ,:z,rJ CH6zS:C&HS66OCBL6z^r: zH JSA,&JSC6rC&6eJe,6^zrc OT^J{:LJ :OO,eJ,Czrr& :HH^6uL&1SOO^e:LLzzrSzO,rJCmL&&:k6HC6LzeALH^^H: Lvz&S:L6JCCJ,e&,ezHr& zH7JO:^6:SLO eSL,J,rC^rH&JS-H&6SzrxJL:&Jr:L^zHS ,{J,C&:L6 _ HeJ,zz!rOH^H&&^^SrSSOrHeeLHC6zJ ,z^ezKr,SS OS&,OJOJS SJH:SC-6&zOIS,O S&JO,CzzrL  ;SJHHqz&r  :E6&^^zO,CCO,e:IHSrS OS ,zC,6 CS&H: e%6&z:96,:6 6:S&,:HHJe&OHeO,H6SC6OOe^C:LKOSrzCLJeq:&,SJOCC%6L#6&,CeOSCLL,z,H6^JHC &SJ6S:L6z  _eJH:6Sz^CJ=,e::z6eezSL SJ^6a,?L eC,L6zz,#^OH^J:,rz :H6^CJLCer,OeL6OCJLC zr 6eC:OLe zSH: S6rCrJ^k&&HS6OzeS6&:S66  ,&C6LL^S,5 zC^O&eH,6^zHSzCL&zO,&^ C,&^peJH:Lr ^,O,,J&zH 6C:jJ:L&e6rS^,HJJzrzzOre :ez6:;^&SS:6,CeOrJFJO6&Ce HeC,HOh66 C:JJL: eSO&LLirJ,z^:6^HH6rz^LCO H^EC&JHz:,LJ ,S ^zezC:L6&CeOHJ6J,^eSJO^HHJL: 6Ss,rrSrr^:&rSJzHOJ^,:LrSWSOHLLee^,,^JHC xH:zr,H^}Cp6SAC&zSO6&CrH#J,:J6C^re:z&Oz:6rC^DHOJ^::^x,SV  ,L^JC,H^6CzH&W&JS,I6JSJL:eL, ^eLzCrO6^^,e^rrC  :tJL:,6CSJH6SSeOz /JOzze:z:e,,CCHz B6O+OeG*   OAe , ^CLrfS^z^&z66SSLOOe^,:zr6eCJO:J^,L&rS&,e::& OL:!^&S,JSI, JJzr,LeJCeL6S^erH,6S&OM^&^^Sr6,e ,Sz,r6erO8eS,rz^rnOA:zJ,:z&ZC^OOeJU6JLSC6rC&L^C &,SH6,CHLL^&,C :r&JCe^g z-r6HzCrz#OOzVS&, eSL, JzSLH JeC#OJOSe6HC6L Cz&6S;6HCrLez^,&OCoL 6dz&Sz, L zHMLO,6SL&6H CVrCz&reSHrr:z&Jz6SC &COL^ :OH:SCJO,}zJC:r6&CeL:tC&O:66:CLO&eCH,zHre :0,JOS:66^,C:J^:: LrL6S6 J eorJ^&He,H^C&&LL^6CC66eO,^6:6eW& 6L,:^6CSrO&LeOX,SCJSjH& O::&LL ^HOLCO:C,L^&He HL6,z &,L ^OrCH, ^Sr, 6r^Ca,8z,H&LzS JJ:66lSrLCJz:S&,SJ:CT &,CS&H^ rr ExO&^SCJ rMJeDz&e:-rL &BeJHH6,O::CJ+^Lrerr  SH,J6rez6r  ,_:JkzQLSSCOzeOL&zr:P6,CJLC6r&,J CLO6.SJ&:O6^C:OrSHO :^OSC:LeJ 6^&HS6 zO&:66HS:^&rOJSc,&JSzJ^H^ dECrze 6JC6L_errC6zCSO,eJzCO H6O,CHJJ O+ &S:,6JCC&r6C^O&DJCtr&&zHSLL:Jze,LG^^H: Lx&^3r ^:Hz O{HO&:O6CCLHrJO:^6:SLrC^6SL:Jr:^rH&JeSHJez::H OLez:,L^ OSOe&C,,,r6 CeOHe6,zz.JHeHL:J6: 6SS, JLJH:^L6e^LH:JzEf&OSJ&eHSJz:L&6SeOzezU &H:56O&^&LLSeHS:r6S^4SJ,OJz^e J6(eL,z6rz^5OOOe,Hr&^ 6YveLJzC:rS&^1eHL6&C:/6OC^J:&66:J:S, zH^Jr:&6eC:&LESJz: 6^C ,ee,LOzSrr^LCOL:ze,H^6H zr,zzC,&^OHC HeO6:^Crr:&e,u3^^rzS,6&e^,:zLr&e6LCzS:rzzrzOH:^JC:O66SS6rJLrJz^r&66S LCer,&^^,eC^Orze, z,rJJS4e,,CH&jCSLJe^,O&L:HOzCbLOzJL^SzO&C6Le6CHO^&Hz OeLLJ^zrP OWJ &r^zHr& Lor,rC66^ H,^e,,O6OfC LyOL6zGrC^r &,O,Se*re6,C6Lze.,OOr6r:,L J{H:6JCCCr^EL&r,S6 CHMJO:^S:,J6LJHJ,z^6L^rH&Se6^&^^,^>CJOJz:,L^ HezO,Sz ,L CCH&eAL&e:HOzC6L J6: 6SS, JS&L&6^Se^,qnJ^::zLrH,^6QJ eHL6^JHC r_O^6,L :HO &z^66SO6CC,OO&JH6zOr,JCw:&^z ,L^UHOJ^:C^tr&^HBe6^:z&,SJHS HV6&zzn,CrCJrcL,zJCrr &Ser&^:S6^HOJz: ,reS^6:6SeOzS&OSJOCCrL&e:6&J&Cz rSL& SS^,2Cz^CS&J^:rr &IeeH,:Hz ,HOee,:zLr OS^JS,eO,rS^6&CHL6zzrSe,Ore :  HrL^zrHJS:e, ^erH 6Jz CzCCCH:O&C ,Sz,rJ zrCeJLa^&r:  H,JH^:OJSS6TC&LLzr:;&rC&LeeH,LeCOSCJLJ&LHe^ reLJS6JO:,OCC:L^JJJ,&USO ^e,S^S:6S^OSHJeMH 6 &rJLCPze,,:^^H: L-& 6,&^ rH ^y:&6:z6J C&SJO:^^:SCr:&r+,zz,S^rH&Je:: Lr, ^e^6rP66SC:6VJJr6eO,, CH:J^eJH6^:rLz 6&::Lr^SS66ZeCLrz&r^e,OLeS,S Cr^^CC6C6zS,,^J:OCJLLze:,J&CzOfSOLr,H SC HHJ^:J6CSrOOSzJz: 6&SHL:JCB&&LS OSCH6::&&LSz6OezLS&S:z6OC^L:er6HSJ6LCrLOezr,^rrJ zeCCrzLr CSJ:C& L,,Sz6^CrL&zer:CZ6,CJL z:SLJrrHJ:: &zS6rL^76ze:zO6Oeq rd^Lrzzr  SH,J6H6^er: 6HJJ:zC6&^OH^6:OdJS :^,CzO&er,&^eH:^:LHe&,OO::O zK,&LzOO: CHr^&?,r^ 6 zCr&ez^r:-LrJ^:^6,JS:6rC&LecH^O6S :CO2eJC:L6 &SC6z,OC:rr zCHHJ6HzJeJ zen:L6z rS^,HJCze}Lr^e6LSHLzeR,O^J,zCzL,zL,eOC96  NH&6z,OC zH*6O,eJLJCH C2L,zJrCLre6rHe,,6SS6JCOL^z:,rCLOJezOHeH, 6:C:Oze6,zz(r,z:O,ezLr6,je eH JOz re^HH6ez:eJz^6H:C6z&zS,,6JHGL^ :ze:L6:CzOleO,JCJ6HC,a, zrS^JHeO CJL;zOa^&&6rzJ,:&6S OSC,LJ:6eC6LCe L_z&z:t6OCJ z:^&&:&r6^L4CJr:&6^Q6^s=SJ?^^L&CO6,z:LO^eSz6^CrL&zer:eSOzCS:^ J,&^O7: H:erCz,rLJe(zJ( O zL6e&E^Lrerr  SH,J6HJz6,H :H^&e: &, ^,reCLCe&:GCHCJLCJr66U7z&C63SJS:O6^C:OrSS&JS 6zS&Oz&eH^z r& HH,&SzC,S^LH JSmH Or,^eH^ O:z6:^%,JezOreJ,O^,SW6He&,e&H6Jee,:e6:C&qSOO^r:6H>L:66,H^&&9H&6rzHSHHe J/,&J HS ,SJHzJCS^HCOLe&,ezHS6OLrO6C,^&HSLO eSL, L, L6C&JSrC&6SzS4^r^&L^&L^zHS ,?J:C :S6  HHeJ,zzQrO ^ez rC ^SSO&reCLr&&,HeJ,,ez},J6S^O:CLL&C &LCSO:CYL^zJ,OOz:CJ6_JJrSC6JCeHxJ,:J6C6r6r&,S6:6rCB6HLJ zS^QLSeJH,L^6r,r^&zeeCOHHO,g6&C^L:eLH r8SeOSeCJLL:6eSHO6rLHSrJ6^^HLzJ :S ,O^66JrJ&zS6J^6Hz:!He,H e^LCz,:er,&Je,eSOO:eH:J6zSPOOe^zzOyS CSHOOe:e&H66e6ezzO:z,rHSH^J:rL^e6Se&HJL:er,&^erHz &^He,O6CSeOLe ,SzHOHC&O,eHLHzOrC^L:e&zYH&L^6&HJSh,&JHYrOOOJee,,6^zrY,O6e,H&H^ SkLHe&,ezH,&s O,e6:C HSOO^S::,^LzLS,H^6e5H&6ez6JH& CZD,&C6H: LJ r,JOSC COLe&,ezH66LOz8ee,^&rS&O eSL,z66HzSH &:s>&O^^Je O &::,6JSHC rr&HSJC&CHeO,e6,zz!JOz,JrrHz &(eCO&eeJH,L&6HHC6JC%?&OS^&:C,Jer::,^zr& ro&&eS:&SH: H2 Jr:&6SC&OlJO666CSrH&L^OSO6Sz^rLeJ^::CLJ6:JJ&#Jz:LO^JHe,HL 6Jz rOCeH^e,,J^CzOOe,6er: 6eSHO6^z^&OCCrO:H& H:S&,SJOzSC&C:L&^S^6rCS7JJeS:6LC LeSeJL:HH&z:L:eOLr6g0r  HLJr:CO:CeO6J^S Cz6SHz,&J^6H:m^JrHJ:gL& SeJO}S LB9&^S6rL^xuzJR:O6J:& H::JOS 6?S6LeeS:SC:S6Oz R,&OJe,6LHzJS-,&JLC,zS^JO{H, ^:rR O>^&CGz rV,OO6C,Czre&C &6Hz,z&,:HO^e:LLz&O?SHOHe6L,zHSHJ^H^ &_,,JzrH: Lv &eHO Srq ^aOJU:LrJJOK:JL, C,JrS&5SLCzCrC^rr SHUr&6SzHLCOL^z:OLCeH: ,}J&C:rH,Ce&&Je,zzBrO :5:JO: zSS,Oe4LL,z&re^6H6JeTA& rH67CLL eL,,^ HC 6,S&C:H66SLOOe6,^eH&  ^oSJ,^e6CSrO&Se&Lz&rz^hHOJ^&O&L7:rLC,LJzC,C^&HC H6O&z:L eCzL:eLLL^SrL JHHz :J6eSH6CezLHzO,e:LHOJ :SoaSJOCCrO :,,H^&HzCHDO&^S:6LJCLSe,,J^:rr J<e ,he6zSmOO H,:zLr zK6eJJ:S&rrLOeCHL6CzLz^OHzJ:PO& Hr6,S^OHer, ^eSe 6nzJ}{&6CC:O&e Jzz,rJ CrL^L:e&OS6SCChLOz^r:z&H J:/,&eSC6rC&LeeL,6^zrF Os^JW:L6CHOOLeJ,Czzre CHH JOu&HSOO^J,LLz rSe,LzJSXr&&Se6HLeLzS6:z^^H: LrO&S:L6J^yOrez&,zrr6 zreJO:z6:SJ De:L,zJOO^rHJJeH,ezSe6*COC&z:,L^ ,Ne^(J&S:r^JCeOHe6,z6LrO ^w:J6: 6:S,6^S6Lrz&re6JH6JzoXJ&L,O:COL :z,,^JHCzrH6&e:r66CeO8S ,^eH,z  HmJ, r6CSrO&CSOJz6rS^l& J^::&L:z&=C,LezCL&^&He H!6 ,:V66C^O,eL, ^Sr,zHoCJr:&6eSHO&ezLLSerz :HL r=,&LSJ6:r&LJze,HO^Hz xfO ^rr6OC LSe,,Jr,rrzCCrJH:66zqCOOez,:&Cr ^rL^J :C&rHLOeCrL6z:6&^6H^J:,C& S:6,S^^re,,&^e^S 6!zJ9X&^HC:OOe &:z,rJ CHr,z:e&HS6OCC?L6z^LHz,H JS.,,:SC6rC&OSH^,6^erwCrt^&::LJ :rO,e ,Cz,r&eDHH JG6&-S&O^JHLLz rSzOrzJCmO&&JH6HC6LzCrOr^^r, L r&S:,6JCC6Se&,CzHr^ zHBJO:^&zSLO eSL,zJrS^rHze,3r&6Sz6 C^Lzz:L6:SH: ,QJ,H:r6&Ce&H: ,ezvrO ^3::^:  LOOOJeCLrAire^rH6::RT& rH6ECLL M&,,^ HC^LOe&C:H666JOFeO,^eHOz  d:J,, 6CSrO&ee:Oz6rz^wH&J^dK&L:z&^C,LJzC: ^&He HHJCL:966C^JeeL, ^SL, zoCJ,:&6CSH&^ezOrezr^^HHL^S:S&,SJ6:C L&z:,HOOHz 5.OJelL6LCCLSLL,J^Crr &r&JH:&6zSLOOe^,:zL,: SH,JJ:C&rSJOeCO&Cze,1^Or, LsO& vIzJC LCerSz^erH 6rzz,:66^C:OLe zLz,LS6,HrJ&:ez:S6OeCE6Cz^,,CzH^JS_,e6SC6,C&O{:J,&^zrIS:X^JT:L&z,,OLeJ,C,:r& eHH J,r&GS6O^H+LLz rS^,eeJCZr&&SS6HC&LzCrL^^^H: LCM&S:,6JS:^ze&,CzH6, zHuJOH^JOSLO^eSLLzJOH^rr  ,xH&JSzJCCOL^z:L6zHHS 6xJ e:r6&Ce6,CJ,zzLrOLDI:JL: 6S:&OJeSLrzzre^HH6JzA:&OS^O:CLL z:,,^eOL ,_&&e:^6zCeO%C&J:zDrL  erJ,:J6C3rJ^eCLHz6rz^EJzJ^rOS6S OSC,zrzC,,^& 6 Hs^zr:H6OC^z eL,^^S,OSCFSJr:&: SHO6ezOrSer^^DHLe^:S&,SJOCJ6L&ze,H^JHz HIOJe:e6LC LSJ^,J^Crr^ 6OJH:&6zHCOOe^,:CLLL SHLJJ:S&r2zOeS,Ovzz,r^OL:J:YL& }u6zCJOXerLC^erH 6HC e:O6SC:e:e ,Sz,rJ^SHrJJ:e&OS6OzCBLOeSr:^LH JS4,& SC66(SLCeH,6zLrO 6I^ HL 6^CSO,&e,Czrr&zeLLJ&:z&!SOO^LOLLC::L^,HJJC&H&&SC6HHOLzeL6e^zH: L&J&S:L6JSHJ eJ,ezH^: zHHJOjeeLSOO eSC#zJrC^rr &:=H&&Sz^HCOL^z:,LzHHS ,.J&::r6JCeOHCr,zzqrO ^/:JL: JS:,OJeCLrz&re6OH6^zHe&OS^O:CLL e ,,z^r, rXJ&erS66CzOvSOLS^:rO  w:J,He6C:LJSeeL,z6Oe^iHOJ^HHzrS^6HC,&rzC,r^&rS^O_6&::Kr^C^L:eL, eJr,  RCJ6:&6SSH66CLLfzOr^CeHLJ^:S&,SzOCCrL&ze,H^6HzzcH,&^S:6LC LSJ&,JeC,^ &oeJH:66zr OOS^J6zOr  SH,JJr6&r: :zCHLJzz,S^OH^J:BL&zSS6,CJL:er,J^erH^HszJ4:O6zC:OLe OSz6rJ CHrJ&:eS6S6&zS^LOz^r:^LH  Cq, J: 6rC&LeeH,6:^rl^&H,&::66 :SO,eJ,Czr&S eHHJ6:C&jS6O^C,&zz^rS^,rH r0,&&:Sz6C&LzeDS ^^H: Lr zH:L6JCCOre&zrzHLe6HH8JO:^:CSLO^eSJ6zJ,HC HJJe4H*LSz6HCOLS:6,O^ HS,zQJ&S:r& ,HOre6,z,CrO ^3: 6Se6SSLOJESLrz&re^HH JzfY&OSeO:COL zSLJ^JHC r4&&e:H66:zOOeO,^^:rL  CrJ,HJJLSrO&eeLHz6,6^!r&  ::&OS  zC,LJzCOrz6He ra6&e:{J C^6H:z, z<r,SLZCJr:&&SH:O&eSL}rOr^ :HL zHH&,SeOCL:L&ze,H^6,& XX6&^:,6LCzLSC,,C^Crr &L JH:&6zSiOze^,:zLr  SH,JJHCJ,S&OeCHL6zz:L^O,^^OEL& SS6,CJ 6erO&:,rr 6azJh:O ,C:666J,SzOrJ^zHrJ&:e&H:HOzC/LOzer:^OH JSH&&JSC6rCJLeeH,6ez,& O2^&::L6 O,O,SJOLzrr& eHHJ6P^&%QOOCe:LLz rS^,6&JCHLJOSe6,C66ze;,O^^H:SzB &S:,6^CCO,e&L!SJr& zHbJS::&YSL6zr,LLzJrCO6H&Je;H 6HS6HCOL^z:,LH:HSz eS&C:r6&J OHe&,zHCrO SL6JO: 6S #OJeSLrzz6,^rH6Jze&&OSzO:S6 Sz:,,^J^^ ri&&e-,O CzOHeO&z^:rL  4S  :J6CSrO eeLrz6rz^eHOJ^::&LS OSC,6Je ,r^&He H#6,::oJOS:L:eL, ^Sr,^,sC LA^6eSrO6-JLizOr^z:HOJ ::&,S OC:6L&eS6J^6HC T&e&^S:6LSzJeeL,z^CeN &<eJHQJJ&SkO e^6HzLr  SH,JS:C&,S&62CHLJzzLm^&H^J:cLz6SS6LCJLCeJ,&^erH 6QzJ2:OJ^S^OLe ,Sz,rJ6HHr^&+z&HS6OzCALOd,r:eL6jJ:2,&JSC6rgZLeC,CO^zrr OHJ&::L6 CS6&eJ,Czrr  eHrJ6:z&eSOO^e:LOz rS^,,J rKr&&Se6HC6eEeGOOzSH: L? &S:,&&CC&ree,ezHr6 zHDCL:^JH:rO ClL,CJrC^rH&JeOJ&6Sz6aC&L^e.,L^COO L_J&C:z6eCCOHCJ +zHrO ^e,JL: 6S=,JzeSLrz&re^HJeJzr6,zS^O:CLHOzS,L^J^e rMzz,:r66CzHeeO,z^:rJCQ=:J,:JO,SrOJeeO,(zre^WHOH&::&LS &7e6LJzS,rSJHe Hg6&zgz6OC^L:e6, ^:r, JHHJr:&6eSHO6ezLGCOLO :HLJ :S&,^eOC:r6rze,H^6Hz dHi&^<H66C L:e,&O^Crr &reJJ:66eSkO6e^6,zL,zCOH,J^:CeSS&OeCHOJ: ,H^JH^,:xL& SS&OSCLCe6,&H^rH 6<zJE::6^SiOLeC,SzOrJ^CHOJ&:e&Hr,OzCHLOz^,J^LH JSh,&JSC6r:&6LeH,6^zr- OeS&:HLJ,CSO,eJ,Czr&K e,HeC:e&1SOO^e:6Cz LFLrHJJ:IrJOSe6HC6Lze^,O^^H: 6? &::,6J:,Ore&,ezrr6 zHt^O:e6:SLO eSL,rCrCer,jJenH&6Sz6-SLL^C:L,^ HS ,WJ&CLH6&SSOSe6,CzGLO ^W:JL: eOS,OJeCLLz&rC^HH^erTH&OS^6JC L^zSLO:CHS rp&,K:H66Cz&A:J,z^:rL  0S: :J ,^JO&eeLH^Hrz^HHOe,::&JryO:C,LJ^J,r^JHe O,C&e:>6OC:OyeO, el&J  <CJrJL6eSHO6CC,,zOrz :OOJ :S&,SJ&LCrL&ze,,^6He NVO&CS:6LC LSe,,J^CLr JfeJH:66zSxH e^O:z^r  SH,JJ:C&CS&6SC L6ze,YSrH^J:sL  :e6,C LCe,,&CxrH^JLrJX:&6^,JOLe ,SeO66 SHOJ&zr&HS6OzSrLCz^,,^L,LJS_,&JSC&LC&LCeH,^^zrr OH^Jr:L6 CS weJ,Szrr&z&HHJ6:z&VSOO^e:6LC6rS^,HJJC-r,zSeJHS6Lzeu,O^^H:CC/  S,^6 CCOre&,eC^r6^C^:JO:e6::rO eSL,zJ,O^rH&Je8,&6Se6}COO z:,L^ H: ,5J&CHr&:CeOHe6,zzZ ^ ^r: 6: 6SS,OJeCOHz&LezJH6JzuA&OS^^SCLOzeL,,^^HCzrn&&e:H66,rO(eO,^zHrL ^0SJ&r:6SSrO&COL6z&rzzr6^Jz::&L COSC,LJCC6O^JHe H=6&z666OVNeHeL, ^SL6  ZSJrOr6eSOJCeeLMzOLC^<HOJ HgeJS OCCrCLze,H^6rCJ,lO&zS:^OC LSe,,Je6rr &8eJ,:66eSFOOS&,:zLr  SH,JJ:C rDHOeCHL6zz,g6 H^^:HL& SS6,CJLCeC,&zS,L 6#eJp,r6^C:OLS O&z,r  CH,J&rc&H:J rCDL&z^J#^LH JSHOz6SS6OC&4^eH,6^z,r^ u^J,:LHHCSO,eJ,CzOr& CHHJ^:z&rSO6^SJLLz rSSNHJJSmr&&+D6HC6Lze2,O^^H:zL!z&S:,6JCCOrJz,eCH,H zHYJO:^6:rCO SSJ^z rC^rH&Jer^&6:C::COLez:Lr^ HS ,8J&::r6&CeO,e6,ez7rOzOj:JL: 6:S,OJeC6reere^HH6Jz.GS^S^&:SzL zS,,^JHC^HT& e*&66CzOXeO,^:SrL^zW:J,:^6CVrO&eeLHz6Jr^%HOJ^XH&LS^OSC&&:zS,r^&rO 6A&&zNrz^CzL:eLSC^Sr, JrCzO:J6eSHO6ezz6zOOnHHHLJ :S^^S OSCr^Oze,OCCHe *POzH:l6OC 6IHJ, ^CrrrLTeJH:6&Cz^OOez,::Or  SH,JJHr&rS&OeC,L6ze,y^O,&J:ZL& S:6,CJLCSrL,^erH 6VzJ26^6^::6Ce ,Sz,rJ CrHJ&He&eS6OzCkLOz^&S^Lrz SK,&^SC rC&LeeHLJpLr8 JI^4O:L6 CS&,C3,CzOr& :HH^^:zJrSCO^C,LLXHrS^,HJ :*^&&:H6HHCLzeu,Oze,L L=:&S S6JCCOre&LLzHr  zH6JO:^6:SL6&eSL,zJrC^rHJJeiO^CSe6.COO,eL,O^ ,qSJ0 &C:rHzCeOHe6OzS,r6 ^8:JL: SLS,&S ,Lrz&reCCH&Jevl?6S^6,VzL^zS,,SLHS ,/&JkrJ6&CzOvHz,zzWrL^z6,JL:J6C6:O&eeLHeJHS^hH6J^LU&LS OSC,LezC,r^&HS Hi&&z:c6 C^L:eL, ^Sr, JrC O:&6eSHO6ezWLzOL^zHHLJ :S&,SJ6JCrO e:,H^&HzeCkO&^S:JLS,LSeL,J^Srrzzae ,rC6zSrOOSr,:zLr znOHJ vl&r eOeCHL6eC,:^OHSJ:^ & SS6,CJOOer,J^erO 6NCJ1jO&rC:OLe &zz,r  CHr^,:e&HS6OzC+LOz^L:^^H JS9,&JSCr6C&6eC6,6^zrv OA^eJ:LJ rOOLeJ,Czrr&eOHH J ^&qS&O^CCLLz rS^,r JC!r&&SS6HC&LzeQ,J^^H: L_^&S:,6J:C6^e&,ezHr6 zJOJOH^&HSLO eSL,zJ,e^r,& HoH&6Sz6{CO  z:L6emHS OlJ C:r6&CeOHHC,zzQrO e8:JO: &rH^O eCLre#,H^rH6 COO&6S^O:JJL zS,,eJO} ,0&&e:H66OHOiSz^e^:rL  JrJL: 6C:LO&C0&Jz&rz^yJ Jz?/&L:zz,CLLJzCz:^&He HHJ6S:066C^ =eL, ^Sr,zOZCJr:&6SSHO&ezLie,r^ :HLJ :S&,SJ&CS&L&ze,H^6HzOLDO ^:&6LC LSe,,JzJrr^ H6JH:&6zHCOOe^,:CL,H SHLJJ:S&r/zOeS,&Czz,r^OrCJ:bL& %N^HC Oberz;^erH 6HC  :O6SC:z6e ,Sz,rJ^:HrJJ:e&OS6OCC/OOC6r:^LH ezG,& SC6rSSLeeH,6^zr9 Os^ :3S6 CSO,eJ,C&6r&zeH&J6:z&VSOO^HJLLC &O^LHJJCWr&&HO6HSJS^e>,&^^rC LG &S:,&:CCOre&,SzHr& zH4JJ:^6:SLO^eSL,zJLC^&H&JeFH&6SzCOCO6^e,,L^ HS ,_JJe:rJ&:wOHe6,zz1rOS w: 6H,6SSOOJSCLrz&re^H6CJznY&OSeO:COL er6^^ HC rHvJH:r66SC^Oe6,^^:CJ  2SJ,HJ^BS,O&eeLHz6^H^=,zOT::&LS C&CLL zCL,^&r.eJ8&&z:UCSCzO.eL,CSOrL J#CHO:J6CSH6JrwLHzOr^reHLJ :SJOCzOCC,L&:C,H^6Hz DH^&^S:6LCzLSeL,J^Cr6 &meJH:66zSbOOS^O zLr  SH,JJeH&ru&6rCHL6zz,2^OrOJ:H6 HSS6LCJJ^er,&^eLHzlDzJH:O6zC:&Je ORS^rJ :HrL :e&HS66C%SL6zCr:zHH JSI,J^:r6rCzLeSr,6^zr> OH&&::O6 SrO,e^,Cer,z eHHJ6,J&TS6O^e:L&z rS^,HJJCYr&&oe&6C6Lzet,O^^S, Lr  O:,6JCCOre&JOzHL6SrHHJO:^6:SLJreSOOO&rC^LH& ^_H&6Sz6xS L^z:,L^zHS L8J&CTS6&CeOHe&,zzyrOz^H^JL: 6SS,OJLrLrC&,6^HH6JzEc&O: O::LLzzS,,^JHC rO6&e*,6zCzOreOO^^:rL  vSC^:J6CSrO eeLrz6r:C&H6J^::&CSSO:C,O^Hr,,^&HeLOV6&z:BJOqCOgeL, ^Sr,DS0C^J6 6eSHO6&eLHz6r^r HLJC,O&LSJOCJ,LJzC,HzJ&+ H4O&^&e6LC LSCOrz^Cr, &LCJH:66zS_6 e^,:zLrz SHLJJ:C&eS&OeCHL6zz,f^O,^ OfL& SS6,CJHHerO&zOrH 6wzJA:O&OC:66CJ,SzLrJC^HrJ&:e HSSOzCHLOzzr:eJH ^n,^&JS:6rL,LeeH,6zCOS 6NC&: z6 CSO,C^,Szrrz ez^J6:z&*SO6Ce:LOz ,r^,H^JCHr rSe6HC6JJex,6^^H:^rD &S:,6JCCOre&Oeezr6 zHFJO:^,,SL& S^L,zJrC^rH&CO<H 6,r6HCOL^z:,LCrHS^O^&&C:L6&S^OHe6,zzm,R ^y:JL:z6SSLOJeCOzz&re^HH&JzFa&Oo^6rCLL zS,,^J r rr&Jz:H66CzOMeOL ^:LL^OmSJ,:J6CSr^6eeO,eCrz^rHO^^::&LS OSr^LJzC,r^ He rQ6&:r&66C^L:eC,S^:r,^^6rJ,:&6e OO6ezL_COOC^ZHLJ :S&,OSOC:Jz ze,H^6S^ Hp6&^L,6LCCJOeL,J^C:H JICJH0JeRSHOOe^eezLr  SrO&z:C&,S& CCHL6zz,f^^H^J:9L&zSS6LCJLCe^,&^erH 6dzJ_:OJ^:,OLe ,Sz,rJ6HHr^&+H&HS6OzC?LOeOr:z6r6JS-L&Jr^6rC&LeSHL:^zrH O!z&:HJ6 :iJ^eJ,:zrL^ eHHJ6}C^SS6OCe:z6z rS^,r^ H0r&zSe8HC6Lze>,OerH: Ox Jr:,6^CC6rCS,ezHr6CJHDJ6:^6::&O eSL,zJrC^rH&^eH&&6Sz6+COL^J,,Le rC ,=J&C:r6&rOOHS6JrzHrO ^?:JLrr6S:O:&eCLLz&,^^HH6Jz{<JCS^O:CLLzzS,L^JHC^6y&&e:H6&CzOTeOO^e rL  TSJ,:JSrSr&&COLHz6rz^#HO  :: L:zOSC,LJzC,r:6He^,rv&z:r6O:^L:eL, ^S&^ JjCJr: 6eSrO6e:&&z6r^ :HCJS::&,:^zrC,L&zeSO^6Hz drO^C:K6LC LSe,^S^CLJ0 ZeJH:6OJSHO6e^zzzLrCCOHLJJ:CO:SJOCCHOJH5,H^OH^HeKL& SS&OezLCe,,&SCrH 6DzJ#ve6^C:OLez,SzLrJ CrJJ&:e&HS6OzC!LOC^Lr^LH JS3,&JzH6r:&6OeH,6^zr! OHO&:(6JHCSOLeJ&^zrr& e,H ::z&HSOOze:6Jz LuC^HJJ:Ir^zSe6HC6OC:S,6^CH:::M &S:,&^S.Orez,ee:r6 zHBJOar6:SOO CrL,z^rCzrr:Je8H&6rJ6!C6L^z:L&^ HS ,5J&C:r6&:eOCe6,zz(rO ^C,JLH 6:S,OJeCLrz&&O^H,6Cr>H&OS^O:CL&rzSLOL&HC L/&J^:H66CzOWe&,^^:rL zASJL:J6C:HO&eeLHz&rz^3HO^^fL&LS OSC,LJ,r,re&H: H%6&z:K6OS L:SLL6^Sr, JcCJrL66e:,6^ezLrzOL^ :HLJ :Se^SJOCCrL ze,r^6H:e&m6&^S:6CCSL:e,L^Trr, &ne,O:66zSj&O:CL?zLr  SH,:S:C JO OeCHL6e6,r^6H^rSUL&CrO6LCJLCeC, ^CrH^J6(JH:O6^6eOLe ,SeOHz CH,J&,C&HS6OzCvOCz^r:^LHzJSQL&JSC66C&LeeH,6^zr1 Or^ J:L6 CSO,eJ.HzrL&^HHHJ6:z&=SO6Oe:O6e&rS^LHJe^_r&&SeJHCCLzeH,O^zH:zJ4  #r^6JC:OrOS,ezHr6^CLSJ6:C6:N^O eSL,e^,r^rHzJe  &6Sz6cCOOHz:,O^ rr ,m^&CYr6CCeOHe6&Jz/r6 ^P: e: 6SS,OJeCLrz&LezeH6JzhE&OS^r,CL6 eC,,^JHC rl&eO:HJ6rrOHeO,^^:rLer?S O &6CSLO&C^LHz6rz^3rLJ^::&LSzOSCLLJzC,L^&He H=&&z:G6O:^O eL, ^Sr, JJrJrH&&SSHO6ezL>zO,  :,L^6:S&,SJOCCr 6zeL,zSHz rKO ^S:6LC LSH^,J^Crr  GeJr:66:H&O6e^,:zCrS :H, ^Or&,S&OeJOL6zz,KeOLC yZL& SS6,LSLCSJ^ ^erH 6,LJr:66^fzOLeC&OzLrJ C,zJ :C&H:JzfCHLOz^ze^LH JSHO6zSC6,C&JCeH,6^zr?^6j^&::L6zCSOLeJ,CeSr& eHHJ6:z&<SO&^SeLLz rS^,HJOHnr &:&6HC6Lze-,OzOH:^6HJ&S:L6JH^Ore&,eCH,6 zHHJO:z6:>JO SA&^zJr:^rOzJe?H&6:C SC6LCz:z:^ HS ,H^J,:r6zCeSee6,zz8rOz.i:JO: &rS,O^eCOrzSre^HH6eJ_Y&6S^O:C L zS,,^JHC r{& e:&66CzOAeO,^&,rLz H&J,:J6CSrO&HOLHC6&r^HHOJ^::&LHrOSSOS&zC,L^&r^ H_6&z:k&JC^L:eL,z^SrL J!C  :&6eSHO&ezL/zOL^z,HLJ :S&,SJCrCr6&e&,H^6Hz w1OJ S:JLSzLSe,,J^CrrS6ye ,Te6zSrOOS^,:zLr  S6^JJ:C&rS OeCrL6z:6&^6H^J:NC&SS:6,S^^re,,&^eCO 6BzJpHO CSQOLe ,Sz, S C,JLC:e&HS6J CrL6z^,J^LHCeO-L&JSC vC LCeH,^SrrH Ox^e&:66^CS6OHC,Szrr&r HHJ6:zJrCJO^CXLL:^rS^,HJJC7L&&Se6HCJLzeH,O^^,r L_ &S:,6JCCOrS&OOzHr6 zHFJOzS6:>L6JeSL,zJrC^rrrJeH,JOSz6HCOJ&z:,L^ ,S &8J&S:r6JCe&Oe6LCS&rO eW:8r: 6SS,6^#zL,z^reOrH6JzFAJ&:&O:CJL Lr,,^JHC rrM&e:r66C:Owe&,^z:,r  !SJ,,O6CS,O&eeLSz6rz^=HOJ^::&L7 &&C,LJzC,r^&S4 Hr6 L:16OC^L:eLJr^SL,C:#SJr:&6eSH&:ezOrOLr^^HHL &:S&,SJOCC&L&ze,H^JHz H_O&^d 6LC LSeL,J^Crrz&rLJH:66zSvOO,:,:CLLO SH,JJ:C&r:6Oe:HO^zz,(^OH^J:O,& tg&zCJL:erO&^erH 6KzC&:O6^C:O6e ,:z,reCLH,J&:e&^SzOeC_O&l:,M^LH LrA,&JSCJrE^LCeH,6^zr?szN^^Oz^6 CSO,HO,:z,r&OeHHJ^,r&HSOO^HeL6z^rS^&L:JSgr&&O,6,C&LzCrJ^^zH: L 6&S:,6JS:LOe&,CzH6& zH8JO:^&CSLO eSLOzJrS^rH&^ ;H&6Sz6{COL^z:OLzeHS ,.J&C:rrzCe&HCz,zzYrO ^c:J:: JtS^OJeSLr:Lre^HH6^z(C&OSzO:COL Sr,,z^OL ru &e6L66CzOEC&&Jzjr&  ^:J,:J6C:L61eeLOz6Je^_HOJ^::J&S O:C,LezC,L^&re  _6&z:G^rC^OteL, z^r, JmCJr:&6eSH&6eSL#zOr^ :HLLC:S ,SeOCCrL&ze,HS:HzzZLe&zS:6LC LSSe,Jz:eH &3SJHkL6zSlOOe^L zLr  SHOJJ:S&rS&6HCHL6zz,H^OH^J:rL rSS6,CJLCer^e^eLH &PzJg:O6^C:6,e OSearJ CHrJ&:eesS66CC&LOzer:eLH JSp,&JLL6rC&Lee,,6^era  LHJh:L6 S&OJe ,CeL&e CHHJ6^:&qSOO^S:&&z^rS^,HJJC&J&&Hrr&C6Lze*^H^erc Le,&S:& :CSOre&^Jz,r& zHLze:z6:SLC:CnLLzJ,::&HJJeQHM,Sz67COOezr,L^^HSCLwJ&C:r6&:6OHe6,zzrrO z3:JLv:6SS,OJeCLrz&reeHrzJzst&OS^O: JL CS,C^JHC rI&&e:e66SCOSeO,z^:6H  ASJ,HJJrSrOJeeLrz6L:^Zr&eH::&6S 6LC,LJzCLLSOHC L16J,:I6OC^6HC:, zrr,60xCJr:&6e:zO6eeLqz r^^HHL  Wz&,SJOC3:L&zC,H^6,6 (XO&^S:6LC LSS,OL^Crr &XeJHz^6z2_&He^,:zLr  SOeJJHCz SJOeCHL6zzO ^OrerSbL&zSS&HCJLCer,&z:rH 6GzJr:O6zC:OLe:,Sz,rJ SHrJ&:e H:COzCGLOz^r:H H ^Syz&JSC6rC&LeCt,6ez,O O+^&::L6 rCO,C^OYzrr  e,HJ6:z&4SOzHe:LLz ,G^,H JC*6^SSC6HC6OLeO,6^^,HS K^&S:,HeCCOre&OeSLr& zHjJO:^SOSL&: LL,zJrCrCH JCqHzHSz6LReLzz:,L,Lr1 LcJJHr 6JCeOH6z,CzHrO^e6LJO: 6S&YOJeCLre H:^HH&JzLH&OS^O:CLL:zS,,^JH: rgJ&e:H6CCzO-eO,^^:rL  rSJO:J6CSrO&eeBOz6Lzz&HOJ^::&LS 6 C,O^Cr,r^JHeeSK6&z:}JO:hL:eO, ^:r,ze%C LrS6eS,O6eSLszOr^zHOrJ^=H&, OOCCrL&eSL&^6H: p,J&^S:6LC 6^e,, ^Cr6 &%SJH56J&S3OOe^&ezLr^ SH, B:C&rS&OeCHL6zzO?z6H^J:nL& SSr&CJ6Ce ,&^erH 6-ze :OJ^r6OOe ,Sz,rJe6Hr   z&HSJOzCSLOz^r:^LrXJSY,&JS:6rCJLeeHOr^zrn Ooz&::L6 :SOSeJ,Czrr& eJ6J6HzJ&SOO^e:LLz ,C^,,J^rur&&Se6HC6 ^exL&z&H: 62  S:,6JCCOrHS,ezHr6 CHKJ6:^&,HzO^eSL,eH,r^,H& SO6&&Sz64J L^z:,Le OH LqJ&C:r6&OrOHSe^Cz.rO ^CrJ6:^6S^LOJCH& zJre^HC JCNH&O:ezLCOL zSel^JHC rH 6::H6&Cz HeO,^^:rLzFQSJ,:J6:SrOJeeLHeSrz^AHOJ^::&LS &SSHLJzC,r^&HeOOg6 z:O6OC^L:eL, z r,^^HrJr:J6eHSO6ezLxCOL6 :HOJ ::&,+eOCSL&Sze,,^66O dkO&^RH^rC^OHe,&^^Crr &HS S:66:SfHHe^,:zLr ^HH,J :C&6S&OSCHO6CH,%^OH^ee(L&^SS6,SCLCer,&^erH 6gz^UM66^C:OLe ,S&&rJzCrLJ&:e&HS6OzH LOC^&6^OH JS.,&JH66rS SzeH,J^zrS OI^&::L&JCSO,eJ,:zrrJ eHH ^:z&uSOOze:LLz LSzLHJJC(r&&SeC6C66zC6,O^^H: L= JC:,JJ:^Ore&,ezHr6S^Hk &/C6:S6O SSL,zJrC^r6SJeWH&6SC6>C6L^e,6z^^HS ,HHJr:,6&SS^6e&,zzgC  ^8:JLH ^HSLOJeCLrz&^r^H,eOHEX&OS^r&C6L^zSeH^JrHe 0J&e:HrSCCOHeO,SS6rO  =S6O:^6SSr6 rHLrz6rzrCHOJ^::J6CeOSCLLJ:S,r^&He HrH&z:w6OCeL:eO, ^S,r J(CJr:&6eSHO6SzOLzOr^ :HLJ er&,DJ6JCrL&ze,H^6r6 KH& FS:6OC Jze,,J^CLrzLseJr:66eSb& e^OHSzr ^_H,eJ:C&rS&6Sf:L&zS,<:7H^J:GLJz:66,CeLCr&,&^erH 6H&Jt:66^S,OLez,Se,,& CHrJ&, &HS&OzCoL6z^r:^LH JSD,&JcC6 C&LeeH,6^zSL Or^ O:L6 CSO,eJJ6zrL&S,HrJ6:z&*SOJ,e:O6OJrS^OHJ z(r&&Se6HSrLzeh,O^eH: OG &SRO6JCCOreJ,ezHr6zzrrJO:^6:SLO L,L,CJ,S^rH&Je>H&6:^6q:O6Hz:,L^ HS ,O&&C_L6eCeO,e6Ozz;rO ^+:Cz: 6SS,O^eCL,z&,.CJH&JzV;&SS:6kCLOzH,,L^JHCL6h&&e:HJ6ZSOHeO,^^:rLl:ZS^ zS6CSrO&z,L,z&rz^&HOJS,6&OS OSz^L^zS,r^zO, rt6&z:H6JCzL:C6JS^:r, J ^Jr:&6e:,L ezLHzO6z :HLJ :SJCSJOCCrL ze,r^6Hz 6.O&^S:6LC LSe,OJzCrr &ueJH:6r:SN&Oez,:zLr  SH, ,:CJL: OeCrL6:J,#^OH^^:HS& S:6,C LCS6,&zSOJ 6xCJIOr6^C:OLCz&ezLrz C6 J&:e&H:J6,C%L z^ee^LH JS_, _SC6,C&O_eH,J^z,A &Z^&::L^6CSOLeJ,CeJr& eHHJ6:z&kSO&^S&LLz rS^,HJOHgr &:,6HC6Lze{,O:,H:zLOo&::,6JCCOr:Z,ee,eO zHrJOxJ6:SLO eSLCzJrC^rH Jevr&6Sz&&COL^z:,O^ HS ,rJ O:r6&CeOHe6zsziLO^6V:JL: 6SS,6&eC6rCLre^HH6Jz?GeLS^&HCCL e/,,eJHC ra&&eLJ66CzONe&,^z_rL CLOJL:J6CSzOeeCLHeJJ4^HHOJ^z,&LS OS:,&zzS,r^&He H&e&zH6rzC^L:eL,:zHrL J&LJr:z^,SrO6ezL6zJrz :HJeZ::&,SJ&CCOLJzeL,:zHe nsOR&S:6LC 63z6,J^SrrCJZeJH:66z:LOOe^,:z6r  :H,JJuL&rS&OeCHL6zz,yeOr:J:}L& SS6, eLCSrLr^erH 6{zJ3V76^:H6Ce ,:z,6O CHrJ&He&^S6OeCjL6z^O,^LrzeO9,&^SCzeC&LeeHLJS rH Jd^q::L6 CS6Oez,Cz6r&ezHHJ6:z&NcHO^C4LLzCrS^OHJ C3&&&Se6HH,LzeH,O^^rO LD &S:,6JCCOrS&LzzHr6 zHhJOzS6:=L6OeSL,zJrC^r6fJerHzCSe6<COL^z:OC^ ,j,rnJ&::r&OCeOHe6,zz rO ^8:J6: 6:S,OJCHLrz&re^rH6Jz91 O:LO:CLL zS,,HCHCzr(z&e:H66CzO3CL,^e:r&  +SJ,:J6C,HO&CSOOz6rC^u,OJ^::&LS zOC,LJzC,L^&HC Hf^zr:H6OC^OJe ,^^S,OSCgSJr:&rwSHO6ez6iSJrz :HLJ :SS SJJ, JL&ze,HezHS HAOeCS:6JHML:e,,JCrrO J3eJOrC6eS?OOm LrzOr za6JJ :C&r&LOeCHL6eCr,^OHzJ:LO& SS6,CJO:er,&^er, 6ZeJ9:O&&C:OLe ,Sz,rJ C,rJ::e&HS6OzCbD z^L:zkH JSX,&JSC6CC&OSCH,6^erACrd^&::LJ SSO,e ,Cz,r&eVHH J,r&1S&O^2CLLz rSzOO6JSwO&& R6HC6LzCrLC^^r, Lu^&S:,6JCC6^e&,CzHr^ zHrJO7^&OSLO eSJczJrS^rH&^L_H&6Sz64COL^z:OLe,HS ,!J&C:rrzCe&HeJ,zz}rO ^i:eC: JSr^O eCLrz&ree^H6 C :&OSeO:SrL zS,,^J,  rD&&e:,66CeOheOO,^:rL  5:J,:J6C%r6^eeLHz6rz^2J^J^H:JzS OSC,LJzCLH^&,e^,;6&z:R6OC^ SeLLzeHr, ^MC^r:&6eSHO6rrLdzOr^^HHLJ^:S&&H:OSCrL&eO,6^&Hz^rO^&zS:6LJCLSe,,JeCOO J;eJH:66zO6OO:-zHzLr  S&(Jz:S&rO:OeCO&Cze,W^O&& rAO& (_zJC LCereL^erH 6HC&,:O6zC: Oe ,Sz,rJz6HrJ&:e&,S6OeC+LOCOr:^LH JS=,&JSCJrS&LeeH,6^zrnO a^ ::C6 CSO,eJ,CzCr&^Sr J6:e&ErrO^e:LLC L6^,H JCa,&&H!6HSJJret,&^^L6 Ly &S+O^6CSOOe&zezHr6 zrr  :^&,SL&<eSL,zJrCz9H&JCkH&^Sz6rCOO^e&,L^ HSC.;J&S:r6&:6OHe6,zz.rO ^U:^Lwz6SS,OJeCLr&zreeHreJz1(&OS^O:HCL CS&^^ HC rs&&eH^66SCS:eO,e^:,r  (SJ,:JJOSrO&eeL,z6re^oHO &::&LS O:C,LJzCOre,He HV6&z:wC^C^6:eS, ^Sr, JGC H:&Je:&O6ezLszOr^SSHL z::&,S^OC:rL&ze,H^6&r 1tO&^:H6LC^LSe&6:^Srr &HOJ6:&6z:r^^ez,:zLCC SH,JJHC^OSJOeCHL6zz^6^OLgOO1L& SSeOCzLSer^H^erOeCYeJl:OeeSrOOe LrS^r  CHrT,::&rS66CrOL6z^r:,HH JS<,J^Si6rCJLesr,6^zrY ONS&::L6 SkO,e ,CzrLL eHHJ6:z&RSOO^S:L:z rS^,HJJCe6&&}e&LC6LzeF,O^^r^ LHzJ :,6 CCJ:e&,ezHL6zLHlJ6:^&1SL&CeSOOS:rC^LH&SLxH&6Sz&rH,Lzer,Le,HS ,WJJ::z6&SsOHr ,zz0rO ^rLJL:^6SS&OJe:Lre&,&^HH6Jz,C&OSzO:CLOJzS,,^JHC r}&&eHH6JCzOjeO,^^:SJ  rS z:J6CSrO&eeJ^z6LzS&H6J^::&LS J&C,O^Oe,r^ He :d6&z:D6OS^L:eL, z0r,  TCJr>C6eSHO6eeLDzOr^z:H&J :S&,SJOCL&L&CeL6^6Hz _oO&^:S6L: 6Le,,J^Crr &OzJH*J6eS1O&e^O:zLr  SH,C::C&rS&OSCHL&zz,LCeHzJ:_LJr:,6LCJO:H&,J^erHL^0zJ_:OJ^HrOOe ,Sz,rJH,Hr^C6S&HS6Oz6^LJzzr:r&H  r,^& SC6r&HL:er,6zC&O 6?^&:JH6 CSO,C^,bzrrJ eOrJ6:z&_SO6Oe:LLz ,M^,H JC1r rSe6HC6Lze!,O^^,:zD1 &S:,6JCCH6e&Oez^r6 zHbJO:^&^SL6zCJL,z rCC:H&Je?H 6S:6fC6L^en,LeCHS^O,:&C:L6&SiOHe6,zer6, zHrJL z6SS,OJC:LSz&,.^H SJzZ?&OS^&,CLL^zS,&^JH: rH&J^:H66CzJCeO,z^:rLzr9SJ,:J6CSrO&ee6HeJrz^;HOJ^::,JS &SSCLJzC,r^&HeC^16 z,&66C^L:eL, C&r,^^^eJr: 6eS:O6ezLkzOLO :HLJ 1V&,S OCCrLCze,H^6He }lO&^0:&JC LSe,,J^C & &reJ::66zS0OOe^LSzLL zzH,JJ:C&rS&^zCHOJCH,P^&H^^:KL& SS6,r:LCer,&^SrH &gzJLre6zC:OLCrL,zLrJ^:6&JJ:e&H ^OzC(LOC^6r^OH JSl,&J6,6r:CHreH,6^zz: J_z&:L 6 SrJ^e ,Czre6 :HrJ6::^&S6O^e::Hzer:^,r^Sr},&&SeSSC6Lze?L& CH: OW z::,6JCCOrCS,ezHr6 CHGJ6:^6:::O eSL,zJrC^rH&^eTC&6Sz6_COL^J,,Le rS ,dJ&C:r6&S&OHCJO6zor6 ^LeJL: 6Sj,6reCL,z&rC^H,^JzHr^eS^6HCLJOzS,,^Jr:e k&&::HeSCzO}eOLeS6rL C_SLr:J6CSrO&,HLHz&rz^LHOJe::JL,OO:C,LJ:^,r^JHe O,C&e:V6OS,OLeO, e7&J  MCJr^z6eSHO6Sz&,z6r^ :HLJ &L&,ZSr,CrL&zeS,^ He 7&6&^:, zC^LSe,S^zQr, &H?zJ:&6zS1rHeCLMzL,z:,HLJJ:C::S&OeCHOJ^S,_^6H^C=4L& SS6,SCLCer,&^SrH &TzJFN:6^C:OLe ,Sz,rJzCrLJ&:e&HS6Oz LLOC^,0^LH JSi,&J:J6rS LCeH,&^zOC O2^&:HL6CCSOLeJ,SzrLz er,zC:z&rSOHre:LLz LBSHH  KRrHISe6HC6OCe,,O^SH:SrT &S:,6JS^OreJ,ezOr6 CHm OEO6:SLO 3zL,z rC^rH JelH&6Sz6xCOL^C:L ^ HS ,AJ&Cz66&:eO6e6,zz+rO ^OJJLH zOSLOJeCLrz&OO^HrJr^;?&&S^6CCLL zS,,^ HC r+&&S:H6&CzO2SI,^^:rL ^{SJ,:JJC:OO&eeLHz6rzHOHO^^jC&LS OSC,LJee,re&,& H{6&z:R6Or L:C6,^^SrO JrCJr:&6eSH^CezL=zOre :HOJ 4r^^S OCCrOpeH,r^6rCSO16&^S:HJC LSe,OJStr, &{eJH:6SHSv&z,e,:zLr JJH6J :C: S&67*JL&zz,1J:HC d1LJzL,6LCJLCL:,&^erH^J:SJp:66^rUOLe ,Sz,,J CHrJ&:S&HS&OzCgOrz^r:^LH JSs,&J9C6 C&LeeH,6^zSL Or^ O:L6 CSO,eJLJzr, ^OHHJ&:z^CSOO^e:6LCIrS^LHJJSjr zSe&,yCLzer,Oz6H: L2  i,H6 ScOrSL,ezHr6^CrCJO:S6:S6O eSL,zJ,S^rHJJeaO&6SC6>SO6?z:,L^ Oz ,5 &C:r&,CeOHe6,zzjrO ^r: e: 6SS,OJeCW6z&LezeH6Jz4%&OS^^JCL6 MO,L^JHC rh&^O:H&J&^OYe&,^zCrL  _SJ,HT6CSrO&eSLHz&rz^jrSJ^::&LS^OSC,LJCCLz^&He HU6&z6O6O:^6HeL, ^Sr, JHeJrH&JrSHO6ezLszO&  :r6^L:S&OSJ&CCrL&ze,H:CHz Y5O&eS:6OC Or:^, ^Crr^<HHJr:6&C,OO6e^,:6Jr  SH,^J,s&,S&OeCHL6,H,sezJeJ:fL& S^66C LC: ,&z?OJ &_zJi:H6CSWOLCz ,zLrJ C :J&:e&H:JLSCXL6z^&n^LH JSs,J:SC6rC&LSeH,&^zr; :M^&::L6 CSO,eJOCz:r& eHHJ6:z,LSO&^C&LLz rS^,HJ JQrJ :C6HC&Lz:C,O^^H:zLHJ&S:L6JCSOrSz,ee,OC zHrJOLD6:SLO SZ&^zJ,-^rOHJe5H&6:C &COLSz:SC^ HS ,vJSr:r6JCeOOe6,Cz(,OS6HqJL: ^zS,O eCL6SSrC^HH6 LGO&6S^&Hr L^zS,,OeHC r(& erL6&CzOieO,^rOrLz:CLJ,:J6CS,OzeCLHH:rz^LLeJz::&LS^6rCLLJeH6 ^JHe HrH&::H6OSe^LeO, ^SzG JMCJrB O:SHO&ezJHzOr^ :HLJ^:S&,SJO:CrLJze,HzeHz V!O&^S:6LC 6SeO,J^Crr &5eLO:6Jz:COOe^,:zLr ^ H, ^P6&rSJOeiSL6zz,_eOrSJ:7O& S:6,:eLCCL6S^er, 6eJJ4:O6^:H re^LHz,O, CHrJ&_S&:S6O:C3CHz^r:^LH   2,& SC66C&LSeHL6z,ry O0^ze:L6^CSO,CC,Czrr& eHHJ6:z -:+O^e:LLz rS6&HJ^C+ &&Se6HC6LzF ,Oe^66 OQ &S:,6J_6OrC CzzHrJ zHSJO:^6:SL&reSL,zJr:^rHJJeUHJJSz64COLzz:,L^ ,S^6oJ&C:r6&Cee6e6OzezrO ^_:JL: &CS,&JCOLrz&re^HH6C^vQJ&S:O:C6L CS,,^JHC rOS&e:H66CCO>e6,^z,Oz ^BSJ,#H&rS,O&CS 6z&rz^ae J^::&LR  HCLLJzC,r^& r HreLH:q6OC^6:eJ,^^SSC JHHz :J6eSH&6e:LHzOrSC6HOJ :S^ SeOSCrO HH,r^6HzHCNO&^S:&6z,LSeL,JSSrr &2eJH:J6zS3OOee,:zOr  Sr^JJ:C&rSJOeCHL6CzL^^OH^J:TL& 6,6,:JOrer,&^erH 6H^JVHO6CC:OLe ,Sz,&& CrL C:e&,S6JzCGLOz^LH:CH  H=,:SSC6rC&6eeL,6^Srq Jp^^,:L&z:6O,ee,CHJr& eHH JA^&vS^O^:CLLz rSzOrCJC!J&&JJ6HC6LzeF,C^^rr L(:&S:,6JCC6ze&,ezHr6 zHHJO:^66SLO eSLLzJrC^r,&,,}H&6Sz6cCOz:z:OLeHHS ,<J&C:r&6Ce&HCz,zzdrO ^/:C,: JiS:OJe:LrC&re^HH6Jz_:&OS^O:C6L z:,,^erO r_&&e:^6zCeOyC&J:zDrL  erJ,:J6CWrJ^eCLHz6rz^{JzJ^rO,^S OSC,J,eH,,^&zZ H8^zr:H6OC^J^eJ,^^Sr&e:kSJr:&eHSOO&ezOr3^rz :HLH6:S&,SJ6:eOL&zC,HS&Hz tBO&^:^6LC LSeO,J^Srr &H^JH:66zSsOOe^,:CL,^ SH,JJ:C&r^zOe:H6}zz,f^OH^J:q:& <a6:CJLSer&L^erH 6rz O:O6zC:OOe 6rz,,^CLHrJ :e:6S6OzC7O&:J,u^&H ,J!,&JSC&L:rLeeO,6zfrR O}^&:Z^6 C:O,ee,CzLr&^er J6:z&nrrO^CpLLz , ^,HJJCPr&&Se6H:6OOeI,O^^H: LeC&SH,&rCCOre&,ezH6: z,Uee:z6:SLO eS6ezJ,:LHH&JS_HJLSz6KCOL^Cz,L^ HS OUJ&S:r6&:JOHe6,zzHrO ^g:^L:S6SS,OJeCLrrereeHrSJzc=&OS^O:S,L CS, ^JHC r=&&eLv66SC6zeO,e^:LL  2SJ,:JeLSrO&eeL,z6re^!H eH#_&LS 6&CJL zCLL:eHC H-6r::u6OC^6::&,^^Sr, JWC:J:& rO,O6ezLVrJrS^bHL:J:S&&H:OSCrL&r:,O^&Hz^rO^&zS:6L66LSe,,Jz:HO &NCJH,&6zSROOe^L^zLr  SHOJJ:S&rS&6CCHL6zz,?^OH^J:rL nSS6,CJLCer:z^eLH &KzJl:O6^C:O:e OFz6rJ SHreL:e&HS6&zCzLOzzr:^OH zrn,J^rL6rC Leez,6^zrn^&LJJa:&6 HjO,eJ,CeLr  eHOJ6.z&2SOO^e:OSz r:^,HeJCXL&&:e6JC6Lze7&r^^rU LB J^:,6JCCOre&,ezHL6 eHgJO:^6:SLHCeS6,ezrC^rH&JeIHz:SzJtHeLzz:,L^ HSze3JJ: H6&CSOHCL,zzTrO ^rQJL: 6SSOOJeSLrz&,,^HH6JzjH&OS^O::LL^zS,,^JHC r&e&eHH&CCzOUeO,^^:,,  rSJS:J6CSrO&ee fz6,CzCHOJe:: LS OSC,LJHL,r^&He ,f6&e:l6 HHO1eL, z&rJ  nC LLe6CSHO6&:LgzOr^z:L&J^:S&,SJOCLJL&Sr:&^6Hz b&C&S:<6L6eLSe&6:^Srr &JLJO:&6zSLJeez,:zLzz^rHLJJ0:e&SJOeCHC,zz,T^OreJr4L&^SS^LCJLCer,&z&rH 6+zJr:O6zC:OLS6,Sz,rJ CHrJ&:e HS^OzC9LOz^r:6JH ^Sw:&JSC6rC&Leee,6zC,e Osz&:,H6 CSO,SJLJzrrJ eHrJ6H:&{:& He:L6z S ^,HJJCHLzOSC6LC6^He_,O^^,H^C> Jr:,JHCCOre&,eeHr6 eHEJ :^&HSL6 C:L,zJrCC:H&JCPH&6:O6nCOL^z:,L^ HSz,Hr&C:r6&CeOHJ^,zC0r^ ^7:JL: 6SreOJSCJ zJre^HH6Jzr &O:e:SCLLzzSLH^JHC r=& 6:H66CzOreO,z^:rLziySJ,:J6SSrO&ee6HC*rz^{HOJ^::S S &SCeLJzC,r^&He^Yx6 z:z6OC^L:eL, :Cr,^^riJr: 6e3HO6ezLEzOJH :HLJ *j&,S OCC6&SzC,H^6rL O{6&^xHz C^LSe,Se^Crr &rezL:&6zSvOOe^zOzLL:H;H,JJ:CrrSzOCCH6rzz,LCeHzJ:3Lr :r6LCJO:H&,J^erHr,_zJ1:O&eCrOLe^,S:LrJ CHrJ&HO&HS6OzCrLOzzr:^Lr^JS1,&JSC6rC&LeSHO,^zrw O2^&:zJ6 :SOeeJ,Czrr& eHeJ6_CJOSOOze:JHz rS^,,J :Pr&JSe6rC66:ewL&SHH: 6o ,O:,6JCC6LpO,CzLr6:zHyJO:^JH:^O CrL,OzrC^rH&JeI6&6Se6<C L^eH,Lz rB ,8J&Cr:6&CCOHe6O,zfrO ^o:JL: 6Sv,&,eCLrz&re^HC^Jzr/JOS^O:CLL zS&e^J,CC lJ&e:H66Cz& eOLeLSrL zbS H:J6CSrO&CCLHz6rz^rHOJz::&L:COSC,LJzS,r^&HezHHJ&z:R6OC^L:, , eSrJ JbCJr:&6e:FO6SzOCzOr^ :HLJ LC&,:^6HCrL zeOH^6Hz f1OCHS:6LC Oge,, ^Cr6eSoCJH:6&LSOO6e^OH_ r^ SH,,e:C&rS&&ebLL&zz,Y^OH^QO>L :6m6,CJLC N,z^CrHSJbzJLre6zC:OL &LrzLrJ^:6&JJ:e&H&,OzC.LOeerr^LH^JSLL&JSC6rC&O&eH,6^zrr O#z&::L&CCSO,eJ,Czrr& e,HJ :z&%SOO^e:mJz LSz&HJJCKr&&Se6eC6OCeS,O^zH:CHM &S:,JJ:&OreJ,ezrr6z:HV &,H6:S6O LCL,zJrCzLOOJChL&6zH6iCOL^CHLH^ rr , S&C:r6&CeO6e6,ezDr  ^HHJL5 &CS,OJeC&:z&rC^HH6Je+!&OS^O:CLL zSO,zrHC r<&&e:Hr^Cz&Ve6,^^:rL  .See:JJCr OJeeLHz6rze HO e S&LSzOSSHLJzC,r^&r  HP6&z:r6OCzL:eL,S^Sr, JMSJr:&6eDHO^ezLszOr^ :J J HS&^SJOCCrL&zeLK^6,z^6cO&^S:6LC  Ce,L^e(rr  1e^H:66zSnOOrH,:zLr ^sH,J :C&6HSOCCHL6eL,O^6H^^HO &^SS6,JeLCer,&eeOL &jzJ+:O6^OOOLS:zBz,rJ C:SJz:C&HBrOzCL&ezzr:^LGO rTL&J::z&CJLeeHe,^zr. OHe&r:L6^CS LeJ,Czrr&^JHHJ6:z&rSOOze:LLe rS^,HJJCVr&&SeJHSOLzed,O^^H:OJh  S::6JCCOre&,ezer6^Cr,JO:z6:rHO eSL,CJL^^rHJJeKr&6a:6ZS&JHz:,6^ 6, ,XJ&C%L^OCCOLe6SSz9rO ^rHJJ: &rS,C^eCLrz&re^ H6JebV& S^6HCLO er,,^JHCe:>&&C:H66S&OTeO,^^:rL  mS^,}J6CSrO&eeLH&^rzeMrJJ^::&LS OSHeLJCC& ^JHe HU6&zH 6OSeSSeL,z^S,H J-CJr:&J&SHO6ezLrzOrz :HL^,:S&,SJOSCrL&zeOHzJHz i/O&^S:C C 6Se^,J^Crr &ae /:6Jz:6OOe^,:zLr SCH, ^HH&rS Oe:HL6zz,K^O&HJ:8L& :!6,C LCe66S^CrH 6HLJO:66^:H^ e^,Sz,Ce CHrJ&He^LS&OzC1LOz^^O^L,:pm},&JSC6zCeLCeHL^^zrLeeKz&::L&rS,OLeJL:R&rJ eHHH,:z&2SO6eerLLz^rSSLHJJCUr&&SC6HC6Lzer,O^zH: LH &S:,6JCCOre&,eCH,S zH%JO:^6:^JO SSOOzJrC^rH&Je5e&6:C6:COLzz:&H^ HS ,rJJe:r6JCeOre6O:zD,&CHv:J6: ^LS,OJeCOL:OrC^LH6e,xi&OS^&HS,L er,,O6HC r5&&e>U66CeOWe ,^zHrL^ r^J,:J6CH:O&eCLHz6,,^.HOJ^::&LS OS:,O6zC,r^&He He^&zHw6 C^L:eL, ^S6e JrCe :J6eSHO6ez6 zO,e,SHLJz:SJHSJOCCrL&e5,H^6Hz r}O&zS:6LSzLSe,,J^Srr &}e^H:S6zSxOOe^,:r r zSreJJ:C&rS&OeS4L6CzLz^OH^J:wL& ,C6,S^O er, ^eLH 6/zJc:OeHC:OLe LBz,r  CHrzJ:e&HS6OeCFLOz^r:^LH JS-,^^SC6rC&L:eJ,6^zr_ ,rr ^,z :ryJCezL6zrr& e%:^,LOzrHz CH,Jr:r,H^eHJJCsr&Ob,^JHLJS:eO^SS6& &Hr&S:,6JCz6C:CJ,:,LSCzLSe^:C&&SLO eSLHCC6SCJ6Oe6LJzSSS6^COL^z:,rezOLe:Lzzz,zzHHOJze ,:zorO ^*Ce&,,z^SOOJeCLrz&reJHJzezY,&eS^O:CLL&Cz6CCSOSCzLL&::S66CzO}e,OrSeOSCHLS ^,ezAHe& Hc&Jz ,H^NHOJ^:C Or,^ aCJ ekLH^&He HfL 6rS^JH,6^trJX:66ezqL^e_,J^OSLOeezL%zOrJSLL^e&LOzzS^OCCrL&ze,H^6Hz sGJJLS:6LC LeSrJrS:6&zeO<eC,BzrS,O^e^,:zLr&S8L CH,^&OSeOeCHL6z O,CzOee d&J,SS6,CJLz:^&LS6O C6L6e^,J^rSrO e ,Sz,r6C LJe ,6&LSSOzC5LOzJOHSJO=zH, z^r&6OSrLeeH,6^ LJCSLne6,CJLHL ^X^JOzO,r eHHJ6: JJrr LD&JLC:&JCC6=C6uO&eSe6HC6L :C&:S6O  &H,&S:,6JCz6 iS&^:L6rzeLSeCL,&rSeO eSL,z6L:S6LS^rLJe*rH6pCOLCe^,L^ HS H,Iz&,,^HHL ^SH&H:&6& CH6JL: 6SSH 6H_J^:H&,S^H  CZM&OS^OCHeJ,A&&>S6O6ezLHz:,6^CH: O::JH:J&r eHJJ,:J6CS4J,ErJr:6O,SOL:eL,J&&:OOSC,LJzzLSSH6O^^LLe,,  zHCJ&:S,ez:r, JXCJuH:^^r,^Y8e&6:S6JS,O&zM,L^er6^&H^L^e,,H^6HzJSrCz&rO^&HrJLeO,J^Crr &.eLH6C^zS,66e^,:zLr&zzOCe^,,zOrz ^w^6C::&LSS,:eOLzer:H6:CJLCer,OeLOSeeLSzer: rrJJ^Hr&Jz6,O CHrJ&:^JerL Sk 6^:S&&zz6(eeL6zLS:6rC&LeeH,6^zLeCO%CJL:L6 CSOHC:JH:O6H :HeJ6:z&YS,JrHJ&^qi&&z^O:ezLOz,S:6CC6Lze8,,erOOCLL,&,HJ^:Hz O::&6zLre zHpJO:JzJH^ 5w:&Czz, ^rH&Je:: z,r SH&J376JreSOLC^OHJp:S6&CeOHeLO&S^6SzrLeer,^^&r^ rH1LOzere^HH6J Le^zrJ^JC&OLzS,,^JHz^^,Cz:U ^^He HT,&,S r&^6wSJ,:J6z:^ Lx6& :6L,C6OOeLrHzJr7O:C6OLzC,r^&H^zrL^z,r6^6:: K:^J&SJ6^ zH6Jr:&6eC:&z%:JJ:,&,CCOJeeer&,SJOCSL ezC,H^6LJ Q9O&^S:^OC LSe,, ^CrL &Hr^ :&6zStHJe^LczLr  SH&z::S&rS&H:CHL&zzLr:^HzJ:YLJ6SS6,CJLC::,&^CrH 6WzJ1:OJ^:rOLe^,SzLrJe HrJ&{C&HS&OzCrLOz^r:^LrCJS+,&JSC6rC LeeOL&^zr< Oe^&::O6 :8^Je Lrzr,e eHHJ6mH JS6O:e:OCz r:^,HJJCT6^SSC6HC66Lex,6^^,HS 0^J,:,J,CCOre&6rr,r6^xHX S:^&_SL6LeSL&S:rS^rH&^O1H&&Sz&rr^LzeL,LCHHS ,QJJ,H^6JSHOHC:,zzHrO ^F:JJ,P6:S,OJS6LrzJreeHL JeKO&OSSO:SOL CGJJ^ r, rHC&e:H66Cz HeOL=^:rO  H(J,HJ^QS,OCeeL&z6,:^qHz, ::& S ^JC,L zC,J^&rZeJc&&z:N^:C^OAeLLzx,rL CdCJ6:&6eSHOerOL+z^r^zeHLJ^:S&LSJ6HN LJze,He,Hz HAO&Sr66OC LSS&,J^Srr^ 6HJr:z6zqJOOe^,:z^J, SHJJJHS&rSJOeCrL6z:6&^6H^J:rO& S:6,CeJLe,,&^eLO 6KeJMHO CS5O e Lrz,,  C,JLC:e&6S6^OCfL6z^Oh^LHCeOyL&JSC^eC&LCeHLJ>ArH ^B^ L:L6 CSO :A,Sz&r&e:HHJ&:z&YSOOSw6LOz rSC6HJJSWrJ LH6rCzLzCz,O^^H:z^e:&S:J6JDJOreJ,eCJr6 :L&J6:^6:4:O e:L,ze6L^,H&Je,L&6Se6qS& :eu, ^ L6 ,*J&C:JeHCeO6e66^zYr6 ^HIJL:C^OSLOJeC&Hz&rC^HH^erUH&OS^ rCLL^zSLO:CHS &V&J6:H66CzO0-6,^zLrL ^lSJO:J&,,eO&CHLHvprz^HHOJz::&JrmO:C,LJ4&,r^JHe^,Oz&e:O6OS:L:eL, zL&C JHrJrrS6eSrO6eeLuz 6H^PHLJ ,O&,S OCC6&SzC,H^6O: hM6&^UHz C^O,e,O,^Crr &,rL&:6&wSj xe^LgzLOr SH&z::S&rS& &CHL&zz,LCeHzJ:jLzCSS6LCJO:H&,JzHrHzSvzJA:O&i, OLeS,S:rrJ SHrJJ:e&OHCOeCqLO: r:^OH  r,^& SC6rHzLeer,6zC&O 6/:&:r,6 CSO,eJ&Szrre eHrJ6:C&KSzJrCTL z &r^,H JC{r&&:7 JC&LzeP& ^^rl LwCzO:L6JCC ee&,CzH,J:*HHJ^:^JJSLO eSL SyrS^&H&Le5H&&Sz6PCOLS:6,O^ HSO,}J&S:r& ,HOrez,zCJrO ^M:J^rH6:SJOJJCLrzJre^HH6J:,&&6S^O: LL z:,,eJ6L ,ie&e:O66S&O5C&&H^:rz  ,HJ,:J6CSrzeeeL6z6,r^*H&J^>OeSS 6,C, JzC,,^&HC HE^zr:H6OC^ :eL,^^Sr&e:PSJr:&reSHO&ez6T:erz^LHLJC:S&:SJ6:4 L&e,,H^JHz lvO&^OL6LCSLSe^,J^:rr C66JH:z6z,6OOez,:zOr ^rL^J :C&r,COeCrL6z:6&^6H^J:eL& S:6,:JJ{e,,e^erO 6WCJ+HO CS_O e L,z,,H Cr-,r:e&:S6z6CGL6z^,L^LHCeOqL&JSCzCC&LCeH,^SrrH O}^,::L6^CS6OHC,Sz&r&zzHHJ6:z sHJOzCOLLzCrSe6HJ^C,O&J:r6HCeLz:r,O^^rC LIS&S:O6JC:OrSC^:zHrz z&rJO:z6:SeO Cr&^z rC^r& Jeyr&6S: &C6L^z::L^ H: ,jJ ,:,6eCeOHe6,zzN,&eLE:J : J6S,OJeCLrC6re^6H6 q-%&OS^&H62L e,,,^zHC rX&JS:C66S8OACr,^^:rL  LzJ,:S6CSrO&eeLHC6,:^<HzJ^lO&LHOOSC,LCzC,J^&r, HU6&z:y&:C^OLeL, ^Sr^ JHHJJ:&6eSHCrezLHzO,e:LHO ,:SJOSJOCCrL&L,,HzHHz  oO&^S:6LS&LSeC,J^:rr  ceJ&HS6eS^OOL6,:zOr  SH,Je,L&,S&OeLCL6ze,meOLC tFS& :r6,S LCSr6^^Cre 6HLJF?66^SOs,e LJz, S CH,J&8&&HS^ rCHLOz^^O^LH^JS;&^:SS6rC&eJeH,&^z,rS^FzJ :L ,CSO,eJOCSOrJ^6HH +:zJeSO6erLLOeLrSzzHJJCEr &H:6rSrLze ,OeCH:zL,e&:::6JS Or: ,ezH&C zH^JOk66:SOO CLLzz ,r^rJ,Jehr&6SC63C JHey,L^ J^ ,p &CdLzeCCO6e66Uz{rO ^rHC :^&LS,&seCLrz&re^:H6 v/G&&S^6HCLOzL^,,^CHC O?&&e:H&J:JOWe^,^zrrL  xS^ 6^6CS&O&OrLHz&rzCwHOJS,6&OS OSO LJzS,r^&LC H_6&z:H6OC^L:C6JS^:rJ JH^Jr:&6eSH ,ezL6zOr^ :HLJ HSJrSJ6,CrLCzeOC^6Hz^L>OJoS:6zC LSe,,Jelrr ePeJH:6&rSAO CL,:zLr OeH,J :CJL,eOCCzL6eC,o^OH^J:Jz& : 6,SHLCer,&^er: 6HOJX:&6^SHOLe:66zL,r CCMJ&:C&HS6OzCL&ezzr:^LC&JSNL&J>C OCJO6eH,^^z,H Or^zr:O&LCSOeeJLSzrrCLzHH v:z#6SOOze:L:z ,rC^H JCGrECSe6rC6L::&,6^^H:OrR &::,JJH5O,CH,ez^r6zSHf^OrC&?SSO CJL,S^rCzL6eJCce&6SS63COL^z:&,^^rJ ,Hr&C:C6&:eJLe&LOzWr: ^HOJLH:MLS,6reC{;z&rC^H,JJzkL^eSzO:CL-&zS,L^J,CeO;JJ6:H6:Cz&zeOLeDLrO^LUSJ6:J6CSr6&HJLre_rzCrHO O:: LJ OSCCLJe6,rCrHe^,Hq&z:z6OCzL:eL, eS,: JHJJrxr6eSJO6CCOzzO,6 :H&J :S&,SJ6 CrOrze,,^6HC uHOJCS:6SC L:e,L,^CLr^rseJz:6&LS2&Je^OHv r^^ H,J :C&rS&&eULL&e6,{zGH^ 65LJzL,6LSLLCeO,&^erH 6H JxnR6^SHOLez,Se,&L SHeJ&:C&H:HOz:c&Jzz, ^LrrJSqO&JHC6JC&O6eHLO^zrS Or^zr:O&,CSOeeJ,:zrO&^rHH .:zJSSO6Je:6LSer:^CHJ 6_r ^Se HCeLze^,OCJH:^S}  gLJ6 S&OrSL,ezHr6^C6OJ6YO6::&O eSL,CJ6m^,rrJeBe&6:;67:O&Cej,:^ r  ,, &CiL SCeOCe6OzzgrO ^rHC :^&zS,6JeCLrz&LeCLH& JkfJrS^&6CLL HO,,zrHC :!&&C:HJ6oSOHe:,^zJrL z2S^,,:6SSeO&C6LHC^rzzrLeJ^yz&L_:OSC,LJzCJ ^&r6 HHr&z:H6OS%O&eO,S^S^: J2SJr: 6eSOJCeeLMzOz6 :HOJ lL&zS OCCrOHze,r^6HC Q8 zH:Y6LC OJe,, ^Cr6eScCJH:66zStO6e^,:SOr  SH,J :C&rS&OeCHL6zz,fzzH^J:XL&e2H6,CJLCep6,:Y6JC&LL^ ,  rH& z=,&J:6LCSHOje^LO&LSJOzCqLOzJOe^&rLJS7,&JSz&^:r ,:&&JSO,CC:LCeJ:&6SCSO,eJ,zSSOCCSLzJ dH&1SOO^eC66:C&JSzOr vH,&&Se6HCLJ&:^&SSrOOCOL^ze,6^LrOJ^nS&^:66: SH JO:^6:Sr&SHrJz:6&6ScOze:8r&JSz65COL^z:,L^ HS 6H^&C:r6&C^JC/7JL:,OzCeL zer:^:rL ^h&Jz:L&GC^H JC(=&OS^OCdrLee&,,^JHC kODeP, ^:rrJS8J&6zr,r  pSJ,:6JOre SH,&z: &LzJLzee, zzH:6HCCLJzC,r^OLJCOLCzz,J^^HEJ&:S,ezOr, JnCJu;:J&rJJe4C&^zJrS :HLJ :ez6rr^ CLL&ze,H^6Hz U:Oz :r&ZC LSe,,6ez6OCeO6e^H^^rH:J:vrJJz&rC SH,JJ:z^JrO SCLLCzz,l^OHJC L&zSrL zHJO.e^,&^erH L,6z^rCz,r, zC?Lvz,rJ CHrJ&:e&H^6 6C2LOz^r:z^H^ Aq,&JSC6rC&LeCe,&^SrB Ow^&::L6 6,OLe^,Czrr& CHH JOQ&HSJO^C LLz rS^,O JCxO&&SC6HCJLzCrJ^^zr, LHe&S:,6JS,^ee&LDzHr: zHHJO:z6:SJ De:L,zJ,6^rHJJeyO^CSe6ACO&zz:,O^ ,0SJl JH:r6^CeOHe66H&6rO S+:zO: 6:S,6deCL6SSrC^HH6zeQs&6S^&Hr L^er,,zLHC r!&JSL66&SGO>ez,^^:rL  rrJL:C6CS,O&eeLHz6r ^MH J^::&LSzOS: z^zC,6^&LC H2&&z:O6OCSJ6eO, ^SOL JDSJrA eHSrO^ezLezOr^ :HLHq:S&JSJOCCrL&ze,HzLHz L2O&eS:66C &LJ ,JzHrr^:seJr:6&CS-O MHLVzLr z6H,J :C&6HSOCCHL6Se,(^6H^^HO &^:r6,SLLCer,&eeOL &H=Jf:&6^:-OLe Lez,re CHLJ&:S&HIeeCCyL z^6N^LH^JSF^&J:H  CJLeeH6&^zrH OHeCL:O6CCSO&eJ,CzrL&e:HrJ^:z&LSO6Je:6LSer:^&HJ H8rJLSeJHHCLeeL,O^SH: Oy  iLJ6 S,Ore^,ezHr6^C6OJ6WH6::,O eSL,CJS6^rHSJeGJ&6:z6gS&O:z:,e^ r& ,+J&CyLJLCeO^e6OHzMrO ^rHJ:: &JS,6SeCLrz&re^6H6 rjo&:S^6HCLL C&,L^SHC Ju&J,:HJ6:eO3ez,^zOrL^QxSJ,HO6CS6O&CrLHzJrzzrreJ^/L&L:SOSC,LJCC,z^&rH HXz&z006O:^OreL,:^Sr& JW:JrH&JHSHOCezLLzO,O :HL e:S&JSJ6LCrL&ze,HzLHz OPO&^S:6LC LSz^,JzHrr &9eJH:66z6&OOe:,:zLr  SH, ^Or&,SCOeSOL6zz,8^O,E }#z& SS6,CJLCerOr^Cr  6szJ+:O6^C:C e^LOz,rJ CH,J&:e &S&6HCXLez^r:^LH 6:x,&eSC6rC&LeeH,6,^ro  w^&::L6 CSO,: ,Czrr& CHHJ6:z&_SOO^e:LOzCrS^,HJ MX&&&Se6HCL L:6&CS^rr^Cb &S:,66:, eH_Jle&OSSLLSCn,LJ&rJ ^HrJ^C:6zS&Lz^^LL^:,r 6CJO6z:,L^ He^ Lfe6,_zrH66 >^&e:L6e CHLJL: 6SSH^Lh,J5ZY, ^HH6JzHre^SzO:CLL^zS,,^J,CeOAJ&e:H66CzOLeO,^:arL  WSJL:J6:SrOCr6LHz6rz^6HOJz::&OS 6rR^L zC,r^CHe ru6&:r&66C^L:CI, ^:r,^^6rJ,:&6eSLO6ezLtzzOr^pHLJ :S&,S OCCrL&e36J^&Hz .4O&^:B6LSz^,eL,J^CrL &PeJH:6ezSZOOe^L<zLr^ SH&z::S&rS&OeCHL&zz,;C6H^J:RL&^SS6,CJLCer,&^erH &azJ3:O6CS^OLe ,SzHLOC&LJeJLO^S4S^LHLJ^zer:^LH ^nrC&JSC6rCJLeeH,6^zOH Of^&::O6 CSO,eJ,Czrr& CHzJ6:z&+SJ66e:LLz rez:OrC6H^zLr^^r>: r:^&J^CrL L4 &S:HJzH, LnH,:z&r6 zHIJ,L,^OHz ^XJL6e,rC^rH&J^HCzF,LJJF: H/^&rSHOJ 6H6&C:r6&C^&L2(J&CO66CaOCzSLhJ:rH^.H6LOzCre^HH6J LO^zrJ^6HeLee6,,^JHC frSz6re^CHO Jyr,CzLrL  ySJH,L^,rL He:L z6rz^AH,^:L;^^,& JH^ TeV, ^&He HVLz ,,^CHL 6aCO2^Sr, JXC J:J6eSHO6ezL!zO,erzHLJ :S&JSJOCCrO C,,H^6Hz 6aO&^S:&6rSL:eL,JzOrr &_e^H,C6eSHOOez,:zJr zmL^JJ#1&r:KOeCHL6zz O^OHzJ:7&& :f6,:J Le,,J^err 6IeJT:O nS?OOe L0z,rJ CHrS :e&HS6OzCWL&z^,,CzH^JSF,JJSC6,C&OSH6,&zbrw J2^&::LJ HHOLeC,Cz&r&^6HH JO-&HSzO^CLLLz rSe,LzJSi &&:a6HCJLze.Je^^rL LHZ&S:L6JS,O^eJ,ezH,H zHHJO:e6:SJ fe:L,zJ,J^rHJJeyH6CSz6cCOL^z:,L^ ,SC^5 &C:r6&CeOJe6LC{Or6 eF:J : 6SS,OJrLLrz&re^,H6Je7P&OHzO:CLL z:,,^JHC r2&&e:H66CCO_eO,^zr,r  !SJ,:6 &r& ,H,&&S:6Oe&Lzer, z::f6HS_LJzC,r^O,Oe:LSzHr&^6HL&JHy&,SJ66 C*CJr:&&SCHO6ezL0z6r^ :HL zp^&,S OCCLL&ze,HzJ,J j.&&^:b6LC LSe,L,^Cr, &+SJH:&6zSM6Je^,:zLr^ SH,JJ:C&rS&OeCrLzzz,b^OHC &AL& SS6H:JJ&RO6*Sr6rC6kSJL:O6^C:OrSYJJfHrz^^HrJ&:e6:tL SHzJ :^6 eeO,COLSzr,L6OCSLeeH,6^ ,JC LeeHQ: CSHOzeJ,CzrrOe,LzeJ,:z H:^rC&LLz rS^,OrJCbr&&Se6HC6LzSx,C^^H: Li &S:J6J:COCe&,ezHr6 zHLJOH^&OSLO eSL,zJ,9^rr  6?H&JSz6HCOL^z:L6^:HS 6DJ&::r6&CeOHCC,zzTrO Ct:JO: 6S:^OJeCLrzJre^HH6JzVQ&OS^O:COL zS,,^zre r>&&eS:JSHO H::&r:JL6C,O&zC,:^zHJ JeSLHz6rzzr,:J^::&LS^OSC,LJzC6,^&He Hv&&z:06OC^L:eL, ^:r^ JoCJr:^&HSHO6ez,See&LS&OJJet6&,SJOCC_6L:r& zC6OCJL &C:&6LC LSeHO:S&6LCzOOzz,S6SS:OOe^,:zrLLCeO6eHHJzlrS^LH^OS:J6SS6O, rkz& SS6,C66O26& SS,ee^ASJC:O6^C:OrS&JH:S6eCCLe^:,6zJ,H OH&LJeLr:^LH JeHzzOr,^ #CJLc^&I:rr: O_^&::L6KCSO,eJ,Czrr& e,HzL:z&_SOO^e:Lzz LSzrHJJCMr&&Se6OC6OCCI,O^eH: 61 &S:,6JSsOre&,ez,r6 CHUJzk-6:SLO C6L,z rC^rH& h,J&&Sz6aCCL^e#,L^COO LUJ&C3q6&CCOHe6,rzarO ^HNJL: 6S8,r,eCLrz&re^HH JzrjJLS^O:CLL zS,J^J,C  >&&e:H66CzO6eOLee&rL z=SJL:J6CSrO&SfLHz6rz^rHOJz::&LH^OSC,LJzS,r^&He Hv6&z:n6OCSL:eL, zHrJ JsCJr:OzOH& S2zL,z^r^ :HLJ&L^^ r6^6COO1ze,H^6H zJ,zzJ,j&zHCJLhe,zz,rr &Te&:,z^,H6 6YzOHzLr  SrOCC:S&rS&OCCHL6zzO2CJHzJ:/L& SS6OCJLCd,,&^erH &YzJr:O&0, OLe ,Sz rJ SHrJJ:e&OHCOeC*LOe>r:^OH  r,^& SC6rSJLeer,6zC&O 6q^&::&6 CSO,eS &zrr& eHzJ6:e&dS6O^C,&zz^rS^,rrJC},&&:X JC&LzeY,O^^rN LHzC,:L6JCCO6e&,ezHre:&H_J6:^6:SLO^eSL6zJrCz&H&JeoH&6Sz6fCOL^CL,L^ HS LuJ&C:r6&:HOHe6,zzrrO ^9:JLr:6:S,OJe:LrzJre^OLCJeZ{&OS^O:COL zS6L^JHC r/J&e:H66CeO8eO,^C rL  FSJ60r6CSrO&e^6J:^&OCeOr&:r&^SH:6HCCLJzC,r^OOLeSLkz,,d eHSJOgC,ezJr, JiCJ;r,zdrJ 6H,JOSz6rC H&JS:S&,SJOzHz&CjL&H^ rL <sO&^SC&:H& 6?dL::HOJS9o:Jz:66zSTO,Sr&eS^&qCLLzCH,&z S^6LCHL6zzrSe^OJC6,^zerz  CzOOer,&^eH:^COOeSWe^SHO Cez,Sz,rJ CHrJ&LOzHS 6OC?LOz^rCeOOCe6, eHrz^6H^ LeLLr^zr< O#J^JrSz2rO &y:JOS:OCS,OHJ +H&VSOO^eC6e:66LS^OJ Iq6&&Se6HCL&,:S&S^Crz LB &S:H&:rHJJH(O:S&6JCOr&e:LJ&rS:O eSL,z6L Ce6wzL,zzC,6 SFCJLer,z^ HS ,K6 O,6^ HS6e:^,Sz&rO ^B:JrHHJ r^JS{:&ez^,r^HH6Jz:SzCr: OriJeef,,^JHC rk&ze Z^6CSOzeO,^^:rrzHr e^rS^:He6SHP&&::rC^_HOJ^::&LS  rH,LzeJ,r^&HeJ:HCe ,O zrr &SC&,S:OC zH^Jr:&6eC:&LwSJz: 6^C ,ee,LOzSrr^LCOOrze,H^6H z:L zCr &e:L O: &^S&rO :0eJH:66 D   :,JzSS6,SHH6J::C&rS&O^:LJ^C,&HS,O: rH,& SS6,C66JNy&^SO,eCLOreJ,SJrHe r>^&&z6,H CHrJ&:^JS,Y C86JJ:S6CCCHe :8,&JSC6X:rJ^; &,^u,JCeLLezS JzHJ O::&&: r^^LHHJ6:z6Ste LHHJJ=r6JSzHz  yr&&SeO:PHJO:C&,Sr6(eS,HzJr zHSQOSe&,ezHrLeLOez:,LzrAJ _5C&C:j&6^OrEJe9H&6S JOH  r:C&CS&6rC6dzJS:r6&CeL:S,JO:rOzCCO,er,r Or& eH66&SC&,S^H  ,?3&OS^OCSSJe:J&OS6O&C^v &e:H66CzO}^O^:S:r&^ *SJ,:J6z:^ Ll6& :6OQCSOee*LJ^S0/^r{  Hec,e^&He HmL Cr6^HHCJCFCJ,S&OC zHrJr:&6eC: r_HJrS:rC^CHLJ :S&H21 ^Ge&::eO StOH^&,:zw,&^CCe6ne,,J^CrbzSL6e6,&^ HJJzH,& SCOHS&O&e:,,^SrHO:CCL6zz,_^,LOe ,eer,r^^SM6LF66C:O:, 6WzJ%1&z:S(OLe 66z,rJ CHreJ:e&HS6OeCXL&z^,O:SH JS_,H SC6,C&LCeH,^SrrH OT^rT:L6^CS6OHC,Szrr&eHHHJ6:z&xr6O^e:LLz^rS^OHJ ,Oe&&Se6H&&LzeH,O^zH: JLv&::,6J&SOreJ,ee,&z eH}JOrH6:SLO SSJ^z rC^rH&JeH9&6:C &COLez:,&^ HS ,uJSr:r6&CeO,e6,CziLOz&HbJL: 6SS,&zeC6rCYre^HH6Jzhw 2S^&HSOL ek,,zLHC ry&&exO66CzO=e&,^zHrL :rOJ,:J6CJ,O&eCLHz&rz^LLeJz::&LJ^OSCLLJe:J&^JHe HrC&z:}6O:^ 6eO, ^Sr, JHeJrB ^,SHOJezL,zOr^ :HLSS:S&,SJO:CrL zeOHCLHz 3XO&^S:J&C 6SCe,J^Crr &de e:6&CS^OOee,:zzr  SH,JJ< &rS&OeC,L6zC,*^z,,J:sL& uz6,C LCer,&zZOJ &jzJbHr6^SmOLeC&OzLrJ Cz,J&:C&H:JzmCHLOz^O6^LH JSr,z:SS6rC&LeeHLO^z,ree4^JH:L6eCSO,eJ,CH&r& eHHJJ:z&rSO&^SeLOz rS^,HJzd>r &vH6HC6Lze-,OeOH:^6HO&S:O6JSJOre&,ezHr& zH5JO:e6:S6O CLLzzJrC^rzJJeir&6Se6(C JHe},L^ z: ,( &CvLzeCCOHe66rzMrO ^r:ez:^6SS,OJeCOHz&,SCJH6JCFw&JS^O:CLL r,,,^JHC Lk&&S:HJ6:JOHeO,^^:rLze/S^,HH6CSrO&eeLHCHrzzrH^J^WH&Lm6OSC,LJzCL6^&He H7J&z:r6OS>O&eL, ^SeL J9SJr:J6eSOJCeeLqzOez :HOJ HFeJS OCCr6Sze,H^6,zC&u6&^S:6LC OCe,L^SLrr  yeJL:66zSUOOr:,:zLr ^WH,J^:C r4LOCCHL6zz,BeJH^^:H&& SS6,CJLCCC,&zS,C 6mCJ{:^6^C:OLe O z,rJ CHLJ&:S&HSe6LC!LOz^C.^LH^JS5L&J:H  CJLeeHC&^zrH Oo^&6:L6 CSO,eJ,CzrL&e^HHJ6:z&%SO6Le:6LzerS^,HJJC5r rSe&,S=Lzer,O^zH: Lg &SgO6JCCOre ,ez,r6^HHCJO:^6:r&O e:L,zJrC^6LSJCAH&6rS64C6L^e,6z^^HS ,^ &C:,6&SS^6e&,zz+r& ^o:JL: ^:S,OJeCL,z&rS^HHeSOkG&OS^eSCLL^zS,L^JrHe sJ&e:HCOCzOHeOLe_LrO  5S^C:J6CSrO&e,LHz&rz^HHOJ^:: LHeO:CLLJzS,r^CHezH, &e:H6OCzL:S6, eSO6  aSJr:J6eurO6ez&:z6r^ :HLJ ::&,(J dC,L&ze,H^6LH RH,HeS:&&C  :e,, ^Crr &HdzJ:&6zS#^6e^LNzLrCCOHLJJ:Ce&S&OCCHOJH?,H^OH^^OoL& SS&OrCLSe,,&efrH 6GzJqrz6zC:OLez,SzLrJ^HL JJ:e&Hz&OzCHLOeeJL^OH JSHe&JSC6rS ^Her,&^z,L Oq^&::L :C:O,eJ,:zrrJ eHH,e:z&QSOOze:LLz L}r:HJJCFr HSe6HC6OCC&,O^^H:zS? &S:,6Je:OreJ,ezrr6 zHY^O# 6:SOO e:L,zSrCerrrJemr&6Se6_:&L^C:,z^ H: ,F &CH,6&Ce6ze6,zzqrO ^H+JLH JHS,OJeCLrz&Or^H,eJ:h4&OS^e,CLL^zSLJ^JrHe dJ&e:He^CzOHeO,SS6rO  vSOL:J6SSr6 rHLrz6rze&HOJ^:: L,{O:C,LJzC,rz6He^,,C&z:r6OP,L:eL, ^SJJ JiCJr: 6eS,O6Sz&,z6r^ :HLJ He&,MJ .C,L&ze,H^6rz srOeH:k6LC LSe,L:^C,LeS5eJ,:6&,SmOOe^OHW r^^HH, 6:C&rS&OerJL6zz,_^JH^ h7L&CrO6LCJLC ,,&^CrH^J6gJH:O6^SHOLe ,Sz,6  CHrJ&:C&HSJOzC6 :z^r:^LJCJSDL&JSS6rCzJ,er,6^z L O.z&::J^BC:O,eJRSzrrJ eHH&C:z&{SOOze:LLz LSC6H JCdr&&Se6&C66z:,,6^^H: Lg  ^:,JJHAO,e&,ezHr6^JH(Jzrr&%SLO L L,z rC^rH& %,J&&Sz6FOFL^eI,L^COO LVJ&C&^6&CCOHCJ YzHrO ^rJJL: 6S:O^CeSL,z&rS^HH6Jzijz6S^6KCLL^zS,O^J,CeOgJ&C:H6&Cz6:eOO^SrrO ^=SJL:J&SSrO&ArLrz6rz^rHOJz::&L :OSC,LJzS,r^&He^, r&z:96O:LL:eL, e_,C JtCJr:z6eSHO6Sz&,z6r^ :HLJ H+&,S^6uCrLJze,H^6Hz /yOzh:+6LC ODe,, ^Cr6eSaCJH:6,eSnO6e^,:^zr  SH,J :C&rS&&e;LL&zz,t^OH^ O7L  rH6LCJLCer,&eJrHz6,SJH:O6^C:OLC6,Sz O+ SHrJ&eC&HS&OzCqLOzS66^OH JSCL&JSS6rS ^Her,6^zrr O0^&::L^^CSO,eJ,Szrr  e,Hz :e&7SOO^e:6,z LSC6H JCjr&&SeJrC6OCHO,6^zH:^eM &S:,JJHvO,eJ,ezrr6zeH{JO, &aSLO eSL,z rCerL^JCNH&6Sz6V:zL^eCC6^ r& ,^H&C:,6&CeOHe^&rzHrO ^^JJL:^6SS&J:eSLrz&:C^HH&JzHre^SzO:CL6 zS,,^Jr:H6xJ&C:H&SCzO}eOLeeLrL zkSJO:J6CSrO&CLLHzJrz^HHOJe:: L:^OSCOLJz:,re6He^,QS&z:,6O:SL:eL, ^S,6 JVCJr:^6eSrO6e:OCzOr^ :SOJ ::&,:^zrC,L&zeO6^6Hz !QOzzS:6LC L:e,,^^CrJz:.CJH:6HHS_O6e^,:zLrCCOHLJJ:CHJS&OCCHL^:r,H^OH^6(sL&^SS&OrCLSer,&CLrH 6qzJq,66^C:OLe^,SzOrJ^,,^JJ:e&H HOzCHLOz^r:^JOWJ:Q,&J J6rCJLeeO6C^erU OCz&::O6 CSL^eJ,Czrr  eHHJ6Hzz&S6O^e:LLz L ^,r^eL0r& Se6CC6Lzey,Ok:H: Ly JI:,6^CCOJrH,ezHr66eHYJ6:^&mSLOCvOLLzJrC&,H&JCwH&6Sr6KCOL^eH,L^ HSz,L:&S:r6&CeOHSH,zerOe ^HHJLiI6SS,OJeC^&z&re^HHJJz{r&O:Bz CLL zS>L^JHS r%J&e:O CCeO4eOEz^:rO  mS&^:J6CSrO eeLHz6LzS&H6J^::&LS & C,O^:L,r^ He ek6&z:16O,:L:eL, zdr, ^>CJJH:6CSHO6J LPz6r^ :HLJC,O&LSJOC <L&zC,H^^Or H1O&^eg6LC^LSe,r:^Crr &kSJH:66zm; eez,:zLr  SrSJJ_:^ S&OSCHLzzz,F^OH^:L%L& SS6OCJL:er,Cy6rH 6vzOH:O6zC:OOe LrS^r  CHrOJ:e&rS6Oze&LOz^r:^6H JS_, J,L6,C&LeeH,6e6r7^&LH&::66 :zO,eJ,CzrJe eHHJ6:C&YS&O^CO Sz rS^,S JCq,&&SC6HC^JreH,O^^:= LQ^&S:,O:CCOre&,ezHr6 z,=z,:^6:SLO eSLCzJLCz^H&JefH&6Sz&zCOOee6,L^zHS L8J&C:r6&SeOHe6,zzrrO eI:J^*e6SS,OJ SLrzJre^HH6J:,&&6S^O:^OL z:,,^JLS r4&&e:r66CzOwe6,^^:rL^^-SJ,:J&USzO&eeLHzLLJS^O&e5LrzJr& &C6LCzC,r^&H^CC,ez , 6JSOL:eL, ^e,zeSOA ^,z^Crr L2L&^zJ,6 :HLJ :e Lre OiJJJSH&rCe6 e^Le&C:S6LC LSeHOLS&6zzYL6e rS^Or,JSXpJr:C&H^HHSJJ:C&rSO&JVzJ:S,6^Se6OeC,ez,:H6 CJLCer,O:HO eeLeeH:O6zSHOLe ,Sz,rJ Cr6e&::&6S6OzCiL,U,6CCeO  HpC&JSC6rCOJL:S&uS,6<eeLSzO,C6eS,O,eJ,Czt&MCrO e6:S&JSOO^e:LrCS6:C 66e&L z:S:6&C6LzeK,,S:OOCrO?e6:66eCCOre&,^C 6LSLH,J^:^6:SLO&M^& :^6&^OrHJegH&6S &JHrJiB66^SH6&eCL:e,:r6&Ce6,Hz,ezTrO^La:JL: 6SrLOJeCLrzJre^,H6 COO&6SzO:SGL zS,,eJO% ,tJ&e:r66CCO0eO ^^:rO  =:J,: 6C:L^eeCLrz6,z^0HOJ^H:r5S O:C,L zC,J^&rS :<6&S:w&rC^L:eL, exr,  *CJO:&6SSH&6C L}z6r^^oHLJC:S ,S:OCC,L&zC,Hz&HzzPG:&^:D6LC^LSeL,JeCr^ &MCJH:&6zS:OOCT6&zOr^ Sr,JJ:S&rS&OeCO&Cze,v^Or^J:fO& :r ^C LCerLe^err 6HCCO:66zC:OSe ,Sz,rJCSHrJJ:e&rS6OCCPLO: ,G^OH J:k,&JSC&*HtLee^,6^Crx 6.^Jq:L6CHOOLeJ,CzLr& CHH JOf&HS6O^C:LLz rSe,eLJC(,&&SC6HCeLzCr,^^^rr LH6&S:,6JCCOJe&,CzHr  zHrJOH^J SLO^eSLLzJ,H^r,& :ZH&&Sz6HCOOzz:OLzLHS L(J&S:r6JCe&HCC,zzHrO zI: ,: &LjzO eSLr:ere^rH6Jznv& rH6xCLL Z,,,^ HC rHC&C:r66CzOxeO,^eH66 ^HXJ,q66CSrO&CSL&z6rS^Kr5J^::&LS 6^C,LzzC,,^&HS Hr6 &:%6JC^OreL,S^Sr,^H5CJO:&&lSHO6ezLRe&r^^HHLJ :S&&SJ6HCzL&ze,HC,Hz H0OJeLL6OStLSe^,J^Crr C6JJH:S6zS8OOez,:z6r  S&6JJ:C&rSCOeCHL6zz ,^OH^J:PO& SS6,CJJ,e,,S^er, 6VeJh:OzSSuO e ,Sz,rJ CHJJ::C&,S6JrC!L6z^,H^LHCeO;L&JSCJ C&LCeHLJYjrH &=^Jz:L6 CS&,:z,SzLr& SHHJJ:z&WLOO^CHLLz^rS^LHJ :O&&JSS6HS6Lze2,Oe^ez L>z&S:O6JS,OrC LezHr^ zHCJO:^6:SL6SeSLOzJ,H^rH JerH ,Sz6rCOLez:,J^ ,S^^DJ&::r6 Ce6re6OzefrO eB:J6: 6:S,&JC:Lrz re^,H6 ^4s&zHr6#C6L :z,,^ HC rw&JurJ6&CzOl4r,^zqrL CLOJL:J6CHHO&eCLHeJJM^HH&J^uC&LS OSC,e:zC,O^&HC H;6&z:TH,C^OHeL,z^Sr& JHHz :J6eSH JezLHzOO^^OHLJ::S&6SJ6OCrLCeL,r^JHzCHQO&zS:66C Or:^, ^CrrCJ/eJr:66z,LO6ez,:zLr  SH,JJrS&rS&OeCrL6zz,}^6H^J:_L&CSS6,CJLCer,^zrrH 6<z&S,S^<H6 Oo,LHz^rJ CHrJO,^zLrS OH&JSzC,^^LH JSkH .r,^OS: Yar&&S O e:Hr&::L6 CSL^eJ,Czrr& eHHJ6rz&6SOO^e:LJz r:^,r^SrE,&&Se6,C6LzenOOCCr_ L8 &S:,6zCCOrzS,ezrr6 eH/JO:^6:CzO C}L,zJrC^rH&JeOJ&6Sz6AC&L^eu,L^ L: ,>J&C:,6&CeOHe6,zz?rO ^7:JL: J6S,OJeCLOe,re^HH6J He^:,,&&HHJ&::6eS:O&CO0^JH:H66CzLSSJ&}:HOS eHLJ,:J6CSI&rH,&&:J6O^,HzJ^::&LS&J&HH H:S6e^^rr H_6&zSSJ::,JC<6L=zHr^ JRCJr:O LrH LIeJH:CrC^6HLJ :S&HI0^HH,Jz+,, ^ r6 W5O&^SC&CH,  QH& eJ6 SHL^e^:J6zS#OOe^,:zLH OCHOJJ:C&rS&OeCH,6:^,,^ H^J:GL&&,H CrLO4ee,&^erH L,.eHrzzJH  zSOJJ:Hrz^JHrJ&:e6:b: OHCJSCr&,SOOCCO3z&z:H6rC&Lez:OL:,,6 JH6&::L6 CeJCMSJ&:T6eSJLzzeL.zLrJOCCJLLz rS^H,mCHL6zJrO^OrrJSe,,^^^H: LB& &r zHH,OOC6,ezHr6  rze,,C^J:: &HOJzdHLOC:OOeC,^& :w6lCOL^zC&&S,6zCeo^&C:r6&CeOHe6,zz5rJ :;:JL: 6e2OJS_zJOz^,H^HH6Jz:S CrJ^SaSLee&,,^JHC %,0z6,,^zHeJ6hS&Lzrr^  7SJ,:6 JHJ JH6&z06rz^xHOJ^:6&LS OSC,LJzC,re&L: r_6&z:b6OS6L:SL6e^:r, J<CJrae6eVHJ eeL<zOr^ :H^J HSz^S OCCrL&zeL,^6HzJ&+O&eS:6LC LSe,OJSAr,  -eJ,:6&eSg&O:CLPz6r ^iH, Y:C rH^OCC,L6zC,BzCH^J:6 & SS6,C^LCeL,&zr&z 6azJE{ 6^S9OLe^,Sz&O: SHrJ&Hw&HS&OzSr ^zzr:^LrJJSD,&JSCO C&LCeH,6^zrV Or^zr:O6^CSOLeJLSzrL&e:HrJ&:z&HSO6re:6LSer:^LHJJSlrJ:Se6HdeLeeE,O^eH: O0 &S^ 6JCCOre&,ezHr6 zS:JO:^6:S6O eSL,e^Jr^,H&JeHL&6Sz6?COSCz:,O^ HS ,NJ&CHr&eCeOre6,ezB,H ^r: 6: 6:S,O eCO&z&Le^CH6JeA#&6S^6OCLL C^,,^^HC rf&&e:HJ6S:O.e&,^zHrL^^.S^,3J6CSLO&eSLHzSrzegHCJ^gH&LSzOSSzLJzC,O^&HC HU&&z:r6O:^6^eL,^^SrL JFSJr:&H^SHO&ezLrzOre :HJe_::&,SJ^^CrLJzeOHSCHe OMO&SS:&rC 6Y:^,JzLrr ^EeJH:66zLOOOe:,:zzr ^xH,JSrO&,SeOeHSL6ze,}^OH^ ,,z&^SS6,rOLCe,,&eeOL &HRJ+: 6^SHOLS:ELz,rC COrJ&:C&H:COzCL&ezzr:^LO JS2L&J;C OCJOHeH,^^zrL Or^^H:O6SCSOJeJL^zr, z&HHJe:z&&SOO^e:6LC6rS^ HJ ,grJrSe&,C^Lze&,OzLH: L5  t>S6JSOOrCH,ezHr6^CH:JOx,6:SSO eSL,zJ,O^rHCJeX^&6SC6ECz: z:, ^ Or ,5 &C:J6&SWJJe&,zzsO  ^H{JL:C^OSLOJeCJrz&rC^H,6zSlH&^S^6,CLO zSO,CzHS &7&JH:H&eCz6rH^,zzOrL S;SJ,:JJCHOOJCrLHzerz^zHO e,6&L:#OSS&LJzC,rz O, H;S&zGL6OC^L:C6&p^Sre JH&Jr:&6e:,JCezL^zO,, :HLJ :SCJSJ6,CrOHze,,^6rH:&E6&:S:^LC L:e,,S^Cr6eSvCJH:6^zS4O6e^L,Szr^ SH,C,:C&,S&&e#LL&eh,a^ H^ :bL  rH6LCCLCe&,&errH^J67JH:z6^SLOLe ,SC,Oz SHJJ&ir&H:HOzSr&ez^,6^Lr,JS-,&J::  C&OLeHL^^zrb OHez6:L&rCSOCeJ,Czr, C,HH .:z& SOO^e:LLHSrS^ HJ &or& Se6&,CLeeO,O:&H: Oj JL:,6eHLO,e&,e:Sr6 eHX^OrC&NS O CrL,z^rC^r:6Jed6&6SC6=COL^eO,e^^HS ,r &C:,6&CSOHe^&rzHrO ^,wJL:^6SS,J eCLrz&rC^HH6Jz2G&OS^O:CLL^zS,,^Jra C%&&e:H6L:r ^oC&Se 6&e:LOeL,r6:SrO&eeO,S5rz^jHOJz::&LS OS/LLJzC,r^JHe HE6&z:m6OC^OEeO, ^Sr, zH,Jr:&6eC:6eH&JnS{,,^HHLJ :SJOHrOCCrL&zC,H^6Hz },6&^S:6LC^LSe,,J^Crr &IeJr:^6zS0OOeCLOzLr  SHHC,,,z,,H 6CLL zz,F^OHJe,r#&e:^6,CJLCexLC:66^C^OLe^,C^&HC C::LHe+rJ CHrJOHO^:rS H%&J6:LOJ:YO,eJL6JjSC6rC&OSH6,&^erW &F^&::L&z,,OLe^,Cz,r& eHH 6L&&HS6O^CrLLzzrSzO6CJSA,&&:R6HC6LzCrJ^^zrH Lqz&S:,6J:CJOeJ,SzHrJ zH,JO:^^OSOO^eSLOzJrS^rH&zCAH&6Sz6HCOL^z:,L^ HS ,P J6:r6&CeOLCH,zzarO JrCe&,SzJreJ,A,J,7H66^LHzJz(P&OSJJrHJ6HC&,6^SHC rF&&^9 &::H66SS,Cz rL  GSJHrrzOHe6CHOJ^Se6,S(HJ S::&LS OeSS&S_O&zzC6OC^,ez,,1&CHS rY&&,S66eCeOLJO{L6eSHO6e OS:J6:S OCzH,Jze,H zHOJ,z:,6^6Hz AB,e6rO^rrrOHee,J^Crr O,Oz:,J^OneJzRJJJz&,5 SH,JJ:zJJ,A^Ok&&S:zOr^OH^J:H6eSS:6,CJOLer,&^erHC&3zJ+:O6zC:O6e LLCzr  CHr^J:e&rS6OzC<L :H,4^LH ^:s,& SC&LreLCeH,6^:rE Od^JOHe6^CSO,C*,Cz,r& eHHJ^,r&HSOO^C&LLz^rS^&L:JSyr&&:J6HC&LzCrJ^^zH: LIz&S:,6JS,^ee&,ezH,r zHHJO:z6:SJ Pe:L,zJ, ^rHJJeqO^CSe6yCO66z:,O^ ,{SJ5 &C:r6eCeOHe6Oz:&r6 ^=:JL: &LS,OJeLLrz re^HH6Jzs7&OLHO:CLL ed,,^ HC^LOe&C:H66S#O-eO,^e:6z ^1SJ,:J6CS,O&ee,Jz6rC^7HOJ^::&LT  HCLL^zC,L^&H: H?6&r:k6JC^L:eL, ^SL,ezGSJO:&6:SHOSezLF!er^ :HLJe:S&LSJ6:r&LJze,H^zHz ywO ^,66OC LSe,,Jz6rr &erJH:J6zSHOOe^,:zLJb SH,JJ::&rSJOeCO&Cze,W^OH^J:xO& TPzJC LCer,e^erH 6rze&:66^C:OLe L&z,rJO,HrJ :e&HS6OzCVLOHHr:^LH  1E,& SC665SLCeH,6^zrh 6o^&:rO6 CSO,e ,Czrr& eHHJ6:z&bS^O^e:LLze,&^,HJJCjh e,-^ HL L:S& SCrr za &S:,66:O6C0S&r:,6P SHJJO:^6:SrJL_J&z7H&HS H:J:bJ&6Sz6MC, ,NC& S,6reSxz ,:r6&CeL:C:& :J6SC2Orze,,J r^ eV:O^:L6rSJLee,L ^:,H&6CLL zSLO:CHS ,m&Jg:H66CzO7Le,^zHrL  *SJ,:J6C:BO&eCLHzJrz^rHOz9&H&LS^OSCSLJzS,r^ He O,C&e:06OSOL:eO, ^SH^ JbSJr:&6eSHO6SzJ&z6rz :HOJ w,&,ZJ +C,L^ze,H^6He cEO^HS:6OC OHe,,J^Crrr6weJr:66zSfOOe^L,Szr^ SH, S:C&,S&6Sr6L&ze,K^ H^J:kL& &O6,C^LCer,&^erH 6H JD:66^SHOLez,SC SS CH,J&ZC&HS&OzC,LOzS66^OH JSHL&JSS6rCzJ,er,6^z,6 OKz&::L6/CSOLeJ,Czrr& e,HeC:e&HSOOze:L z rSr^HJ o-r&&Se6HC6LzS&,O^zH: &* &S:,6J6eOreJ,ezHr6 zHKJOrz6:SLO e:L,zJrC^rH&Je3H&&:,6{COL^er,J^ HS ,76eMrez,C:OOe6,zzVr,CrO,ee:z6SS,OJeCLrz&re^HHJJz_0&OS^O:CLOC:S,6^CHC rE&&^,, erLJCeJLr^:rL  *e^S,r^Orz zH,L z r:^lHOJ^:CzzH: &C6LezC,r^&H^C LLzSNe6OC^L:eLSH^SrL JvCJr:&6eyHO^ezLHzOrz :HJJ :SJSSJOSCrL&ze,H^6rC ^KO&zS:6^C LSe,OJeJrr J8eJr:66eSb6&Ce,:z6r ^,H,JJ:C rSzOeC,L6zC,_^CH^^HH&& :H6,CCLCer,&ee^J &wSJo:J6^S6OLe Lez,re CHrJ&:e&HS66JCPLJz^,,^LH JSG,JOSC6LC&LeeH,J^zr5zB?^Jr:L6^CSO,eJ,Cz,r& SHHJJ:z&,SO6eCzLLzerS^6HJJC/rJ LH6rC^LzeO,O^^H:zL,e&::&6JSHOre ,ee,&z eHOJO::6:SLO SS&6z ,r^rHeJeWJ&6SzO&COO7z:,L^ HS ,NJ^,:,6eCeO&e6,zznrO J-:JJ: 6SS,O^eCLr^Sre^6H6Jeob&OS^O:SCL^er,,^eHC &u&&eO666CeOhe ,^zHrL  ,^J,: 6CSrO&eCLHz6Z^^iH6J^}H&LS OSC,& zC,r^&HC HX6&z:m6OC^L:eO,C^Sr, JH}Jz:&6eSHOL+OJ6::6JSLO e,,&&6SSOCCrL&z^& SzOHCeLJ&C:L6LC LSeHJHS,6^C&}: r:66zSGO,}G&&:C6&S LC^uLHzO,5^,HOJ&:e6^Ser^J:3L& SSO^CJLCer,&^erH 6rzz,:66^C:OLe Lrz,rS:&HrJ&:e&6S6OeCUL6z^,,CzH^JSy,&CSC6,C&O>:J,&^zr5^LA^Jg:LJ HHOLe ,Czrr& CHHJer,&HS6O^CSLLz^rS^,HJ H, &JSe6HSOLzeH,Oze&L O.^&S:66JCCOrS&6:zrr& zHHJO:e6:S^zOeSLOzJrC^rHJJe<L&6Sz&OCOL^z:,O^ HS ,iJSd:r6&CeOHe6,zz}rO^:i:JL: &ZS,OJeCLrSCrC^rH6JCj4&6S^O:0OL zS,,^ HC r1&&C:H66Cz6LeO,^^:r& ShSJ,:J6zHSJCiS&zz rz^-HOJ^{rJ6S OSC,L6SL6eSeOCe:,SzH,  :H,&&*C&C:OO CLL&JO:e6eSHO6e J :,6rC:H& L:S&,SJOzSCJOT,6zeSOOC&OyzL,66&SLLSe,,J^z,SCHOO^ ,Vzrrz ,fr& z6r  SH,JJ:C&rC& zCLLSzz,+^OHJez,SerBz^HrH OeO,z^erH 6W zC,,z,SrO^e ,Sz,r6CLLJe:,^^ S 6rC+LOz^rCC^6rC&, ztrC6LC&LeeH,6^zrD&OL Jr:C6 CSO,e6&^:e6 CrOLe^, ^ S&O^e:LLz rS^,&6eCvO&CSe6HC6L :6&JSJ6HCe2z&S:,6JCCOre&,e:Hr ^&HtJO:^6C:^ ekeJOSS&6S{Oze:H:^:SS&,COL^z:,rCqOee:r!eH,Oz*r, Of&&eS^6ezLO^zS,ez&S666eCLrz&r^erO^eH, JzrC CH6&:B&&HSe6; OPe&e:H66C &O?6&l:CL:  lSJ,R^=&SrO&eeLOz6rz^GHO e::&LS O:C,L^zC,rzeHe r*6&z:g6OC^L:C^, ^Sr, J.CJ,:&&^:iO6C&L9zer^^AHLJ :S&&H:OSCrL&e,,H^&Hz L,e&zS:6LS&LSeL,J^CH  &ZeJH:&6zS!OOS^J6zOr  SH,JJcJ&rS&HdCHL6zz,r^OHzJ:H6 TSS6,CJOHer,&^erHC&jzJW:O6zC:O6e ,SzCrJ CHrJ&:e&HS6O:b&L6z^r:eSH J:t,&JSL6rC&Lee,,6^zrj O%H&::O6 C:O,eJ,CCrO^ CHrJ6:e&F:LO^S:&&z^r:^,H JC8e&&+e LC&Lee5,6^^r: LH e^:L6JCC6,e&,CzHr6 rH-JO:^&TSLO eS6,SzrS^rH&JefHJ,SzJIHeLzz:,L^ HS^6oJ&CS 6&CSOHeJ,zz}rO ^&LJL: 6SSOOJe:LrC&&,^rH6Jz#v&O:SO:S6JnzS,O^JrL r5&&ej, CCzO,eOLH^:rL  _SC^:J6CSrO^eeLrz6,C:OH6J^::&OS OSC,6J-L,,^&He H}6JH:=&&HHL:e6, zHr, JACJrOe6eSHO6eCLuz&r^z:L&J^:S&,SJOCSLL&Ce&J^&Hz }RO&^:L6LSzJOe,,^^Crz &KeJHwJe_SHOJe^L&zLr  SrOnH:S&6S&6^CHL6zz,azCH^ r2L&zSS6OCJO:e ,&zorH^6PzJv:O&eSeOLeS,SzOrJ CHrJ&Wr&HS6OzCOLOzzr:^LL^JSm,&JSS6rC&LeeH,6^zrF Ov^J^:L6 CSO6C3,Czrr& ^r e^LT^SH: ,eOL&e6rS^,HJJzrLzHrS^OHCJ :^&C :,eCSL0JH:z6JCCOreOOL:O6 SLL^eJL,&HSLO eSL,zJrCz6O&J:H^&6Sz6!C, H:6JHC:66CzLre6,Z^DSzOOe^LHzzrz^OHO }:S&6SC6LC&LOCOre^HH6J ,CzS,,^LHeOJer,&SHOzC^,:e_,J :CSJeNH,SC66CeOLJeC,L^^rLJOHHLLe,rz^aHOJJL&^S,r 6HLJ6>r6 SzOrCJ,:&SkH6OC^L:erOzSL6,Cr,pe6Lv^^He LG,&6:S6JS,O&JeRL&,SJOCCf6O:S6&SrOO ,D^&^S:6LC&&H: &^S&rO eGeJH:66 N  ,Ke& eur  SH, ^Or&,S&OeCJL6zz,#z&OHJ:qO& :L6,CJLCer6C^CrH 67CJ>:66^C:Lze ,Sz,rJ CHrJ&HeCrS&OzCTLOz^,&^LH ^z0,&^SC6rC&OdeH66errT &{^J :L6zCSJ,eS,CzLr& :HHJ&:z^;mHO^CHLLerrS^JHJzC- &&SS6HSHLzeL,O^^r^ L% &S:O6JCSOre&6CzHr6 zHHJO:^6:SLO eSL,zJ,r^rH&JeaL&zSz6}COLJ:z6^SzOJ 6H4&C:r6&C^6 .^&S:,O:CrOJJ&IL6SS,OJezOS:H&Oe O0CrLzz,rr  C&O&zS,,^JHzz LHz:r^^?rr&J-S&L:L6 C,L&J6!,6CSrO&e^6J+t6SeJL:CHL^zrrH JCeLJzC,rz &H rq6&z:H6OC^L:SLJF^:r, JFCJr:^6e:,JCezLrzOr: :HLJ :SCJSJOCCrL ze,,^6,ze,46&^S:6LC Ore,OJ:Lr, &7eJH:66CS=O&eC,:z6r  SH,JJ:C&r,SOeCHL6zC,(^6H^J:,O& SS6,C LCer,&^CrH 6}zJe:O6^C:O6e ,Sz,rJ CHrJ&:e&LS OzC%LOzJ6,e=HzJSK,&JSC6rC&,e_V, z6rN O8^&C}: :r6 e:SJ6:zOCCLOHJ bO&uSOO^eCO^n,&&S&,>eSL%^:re6LC^Lzea,O^J6reSOOJH::6JCCOreO6&S:6CSLO^zz,z  re ,HOL6e^rC^rH&J^H ^e,K^ H: H: LeSC6HCeL:eH,,^JH6 Je L&zlrO ^GC zL,z&re eHlLJCA&3SCO JSBJ&OS^O:Cr&L:J6z:H6HC (S&::e66CzOfe,O6S 6CeHLJe^L,^zH^ He:L6z6rz^wH,e6,Oz6r,&^C,LJzCLL:eHC Hs6&C:{6OC^6::&,^^Sr, J/CJ&:&&r* O&ezLxz^r^^kHLJ :S&&H:OSCrL&eH,H^&Hz L,e&zS:6LSHLSeL,Jz:&& JneJH:^6zS5OOCt6&zOr  SrSJJ:S&rS&OeCO&Cze,U^O,OJ:4O& <?zJC LCerL,^erH 6rze&:66^C:OLe L z,,^CLHrJ :e&JS6OzC2LOH:r:^LH  xk,&^SCJrHSLCeH,6^zrm C8^&:^J6 CSO,e^,Cz,r&^SrzJ6:z&s:HO^e:LLC &O^LHJJCXr&&:&6HSJJred,&^^r6 L( &S:,eCCCOre&,SzHrJ z,aee:z6:SLO eSLezJ,::&HJJS?HJ1Sz6xCO6^:r,O^zHS OQJJ,:r& H,OHe ,zzHrO ^(: 6,u6SS&OJC+Lrz&rez,LCJzuO&OSzO:CLL C.6^^Jr, rT^&e:H66CzrOeO,e^:r^  nSJ,:JSHSrO&eeLHz6re^THOzz::&LS O:C,LJzC,r^&He H!6&zH66OC^L:e&,S^Sr, J*z^^,OzzHzOJezLozOr^ :HL& ,C&6S:OCCrL&z^O S6O CHL6er:r6 C LSe,,6eLL&^:r JL:e6zSTOOeJ6 eC6&SwH^Jz?L&rS&Oee:OS::&HS 6H &a&JHSS6,CJLzSz&z:+6rz:L eO:J&LC:OLe ,eCJ6 C,6leHL,JC,h  C,Lzz^r:^LH&z&LHeHrS eC^O eH,6^zHS^SLLe^,r^^C,6SD:J&:W&ISLHLJz:z&-SOOJ:JJJ:C6:^6HSJCcr&&S^^^KeJrKH6:^Cr^ LW &S:HJHH& CAO&Cee6CSOLSeS:C&LSLO eSLH:z6&S:6/J:RO&6Sz6IC,6J3&L^^er, ,_J&C:0^rH^ L::,Sz:rO ^%:JrHL^er6 HSJJK:S&LS^rSeJ,Sz6r,6rCCL zS,,^6L6eeL eH,r erLJ^eJLL^:rL  -e z,O^,r JCaLJ^:a&r^,rHJ^::&LS&&^7C HCO6:SOOCe^LCzO,,6JSeL:eL, ^eL^CrL,e,H:^eH: &ne6JS:6zC LeCr,J^eSz6HCrL&zer:S OOCefJ&:S:6LC LeCe6S:6OJ  TeJH:66zSKOOe^,:z&,L SH,JJ:z zrH^ H^OS::&HS 6H &a&&SSS6,CJLzSO6CSSOz  H Jp:O6^CC&eK,&:SC6uS6,zCOLH^z{J HHJLJz:r:^LH JerO^Srz^OC^OOeH,6^zHS^CLSe,,O^rrr :.zL2err& eHHJLHOz6r: JHL&8:,6LSJOeCWrO^CrS zC OHec,O^^HC^:O*zL,O^rS*OCe&,ezHrLe,,rzzLr zHSJ:H,J&:z,<^6H&Je+H&Lu&^^HJLez:,L^ HS ,KJ6CzH6^CeOHe6,zz,rz ^E:JL:&z,H  6HLJ^z^,O^HH6Jz:SJer- &HLJS:L6zSJrF J0&&e:H6Lo6J6=6JLS eH  sSJ,R^erS,O&eeOez6rz^dHzSL::&LS 6rC,L zC,,^&rteJW&&z:b6 C^O*eL, C:r, JiCJ,:&6eSH6JruLHzOr^z^HLJ :S  O^OCCrL&e ,H^&Hz ^wO&Sr66OC LSC3,J^Srr &j,JH:66zS2OOe^,:CLOe :H,JJ:C&r:SOe:H& ze,a^OH^J:HH& 0S 6C LCer,&^eL& 6HC^^:O6^C:&Le ,Sz,reCLH,J&:e^LS6OeCjO&N:,=^LH ^ Q,&JSCJJ CLeeH,6zerm 6P^^W:L6CHOOLeJ,Ce,r& CHHJ^,r&HSOO^9rLLz^rSzOL:JC{r&&D:6HC6LzCrO:^^H: Lr &S:,6JCC6JeJ,ezHrJ zH5JO:^66SLO^eSL,zJrC^r,&z:yr&&Sz6HCO6:z:,L^?HS OGJ&C:r6&Ce&H: ,ezrrO eI: &: 6S^OOJeCLrz re^rH6 Cr^&OS^O:CJL zS,,z^&r ,V&&eHO66CzORC&J:zxrO  HrJ,:J6CSrTOeeLHz6rC^-H&J^7,^zS^OSC,& zC,,^&rSS6_&J?:EJ C^L:eLO :OrL SGCJ6:&JiSHO6:HLHzzr^^6HLJ :S&,L^OCC&L&ze,H^CHz L,e&zS:6LjJLSeL,JeC6  JH6JH::6zS:OOCe&6zL,O SHSJJ:C&rS&eHCHOuzz,e^OHeJ:M^C,SS6CCJ&6er,J^err 6(:z&:66^C:&Ce ,:z,reCLH,J&:e^XS6OeC?6OSC,/^SH  &K,&:SCJJ CLeez,6CJri 6w^^!:L6CHOOLeJ,CC:r& CHHJ^,r&HSOO^:SLLz^rSe,LzJSYe&&:O6H:?LzCrO:^^r  Lr &S:,6JS,O^eJLHzHL  zHHJO:e6:SJ ke:L,zJO_^rHJJec&&SSe6bCO6Jz:,O^ rT ,cezL:,6&Ce6:e6,ezl,&S:HqJL: JSS,OJeCLJC:rC^HH6rHKF&6S^O:CLLC:O,L^JHCrJQ&&C:H&J,UOHeO,^e:rL  *S^ zS6CSrO&6rLHz&rze,HOJS,6&OS OS6 LJzS,r^&H, HT6&z:E6OC^L:SL6e^:r, J{CJrHe6ebH CeeL<zOr^ :rOJ HseJS O:Cr6&ze,H^6Hz:O_O&^S:66C Ole,,Sg&rr &jeeJ:66eSxO6e^L,Szr^ SH,e::C&,S&OeeJL6zz,5^OH^J:>L  LL6,CJLCer,&z:rHz6HSJf:O6^C:OLC^,SeO,& CHLJ&He&HS6OzCsLzz^r:^LHzJSyO&J:,&JC&LeeHee^zrH Oc^&::J^vC:O,eJC,zrrJ eHH&C:z&}SOO^e:LLz LSC6H JC<r&&Se6 C66z:,,6^^H: LF  ^:,JJHlO,e&,ezHr6 SH0^OLH&VSLO eSL,e rCzL6eJCn,&6pz67COL^z:  ^ HS ,a^&C:L6&Sr^ze6,zz4&6 ^HXJL:^6SS&J:eSLrz&&C^HH&JzIL^eSzO:CLCezS,L^Jr:S&jJ&e:H&LCzOheO,^^6rL ^+SJ,:J6CSr&&::Lrz&rz^HHO r:: LHeO:CLLJzS,re,HezH, &e:H6OCzL:e&, el&J  d:JrH&6eSHO6ez6LzOrz :HOJ Z+&,uJ^LC,LJze,r^6r: nXOrJS:6OC OTe,,^^Cr6eS>CJH:6:zSKO6e^O::zr^^,H,Je:CJHS&6S1JL6er,deLH^J:PL& O,6,CCLCe ,&^SrH e6OJ5:^6^L*OLe^,SzLrJ^HL JJ:e&HL&OzCHLOzS66^OH JS ,&JSS6rS ^Her,z^zre O<^&:HL eC:OJeJLrzr,& er,Cz:e&6SO6:e:LLz LSC6H  Lir&zSe&zC6LzrO,O^:H: zo JU:,6S,&Oree,eH^r6 eHPJ6:^&,HzO^eSL,rHrC^,H& j,J&&Sz6kO6L^eW,Le OH LoC&C:66&:6OHSe.HzMr^ ^ kJL:^6S:OOJCH& zJre^H &JzEH&Oy^ rCOLSzS,&^Jr6 rr& S:r6zCzOOeOO,^:,6^6DSJ :J&,SrO&ee6Hz&rz^6HO B::J^S &7COLJeL,r^ He H!6JC:,6OSrL:e6, ^Sr,^^rLJrt46eS,O6ezL1zOre :H^J R&&,S^OCCJ^SzC,6^6 e Go6&^:O6LCCJOeL,J^C^, &WCJHH6 SSHO^e^L,zLL6 S,,&O:C&&S&6HCHL&zzLr^6H^ OjL&SSS6,CJ6Ce,,&zrrH e7z 6:O&e:zOLCg,SezrJ CHr  b:&HSSOzSJLOz^r:z6reJSXe&JS:6rC&LeC,,&^zr^ Ore&::L6 CS6eeJL,zr,H eH,J67HJOSOO:e:CHz r:^,HSJCA6^SSC6HC6CJe0,6^^,:e&Q^J,:,6eCC6:e&Oe Sr6^8HQJ^:^&sSL6zCrL,zSrC^&H&JeMH 6BR6;CzL^eO,Lz:HS^OHC&C: 6&CSOHe6,zer,& ^H&JLHH6SS,OJC:Lzz&,O^HHJJz_n&O:e6^CLO,zSOO^JHC r%&Je:H6eCzO^eO,e^:r^zLmSJJ:J:^SrOJeeL&z6r:C&H6J^::tHS O:C,Le:L,,^&HerHu6&e:s&&r:Oge , eSr, J-C^rr^6CS&O6e:L{e:r^ ::HJ I,&,SzOCCrL&er, ^&Hz b60&^:-6LCzLSe&6:^Srr &6&JH:&6zSLJeez,:zLz: SHLJJm:e&SJOeCH6Lzz,G^OreSL;O&^SSJ,CJLCer,&Srrr 64zJr:O6zC:66HS,:z,rJzJHrJ&:e &OJOzCgLOO6r:^OH ^:y,&erL6,C&LeOC,6^er<^&O:J3:L6 :SO,eJ,CzrL6 eHrJ6:e&YSOO^e:rHz rS^,HzJC-r&&Se rC6Lze5,6^^H: Ll &S:,6JCCO6e&,ezHr ^HH1JO:^6Cr  H4LJL: ,y^&H&JesH&L,& 6H, ,er, ^ HS ,s6e6rJ^:HeOLCH,zz5rO J,&eJL,^:A^ r5,J&:H&,zrH6Jzw4J&,:6%CLL eH,,^JHCzr,^&C:H66CzO?e&,^^:6O  fSJ,: 6CSLO&Cr6 z&rz^5rOJ^_;&LS OSC&&:zS,r^&re HU&&z?rz^CzL:eL,C^Sr, JH,Ce:&6eSHO:ezLHzOrz :HJeY::&,SJ66CrLJze,OCCHe p;O&^S:6OC 6KHJ, ^Crr JAeJH:6&H,eOOez,:zLr  :H,Jz:C&r:eOeCHL6zz,_^OH^J:H & SS6,C LCer,&^e,6 6azJX:&6^C:OLe &LzLrJ CHLJ&:C&HS^ rCHLOz^r:^LH^JSc,^ SC6rC&LCeH,6^zrH Of^&:H&6 CSO,ezL6zrr& e2:^,LOzrHz CH,Jr:r,H^JHJJC%r&O}: &HJJOe,,C^^H: L{&^ rC^xr6 6}SLLzLrS zHtJO:JJ Hj ,qLJJ:e&T^LH&JeIHz6HLCr 6W^er,z^ HS ,?6 O#C^SHr ,Nc,SzzrO ^%:JrrHzrrC  :L&eSC&HCzOCJSo &OS^O:Cr6S_r&zS666CoLzz::L6zCzOneO,JC&6rSJLJJ6<&6CSrO&e^Oe:L6SC ,ReJL6ze,r&6H!J6:S6z^^r, Hs6&zSSJrHLJO(OJrSzr, JHkJS:&6eSHOLS&&^:SLrCeOre^,&z^rr^bCLL&ze,H^6Hz bgO&^:r6zC LSe,,6e&,^CJL^z ,66CS.OOe^,:zLr SeO,JzX,&rS&Oee:Jz:H6SSe6r rX:& SS6,C66O:J&^eL6OC&LezSrS^LSrO e ,Sz,r6CSO6z:dL&L:&OzC3LOzJLeSSOzeLL6zerz z:S dtO&:C-O6CeO,JH:L6 CSO,eJ,C:c6& :H6J6:z&vS, zH,&eer,{^,HJJCWrH,L6e,H6LSeO,O^^H: rOOzL,HzHS=O6e&,ezHrLCSL^CH:C&6SLO eSLHCz&Hz^OJe^L6& :^61COL^zCOHC:O:CLLee S&JHrL  u4&SSJO: CH JL: 6SSH&^W,&S:^6^S^64eL,^&J:6O:CLL zeOzSe6&C,:e^,rz er-J^ke,CzLrL  4SJHLH^,r^ &e:L z6rz^wH,z,L, C,O J#CJzey,e^&He H*L ,rC zrHJO:eJrSJ6^ ^4CJr:&6e6SgLJrJ9zJ,, :HLJ :eJ^HS OHrJe:r6 S6HC PUO&^S:6LC 6SA,ze^Crr &_e &:66zS_OOe^,:zLL zOH,JJ:C&rS&66CHOJe&,(^&H^^eYL& SS6,SLLCer,&^SrH J-zJ6% 6^C:OLHO,SzLrJ CHrJz,,&rS6OzHeLOzzr:z66SJ:b,&J:S6rC&LeeH&,^zrH O-^&::L6 :SO^eJ,SzrrJ eHSJ6:zJHSOOze:L6z rS^,HJ^^xr&&Se6HC6LCep, e&H: L{ e&:,6 CC&r(S,Cz6r6 :HdJ::^JHHzO COL,z rC^rH&Je66&6:g6>CeL^eH,L^:&J ,9C&CEL6&CCOHe&,zzLOe zP:JLjz6SSLOJCH& zJre^HO:JzsH&Ou^^6COLSzS,&^Jr& rH z,:H6CCz6LeO,^^:rL:SYSJJ:J&LSrO eeL&CSre^OHOC,::&OS OSC,Le:L,,^&HeC^t6&e:lJO(CO_e , zrr,  RC^rr^6CS6O6CmL;e2r^^Cz:J 2e&,gLOCC,L&eH,H^^Or H(O&^_z6LC^LSe&6:^Srr &OOJH:&6ztFJJezLLzLrC SHOJJr,,JS&6HCH66zz,H^O,&J:1JzWS:6,CJ6Cer,J^erOeCgeJl:Oz,C:OOe O4yJr ^rHr^O:e&HS6&zR,L6z:r:^ H ^62,&JLC6rCeLeer,6^erq^&O:Jf: 6 SrO,eJ,CzrJ& eH6J6:e&KS6O^SH Oz ,,^,,&JC_r&&#e6^C6OHe#, ^^,, Lr  /:,6SCCOJe&LrzH,Jz&HYJe:^&OSLO eS6,eSrC^ H& ,hHJ:Sz&rCzL^e&,Lz&HS ,iJJ:Q66&SOOHCz,zzirO^eL6JLB,6S:HOJeCLrz& H^HHCJzP^&OSeO:CL6rz:, ^Jr, rBS&e:H eCeOOeO,e^:rO  rS^O: &rSrOzeeOOz6,CzOHO q::&&S OSC,6JeS,r^CHe &g6 L:.&&:*L:ez, zSr, JdC L:z6eS O6CzLuzOr^zHrzJ F&&,:JOCCrL&zeLH^6rH ;PS&^:H6LS  ^eL,C^Crz &HrJHH6 SSHO^e^L,zL,C SL,JS:C&&S&6SCHOrzzLr:^Hz LqLJJSS6,CJLCrr,&zHrH &dzJH:O6^ OOLeS,SzLrJ CHr  r6&HSzOzS^LOz^r:eLLeJ:8J&J:H6rCJLeSH6 ^erO O0:&:::6 kLS eJLrzr6^ eHrJ62 &hS  HC0LLz &H^,H JC26^SSC6HC6 req,6^^,HS 8^J,:,6:CCOre&LrC r&^THtee:^&DSLO eSL&S:rS^rH&C,RH&&Sz6L3eLzz:,Le HS LiJ&C^J6&SHOHe6,zzErO^e, JL:S6S:COJeCLrzC,L^rH6Jz0e&OSzO:C6L er6^^ HC rH,&e:r66C:J&e6,^^:^&  D:J,h^erS,O&eeL&z6rz^<,OL,::&LS OSC,6HzCLLz He r{6Jn:?6OC^6HC:, zyr,^:>CJr:&&S:SO6eSL5C6r^ :HLJ Hh&,SJOCCOL&zS,HzJLO t(O&^Tr6LC LSe,r:^Crr &fCJH:66z0N eez,:zLr  SHCJJG:^ S&OSCH6,zz,(^OH^:L%L& SS6OCJL:erO&C:rr 6kzJk:O&SC:&L:e,:z,rJ CHrJC:eJ,H}OzCmLOCtr:^LH JS:^&JSC6rC LeeH,6ezLS OP^&::L6 WuO,SJO^zrr& eHHJ6.O&Z:&6Ce:L6z L ^,HJJCWrJeSe6HC6LCe=,&^^rO^L9 &S:,e^CCO,e&,ezHr^CrHHJO:^CHSLO^eSL&S:rS^rH&:OVH&&Sz6GeeL^z:,L^zHS ,aJ Crj6&CeOHe6,zCyrOz^r^JL: 6SS,OJC&Lre LL^HHJJzHz&OS^O:CLO&zS,,^JH: rb &e:&&&CzOXeOz^^:rO  pSJ,:e^LS,O&eeeHz6re^7r&C:5i&LS &eC,LJzCOrC^HC HN6&z:_&CC^L:rL, ^Sr,  hCJ,:&&S,6O&ezLPCLr^ :HL zO,&LS OCSOL&ze,H^6e: uwO&^:H6LC^LSCOLe^Crr &rLJH:66zS}CLe^,:zLr^ SHLJJ}:&LS&OeCHO zz,i^O,^ &vL& SS6,CJOOer,&^SrH &ozJr:O6^C:&LCH,SzLrJ SHr^&:e H6rOeCHLOzzr:zJH ^S_^&JSS6rCJLee ,6^zrL ON^&::L6 C:O,SJLrzrr& eHHJ6H&&=+z6Ce:LLz ^^^,H JCrO&&:s JC&Lze>zH^^rP LiCzO:L6JCCzze&,CzH,J:jHHJO:^&,SLO eSOOS:rC^,H&^&GH&6Sz6m3zLzz:,L^zHS LwJJHr 6JCeOHL ,zzHrO^e6LJO: 6S{rOJeCLre JH^rH&JzH6&OS^O:CL&:z:,,^JH: r>J&e:H &CzOMeO,z^:rL  USJ,:J6CSrO&eSLHz6rz^,HJJ^::&LS& rS:Lze6,r^&HeJ:HCeO,SJ&HL y:S&,zHr, JtC LLe6CSrO6eeLIzOr^^:6yJ^::&,S^OCCrL&ze6r^6Hz yV6&^S:6LC LSe,,J^SrL &MeJH: &6SgOOe^,CCL6&C:OLzHLLzjHC CH L eJ,}^OH^JCHCz&,6  ;:JS:e6/:JOzC?LSJO:O6^C:66z ,Sz,rJ SHrJ&:eJ,: OzCHLOzer:^LH ^ID6&JS:6rCJLeeH,6^zrO ONz&::66 C:O,eJO zrr& eHrJ6:z&QSOO^e:LLz^,=^,HJJCAOJrSe6HC6L S&6:S,O eSLz 6,&^HH&OOeC,ezHr6  OOzz,Jz6re66eSL,zJ,,:SH&JenH&6Sz6HCOLzz:,LzSHS ,xJ&C:r6&Ce6,Or,zz5rO zN:JL: JZS6OJeCLrz re^HH6Jz:&&OSzO:COL zS,,^Jez r-&&e:,66CCO+e &HzGrL  HJJ,: 6C:L^eeCL6z6re^kHOJ^:::zS 6LC,LezC,r^&Hee&/&Jw:A6&C^OpeL,:z6rL JbCJ :&6CSHOJezLLSerz :HL s:S&LSJOCN,L&ze,H^&Hz 2(O&zS:6LC OHe,,J^CrO^L3eJH:66 :S JHOJ,:L6,e6LCe:LJ^erSO:CJL6zz,I^,LHe ,Cz,rJ^OCzOOer,&^eH:zCLOer, z,H  eC1,Sz,rJ C9 J&:C&HS6OzCELOC^6r^OH^JS4L&J:36r:&&:er,&^zrH OPe&:HLzxC:OLeJ,SzrrJ eHHTC:z&,SOO^e:LLz rS:^HJJS2r&^Se6rC6Lz:H,O^^H: O% &S:,6JCCOre&,CzHre zHfJO:C&LSLO eSLHXL6,S56gJS zh:JL: 6SS,&J&,^er^ ,yJ&C:8&Cr6 ^m^JL:^6CC&LCeCr:&HSJOJeCLrzO&OC&OSez},&JS^O:CLL&:rL:^zr  rg&&eS: erO  c 6,: 6eC6LeeerS&CSrO&eeO,7zre^QHOJS::&LS &SE6L zC,r^&He rq6JCr&6OCzL:e6, ^Sr, JHzJr:&6eS,O6eCLlzzJL :HLJ ?O&,S OCC,L&ev6J^&Hz v=e&^:K6LCCJOeL,J^C,H &-CJHbJehSHOOe^LLzLr  S,,zz:S&rS&OeCHL zz,6::H^J:FLJOSS6LCJLSer,zS,rr 6gzJe:O6zC:OJ*1,:z,rJ CHrJJ:eJ,,zOeCZLOe5r:^LH JS6,&JSC6rCJLeer,6^:O& 6E^&::L6 C:O,eJ6Szrr& eHrJ6:z&jSOO^e:LLz r:^,HJJCPO&CSe6HC6L Qr6:SzO eSEz&S:,6JS:&ee&,ezHr& zHQJO:^^PSLO eSLLzJrC^rH&Je{H&6Se6rCOL^z:,&z6HS ,9J&zyz^OrLJ&:C&eS^LSS6L zS,e&HSzOJeCLrzOLSSOLC^HL&z:rG6LCLL zSLO JHC rK&&S:H66Cz6rSH,^z#rL ^MSJ,:J&::zO&eSLHzJrz^yHOJ^Hr&LS^OSCOLJzS,r^&r: H#6&z:H6OC^L:eL, ^Sr,  6,Jr:&6eS,eHze6 zO^Jeze e AH&JSJOCCrLO;J6&SL6L rz6, Cz{rJCH^J :J^:ze,+^OH^J:/LCH LeeC LCer,&^erHC6zHS^6rCHL6zzrSez6Le Leer:.J9^H,ruHCzJHeOO6iSJ6:O6^C:OrmS&6S 6 CSHLC&,6krL6JOJ ^6:^,H+eS OSLrCHS,rV &LS^H6.:^LhLHeC:J,L6 C:OOeJ,Czrr& eHH66,^&rz^rLO,^,^,&6LLCJJ:J^,H:z^H,7 r&z:O^Cr6 L! &S:HJ/:J  :C&SSzrJr6C,HSO &e CeC%SL6z:rC^rH&J^H^zLrH &H6JSerL9^ HS ,T6 &,,^OrOJzS,JO:,6SCLO6J66^J :0,JHr:^6eSe^LrHJz0X&OSJ&eHJJ^XerJCH6HC ,:z :,J z6L L, e^:S O H(J,:J6CSr &CJjz&6rCS:OO C6pH: zrO ,L^Jzz^& :^p JzL,z06&OOzO>Cz CJL:LCeCJL:L6rO6,6^&,,LO6^^rHeJ :S&,S6&6Xe&C::6^SCOO ,8C&^S:6LC&6JS:&rS,6&CzL:JLVH6zSZOOeJO&:H6,C6O,^ ,&zCrH CC,H:^6*CeLr  :zH, :H6eCJLCer,OCH6OCSL e ,,^SrrO6SJ,rH:&S ^S7rzze&,JzSH-6LOCOLrH O  HHk&JSC6rCO6^TLJHS:6te:,rz ,zzLHJ ^e^Sr,OHeHz,:CHzC,xSJ6re:LLz reeeOez6LSzHr6^LCJLJz6^^J^C,SzC,,S:66CCCOre&,^C,OeC O,JJl36:SLO ee6C::6LCJO^J:i6&6Sz6+C,J6:O&6S,rp,6&:^&CreOOLCCq6,CLLHz^-6SHee&,r^,O^6e JJJLz&z&,:SLT&&:/J z&rJHCSeOCCC O8S&e:H66C 6J# &e:H,:eCHH H:J6CSrOO4r& ::6 SzLzC,, JerC :H&J:z:&bO^LACHC,z6&;^OCeJC&&OCSSOlz^eHer:^&9SHO6ez,S:J6LSzH& J:S&,SJOzSCJO::6^eHO C&LCe,.&^HH&J::e,^SrJL:C^zeJLHe:rVOJCL,:zLr  e,Je ,,e-rH^,SC >: ,,^CH^J:iL&&HO CH^ HEz&H:LrL :PzJX:O6J;L SHf&J^JL:C&LzJ C^J:6^CzLe  ,J6:^6H JSc,&JSC6r:zJeeLLJ^zr; O}J^6rS^SH: HIh&,:z6HCO, e:,:z&Hz 6< L6CqeC^O&Jz J,, ^e6,6:&L6C:LL:zC_&L JH:S6JCCOreO6JS:6 SLL^eeS: &rL^&C<zz:CHC6H,e ^^&,6SS6JCOL^z:,rCLOeCzL6zL,,^HCSOHe6,zzQrO ^::e,:z-:Lz&6JC^LrzzJSHH  eKw&OS^OC:H ,sN6 Sz6HCuL=^,,O^^rL&O:zJH:Jr6,,^&He H_6&zr3jzL,  6Hz^COOOeSHJ^ 6HS&LJzC,r^O6,e:Lz^:rS^JH, 6:^rSC&6^SrL&&&Hrz0rJ JezL}z&6OrS SJJ: rSOe CCOO,ze,H^6H ^6L:e,,,JCr, 6(_&6:6OJ  :Le:^66^O^S^,C&:z&,j SH,JJ:z ,rz :/CJJ:H,,z,H^J:jL&&n^^&HHL 3^reeLOSeeLezSrC^LSrOSe ,Sz,r6z:LJe,,:^:r:^OU &:zeCJLJ6&eS 66O6H^rC^O&eH,6^zHSzCLCe,LDOS8^ l%6J6Ser ELSHO6,^& TH}SY:L6D&O6S&CJ866Cr^^e6,&HJ,& HLH,LOL e JH:C6JCCOreOOLSSOeSrL6zCL,^ rzOzL ^ jH^CHL6LL eH& :L6}COL^zCLzC:O6C,LCz,r^^&CS1&zSL:z!LJLHJreL:e&6S,OJeCLpSr66C O:e:L&&C6 6HCLL zSr^^JHC rc&&e:H66:z6Ce6,^^:rL  6rJ,HJJ&SrO&eeLHz6OS^Ur& J::&6S ^ C,LJzC,rzHHe HY6&C:p6&C^OOC , ^Sr,,60CJ,:&6CSHO^DrLHzOr^,CHLJ^:S&,C:OCCrL&ze,H^6Hzz/rr&zS:6LC LSHO,JeCr& &DeJH:66zH,OOCeO6zLrz SOSJJ:C&rS&6 CHL6zz,r^OHeJ:N^JHSS6,CJSzer,J^err 6f:z&:66^C::re ,:z,rJ LHrJ&:e&rS6OzCE6OtH,w^LH JSh,^zSC&LQSLee,,6e&rX OV^&:O 6 CSO,e^,CzLr&^r, J&:z&B:^O^CvLLz rS^&L:JS(r&&!H6HC&LzeL6e^zH: LL,&S:L6JCCL e&,ezHr& zHsJOH^z6SOO eSL,zJ6d^rr e,_H&JSzJJCOL^z:,LuSHS ,jJ&::r6 CeO&SS,ezfrOz68:JO: 6SS,Oe>LL,z&rezCH6Je;8& rH6-CLL :J,,^ HC r:S&e:H66CeO4eO,^e:6z ^TSJ,:J6CHOO&CS&Jz6rC^*r&J^::&LS e,C,LJzC,L^&HS HjeCO:_6OC^J eL,^^SrL JHHz :J6eSH uezLHzO,e:LHOJ :S eSJOCCr6&S^,H^6Hz 2}OzLS:JLSSLSe,,J^Crre^%e ,WS6zSrOOS6,:zLr  SH^JJ:C&rS OeC,L6eHL ^OH^J:rS& S:6,CJLCe66S^CrH 6,OJT:66^S,Jze^,Sz,6r CH,J&ESe6S&OzC06Sz^r:^L, zea,&JSC6rC&J6eHO6zrr? Ol^&::L eCS6OCJ,CzLr&eLHHJ6:z&tS6O^e:LLzzrS^OHJ ,bL&&Se6HPJLzeH,O^^H: JLi&::,6JF:OreJ,ezOOC eH>JO,L6:SOO SQ Jz rC^rL2JeiH&6Xz&CC6L^z:,L^ OJ ,rJJO:r6&CeOHe66Sz2,&^Mf:J6: JNS,OJeCLreHre^HH6JCVM&&S^6OC:L zS,,SrHC ,i&&C:H6^HrOHeO,^S rL ^GSJ&r:6SSrO&6HLHz&rz^8DeJ^::&LS OSC,LJCC6O^JHe Hc6&zrO6O:^JreO, ^Sr, J,LJrH& :SrO6ezLuzO,# :,Lze::&,SJOCCrJ6zeO&HJHz RZORrS:6OC  Le,,eSLr, &2eh :66eS/6&H:L(zLr e,H,JJ:CJLL_OeCrL6ez,(^OH^^:HS& S:6,C LC:L,&zS,S 6TCJ4:66^C:OLCzL&z,rz C6&J&:e&H:J&&C#L z^6C^LH JST,J&SC6,C&OveH,6^zr} &k^&::L6 CSOLeJL:8&rJ eHHJJ:z&3SOO^r:LLz rS^LHJJS_rJ LH6rC6Lz4J,O^^H: ^6,&S:,6JreOreJ,ezrr6 :L&J6:^6:,,O e:L,ze6L^,H&JeOS&6Se65COLHz:,L^ HS ,wJ&CHrz&CCOHe6,zzg&& ^r: O: 6SS,OJeCJLz&Lez6H6JzP5&OS^&:CLOzC ,,^ HCSJ+&&e:HJ6SCO+e6,^zjrLezcS O:^6CSLO&eCLHz6rzzrrzJ^kr&L,SOSC,LJe:LC^&r9 HLL&z:=6OC^OLeL,^^Sr& J<:Jr:&&OSHO6ezLEzOrz :,L^H:S&,SJOCCr ,zeO&z&Hz 5YOzzS:6OC J&e,,eSLr, &9eer:66eS}6&H:LtzLr ^iH,JJ:CJLHSOeCrL6:z,a^OH^J:,^&^SS6,C^LCe,,&zS&6 &%zJiH^6^C:OLCz &z,r  CrrJ&:e&Hi6&JCkL6z^,!^LLzJSHO& SC6LC&LCeH,6^z,rzrt^Jr:LzSCSO,eJL:e,r&^fHHeL:z&gSOO^C,LLz^rS^&HJJCsr&&;H6HC6LzeP,O^zH:^6OS&::,6JC:Ore&,ezHJ6 zHYJO:z6:SOO Sq Jz rC^rO:Je_H&6:HJJC6L^z:^:^ H: ,sJ&C:6 SCCOHe6z6zsr6 ^{:&z: 6SS,OJeCLrz&Le:HH&Jz>R&OS^zHCL6 eC,,^JHC r2&zS:HJ6CCOIeO,^^:rLz QS OIz6CS,O&rrLHz6rzec,iJ^<2&LS^OSfOLJe:,O^&HS Ha&&z:w6OSe6reL,e^S&J JuCJr* J&SHO^ez&SzOr^ :HL^r:S&LSJ6HCrL ze,H^JHz AVO&^S:6OC 6SCJ,J^Crr &keeC:6 H:>OOe^,:HLr  :H,eH:C&6HSOCCHL6Hz,8^6H^^HO &^SS6,C^LCer,&zS:z 6feJg: 6^C:OLe LCz,rJ CHLJ&:C&HS6&LCFLOz^,H^LH JSr,JCSC6rC&LeeH6e^zLQ ^.^&::L6 CSJHeJOCeSr& eHHJ6:z ,SO6eSLLLzzrSz6HJJC3r&&L,6HC6Lzer,O^zH:^6OS&::,6JC:Ore&,ee,OC zHHJO,^6:SLO eS& z rC^rH Jejr&6S: &C6L^z:zr^zH: ,UJ&L:r6&CeOHe6,zzfLOeCH(JL: 6SS,JCeC6rS^rC^HH6JzDM eS^&:u&L^zS,,^JHC Ju& erL6&CzO<eO,^SSrLz:JAJ,:J6C6yO eCLHerrz^LLeJz::&L6&6%CLLJe:J&^JHe HrL&z:s6OC^^:eL, ^SrL JASJr/ eHSrO6ezLJzOr^ :H6Je:S&LSJOCCrL&ze,HCeHe 3%O&eS:6OC Or:^, ^CrrHOqSJr:6&C,OO6e^,:C r  SH, ^O6&rSJOeSHL6zz,0eOr#J:uO& S:6,+^LCCLL6^er, 6rLJV:O6^:H6re LHz,L^ CHrJ&-SJJS6O:Cm Jz^r:^LH ^HK,& SC66C&LeeH,6z6rv Ol^&::L6^CSO&::,Szrr&H^H,J&:z&KCeO^e:LLz rS^,HJ^C,A&&Se6HC6LzHL,Oe^r: L* &S:,6JHIOrC O&zHrJ zOzJO:^6:SL&LeSL,zJr:^rH JeK&&eSz6bCO:hz:,O^ HS ,=ezL:,6&Ce:&e6,ez*r CHHqJL: HeS,O eCLr^Sre^HH6JzvP&OS^&::HL^zS,,^JHCSLy& e>p66CzOpeO,^SrrL^zHWJ,:^6CrCO&eeLHz6,z^-HOJ^}H&LSzOSC OHzC,r^&e^ Hh&&z:H6OCSJ6eO, ^SCH JjSJr:z^,SrO6ez Hz&rz :HLJj:S&,SJO:CrL&zeOHC He EWO&^S: ^C 6S:6, ^Crr &Qe^::6Jzr&O6e^,:zLr eHH, ^,L&rS Oe2=L6zz,Wz&OHJ:=&& rz6,CJLCerJS^erH 6nSJx:66^:H^ e^,Sz,r^ CHrJ&2S^JS6OeCdOrz^r:^LH eL#L&JSC6LC&LCeHLJKgrH O?^^L:L6 CS6OrH,Cz,r&^eHHJ6:z FSzO^CoLLz^rSCOHJ :H6&&SS6H:#Lzes,Oze,< Lte&SZS6JCCOrC L&zHr^ zH&JO:^6:SL&LeSLLzJ,H^rH&JeMHJ^Sz6bCOL^z:,O^ ,?SJl &C:r6 CeOHe6,zHIrO ^Q:JO: 6:S,6^rrL,z&reS H6JzvI&zLLO:CLL JL,,^ HC ,V&J8rJ6&CzO<Jz,^zfrL CLOJL:J6Cz6O&eCLHz6rr^wHOJ^::&LS OS:, JzS,r^&He HOJ&zHv&rC^L:eL, ^S6O JrCJ::&6eSHO6ez67zO,e^CHLJ^:Se SJOCCr6&zS,H^&Hz HIO^eS:&6:rLSeO,Je&rr &Ie ,:C6zS,OOSO,:zLr z/rSJJ;H&rSSOeCHL6zzLJ^OHzJ:mJ& :_6,CJ6^er,&^erH 6aeJlHO& C:OLe ,Sz,&L C,JJz:e&HS6H,CpL6z^6J^LHCeOsL&JSCH^C&LCeHLJ{QrH O_^JH:L6 CS6O^r,Cz,r&^ HHJ6:z&ZSJO^e:LLzzrS^LHJJC.L&&Se6HCJLze>,Oe^rL Lf &S:,6JH,OrS&O,zHr6 zH9JOrJ6:/L6 eSL,zJrC^r,^JeH,JOSz6rCO& z:,L^ ,_e^3JJk:r SCeOHe6,zK&rO ^}:J&: 6:S,6^rrL,z&re^,H6Jzc2J&rHO:COL ez,,^JHC r,C&C:H66CCO%e6,^eH&  ^dSJ,HC6CSrO&CS ^z6re^prOJ^::&L. 6eC,L zC,,^&LS HHJJ6:k6&C^^teL, ^S,O SaCJO:& JSHO6ezOrCrr^^,HL &:S&,SJOCC&L&zC,H^^Hz TZO&^aL6LC LSe,,J^Srr^ 6HJr:66zSrOOe^,:zLJ  SH,JJ:S&rSJOeS, zze,Y^O6rJ:.L& :LzCCJLCerr6^err 6BeJ}: ^HSaOLe rCz,r  CH6zS:C&HS6OJCtL6z^r: zH JSY,&JSC6rC&6eHH,&^zr* OA^CH:LJ S6O,eJ,Czrr&CSHH^6::&;SOO^e:LLC rSzO,UJC},&&Lr6HC6LzSNOr^^rt LA^&SrO6JS:6,e&,SzH&& zHiJOfe&rSLOeeS6:zJrC^rr ^&AH&^Sz6SCOL^z:,LeOHS L2JJH:r6 CeOHSh,zz<rO ^}:JO: JS::OJeCLrz&reSCH6zHK:&OS^O:zOL z:,,SHHC 6,S&C:H66zeObe6,^eH&  ^>SJ,:^6CSrO&CSHzz6re^2rrJ^::&LS 6&C,LJzC,L^&HC H16&::l6OC^OHeL, ^SL,zO5CJr:&6eSHJeez6?zCr^ :HLJ :S^HSJ&CS^L&ze,H^6Hzz,7OJe:e6LCzLS:r,J^Crr^ L,JH: 6zrSOOe^,:zLJd SH,JJ0G&rSJOeS, zze,b^OHeJ:dL& v} ^CJLSerLL^erH 6xzz6:66^C:O6e ,:z,,^:rH,J&:e 6S6OzC-O&H,r:^OH  SM,&JSCJrCSLeer,6^erBe&k^ HvS6 SWO,HJ,Czrr&^SH&J6:S&}:6O^e:LLezLr^,HeJCrH&&Se6HC66Fe5,6^^r, Ld &S:,&6CCOre&,ezHr& zrrC^:z6:SLOzeSL,zJrC4rH&Je(H&&Sz6HCOOeHL,O^ HSCzBJ&C:r6C,6OHe6,zeJr6 zW:JO: &rH^O eCLre:rC^rH6J:,&&6S^O::zL^z:,,^JHL ra&&e:H66CzOvSOJ^zFrL  xSJ,L^6Cjr6SeeLHz6rz^<O&J^H:&SS OSC,LJzCOr^&rS  d6&e:wzzC^L:eLO ezr,  jCJ,:& SSH6JSrL%z&r^S:HLJ :SJO::OCCOL&eC,H^6Hz^rLO&^:,6L:JLSe,,J^C,C &*CJH:^6zSrOOe^OezLr  SH,JJ:S&r*&6iCHL6zz,}^O66J:r^JSSS6,CJ&Le,,J^eO^ 68:z&:66^C:&ze^,:z,reCLH,J&:e&zS&OeCMO&g:,%^LH  bj,&JSC&LC Leer,6zJrt OI^&::C6 CSO,e^,Cz,r&^SHCJ6:z&kArO^e:LLez,^^,H JCLC&&Se6HC66reu,O^^rH L#^&S3OJLCCOre&,SzHr6 zrrJS:^&vSL66eSL,zJrCCJHJJe>H&JSz6HCOOeHL,O^ HSzJ{J&C:r& ,OOHe&,ze1rO ^{:^Lcr6SSLOJeSLrS rez,r Jz=r&O:SO:CLL CD,6^Jri rL,&e:H66SCO eO,S^:6J  +SJ,:J&HSrOJeeLOz6rz^<HO  ::&LS OSC,L zCLL:eHC H96&C:#6OC^L:rL, ^Sr,  3CJ,:&&S,6O&ezLN:Cr^ :HLJ:r6&LSJOCHSLJzC,H^6Hz L,e&zS:6LrOL:eL,J^CH  &meJH:66zS*OOS^J:zOr  SH,JJL:&rx&&JCHL6zz,R^OOeJ:rL&:SS6,CJLCerO&^e,,^6kzJH:Oe;C:OLe OSeJrJ SHrJJ:e^,S66CC,LOzer:zJH JSR,J^:e6rC^Le:C,6^zrd^&L^&::J6 rrO,eJ,Czrr: eHrJ6::&1S&O^e:OLz rS^,HJJCk,&&be&JC6Lzen,O^^6z Lr:JH:,6JCC SeJ,CzHO: zHLze:z6:SL^Oe:LLzJ,HC HJJefH^6Se6HCOOeHL,O^ HS O+J&C:r& H,OHe&,zzCrO ^q:JLr:6:S,OJe:LrzJrez,6zJe.y&Os:O:CLL C{Je^JHS rH&&e:H66:zO:eO,z^:rO  L{J,i^J^SrO ee6Sz6rz^sr& ,::&&S ^&C,LJzCLLzLHe O+6 e:<6OC^L:ee, ^:r, eRCJr:&6e:LO6ezLszOr^^kHL zO,&LSJOCCLL&ze,H^6&z }>O&^:d6LC^LSCOJC^Srr &OLJH:66zS6&Cez,:zL L :HLJJ:C&rSz ,CrL6zz z^6HzJ:XL&WSS6,CJLCer,&^eLHS6oeJn:O6^C:^6e OSe^rJ CHrJ&:ez,S6&zSHLOz^r:^LH ^S9,J^a^6rCJLeH&,6^zrjzOrr&::O6 C:O,:^,CeL,X eH,J6:e&XSOO^SHLzz ,H^,6CJC3r&&:S^HC6L:e*&,^^H: LG   :,6 CCO6e&,SzHr6z,H}JO:^6:SLO^eS6,eLrC^rH&Je?HerSzJ6SRL^z:,LHLH: L>Jz6:r6zH,Ore6,zHzr6 zY:JJ,=6:S,OJHeL,zJrez,6zJe4/&OSeO:CLL C!6^^JHS rL&&e:H66CzJ6e6,^^:r6  !:J,1^erS,O&ee66z6rz^9r&S,::&OS 6SC,LJzCOrzeHe rR6&e:7 &C^6HCO, z8r,e vCJr:&&S:0O6eSL}zSr^ :HL zHJ&,SeOC:eL&ze,H^6rM Gx6&^:,6LC LSe,,C^Crr &XeJH:&6z:r^^ez,:zLrz SH,JJ:CCrS&OeCHL&zz,H^OreSLPO& SS^zCJLCer,C#6rH 6oz:e:66zC:OOe LrS^r  CHr-,:C&rS6O:X&L6z^r:rSH^J:!,&JSL6rC&LeeH,6^zrVzOO^JE:L6 CSO,H^,CCrrS eHHJ6:z&Zr&O^S:LJz rS^,HJJCrr&&:S6CC6Lee-Jz^^H: Lr J::,6 CCO,e&6SzH,JzJH2J&:^&KSLO eSOOerrC^OH&SHmH&6Sz&r:1L^e,,LS&HS ,mJ&C:z6&CCOHe^,zzrrO ^HOJL: 6SS,OJeSLrC&L&^HH6JzI/&O,6O::^OOzS,,^JJz ,bJ&er^66C:J&e6,^^: r ^=:J,9^erS,O&eeL,z6rz^Ur&eH::&OS ^HC,LJzC,rCCHC H*6&C:Q66C^6HH ,^^Sr,zC8CJr:&&S,^O6eeL{eOr^ :HL^ 1,&,S OCC,L&SS,HzJ,H k_&&^,S6LC LSCOLX^CrO &L?JH:66z:r6^e^L,zL6^ SH,JJ:C&zS&OCCHL^zz,f^OH^ ShL& SS6,CJLSerL oHrr 6ozJr:O6^C:OLr ,Sz,rJ SHrJJ:eJ,,zOeCuLOIrr:^LH  LOC&JSC6r&rLCer,6^erM  LHJZ:L6 & OLe ,Cz6OS CHHJ6^L&HS6O^e:,zz rS^,HJJCtr&&hezHC&Lze9,O^^&H Lr Jz:,6JCCOre&&SzHL6 SHhJO:^6:SL& eSOOerrC^,H&Sr8H&6SzJqS L^e7,L^^HSeO}JJ:AO6&CSOHe&,zz7rO^errJL:e6S,JOJeCLre L&^HH^Jz,S&OS^O:CLOezS,L^JrH r< &e:H&rCzOneO,^^:rO  rS L:J6CSrO&eeJCz6OH^SHOJ^::7HS^O:C,JHzC,6CSHC Hg6?J:H66C^6HH ,^^Sr, ^kCJr:&&SS,O6eeL9:Or^ :HLJ XH&,SJOCCLL&zC,HzJHS W8O&^>e6LC LSCOL6^Cr, &rHJH:66zSZ6Ce^,:zLrz SHLJJR:&^S&OeCHLJzz,(^Ore^6%L&^SS^,CJLCer,&6}rH 6IzJr:O6zC:66Cz,Sz,rJ :HrJ&:eJ,HCOzCHLOz:r:^LH JS, & SC6rC Leer,6zC&O 6M^&:H 6 CSO,C^ 6zrrJ erHJ6:z&xpO&,e:LOz r:^,L^JCHL rSe6,C66He(,O^^,H S- JH:,&,CCOre&LSzzr6 :H(^ :^6:SLO C6L,z rC^6H&JetH&6lO6UCOL^z:,L^^HS^OOC&S:r6&CSOHe6,zz;JO ^k:JL:^6SSLOJC: &zJre^HOSJz+f&O:1z CLL zS:6^ HS r0J&e:O CCeOxeO:CztrO  Hrz^: 6CSrr eCLrz6rz &HOJ^::&LS OSC,6J*C,,^&He Hp6eC:ZJO:LL:eL, ^Sr,C^0C^rY<6eSHO6ezL7COr^zHHSJ ::&,,SOCCrL&CeLO^6He R76&^rH6LSz6He,,^^Cr, &FeJHBJJ,SROJe^ LzLr  SrOeJ:C&6S& ^CHL6zz,!^ H^ hWL&CSS6OCJLCeJ,&^erH 6izJH:OJ^:^OLe ,Sz,rJS Hr^CHO&HS6Oz^rL6zzr:CCH  r,^& SC6r^ LCer,6^:O& 6P^&:^ 6^C:O,C^ rz,r& eH,J6:z&s:& He:LOz ,,^,HJJCYr^CSC6HC6LCev,6^^,HS l^&S:,JCCCOre&LS5^r6 eHG O:^6:SL& CHL,z rC^,H&zS#HJJSe64C&L^er,L^ HS^OHS&C:O6&r,OHe6,zerrz ^H,JL,L6SS,OJeCLzz&rC^HH^Jzik&OS^6CCLL zS,,^JHS rH CH:r66CzOreO,^^:rL: =SJ,:J6SSrOJeeO,*zre^tHOCr::&LS 6L:zL zC,r &HC r76&z:>6 HHOheL,  SrL  sCJrSS6eSHO6ezL#zOr^z:6LJ^:S&,SJOCrLL&Ce,&^6Hz IpO&^,H6L: OCe,,J^Crr &reJHUJ&^SuO6e^ OzLr  S,, L:C&,S&OCCH&JzzLr^ H^ HvL&^SS6,CJO:e,,&^:rHSzqzJf:O&e:^OLeC,S:HrJ CHrJ&H&&HS&OzCLLOzer:^Lr:JS+,&JSC6rCJLeSHLO^zri Om^&:LM6 !LOOeJ,Czr:e CHrJ6,L&BS  HC+LLz P,^LH JCHLeeSC6HC6LCeM,O^^,HezZ &::,6CCCOre&,eS&r& zHQJ&:^&<SL6zr,LLzJrCe&H&Je}HJJLL6/C6L^e:,L^ HSz,H:&C:,6&CCOH:J,zer,^ ^HHJLHH6SS,OJC:Orz&r:^HL6JzDM&O:e&HCLLCzSOS^JHC r>&Je:H6&CzOLeO,^^:rL^:dSJ,:J6CSrOJeeO,Vzre^pHOJe::&LS OS,,LJzC,r^JHe rG6JCLO66C^L:#e, ^Sr, S6&Jr:&6eSrOJeeLTz6r^^,LzJ^:S&,S O:C,L&e?6J^&Hz oHO&e:n6LC LOe,,J^Crr &seJHH6zzSHOOe^,:zL&z S,, ::C&rS&OeCHJJzzO}erH^J:<L& SSJ,CJO:e&,&^CrHSe2zJt:OJ^:9OLe^,SzLrJe:Hr  je&HSJOzCHLOz^r:z6H:JS#6&JLr6rC&LeC,&6^zrL OLJ&::L6 CSOJeJ,Szrrz eH,J6:z&6SOO^e:LLz r:^,,J hcr&&Se6HC6 &eWOzzJH: Lf JS:O6 CCJze&LnSJr& zHI O:e&4SLOCgOLLzJrC OHJJCbHJJLn6HCOL^eH,L^ HS^O,:&C:,6&SHOHe6,zzWOz zf:JL:z6SSLOJC: &zJre^H,zJzn9&O:ezJCLL^zSL,^JHC rr&JJ:H6&CzOHeO6e^:,6^,#SJO:JJLSrO&eeO,C,rz^,HOer::&LS &RSCLJeH,rz6He HG6&z: 6OCzL:eJ, ^Sr, JHJJr:&6eSHO6eeL_e&&:^NHLJ *N&,SJOCCr^&ze,H^6He _X6&^VHz C^LSe,JT^Crr &Hr^ :&6zSdJ,eeLazLr  SH&z::S&rS&J^C,L&zz,* eH^J:FL& SS6,CJ6CHr,J^erH 6BzCr:OJ^:&OLe ,Sz,rJC:Hr^&Ee&HS6OzCdLOC^r:z6rzJSVL&JL,6rC&LeSHOr^zrH O.z&:r66 :TO&eJ,:zrrJ eHHJ6pCJ SOOCe:  z rS^,r^^Jlr&zSe :C6LzeF,Oz,H: O* Jr:,6^CCOre:,ezHr6 zHqJ6:^J::&O eSL,zJrCSSH&zryr&6Sz6hSJLeeR,LSrHS &,:&S:r6&S:O,e&,zer&^ z7:JL:z6SS,OJC:& z&rC^HHzJzh*&OS^ OCOL zS,O^JHS rH CH:r66Cz&OeO,^^:,6:r0SJL:J&CSrO&ee6He,rz^HHOJz::^6S &oSzLJz:,reCHe H<6JCQz6OCCL:HH, ^Sr,^^HrJr:z6eSzO6ezLbzOL, :HOJ hr&,SJOCCr6,ze,H^6Hz vx6&^iHz C^LSe,,^^Crr &beSH:66zSBO6e^L+zL,z:,HLJJ:Cz^S&OeCHLeS,,H^OH^Ce%6&^SS6,CJOH: ,J^erHS,7CJH:O6^C6OLe ,Sz,rJ CHr^&Le&rS6OzCiLOyer:eLrzJSV,&JSC6rH LeSHLS^zrB O#^&:HL6 :qO6eJ,Szr&C eHHJ6Hz&,SOOze:LOz 6D^,r^J:mr& Se6rC6LzeKL&z,H: &B C,:,6JCC6Ll&,ezOr6C H;JO:^6:SOO e:L,zerC^LH&JeH,&6Sz6.COL^eK,Le rr ,NJ&C:r6&rJOHSeOLzbrO ^OeJ6:^6SHeOJCH& zJre^H6,JCsH&OSS 6COL zS6L^^HS rH CH:r66CzOreO,^^:,6CKcSJL:J^CSrO&eeLHSere^FHOJe::&OS 6rd^L zC,rrOHS rq6&zS&6OC^L:eO, ^Sr,zJOLJ,:&6eSHO6:SL{e&6H :H6J LJ&,SJOCCr^eze,H^6HC wh&&^:OJeC^LSe, i^:r, &#eJH:^^rSHOOe^ &z6r^ SH&z::S&rS&zzC,L&zzLr:^HzJ:gL^rSS6,CJ6C:!,&^erH 68zz^:OJ^STOLe ,Sz,rJCmHr  /C&HSJOzH^LOz^r:^LreJS+,&JS:6rC Lee&Le^zr{ O6CJH:O6 CSO,ee&Lz,r& e&LJJ:e&0:&^:CKLLz ,6^,HJJC%L&^Se6rC6Leew,O^^H:e^t^&S:,6^CCO,e&LlSJr& zHUF,:e&kSLO eOL,zJrC^,H&JeiH 6,r6HCOL^z:,LCeHS^O,:&C:L6&rHOHe6,zznJ^ ^f:JL:z6SSOOJC,6^zJre^HJ/JCZH&OS^O:CJJ+z:,,^JJ& L5J&e:O CCeO9eO^ezHrO  rvCJ: 6CSrJyeeLHz6LzzCH6J^::&LS  JC,6JCr,r^&He H?6^S:5&&:rL:e6, :,r, JlCJr:C6eSHO6eCLUz&r^^OrLJ :S&,O^O:C,L&zC,H^^Or HbO&^6H66C^LSe&6:^Srr &JrJ,:&6z:r^^ez,:zL,H SH,JJ::&OS&OCCHLJzz,M^OH^eOuO& SS6OCJLSer,zS,rr 6dz:S:&6zC:66HS,:z,rJerHrJ&:eJ,,:OzCHLOe^r:^LH ^SHz&JSS6rCJLe:,,6zC,L OXe&:EC6 CSO,C^LCzrr^ e,,J6:z&y:&&6e:LJz JH^,HJJC%r&eSe6rC6L:ey,O^^H:^:y &S:,6JCCO,e&,eSrr6 zHZJ6:^6:SLOeeSL,zJr:^rH&JeBL&SSz6/COLJC 6YS,OLCJLeem:O6CCeOHe6, :OOCCpOxeO::6SS,OJC: &zJre^HH&Jz!R&OS^z:CLL zS,L^JHS rH CH:r66CzOreO,^^:r6 eASJL:J6CSrO&eeLHSere^#HOJe::&OS OS=LLJzC,r^JHe H*6&e:86OC^OeeL, ^Sr6 eDCJr:&6^rL .H&L,zCr^ :HLJ&r ^Cr1^6H6JSeL,,^6Hz v3O&^S:^rH OHCL,J^Crr Or ez,J^Hr,  DJ&JCz6CSrOe^C,,z ,2OSCHL6zz,=^OH^CJLL&e:O6,CJLCe_L:e&6JeeLCz^:&6^C:OLe ,Sz,rJ CHOJ::e&HS6O : J S,&zCSO,CH3,&J:c&HC&LeeH,LSO6,e:LeeCbS^^He e<rOL:66:SLHL H:z&{SOOJS&&^:eL6S&O eSL-zqr66LCzLze5,O^JL&CrOJzJ:66SCCOre&,^e 6&C LJeOHL6:SLO Sv Jz rC^rrHJekH&6Sz^HCOL^z:,O^ rq ,rJzt:,6JCeOHe6,:z>OO^<Y:JO: & S,6HeC6rC rC^rH6JzXt& S^&HS%L e.,,^^HC rI& eKz66CCOGe&,^zIrL^zrOJ,:z6CS&O&eeLHeJ,O^(H J^7L&LS OSSOLSzC,&^&rH HV6&z:V6CC^OHeL,S^SrO JHCeS:J6CSH6rezLrzO,e:WHLJ^:S&zSJOCCr6&CH,H^JHz !_O&SS:JLSHLSeO,J^:rr CYe ,wH6zS,OOC%,:zLr zSr^JJ<!&rS^OeCrL6eC,:^OHSJ:wz& SS6,S^6&er,e^erL 61zJjm&^HC:O^e LOz,rJ CHrSe:e&LS66HC}L&z^r:zCH^ xP,&^SC6OC&Le&O,6^erT &P^J_:L&zSOO,e ,Cz:r& eHHJ6Oz&>S6O^CXLLz^rS^,L JC1r&&SC6HC6LzeW,O^^H: LM J*:,6JCCOOe:,ezHr6  r^zH,L^Or  CHHL6zSrC^rH&J^L6^SrH^HH6O(z:,L^ ,3SJh &C:r6JCeOHe6,zHwrO ^n:JO: 6:S,6^rrL,z&re^,H6Jz/P&&SCO:COL zS,,^JHC r,C&C:H66CCO-e6,^^:OO  oSJ,: 6CSrO&eCLHz6rz^CHOJ^::&&SSOSC,LJzzO^SO6zezu J&:A6OC^LC:S&eSJ6OS6LSe6,^^Jr,JeeSLLzOr^ :Hree,Jz:S^OCCrL&ze,H^66LCgZJJOS:6LC LeCz6S:M,^CzLCer,L^LH^OJCr,:zLr  e,Ser,Ozzrz^,C L er,;^OH^JCHe L,O  H^J&eL,&^erH 6szJ;,,^^SrO^e ,Sz,r6zOO,eO,LzHS6OzCrLOz^r:^LH JSu,&J:c&,C&LeeH,LeJ6^C&LAer,J^&H&&^-eJH:zLeCrOJe::S&JSOO^e:LrSr&ree6Le&,ez^s66HC6LzCrJ^^zH: L5z&S:,6JCC ,e&,ezHr& zHrJOH^^rSOO^eSL,zJ, ^rL& ruH&&Sz6OCOOLz:OLezH: L1J&C:r&,Ce6,eJ,zzrrO^5;:JL: JS:^OJe:Lrz re^LH6 CHC&OSCO:CJL zS,,z^,^ r7z&e:O66CzOqC&LH^:r   HrJ,:J6CSr&0eeL,z6,X^;H&J^3:e_S^O:C,L zC,L^&rSSrV6&e:7&rC^L:eLO e&r, ^TCJr:&&JSH&6C,L%z&r^^HHL d:SJO:fOCCOL&e,,H^6HzznHH&^:r6LCeLSe6,Jz:re &HvJHpH6zSNOOCeLOzLrS SHzJJ:C&r:  ,CHLezz,z^OH^J:NLCSSS66CJO,er, ^erH^:keJr:O6eC:O&e ,S6&rJ SHrJ :e&rS66CCOLOzzr:^CH JS_,&JLC6rCJLeer,6^er= O,z&::L6 C:O,eJ,Czrr& eHHJ6:z&rSOO^e:L&eHrS^,HJJzHe^,r6 &HzJ:_,,JzGH: LV &e,J^(H, ,7JLrzHr6 zrrC^:z6:SLO^eSL,zJrC5rH&Je0H&&Sz6HCOOeHL,O^ HS OEJ&C:r6 C:OHe&,zz<rO ^7:JLr:6:S,OJe:LrzJre^HL&Jz9a&OSzO:CLL z:,,^JHC :(&&e:H6 SLOEeO,^^COSCeLJeOL6zLrM ee:LJz6rz^iH,^rH^zzH:^RZCLzeS,r^&HeJ:r,eO,r zHC ,lr&rCO6&CeO6^&rCz,r^O C%L3zOr^ C,ee&LC^CSz6HCrL&zer:S OOCe*&&^S:6LC LSe,JHSCrO :(eJH:66 yzJ:=rJJ:J&4^6HOJJ:C&rS&OeCHJL:z,,ziH^J:WL&&86  Hz6Oa6&JSCO:e:LOJ,:C6^C:OLe&6&:&OHS LeeH,:&,S6OzCWLOz^r:^LH  H_ &JSC6rCO6Lor&LS,6q Od^  :L6 CS6OHC,Szrr& CHHJ6:z&Yr6O^e:LLz^rS^OHJ^C,O&JSC6HC6Lze,,OC^rO Lf^&S:e6JS^OrS&OSzrr& zH=JO:C6::6&,eSLOzJ,L^rH&JerHJ,Sz6rCOLez:, ^ ,}^J<JJ=:r6CCeOHe6LCz6rO Su:J^: 6SS,6^CeLrzere^&H6Jz9b&OX&O:C6L e,,,^^HC^rO,&C:r66C:O.e&,^eH&O  E:J,>r6CSrO&SeL^z6rC^ZHOJ^1r&Li 6OC,L^zC,L^&HS HHJ&C:36JC^OHeL, ^SL,  1CJO:&6:SHOzezOre4r^^,HL L:S&,SJ6:C,L&eH,H^SHz %_OJer66LC:LSeS,J^Crr &&HJH: 6zS6OOee,:zLLr :HOJJ::&rS^OeCH:^zz,H^OHeJ:?O& R.&&CJLSerL,^erH 61zS-:O6zC:OOe ,:z,rJeSHrJ&:e&rS6OzCTLOz^r:^LH JSc,JSSC6rC&LSeH,6^zrG OF^6:,,6eS6O,eJ,Czx6qC6LeeV,SzJH:OCC6LLz rS^H,tCHLLz i& OC O,e*,O^^HC^CL,z rC^zrOJee ,ezHr6 zHZJO?r^:S&O:eSL,zJrzeLOHeC,zzjSS66COL^z:,rSzOJCLLrz&:O6CCeOHe6, :J&HCSO6zC:e&zS,OJeCL>CO6:SeO^ez,^ CrL^6H:J,=O,6^SHC r?&&^He eHe ^::,Cz,rL  vSJHHLz&rOO eeLHz6rz^RHOJ^,:&&:_OSC,LJzzO&SzO^CLL:e,:,6zC^L:eL,&C66:CeOLzz:^&,SHO6ez,S::6CSLL^eH,S&6:LOCCrL&z^L^SIOCCLLJ6:k^^zr,Je%e,zzrrr &5e&:Lr^HHS SeCLJzLr  SHH S,6^zte^bM:J wL,,zdH^J:WL&&H,^&H6 ?%zO::OO&C:O,J,:C6^C:OLe&6OSC6^SHOzeHLL&LSeOzC_LOzJ6^Sz6,eeLe&z:H6rC&Lez:&r:O6,:O-^&::L&z,,OLeJ,Ce,r& eHHJ6,e&7SOO^CfLLzzrS^ L%JSTr&&Lz6HC&Lze+,O^SO6 Og &SOr6JCSOre&,,zHr6 zH(JO:^6:+LJee:L,zJrC^rrLJerH^ Se6!COL^z:,S^ ,QSJq &S:r&^CeOHe6LHeLrO zY:JL: 6:S,OJeCL6SSrC^HH6JzhM&6S^&Hr L^zS,,^:HC r8&JrLz66CzO>C,,^z7rL ^aSJ&r:6SSrO&C^LHz&rz^LLeJz::&L0LOSCLLJzCLJ^JHe H86&z:,6OQ^OOeL, ^SrL JH:Jrr&&rSHO6ezLezO,G :r6CS::&LSJ&NCrL&zeLH:rHe gmO&:S:6OC LSz^,J^Srr JieJH:6JzH,O6ez,:zOr zrH,^J,D&,SJOeCrL6zS,;eO6H aVO& S:6,SHLCCLJe^CrL 6H^Jn:O6^C:Cze Lrz,rJ CHrJ&:e &S&OSC5L z^r:^LH %r-,& SC6rC&LCeHLJuFrH O2^JH:L6 CSO rr,Czrr&zzHHJ&:z&HSOOSl6LOz rSerHJJSGr&zr,6rC6LzSe,O^zH: LH:&::,6JCCOre^,eSHre zHuJO:z6::6O :SL zJrC^rr,Je2O&6:CzOC6Lzz:L&^ HS ,HJe :,6&CeO6e6,ez?rO HW:JO: 6:S,OJeC6rS^rC^rH6Jed#J S^&:F&L^z:,,^ HC O9& e,J6&CeO0e6,^zJrL^z6,JL:z6C:HO&eeLHz6zr^3H J^::&LS OSC,6SzS,O^&rx Hx6&z:vC C^O+eL, ^SrL JH:C&:J6eSHOSezL_zO,be&HOJ :S^:SJOSCrL&ze,OCCHe EGOz6S:6OC LSC , ^Crr &EeJL:6 zS6OOe^,:zOr z5H,zJK,&rS&OeCCL6e ,Zz&6: =nO& 7H6,CJLCCrJ,^CrH 6H2J4:66^C:Lze ,:z,r  CHrJ&He^LS&OeCML6z^L,^L, eHbL& SC6,C&L:eHO6:rrH 6U^JW:L&rCS6OHC,SzOr&^zHHJ6:z&{6eO^C,LLz rS^,HJJCrJ&JS:6HC^Lze(,O^^ , L_^&S:,6JCSOrC  Hzrr6 zr6JO:^6:S^z,eSL,zJ6C^rHJJe/r&6S: &C6L^z:&L^ H: ,5ezL:,6&Ce Se6,ezVrOzqHxJL: 6SS,OzeC&rzCre^HH6Jea(J&S^J:C^L zS,,zLHC C7&JSL66&CeODCJ,^^:rL^ O^JL:J6CS&O&eCLHz6rr^#H6J^;g&LS OS:,&zzS,,^&HC HH^&zH2 JCzOjeL,^^Sr6 JrCe :J6CSHO&ezL zO,e:LHOJe:SJrSJOCCrL&L,,H^^Hz 3QO&^S:6L::L:e6,JzHrr &VeJH6^6zSHOOe^,:zOr z16JJ :C&r:eOeCHL6eHJ^^OH^J:OO& S:6,C LCe66S^CrH 6OeJU:66^S,Jze^,Sz,rJ CH,J&:eJ&S&OzCyLOz^,r^LL  L1,&JSC6,C&OSeH66zHrY Oy^Jz:L& CS6OHC,Sz,r&^:HHJ6:zJd,HOze:LLzSrS^LHJJC: &&SC6HC&Lzex,Oe^Or Og^&S:L6J:HOrS&6:zrr& zHHJO:C6:-L^-e:LLzJrS^rrVJeH,ezSe6,COO z:,L^ HSH^mJJH:r6&CeOHe6,zC6r6 CI:JJ: 6SS,OJLHLrzJre^HH6JeQY& rH6ACLL zS,,^ HC r,J&e:H66CeO.eO,^^:rL  ZSJ,M&6CSrO&e:OHz6rz^sH,z,L6^^,L JHL6HpL6eS:6LCJL^e,r66&C^L:eL, ^Sr,JJLeJO::6eSHO6e 6O:669C&LS^&,&&6:,OCCrL&z^O^SCOHCz,:zzHH ^H& HeO,J^Crr &peJH:S^zSrOOe^,:zLr  SH,eJR1&eS&OeCHLLSL&&Cz6Oe LO^J,r^CCzO^er,&^eH:zLLSez, ^^H &e{,JO:S6rSLHLJ&:eHH, mJOLr :z,H^LH :SHS:,& OrHJL:e6,6^zr+ ,O6zO,rzrSHOJeJ,CzrrOCJL&eJ,O&rSOO^::,O;zSS SO  !V^&&Se6HCL&r:^&&SS6JeSOHJH:^6JCCOreOOL:O6JCCrzz r^6:SLO :L< zJrC^rH^Je=r&6SC6QC JHea,L^ rH ,Z &C:6 SCCOHe6LezMr6 ^rHC :^6:S,6LeCLrz&LeCLH&Jeh}&6S^6rCLL :s,,^ HC ,_&&e:HJeLCO4e6,^CSrL ^ESJe:J&HH OJeeLHSOrz^HHOJ^:6&LS^OSC,LJzC,re&S& H>&&z:H6OSJL:SLL6^SrL JcSJry66eaHOeezLHzOrz :HeJ HT&:SJ6?CrLzze,H^6Hz HcO&zS:6&C L:e,L^grr, JxeJe:66zSNOOr^,:zOr  :H,J :C&6HSOCCHL6S^,s^6H^zO&6& SS6,:JLCe,,&zrrH ^LrJH:O6^::OLe^,SeO&C SH,J&+J&HS6Oz:b&Jzz,#^LH^JSR6&JSC LC&LCeH,&^zrR O,kLO:L6^CS6eeJ,Szr,H eHOzC:e&-SO&,e:LOz ,rC^H JCKr^6Se6rC6Lzz&,O^zH: Lg &S:,JJJLOreJ,ezrr6^ H8^OuH6:SOO e:L,e&rCerHzJeMr&6Se6GCCL^CHL ^ rH ,8 &C:r6&CeO e6,ez7rJ ^H-JL:C&JS,OJeC&Hz&rC^H,eOH}V&OS^JrCLL^zS,J^JrHe ?J&e:HJ CzOHeO,SS6rO  xSzr:J6SSr6 rHLrz&rz^eHOJ^:: LHeO:CLLJzS,r^^He H,J&z:H6OCzL:eL, CLS  JGSJrrt6eSrO6CJLDz 6H^hHLJ r&&,S OCC6&SzC,H^6L^ 8=6&^S:OzC L:e,,J^Crr &reLe:66eSUO6e^LCzLL ^eH,J :C&,S&6zCH66CJ,{^6H^ 1GLJHSS&O:rLCeO,&z,rH 6WzJgpC6^SEOLee,SzLrJ CL,J&:e&HS&OzCZLOz^r:^LH J:H>&JSC6rC^6MeH,6^zHSzJLS&Lo^^ereLJSH&&:^O:S,L:ezLL^Sr  CH&L&eLrS^,HJJzrOzz,OO6::J ! &6SLOJ 6D &S:,6JCCOrSz&ezLrS zHQJO:JJ&rJ eH&&C:z&6^OrJJetH&6S Jr_zJ^: O&SC6&CHL,zzr^ CrOJ:x^&Sz,r^ ^?:JL:& &rH ^A&LOCPre^HH6J L&^e,& OHe H:J&eS6O6^HkzJn:&&HSHOzezL6zLre^,H^JC:z&,SrO&ee,:CL6CC6OHeL*r& S OSC,L6W6JGSeO6 LGC&z:s6OCJ r_S&zSOOCC:HDJ&:&6eSHOLSS&6:&6L^rHLJ :S&,S &&CrL&zeO&HJHz !DO&CS:6OC Oze,,eSLr, &veJL:66eSZO NHL<zLr ^,H,J :C JO OeCHL6eH,P^6H^ zBL&CrO6LCJLCeJ,&^CrH^JLrJD:O6^SHOLe ,SC SS CH,J&-6&HS&OzCCLOzS66^OH JSRC&JSS6r:CzSeH,&^zrz O8z&:nq6 SrJ^e ,Czr,r eHrJ6qC^&SOOze:LOz rS^,r^SrV,&^Se6^C6Lze},O,HH: J9 J}:,6JCCOrCO,ezLr6 CHnJ&:^ O^^O CHL,e rC^,H& 6vH&^rr6HCOL^Cl,L^^HS^O,:&C:L6&C:OHe6,zzYHe ^HrJL: 6SS,OJSCz6zJr:^HH JzQO&OS^6OCLLSzS,,^JrH rH&JC:H6zCzOzeO,^^:,L^^jSJJ:J&HSrOJee&Herrz^OHO r::&zS 6SSzLJer,r^CHe ,j6&zEO6OCCL:e , ^:r, J,SJr:&6eSrO6ezL9zOr^ :HLJeHL&,SJOCCOLzze,H^6H C,,:e6:H6LC LSr,LO^H6JC&q:Jz:66zS_O,SzJ,SeO:S&OHeeLVz^S^6OCHL6zzrSeeOSC L*z6H6 C_SO2e&,&^erH LOLz6,C^^Sr6,e ,Sz,r6zJOye^,OJerL^rHJJSCr6eSrO^e&76&CSC6rC&L^/C6eS 6  JH,&::L6 Ce&J9eJO:{&RC^OOe :S&^SOO^e:LrCz6LC:OzezLzeHrO zC OLeP,O^^HCzHO,e3r ^zrH _-w,:zzr6 zHQJ,Hr^eH^^/gL&z?H6&S H Je!H&6Sz6BzOz:::,6^ HS ,EJ&C:rznHeOLCr,zzgrO J,JCo,,^Jr6&eTLJH:H6LS^HJJz8#&Oc^ &^nrL&S,6zrHC rW&&^HJ^^rOJemrr:C&OSe:HHJ&:J6CSrOO:L&:::rS^^HOJ^::&rrH zICJ?:C6 SzOrC^u J&:G6OC^LCS:&,Sz6HCsLSzeH:^6H& :eSLJzOr^ :HrzrLr e,L &ceJ^z:,J^6Hz <3, r_^^z!: u:C,^^Crr &eeL:S6rOrv &e^,:zL,z:,HLJJ:C&&S&OeCH66SS,H^OH^J:_LJsSS6,H LCer,&^CrH JRzJ6L:6^C:OLe:,SzLrJ SHrJz,,&rS6OzC6LOzzr:^JOZJ:g,&JrS6rCJLeC,Jz^er% OQS&::L6 SL^CeJ,Czr,H eHrJ6:e&uS  HCaLLz ,J^,H JCs6^SSC6HC6Lzet,6^^H:Jzi &S:,6JCCOre&OeC:r6 zHQJO:^&rSL& C:L,zJrC^rH& rmHJJ: 6/C&L^e:,L^ HS ,rL&C:r6&CSOHeJ,zz6,S ^A:JL: 6SSLOJeCLrzz6,^rH6Jz.-&OSzO:CLLMzS,,^JHS rE&&eHH  CeO2eO,^^:r:  rSz6: 6CSrO&eeLzz6LzC,H6J^::&LS 6:C,LSH&,r^&He^:q6&e:W66C^O,:z,^^Sr,z6.CJ,:&&S,6O&ezLXe r^ :HL z&6&LS OCSLL&ze,H^6He U86&^:b6LCzLSS,,^^Cr, &dCJHB 6z{{O^e^LhzLr^ SrJJJ:C&:S&OeCHLJzz,H^OHS H2L& SS6,CJLSer,&^,rH 6mzJH:O6^C:&L:e,:z,rJ CHr r:e HH OeC_LOz^r:^SH ^S,6& SC6rC&LeCr,6zH&^ O1^&:H 6 C:O,e ,Cz6OS CHHJ6rm&DS6O^C,&zz^rS^,HJJCP,&&:Sz6C&Lze<L&^^H: Lj z::,6JCCO,e&,SzHL6 :H7JO:^6:SL6eeS6,CLrC^rH&JeoH&SSz&rSrL^eG,LzSHS ,.J C:J6&CCOHe&,zzHrO^errJL:z6S:rOJeCLre ,r^HH Jzwr&OS^O:S6O,zS,&^J,, r}&&e:HezCzOHeO,S^:r6  rSz6: 6SSrOJeeL z6rzC:H6J^::&LS O:C,6J:P,,^&He Hg6JL:4&,.,O2CH, ^Sr,  BCJr:&&aHJO&ezLNzOr^^_HL zO,&LSJOCSTL&ze,HzJ:: .?6&^BL6LC LSS,,:^Cr, &2CJH:&6z:r6^e^LHzL,J SH,JJ=:&SS&O:CHLJzz,A^Ore CnL&CSS& CJLCer,&eLrH &pzJL:O6eC:66Cz,SzOrJ^:HrJ&:e&Hr&OzCrLOzzr:^6H ^S,6& S:6rC LeCL,6zCO& O}C&:n06 CSO,eJ Lzrr& eHLJ6:e&>S  HCDLLz rS^,H JCYr^JSe6HC6Leel,O^^H: Lt &S:,6^CCOre&,:zSr6 zHTJ,H,^CreJ:_OJL:rO6SSOHe6LL& :J62COL^zCOLS&O:CLrCzSrJzOH6 JSSOOzOrO ^k: 6S 6SS,OJe:Lrz&rez,HzJzaH&OSzO:CLL CB,z^JH: rc &e:H66CzOJeO,z^:r6  i:J,:J&:SrO&eeLrz6rz^(HOJ^::&LS^6zC,LJzC,OzLHe H26& Az^erLJC#CL:SO6&SrO6JJH 6:SSO6ezL-z,66C OC^&LHzSrr^KHzJzZ,&:^ r6 N0O&^SC&zH^ rHErCeJ6 SHL^e^: &WS_OOe^,CC&O:S-LCJz#O&rS&Oee:6C:O&rS 6,e Le&e:O6,CJLCenL::n6,CJr6zL:J&HC:OLe ,e:H6zSOLeeSLO&LSzOzC!LOzJOJ:rOSeJx6&SSC6rC&L^5^6eSr6He:NCJe:L6 CSOHS6J*:C6zCeLz^S,Oz&,D LH6L&z:rS^,HJJzL&^Cr^^JHSLSeO,O^^H: rLLze,6^HSXO&e&,ezHrLCSL^CrL, ,SLO eSL,eSrS^,H&JeTH&6Sz&rr^LzeH,LzLHS ,MJJ:L&6JC:OHe&,zz-rO ^zCJL:z6SSOOJCHLrzz6,^rH6Jzy^&OSzO:S6 Sz:,^^Jr6 rF&&eHH  CeO&eOLH^:rz  XSG^:J&OSrOJeeLHz6rzr&HO ,::&^S OSC,LJHL,r^SHe ^t6&e:j6zSrOxe6, z,r,  ECJL:&&uHJO&ezL/z^r^^0HL zO,&LS^OCC:L&ze,H^6Hr RsJ&^S:6LC LSS,6z^SrO &f:JH:z6z?hJJezLrzLre SH JJHCz SJO:CHL zz,^^Oree6#L&SSS6OCJLCer,&OSrH  qzJO:O6SC:OJ4c,:z,rJzCHrJJ:e HH OeC&LOehr:^eH zL&O&J:L6r:&Leer,6^SrK  LHJg:L6 :SO,e ,CeL&e CHJJ6GL&ESOO^S:&&z^,O^,H:JC;S&&SeSJC6O,eF,6^^H: Lr zH:L&HCCOJe&LXzHr6giHsJe:^&JSLOzeSL S9rS^ H&^zuH&&Sz60COLS:6,O^ HSzrvJ&S:r6zH,Ore6,zC3rO z2:^Lre6:S,OJC,Lrzzre^&HSJevr&O:SO:COL ed,,^eOL ,u&&eEO66CeOxeOH ^:rL  HMJ,:J6CSrJJeeLHz6re^FHOJ^::&LS OSC,OJzC,r^&H: en6&z:j6,:H C1 6::66zeHL&e,,H6SSHO6ezL_zO6^,SOLJe>e&,SJOCCG6::6&^eS6Ve6OHzCHL^JH& HYe,zz6rr &Qe&:H,zOrrJzsCJ,:r6r^HHzJJ:C&rSOJOHO6:K&6^C:OC rK&& SS6,C66zCz, ^erH 6gzJ5:O6^C:O&C,,Sz,rJ zr^eL,rzJHe ,H &:8H,rzHH JSt,&6Az^Orr VuH&;C,O^CeOOz ,z6eSOO,eJ,CzQL^eHr ^z,:zJS&O^e:LLz rS^,LeeC-OJ,Se6HC6L Ce6::,,JCrOHe&r ^zHOJee^L,zHr6 zgS^r,L^OrO^rszL6e,rC^rH&J^r z:rH^&HS&}N 6S:H6& 6H,&C:r6&C^6 l,&OSJ6OeYO zSLHz&S66reCLrz&r^e&6%eOLJzS_C OH6J,S&,,^JHC^LOe&C:H66S&O*eO,^eH&  ^}:J,=r6CSrO&eeOOz&re^VH6J^::&LS OeC,LJzC,r^&HS HHJCt:H66C^OSeL, ^Sr,C oCJ,:&6CSHOJez6.SJrz^-HLJ^:SJ,SJ6:r&LJzS,HzOHz NBO&^,R6LCzLSeL,J^:rrz&,:Jr:J6zSrOOC/,:C^z: SH,JJH6&rSJOeCeL6z:6&^6H^J:HC& S:6,CJLLer,^^erH 6ZzJ=HO CSvO&e LHz,,/ C,rz^:C&LS6OSC_L z^L:C&H^ H>,&zSC6:C&O^:^,6zrrh^St^JU:L6eCSO&::,Szrr&zOHHJ&:z&+CeO^CrLLz^rS^,HJ^CL &JS:6HC Lze ,OzeO6 LuS&S_H6JCCOre&e,zHre zHHJO:^6:SLSweSL^zJr:^rH&JeUHeCSz6,COOHz:,O^ rre^< &C:rJzCeOre6L S rO eZ:^L: 6:S,OJeCL6SSrC^HH6^z(p&6S^&Hr L^eH,,^ HC rs&JSL66&C:Ote:,^^:rL  rrJL:e6CS,O&eeLHz6 :^NHJJ^::&LS^OSC&&:zS,r^&LK Hm&&zXrz^CzOreL,S^Sr, JH:C&:J&MSH6GezL}zOr^z,HOJC:S&LSJOCCrL&,*,H^ Hz u?O&zS:6LC.LSe6,J^Srr &Ee^H,C6eS,OOeC,:zCr zEL^JJAr&rS^OeCHL6zzJ&^OHCJ:o & S:6,CJ&Ser,&^err 6mzJ#:O6^C:OLe ,:z,rJ CHO r:e&HS6O :J&::z6 Ce6rzO, z6r66LC&LeeHLJCOr7 O.^Jh:L6 CSO,: ,Czrr& CHHJ6:z&lSOO^e:LOzerS^,HJ Af&&&Se6HCL &:6&,:,rr ^7 &S:,66rrJ^:C&C:rr ^NH8JO:^6CrCJ:H6J,e6rC^rH& SO6&&Sz6UCJL^z:,Le OH LGJ&C:r6&CCOHe6&ezlrO ^HgJL:z6SS zreCLrz&,r^HH&Jz3H&OSS 6COL zS, ^JHS rWzz,:r66CzOCeO,z^:,6SSs:J,:J6:SrO&eeL&Hrrz^HHOJ^::&OS 6HC,LJCr,r^&He Hs6&z:76OS:L:eL, ^:r, J4CJrve6eSHO6eCLMzOr^ :L^J^:S&,S^OCC,L&e76J^&Hz q2O&^:v6LC &:e,,J^Cr, &.eJH:&6zS!OOHO,:zLr ^/H,JJ:C r6z:z,rJ6zC,B^OH^r: ^Hr^O^,CzOOer,&^eH:zCLOer, z,H  eeeLez,rJ CHke:LRzzr&&&H^J,d,6OSz,TCJOH&^SC6rC&Ne_:OH6,6k JHr&::L6 Ce&64eJ6S:6OC:LCJ }C&5SOO^eC&::&&OCCOjeSLs^:re ^H< L:^6C:,6,CzDeJ&:,6JCCO4Se&CS&OSCHO&zSgr&rSJO eSL,z6L:CJOeJ:DJ&6Sz6-C,6::O&z:rrL JN^&C:r6&Oe&rSH^H:ErJ^,q:JL: 6eqJ  I,&^SC&,C^rHJSw6&OS^O:CrJS3O&HSz66 OHJ&e:H66C &JiO&L:0OSSrOre6SCJ:HJJ:( &:: 6O^rHOJ^::&LS OSC,LJel,e^&He H=L ,rC zrHJO:eJrSJ6^ zHeJr:&6eC:&HX J,SSLOCCOzCHL&JzrO zH,JYz:, ^6Hz j1, rrO^&HrJ::C,Sz(r& &2eJH:LzLH6 Cj^Lrz^r  SH,J6rr^JrS^OC^L eL,M^OH^JCr z^rL zKS L:zLH^SrH 6hz6o,H: :& LeeL6z,rJ CHhznL0 ^,r O+^JJzC,6^LH JS4H !,H^LH 6&:O, z6rm O5^&CHO :HOLJSCJ&MH&6CCLzJ ?J&7SOO^eC6C4f6LS66ICr,JzSr6^L9S  e,,^^^H: L#&z ,H^zH6OOeS,ezHr6  , zz,HzyHS^rCHLezJrC^rHOzHLr^er, 6HeJ,eJ,&zrHS ,WJ&zH&^zrLJ:T:& :L6J e_:JL: SSSz6JJOJrz^,H^HH6Jz:SeHrn CHCLeeL,,^JHC %r,z ,O^SrLO,eS,^^:rL &,6zC,L^:He ^HOL&zJrz^4HOL^z Oe^zHSCOLJzC,r^&HeH z zz:r6OC^L:vL J&,CzCJH_JJ:&6eSHOLSCJLSS6LS4H&J::S&,SJOz:&&C#,&^^SHC +1O&^J:,2JHH}J,,^^Crr &heJH:6OzH:OJC ,:zLr  e,bzSL&zO,j 6=^,zC,66SC6,CB,S&e:,6,CJLCeUOJS6OeC:aSJ&:O6^C:OrH,JH:JOSCOOrJ^.r&HS6OzeSO:nH&6SJ6U H_ &JSC6rCO&H:&&C:Lr6 JHT&::L6 Ce&^56& S:&P :H^J6:z&WS,&:H<&^:H6LS^OH  mO&eSe6HC6L S,O^er6& &H6&S:,6JCz&N8^J&:O66CO,Jz:LHz^HS^7CkL,zJrCrr:e:,OHz6SS&HCOL^z:,re66JCO,Se4,6^OHO&JU^&:: L^C!O6eC:e&^S,OJeCLEC,&x 6O:e::O H,H OH:J,eH,e^JHC rKO^H,r eH,J63e&,zOr&^;(SJ,:J6zr^^ZH,&:: 6&^rHOJ^:::LLH&z L3JeB, ^&He H_L^H,^ :rr Jee,ezSr, J+CJD,,z,H&^H3OJJ:S6SSrLS^,L ^Crz^6COOBze,H^6H zOL6zbr& ^rcJ&e^,zzCrr &/e&:rr^HHS Sz:6rSS&6S&EJ^z,z^SrL^OCLLezz,7^OHJzL,^ei,&&XCzOeer,&^eH:^eOOe ,  rr, Sj^O^:C66S6LJeS::&&S6OzC.L,C:6OSz6r  /6JLSC6rC&L^S &^:O6HJ^r6e ,rzrHL ^ezLLzrr& ek: SH6z&Hz e8 L6z rS^,&Jr&SJ,&^e6,C6LzeE,O^^H: LL JH:J6JCCOreO6HS&6CSLH,J :^6:SLO&HH&C5L,{z&H&Je>H&LD&^^H, ,:O&zeS6JSrO&zSreJer, OorJrS^6CSrHrJ:: 6SS,O6SOJ6:J&-SJ,HeeLLz ,H6rCSL zS,,^6,:eJL,z:r:^:rOJ ::,CzCrL  ESJHHa^SrdJ:>eO^:f&LC^LCC,L,zzSzOSC,LJzC,r^&rLCH; JL:K6OC^LCCz6:S66,CCL,z^,&6 SrO6ezOr*^rz :HLe&:S&,SJ6,reL&ze,H^^Hz HVO&zS:6JH%L:e,,JzHrr JoeJOrC6eS+OOe6L=zOr  S}^JJ:C&rS&OeCHL6CzOS^OH^J:ML& , 6,:J6 er,&^erH 6HeJhB&&&C:O6e &Sz,rJ CHr &:e&HS6OCCkL&z^,Oz^H JS!,JLSC6,C&LeeH,^SrrH O.^Jz:L6^CSO&::,Szrr& JHrJ&:z&sCeO^e:LLz rS^,HJ^C,8&&Se6HC6LzCi,Oe^rr Lc &S:,6JSSOrC O&zHrJ zO?JO:^6:SL&reSL,zJr:^rH Je!&& Sz6-COOSz:,O^ HS ,sezL:,6&Ce6Oe6,ezPr CHHqJL: 6^SLO eCOL?erC^HH6eeoI&OS^&:JCL zS,,^JHCC&_&JSU&66CeOsSJ,^^:rL^zr^J,:^6C:JO&eeLHeJ,e^7HJJ^rL&LS OSC,LSzC,r^&H: HnJ&zHE JCzL:eL, ^SLH JEC& :&6CSHO6ezLEzOL^CrHOJ^:S&LSJ6CCr6&,J,r^&Hz HgO^SS:JL:rLSeL,J^SrrzO.eJH:C6zSQOOe^,:zOr zSHCJJ:C&rS&OeH L6SHL,^OH^J:rJ& S:6,:eLCe66S^CrH 6r:J?:66^S,Jze^,Sz,He SH,J&:e6JS6OzC2L6z^r:^L, zeb,&JSC6rC&&CeHO6^Sru O_^&::L&^CS6Oe^,CzLr&^^HHJ6:z&!:OO^e:LLzzrS^OHJ ,iO&&Se6HX LzeH,O^^H: JL_&::,6JHpOreJ,ezHHC zHYJO:e6:SLO SSHezJrC^rH&JexL&6tz6:COL^z:,L^ ,6 ,rJJ^:r6&CeOHe66Cz#,&^Cu:J6: &rS,OJeCLrezre^LH6JeU8&OS^O::lL zS,,^zHC ,g&JI:,66CzO3eH,zz0rL  oOJ,:J6CS,O&eeLHC6OS^HHOJ^::&L:rOS:,&zzS,r^&He H,7&zHs JCzL:eL, ^S,O JrCzO:J6eSHO6ezO^zOOcHHHLJ :S,,S OSCrO6ze,OCCHe ijO,^:?6OC LSz^,J^Crr JjeJH:6JzH,O6e^,:zLr ^&H,^J6^&rS&OeCHL6SO,EeOrSJ:2L& SS6,9SLCSrLS^erH 6MzJFrN6^::O e ,Sz,rJ CO6J&HeJ^S6OzCsLOz^L ^L,:^OV,&JSCHLC&LCeHLO^zrLeeGz&::LHzCSOLeJL:+&rJ eHH  :z&{SO&^7rLOz rS^,HJ^Csr&&Le6HC6LzeH,O^zH:^6OS&::,6J:LOre&,ee,&: zHHJO,z6:SLO SSOLzJrS^rHJJeL6&6:C&rCOLez:6e^ HS ,H^ H:r6^CeOee6,zzd,&zoy:JJ: &,S,OJeCLreJre^rH6J:uw&OS^O:S:L zS,,^JHC ,l&JS^666CzO>c6,^^:rLz r^J,:J6CSrO&HHLHeJr:^lH6J^,&&LS OSSOO^zC,L^&r& H06&zvr6zC^OreL,S^Sr, JbCJe:&6eSHO ezLrzOL^^ HLJ :S&,SJ&zCrL&C6,H^&Hz ?/O&^S:JLCCLSeL,J^Srr^&de^H&r6eSHOOez,:SJr zSHeJJ:S&rSJOeS:L6zzLz^OH^J:(L& S:6,:JLSer,&^erH 6O,JsHz6:C:OLe  :z,r  COeJ&P#^JS&OzC}^6z^,K^LrzS,_L&JSC^RC&LeeH,eC,rH Ol^Sb:L6^CSO,eJLHS rJ eHHS&:z&HSOOSf6LOz rSS6HJJSQrJ LH6rC6LzSu,O^^H:^6Lb&S:L6JD6Ore&,ezHC^ zHRJO:e6:SOO SDOLzJrC^rHSJe<H&6SzO&COLzz:,O^ HS ,rJzA:,6JCeOre6LLz-LOeCH-JO: 6:S,JreC6rySrC^rH6Jei3^OS^&::2L z:,,^ HCzC/& e:S66CeO*e6,^:JrL  HrJ,:J6CSLO&eCLHeJ,z^lHOJ^H:&LS OSSOLSzC,,^&LO H16&z:N6 C^L:eL,z^SrL JH:C&:J6eSHOCezLfzOr^ 6HLJ^:S&LSJOCCr6&S:,r^&Hz H_OJ,S:JL*eL:eL,J^SrreH1e^HLC6eSHOOez,:e=r zSHOJJ:S&rSJOe:eL6Cz,6^OHzJ:lO& ,&6,CJ6oer,&^er, 6;eJy?&&^C:OLe OSz,rJ CrLJ :e&rS6JLCPLOz^r:zBH JS{,&^SC6,C&OSH6,&^zr? e(^&::L6 COO,e ,Cz,r& eHH^6rS&HS6O^C+LLerrSe,LzJS_,&&SC6H.GLzSRJe^zr! LQ^&S9J6J:C6He&,CzHr& z,zJOH^&OSLO^eSLLzJ&6^rH& L#H&6Sz6rCOLzz:L6zSHS ,mJ C:r6&Ce6,S,,zzHrOe,Z:JL: 6SS&OJeCLrz re^rH6 COO&6S^O:CzL zS,,^JHL rqJ&e:r66CzOYSO6Cz*rO  7:J,VH6CRrJ^eCLrz6re^W,:J^H:ezS^O:C,L zCL:^&,e ^Y6&e:866C^&SeLO zLr,  mCJ,:&zOSHO6C6LIzOr^^HHLJ^:SJOyLOCCrL&Ce,H^6Hz^rrI&^:c6LhrLSe,,J^Cr^ &AeJH:J6zSHOOCe LzOr  SH^JJ:C&rS&O,CHL&zz,H^OH^J:rL^eS:6LCJLSerL!^eLHe -eJH:O6zC:&Se OSg^r  SHrJJ:e& S6&zSOLOzzr:^OH z t, J:^6rCJLeer,6:Lrk Or6&::L6 SmO,e ,CeL,^ eHHJ6Hz&oSOO^SH6Hz r:^,LHJClr&&Se6&C6Lze4,&^^r{ LHzC,:L6JCCO e&,ezHr6 rHDJ6:^&TSLO eS6,SzrS^,H&JC#H&:SzJ=_JLze>,L^^HSzCIJ CL 6JCCOHe&,zSzrOz^H6JL:^6SSLOJ:eLrC&,:^HH&JzuH&O,,O:CLOezS,,^JH: r8J&eX,& CzO7eOO^^:rL  r7 &:J6SSrJ4eeLHz6rz^OHOJ^::&6S O:C,O^Hr,,^&He J56&z:p6OCHL:eO, ^:r, JxC^rr^6CSrO6eeLAzSr^z:L&J^::&,S OC:eL&CeJJ^&He xp6&^rO6L: O^e,, ^Cr, &,zJHH66CSPO6e^LvzL&r SH,J::C&rS&OSCHL&zzLrzLH^J:oL  SS6,CJO:Cr,&^CrHz:ozJq:O6^:LOLe ,SzOrJ SHrJz,,&rS6OzeeL6zzr:^LHXJSp,&JSS6rC&LeSH,e^erD Oj^&::C6 :S6 eJ,Czrr& e,zJ6HzJ6SOO^e:LLz L^^,,J ^cr&&Se6HC66CeVOOz&H: Lf &S:,& CC6LCL,ez,r6SLHAJO:^6:S:O eSL,z^rC^LH& rr &&Sz61JrLze!,L^ HS &,:&S:r6&J Ore&,zz_He ^<:JL:^6SS,OJSC&OzJre^HH6JzK &Ol^ rCOL zS,,^JL& rr&Jr:r66CzOBeOO,^:LL^HGSJ,:J6CSr See6HeCrz^GHOJ^:: ^S &SSOLJzC,r^&Hez:x6 z: 6OC^L:eL, z:r,^^r6Jr: 6er^O6ezLjzO,e :HLJ GU&,S^OCCJ6:zC,H^6eO HV6&^S:6LCCJOeL,J^Cee J%CJHoJe#SHOOe^OrzLr  S,,zz:S&rS&OeCH66zz,-+OH^J:(L&^SS6LCJO:H&,J^erH^C1zJE:O&e,JOLe^,S:LrJ CHr^&H,&HS&OzCHLO::r:z6rCJSRO&JHO6rC&LeC,Ob^zr, O,C&::L6 :gO6eJLHzrr  eHHJ6:z&6SOOze:LJz rS^,HJ O%r&&Se6HC6LeeyL&O:H: LR z::,6JCC&rez,ezHr6 zHfe^:^JH:HO e:L,ShrC^rH& SH6&6SC6+bJL^z:,LzzH: ,az&C:L6&CeOHe6L6zmrO ^HrJL:z6S4,6:eCLrz&re^H,LJzhiJOS^6jCLL zS,,^J,C &!&&C:H6&Cz6veOO^SrrO ^ZSJL:J^HSr&&::Lrz&rz^HHO^J::&LrJO:C,LJzC,r^JHezH, &e:F6OC^L:<e, CLz  J1CJrC^6eSrO6HOL>z 6H^GHLJ SH&,S OCC6&SzC,H^6PH ;b6&^vHz C^LSe,&6^Crr &HrCz:66zSsHCe^LTzLr^ SH&z::S&rS&rLCHL&zzLr:^HzJ:}L  SS6,CJO:: ,&^CrHz:WzJD:O6^ ,OLe ,SzOrJ SHr  Ye&HS6OzS&LOz^r:^LHkJSmL&JSS6rC&LeSH6 ^erH OAz&::C6 :SJ6e ,SzrrJ e,zJ6Hz^,S6Oze:LOz L&^,,Je+5,&JSe6rC6 reuOOjHrf OK &::,JSCC&re^,ezrr6 eH_^e:^J:SSO e:L,z rCS,H&JeHS&6Sz6pC&L^e7,LzzH: ,FJ&CHr6&CeOHCJO6zTr6 ^,JJL: 6SS,OCeCLrz&rS^HH&JzHre^SzO:CLO1zS,,^JHCJ A&&C:H6&CzO8eOO^SrrO ^cSJL:J&6Sr&&::Lrz&rz^HHOzL:: LHeO:CLLJzS,retHezH, &e:H6OCzL:cz, eS&^  TSJr:J6eE&O6SzLCzOrz :HOJ rO&,WJ6JCrLJze,r^66L VoOJzS:6LC Oye,, ^C,L :7eJH:6JzS}OOe^OHCHr  :H,zH:C&rS&OeS6L6zz,#^&H^ kRLJzL,6LCJLCC ,&^erH 6-rJ%:66^SYOLe ,SC,Oz SH,J&:C&HS:Oz:1&Jzz,?^LH^JSrC&JFC OCJLCeH,&^z,  Or^zr:O6^CSOLeJJLzrL&:,HrJ&:z&HSOJ;e:6Lz:rS^LHJJSfrJzSeJHS&LzeH,O^zH:COQ &Sse6JCCOre ,ezrr6^CHzJO:^6:ALO eSL,e^L^^rHJJer^&6Sz6nCO6Lz:,L^ r7 ,a &CELzeCCOHe6LrzxrO ^}:&z: 6:S,O eCLrz&LeCLH&JecV&6S^6JCL6 :H,L^ HC ,b&^6:HJ6RSOHe6,^zgrLzrlS^,rz6SS,O&eCLH:Crze16eJz!.&LS^OS: LJCC,e^&HC H<&&zIL6O:^6&eL,^^SrL JO6Jr:&&eSHO6ezLrzOrz :r6J::S&,SJ&CCrL&zeL,z Hz H*O^,S:6LC LSeS,J^Crr  8eJr:6&C,OO6e^,:zzr  SH,JJ:L&rSJOeCrL6zz,xeOLC xfO& S:6,SHLCSr6^^Crr 6seJaH:6^::J&e^,:z,r  CrzJ&He^LS&OeChL6z^&6^L, SO7L& SC6,C&&reHO6zJrR 6l^J2:L&CCS&,Cr,Cz,r& CHHe::z&8:rO^e:LLzzrS^LHJ :H,&&Se6H:6Lze4,OzerO LV^&SHe6JCCOre&L2zHr6 zHrJO:z6::6^Se:L,zJ,L^rH&Je_H6CSz6HCOLzz:,L^ ,Se64 &S:r6JCeO^e6OzS,r6 zx:JO:  JS,&JfML,zJre^rH6^L%y OHC6RCOL z:,,S:HCzrOS&C:r66CeOpSz,^e:rJ  =:J,: 6C:6O&SeL:z6re^;H6J^LJ&LS 6JC,LJzC,L^&HC HHJ H:I6OC^6:eL, ^S,O eICJ,:& OSHO6ezLReJr^ :HLJz:S&LSJ6:r&LJze,HzCHz l+O&^S66LC^LSeL,J^Crrz&,:Jr:&6zSHOOC,,:CLOe :HLJJ:S&rHHOe:H& ze,H^OHzJ:HC& AS 6C LSer,J^e6J 6rzC&:66zC:OOe 6Lz,LJzJHrJJ:e&rS6 ^Cb6Oe,r:^OH J:b,z SC6rSrLeeH,6^Cra 6<^ H::6 CSO,SJ,Czrr&^SH,J6:e&k8SO^e:LLz ,,^,HJJCML&&SC6HSJ^0eH,O^^r6 Lu &S:,O:CCO,e&,CzHr6 z,hzJ:z&cSLO^eSLezJLCCOHJJCwH&&SzJ^CO6^:r,O^^HS LZJ 6:rJ&g:Ore&,zzHrOSHn:^LOF6:SLOJeSLrCCreeHr6JziH&OSzO:H,L CS,S^JHS rwJ&e,^66Cz6zeO,^^:r6  N:J,K^&OSrO&ee6Hz6rz^Dr& S::&OS J&C,LJzC,rz He H/6&C:766C^6HH ,^^Sr, :{CJr:&6eCJO6eeL_z6r^ :HL^ ,H&LS OCC,L&eO,He6LS Hw6&^:Q6Ls,LSS,6z^Sr, &+CJHM:6zPkJJezLmzLr^ SO^JJHCe SJOCCHL&zzO6^O,^ SxL&^SS6LCJJeerO&z rH &XzJH:Oz,C:OLSr,Sz,rJ :HrJJ:eJ,SSOzCALOC^r:^LH ^dH^&JSS6r5KLeeH,6^z,& O>^&::66 C:O,C^ rz,r& erJJ6:z&ASOOHe:LOz r:^,HJJCrr^^SC6rC6Leeg,S^^,:e&U^&::,6 CC&ee&OeSLr& eHTJ6:^JJSL& +HLLz rC^,H&C,aH 6Lr6HC6L^eP,Le:HSz,U^&C:,6&CCOHU,,zC>r  ^HsJL:^6SrLOJeCO&z&re^HHJJzsH&O:e&&CLL zSO,^JHC rH JC:H6&Cz& eO,^^:rL STSJ,:J6:SrOJeeO,izre^0HO H::&LS OSe^LJzS,r^JHe HG6 zr,66CzL:eO, z&r,zJLdJ,:J6eSrO6:OLnCOOC^8HOJ ::&,9HOC:r&^zC,r^6He DLe&^c:zzC^L:e,, ^CLJ &reJL:66eSoO6e^&ezLL ^SH,J :C&,S&^OCHL6eS,Q^OH^ HBL&^SS&O:rLCer,&eerH 6qz r:e6^SVOL:r,Sz,rJ CrzJ&:e&HSJOzCHLOeeJL^OH JSH^&JSC6rC&L,eH,&^zrH Oj^&:HL eC:OLeJ,Szr,F e,Hz :e&HSOOze:6Sz LSC6H JS+r&JSe&^C66z:,,6^zH: Oj eO:,JJ,LO,eJ,ezrr6eHHq^OI 6:SOO e:L,errCerHCJe?r&6Se6#H6L^z:Le^ HS ,d^&C:,6&SS6re6,zzjLO ^P:JLqz&LS,O eC6zz&re^HH6 :RP&OS^6HCLL^zSLO:CHS r{&J,:H66CzO+ze,^z(rL ^xSJ,:JJCHOOJeCLHz&rz^ HO^^,r&OS^OSCLLJS&,re&L: ro&&z:H6O:,L:SL6e^:rL JMSJr,S6elH^CeeLHzOrz :,^J HS aSJOSCrLJze,z^6,z^5gO&zS:6OC  &e,,Jz6rr &}eJ,:66eS<6&C ,:zLr zSH,JJ:CJL:&OeCrL6SL,W^OH^J:H6& SS6,C^LCe,,&zS&6 &gzJl:e6^C:OLe ,Oz,r  CH,J&:e&H76JSCHL6z^,5^LrrJSr,^zSS6,C&LCeH6%^zLAeJZzJh:L6^CS6eeJOCSOrJ CHHJ&:zz&SO&^r6LOz^rS^LHJz,{r &SS6HC&LzeH,OzLH:zLH&&S:L6JCSOrH?,ezH,L zHXJO:e6:SOO SiLCzJrC^r,&Je+H&6:C&^COLzz:OC^ HS ,_JJL:r6&CeO,e6,ezk,&zrHXJL: &OS,OJeCLre&re^rH6Jef?&OS^&:C6L z:,,^ HC zh& e:L66CeOGe6,^C rLz r6J,: 6CS,O&SOLHC6,r^UH6J^NK&L,cOS:,6LzC,,^&HC Hre&zH76^C^OEeL,^^SrC JrCJz:&6CSHO&ezJ zOr^^vHLJ :S&OSJOSCrLz:,,r^6HzJem6&zS:6LJ:LSe,,J^Srr &}e ,rY6zSWOOa,,:zLr ^rL^J :C&rS,OCCrL6zzr&^OH^J:tO& SS6,:J&zer,&^erH 6,eJ7HO&QC:OLe ,Sz,,  CrL z:e&,S6&eCXLOz^r:zOH JSp,&^SC6LC&OrCi,6^zr? HEzJ(:L6 CSO&::,Szrr& JHrJ&:z&j:zOze:LLz rS^OHJzCJH&JSe6H::Lz;6,OC^,O L2 &S,66J:SOre&LCzHr& zHrJO:^6:wL6OeSLLzJrS^rH^JerHJ6Sz6HCOLzz:Le^ ,S^6tJ&S:r6JCeJ,e6LCeLrO Cb:z.: 6SS,OJC6Lrzzre^HH6Jz.V&O:^O:C&L er,,^JHC rHL&e:r66CzO?e6,^z,Oz ^USJ,:L6SS,O&CS 6z&rz^FLeJ^::&La  HCLLJzC,r^&,& H{6&r:K66C^OHeL, ^SL,ezZSJ,:&6CSHO ez6BSJrz^;HLJ^:SJzSJ&CH LJzC,H^&HzergOJer66LCeLS:C,J^Crr^ L,JH:^6zr,OOe^,:zLJS SHLJJlH&rS OeS,&Czz,r^OL&J:oL& SSeJCJLCer, ^er, 6HHC^:O6^C:rre^,:z,r  CH6zS:C&HS6r CHL6z^,,CzH^JSx,OrSS6,C&OSH6,&^zrc^rj^&::L&zHOO,e ,CS&r& eHHJ6^:&fSOO^CHLLz^rSzOr^JC3r&&B,6HC6LzCrJS^^rh LL^&S:,6J:C6^e&,CzHr& zOOJOPe&JSLOzeSJOzJrC^rr  JmH& Sz6HCOL^z:L6z6HS &9J e:r6&CeOHCe,zzHrO S;:JL: 6SSCOJeCLrz&re^rH6J:,&&6S^O:C+L^z:,,z^&r ,?&&erJ66CzOkSO6CzNrL  ISJ,H,6CSrLSeeLrz6rC^pHOJ^H:^&S^O:C,L zC,O^&,eeL{&&e:466C^6&eLO :OrL  bCJ,:& SSH6JWrLozJr^C HLJ :SJOH:OCC6L&::,H^6Hz !6^&^:{6LCCLSeO,Jz:O  &MSJH:e6zS%OOe^^LzLr  SHOJJ::&rSCJLCrL6zzHz^6HzJ:tL& :r ^C LCerrr^Crr 6HCCO:66^C:6He ,Sz,,^CLHrJJ:e^CS6OzC_LO:1,Y^LH  oQ,& SC66lSLCeH,6^&rH 6F^&:Sz6 CSO,e^,Czrr&zeLLJ&:z&}SOO^CrLLC 6H^LHJJCGr&&?L6H:6 reH,O^^H: L,z&S(O :CCOLe&&6zHr6 zrrze:^&rSL eeSL,zJrCOJH& 9NH&&Sz6VCOL^H6,L^ HS &cJ&S:r6zH,Ore6,z^er6 zp: 6LS6:S,OJSLLrz&rez,6:JzDH&OrzO:CLL CS,^^JHS rIJ&e,666SCOHeO,e^:L&  (SJ,G^JrSrO^eeO&z6rz^Ar& z::&JS J,C,LJzC,r^^He r-6&::76OC^L:e6, ^Sr, JQCJ,:&6eHrO6ezL4z6r^ :HLJ :S&,SJOCCrOpze,H^6HS L/O&^S:6rHeJJ_:,^^Crr &6erC,eeOrwOJCH,:zLr  erzee,:zLGr sCLO6zz,P^OHJC6,Sz:,J Crp 6Ce&^:O6JeeLSzJr:6eC:OLe zSO&e6&JOrJ^YL&HS6OzeS&n:L6&SCOCCOUz&z:O6rC&Lez:OCSO6rC O,z ,e6zCSO,eJHCHS,:6 OHJ }J&*SOO^eC6r:e& S&OJe&r^zH,,^eHT reC,O^^H: LYw&S:,6JCCOre&,eCHO  eHaJO:^6:SzO SS&6z rC^rH&Je9L&6+z^&C6L^z:,L^ r& ,H^zL:r6 CeOOe6,zzv,&:,%:J&: &LS,OJeC6reOre^LH6JSsM&6S^&HC6L er,,^CHC r5&JS.e66SqOaeC,^^:rL^zHSJ,:S6CSLO&eeLHz6LH^}HJJ^iO&LS OSC,OCzC,r^&He HR&&z:; 6C^L:eL,^^Sr, J#CJr:&6eSH&,ezL5zOrC^ HLJ :S&HHH^ weJH::L:S O6CLoJJHS:6LC LeSL&6:bOeeCO,JL-r6zS_OOeJ6;:J6HCLOL^C,S^J,O 6HJL eO,b^OH^JCHez6rL^^lSJO-z&H:,rL CyzJl:O6J:&6:H(&L:O6r :HrJ&:e&HS6 zL:JOzC,L^LH JSdH CrS JrOLSeH,6^zr_ OL^2S,L6zCSO,eJ,Czrr&COOHJJ:z&hSOO^e: LrC6S^OHJJCmr&&SeCHOCJze,Lr^^H: Lh&^&,:^rH& OS:&6:J&HC LJz::C&JSLO eSLHCC&HS^OOCO,:z^rS6,S6L^z:,L^&,zCCL^z,,O^zH^J^SC&::L6Sz:LOezLr&HS:OJeCLrzOOHSJOLeC,6ze,JJL_^ h3&,6zHHC rk&&^*^^Lr,  :z&CS&OS z7SJ,:J6CSrO&HOJHz r:^ZHOJ^:Cz&r,^^C6OtzC,r^&H^z6L&zH,S :rH &e6, ^Sr, JWCer66^eSL6HezL;zOrJzzLSCrr6^Cr:^JHX&::6,L^eHz 22O&J,JznH,JJF6,zzLrr &/e&:MSzrH^JzH,& z&,O SH,JJ:zJeHC^Lg:J :&OJSS6JC9,S&e:,6,CJLCejOHS:6zCJGSJO:O6^C:Or9O&L:O6r :HrJ&:e&HS6Hz,rJOzC,O^LH JSxH^t,r eHHJOeLL{^zry OWJ^Hr^^OrH HHHJ&Sz6H::HHJ6:z pHJOzCALLz rSzcHJ :O&&JSS6H:fLzeF,Oe^Or O_z&S:O6J:iOrS&6:zrrJ zHrJO:C6:pLJee:LOzJr:^rHzJerH^ Se6rCOLez:Lr^ ,Se6D &::r6 CeOSe6,zS:r6 z1:JO: &*S,&JfdL,zJre^rH6^JiPJ&&6O:COL eS,,^JHC^LH&&e:r66SzOTeO,^COJr  b:J,Ie6CS,O&COLHz^6r^HHOJ^H,&LS^OSSO&:zC,,^&r6 H=6&zqrJ:C^O/eLOO^Sr, JiC& :&6CSHO6ezLRzOL^CrHOJ^:S&LSJ6HCr6&S:,r^&Hz H0OJ S:&LrOL:eL,Jzrrr &MeJOrC6eSyOOHy,:zOr zX6JJ :S&r:&OeCHL6SH,z^6HzJ:He& S:6,S LCe66S^CrH 6r,JD:66^S,Jze^,Sz,L& CH,J&{S^JS6OeC*L:z^r:^LrzzJd,& SC&SC&LeeH,6^rrB 6G^&::L6 CS&,:z,Sz,r& CHHJ^:z bHJOzCTLLz^rSzrHJ CLS&JSC6HCzLze5,O^SO6 OZ &S, 6JCSOrC  Hzrr& zr4JO:^6:h^z&eSLLzJO6^rHJJeHe&6S: &C6L^z:OC^ H: ,H^zL:r6JCeOze6,zz/,&eLi:JO: J^S,OJeCLr^Sre^rH6Jz;%&OS^&:=&L^z:,,^ HC 6.& erL6&CeO!e6,^zSrL^ O^JL: 6CS&O&eeLHz^6r^HHOJ^LO&LS^OSSO CzS,,^&re H46&zH6&1CzOKeL66^SrL JrHJr:z^,SrO6ez6CzOrz :HJe>::&,SJ HCrLJzeL,CCHz HKOJLS:6LC 65SC,J^Srrz,2eJH:66zC&OOez,:zLr  SH,^J,Z&,SJOeCrL6z:,1eOLC qcO& S:6,S&LCCrJ,^Crr 6HPJm:O6^S,Jze^,Sz,6S CH,J&PSe6S&OeCYOOz^r:^L,:SeK,& SC eC&LCeH,e^zrLeeNz&::L^,CSOLeJL:S r& CHH q:z&ISO6e: LLz^rSz:HJJCGr&zr,6rC6LzM6,O^zH:^6OS&::L6JSCOre&,eC&,H eHHJO,J6:SOO C L,ze6L^,H&Je,:&6Se6+C JHe4,L^ O: ,n &C?L SCeOre6LOzRrO ^rH^S: 6:S,&LeCLrz&,ICJH&JzfGzzS^6oCLOzH,,L^ HC^rB&&e:H&LwLOHeC,^:OrL ^_SJL:J&HH OJeeLH:erz^HHO e,6&LS^OSCCLJzC,rz L6 Hc&&z8e6OC^L:C6JS^:rL Jr&Jr:&6eZH CeeLHzOrz :r J H2^^SJ6<CrO,ze,H^6Hz:OhO&zS:6&C Oke,OJ:Lr, JXeJr:6JrS#6&H:Lcz&r zJH,JJ:C rrSOCCLL6zS,cz^H^^H,z& :,6,SzLCer,&^eJ6 6VSJ5:^6^SHOLS &HzLrz CHOJ&::&HG6JSCHLJz^,r^LHCJSr,^zSS6OC&L:eHLL^z,rS^BzJ,:L6^CSO,eJOCSOrJ^hHHJ^:zJrSO6erLLOzSrSz,HJJCGrJ LH6rCeLzCe,O^^H: LLH&S:J6JSrOreC,ee,L, zH6JOH,6:SLO SSOezJ,,^rHCJeH &6jz&JCOOZz:,^^ rh ,aJJL:r6zCeO&e6,Cz2rOzrj:J : 6SS,O eCOre<re^6H6 wu5&OS^O:SzL z:,,^CHC LT&JS&C66CeONCz,^^:rL^zrOJ,: 6C:JO&eeLHC6&r^HH6J^3%&L:bOSC,&SzS,,^&HS Hp&&z:( 6C^L:eL,^^Sr, J3CJr:&6eSrOSezLQzOrC^6HLJ :S&H,r^_H&&C:L&H^ H: I_O&^SC&zr, eeO,J^Crr &(eJH:6^zSrOOe^,:zLr  Sh,e&#+JcS&OeCHLLC,&SCeOSC6LX^r,O  H6 _:e&S^:r  6XzJ*:, HH  6=CJ&SC&2^0H:J&:e&HSL& H, #:S6:CSLHeJL^e,r&^ C^O,eH,6^zHS^CLSeH,6JLHrO:eJ,Czrr&C:HrJ6:z&3SOOee:&LeerS^,HJ H_r&eSe HSJLzex,O^CH: 6a &S(L6JCSOre&,ezHr6zzrOJO:z6:SOO CLL,CJ,V^rHJJe-r&6:,6?:OOOz:,O^ H: ,o:&CMLzeCCOLe6,ez<rO ^-:Pz: &rS,OJeCLrz&ree&H&JS<m& S^O:CLL ,r,,^ HC rl&&C:H66IeOleO,^zbrL  3SJ,:J6CSrO&STLHz6rz^,H&J^::&LS&JeC6LezC,r^&H^CLL/e&:r6OC^L:eL, ^S6eCJH; r:&6eSHOL:&&6:S6LS6rzz:L6^CS^JrH,&C::6z^ rr nlO&^SCJ&HC66-L&6:rrO :jeJH:66 vzJ:TrJJ:J&y^6H6J^:C&rS&O^:SL er,X^OH^JCHe L,O  H^J&eL,&^erH 6XzJ3:O6^SrOee ,Sz,r6e6O6z-LJ^zrx SC,O,z^r:^LH&^6LazrrO^r::J6:&LCSOO6CCO,Jr:C6 CSO,e66r:66:C^O^eL,:z,SJOSe:LLz reeOLSCrmO& Se6HC6L S:,Jz H: LX &eFS^6ryJzSr&^:J6SSLrJer,JzXHCOeCJL,zJrC^;, er,Cz r ^ H:J,: ,6^ HS ,FJ&C:rCIHeO,e6,zz<rO ^S:S , &H:LOJeCLrzOL SzOJeHL,z rJ J:zJC}r&eeCO,C O%&S:H66CzOBeO,^rJ6LC hSJ,:J6CeJO&eCLHz&rz^bHO ede&LS^OSCJLJzC,rz r6 HK&&z:66OC^L:SLO,^SrL JGSJr: 6e:,6 ezLrzO,, :HLJ HSJzSJ6>CrL&zeLv^6rC^LoO&:S:&&C LSe,,JHrrr ^-eJ6:66CS>&OS^,:z&r ^HH, L:C r:9OeCLL6zS,>^6H^^HHO& :r6,SHLCer,&^erS 6veJW: 6^SHOLCzLOz,r^ CHJJ&:e&Hp6OSC2L&z^,H^LHzJSHOJCSC6OC&OOeH,6^zr4Jej^J,:L6 CSO,eJOCSOrJ^(HHJ^:z&CSO&^BrLOzCrS^&HJ HKr &H:6rC^LzeL,Oz6H:zL,e&::&6JSHOreJ,ee,66 zHOJO7,6:SLO eSO+zJr:^rHeJe-,&6Sz6zCOLCz:,O^ rF ,rJJ^:r6^CeOLe6LzzlLz^Cx:J&: J S,O eCOLz&,YCJH&Jzun QS^6dCLLC:O,L^JHCz 5&&C:H&J,POHeJ,^z rL  8S^,:e6CS6O&eeLHe rze7HSJ^=,&LSCOSCzLJe:Le^&rH H5S&z:56O:^6^eL,S^SrJ J8:JrQ 6CSHOeezL zOr^ :r6^w:S&^SJ&HCrL&zeL,^eHz JWO&CS:6LC LSrJ,Jzrrr :ReJ,:66z: O6eS,:zJr ^,H,JJ,,&,S^OeC,L6ze,I^ OH Z?L& r66,C LCCLJe^CrL 6HOJu:O6^:H^ e^Lrz,,_ CHrJ&He^LS&O:CKL z^,H^L, eHEL&CSC6rC&O:eHO6OVr5 ^8^JL:L&OCS&,S,,Cz&r&^HHHJC:z&9SeO^COLLz rS^,HJ^CH,&&:r6HCeLzeC,Oe^rS Li:&S: 6JSHOrS&,SzHre zH6JOD66:mL6SeSL zJ,,^rHJJerHL<Sz66COOaz:LO^ ,Se6P JL:r6&Ce6Le6OzS,r6^H-:Jz: &^S,&J1mL,zSre^JH6  W!&Oz:O:CJL eO,,^JHC r&z&e:L66CzO-e6,^eH&  ^HHJ,(,6CSrO&eeJrz6rS^aH6J^qH&LS:J6CLLzzC6:^&HC Hy6&z:L eCzL:eL&6^SrL JHHz :J6eSH OezLHzOr^OOHLJe:S&,SJOCCrO S6,H^ Hz O.O&^S:6Li^LSe,,J^Srr &MeJH:66zSpO6ez,:zLr ^HHSJJ:C&rSOJzHOJ :OOJC:Oze ,eer:m6,CJLCCL6H^erH 6GeJj:O6^C:JOe ,Sz,r  CHrJ&:e&HS6OzCHOHz^r:^LHe ,g,&JSC6>HrJ^WL6:^SrO Oy^&::r^eHJ^!HH,:zrr& eHHJ6:z&GSOOCC6LLz rS^H,Oe&,JzJ,O SC Oee#,O^^HCzHO,e!r ^zrH l<m6,:O6^SL,OzzLHzJS&O:eSL,zJrzSzLCe,Lrz}SS6LCOL^z:,re&66^ QzJ,:r6&CeL:SJ&:S O:CzHrJC: 6SS,O6S^Je: 6rSLO^e , &J:6O:CLL zeL:Sr66^^LLz^,r :rrJ^vJ,CzLrL  8SJHHz^,rL He:OBz6rz^TH,^O,Cz&rr& HHJ:KO&zz:O e:L&zLH96OC^L:C6JS^:r, J2:Jr:&6eSHLCezLHzOr^ :HLJ HSz^S OSCrLJze,z^6Hz,S2O&zS:66C O+e,,eSLr, &+e S:66eS{&OHHL(z r ^rH,J::CJLHSOeCJL6e,,F^OH^J:6 & :,6,C:LCeL,&zrL  &HvJRHr6^SWOLe ,Sz&O: SHrJ&H &HS&OzSr ^zz,L^LH:JSs,&J_C OCJOHeH,z^zrH OX^&6:L6:CSOLeJ,CzrL&e:HrJC:z&LSO6Oe:LLHSrS^JHJ LKr& Se6&,sLzeO,OzeH: Oq &::,6eHLO,e&,ee,r6 eH0J ,H&-SLO SzL,z rCerOSJCc6&6S:68SHL^CH6z^ rO ,vC&C:r6&Cez6e6LTzBre ^HHJL:: 6SLOCeCO:z&rC^HH6JzYL^eSzO:CL66zS,L^J,CeO}JJH:H6^CzO eOO^SrrO ScSJJ:J&HSr6O&&LHz rzzeHOJz::& S 6rQ^L zC,re,He rX6&:r&66C^L:SH, ^:r, JSeJr:z6eS,O6ezL!zz,r^-HLJ R,&,S OCCLL&ei6J^&Hz Af^&^:P6LC &:e,,J^Cr, &leJH:66zSTOOe^OOzLr  SH6Je:C&rS&O^HLJtI&,,^SH^J:sL&&H& CH^ rt,6C:OOz  HHJi:O6^CC&Cb&J&:L6r^hHSJ&:e&HSL&&*^JSCr6eSrO^e&L^zr,76LC&LeeH,6^zr!JOe Jr:^6 CSO,e6OJ: OCCSLzJ g&&9SOO^eC&S::&JSHOCC ,e^C,H^OH LSeL,O^^H: rr&e6j 6zSJOre&,e^:L:COOCeSHrz,rO CHOLzzz,L^rH&Je:: Srz SH6Jz7&,&^SHS ,/J&zH^^OrzJze Lrz9rO ^EC e,C^:r& :COLOzere^HH6J L,^:,&^JC&L:zS,,^JHzzerBz^,,6CCSO^eO,^^:rrzSL:z L6^&r &,H6&:z ,O^RHOJ^:C &H:^dlC6^:&&,SHO6 ,-6&z:Y6OC^L:eL, zH,r JaCJr:OJ&H:  >LOz:,&HS&OC^H,zzHr  6COLeze,H^6H z,,zzer 6&SrLSe,,J^z,^CzOFerr:^:re JeCLLzLr  SHH^^,,zDr^OSCHL6zz,.^OH^&:L,eLSS6,CJLCz ,&^erH 6wzJo:OJ^HrOOe ,Sz,rJ^eHr^&r:&rS6OzCsLOe:r:eLLeJ:1,&JSC6rSHLeSH&C^er7 OG^&:=66 :f^Je ,:zr,& eHHJ6:zJLS6Oee:LOz rS^,HJJz3r&&Se6HC6LCe#,zuLH: L7 JS:,6 CCO,e&LvSJr& zHD O:^&/SL6zr,LLzJrC^ H&JeFHJJLw6HC6L^e:,L^ HS ,He&S:,6&CCOHe6,zzU   ^R:JL: 6SSLOJeC:Jz&re^HH6Jz!X&OS^,SCLL zS,O^JHC rH CH:r66CzOCeO,^^:rL 5wSJL:J6CSrO&ee6HS re^HHOJz::J,S &SF6L zS,r^JHe^646 zr,66CzL:eO, zJr,^^6rJ,: 6e:HO6ezL{zO6z :H6J ::&,S^OCCr6zze,r^6He kh&&^2:^zC^L:e,, ^Cr6 &.er::66eSoO&e^LHzLrCCOHLJJ:Cz^S&OCCH66Kr,H^^H^ ,+LJHSS&Of:LCe ,&zrrH 6_zJ-O^6^SLOLCb,SzOrJ^,,^JJhH&HrSOzCHLOz^r:^JO1J:Z,&J,O6rCJLeSH6 ^erO OlS&:R&6 5LeOeJLrzrLz eHrJ6:C&US  HCRLLz Or^,H JCb6^SSC6HC6JOe{,6^^,:e&F^J,:,6eCCOOe&OeC,r&^4H}J^:^&JSL6zCoL,zSrC^SH&JecH 69r6_CzL^eO,L^^HS^Orr&C: 6&:rOHe6,zer,J ^H&JLh:6SS,OJC:OSz&,O^HreJz44&OS^6rCLL:zS,e^JH: rMCrz:H6zCz&:eO,z^:r^  Hrz^: 6CSrJ6eeLrz6r:C&H6J^::^SS O:C,6J:<,,^eHe Oy6J::dJOe&L:e , z,r,^,UC LHj6eS&O6C L5zOr^z:rNJ GL&,SSOCC,L&eS,,^6rr gH6&^S:6LSz6Oe,L7^C,, &-eJH#J&&SuOSe^OOzLr  SrO C:C&eS&6HCHL6zz,_zLH^ OYLJ,SS6OCJO,Ce,&zHrHCe(zJH:O&TC:OJy0,:z,rJS,HrJJ:e HH OeCOLOzSr:zJH ^S:G&J:r6rCeLeee,6zCrS OH8&:Ar6 CSO,SJOHzrrC eH&J6:e&;:&O:e:Lzz LL^,HJJCHLJLSe6 C6OeeA,O^^,H^Oo J&:,&SCCOre&LSzOr6^OH9J^:^6:SLO CLL,zSrC^eH&JS_H&eSS6/C^L^WO,L^^HS  #JJHr 6JCeOH1e,zzHrO SL6JO: 6SrzOJeSLrC&O:^rHzJzXL&O:CO:CLrJzS,J^JH: r%&&e:&6SCeOVeOOO^:rO  HdJ,:e^LS,O&eeOez6re^(HOzz::&LS O:C,LJzC,r^&He Hd6&e:V6OC^OrCH, ^Sr, 6OOzeLozLr6 0/O& Se6SCOOCJz:S&,SJ6::eL&ze,H^&Hz *8O&^r(6LC LSeL,J^Crr &MeJH:66eS6OOe^,:z&r: SH,JJ:zz&HC ^HJJSzS,6^OH^J:9rzSr6  H JSeO,e^erH 6N zerz^eH O&CH,Sz,rJ z,&eJ,rz:ra^rHJLJe6r:^LH JeH:zr,6&^HLJ^_r6::rO^CJjCJO:L6 CSOHdz&,:L6HCCr6J6:z&9SO&4CQLOz rS^,HJJCHLF,Se6rC6OHeg,O^^,HzuV &::,6 CCOre&LSeCr& CHfJJ:^6:SL& CLL,z^rC^LH& tfH 6::6*C&L^eH,L^SHS ,rL&C:L6&C:OHe6,zzq,^ ^HxJL: 6SS6OJCHO&z&re^Hr6Jz5H&O:ezLCOL:zS,O^JHC riCCJ:H6CCzOqeO,z^:r&  RSS6:J6CSrOeeeLHz6rzzOHOJ^::&LS OSC,LJrY,r^&He HV6&z:R6OH/O>e^, z0r,  !CJrLz6CSOO6ezLizOr^^OHeJ^::&,:HOCC,L&zS,H^^Or HYO&^:J6LC^LSCOJC^Sr, &HrJH:66zSw,Le^L}zLrz SH,JJ:C^,S&OeCHL&zz,8^OHzJ:vL& : 6,CJLCeO,C^erH 6c ^zrz^zr JSeeLLz,rJ CH<e^,rz,ru eC,L^z^r:^LH&^&, eHr,6OSJLeeH,6^ ,CC:LezO,&^CHeJeS:JH:6&KeHL&eCLL&,S:O^e:LLz&L6S*LSCL,J^:,O zHCLSeO,O^^H: rrezL,O^rSF6He&,ezHrLz6LSeJ,,J^rr^dH6JeC46^S1OJeOAL&:Sz6DCOLJSL&J:HOeCeL6eH,O6^S6OHe6,z^SL&CaLze&,&z&rC H4&LOzCre^HH6J rH^:,O  HOLzzS,,^JHC rO,L ,H ^CzOXeO,^^6rL  #SJ,:J6CSr&&::Lrz6rz^?HO M::&LS?OSCLLJzS,r^&HezH, &e:H6OCzL:e^, zLCr JYCJrr^6eSrO6eeL.z 6H^oHLJ ,H&,S OCCr,Sze,H^6Hz (yO&^?:^zC^LSe,,J^Cr  &HSzJ:66CSROJe^,:zLr y,H,JJ:C&LS&OSCHLeS,,H^OH^er4L&^SS6,CJOH: ,J^erHe VzJH:O6^C6OLe ,Sz,rJ CHr^&r:&rS6OzCvLOzCr:eLLeJ:!,&JSC6rSHLee&OS^er2 O,C&::O6 CSO,ee&Lz,r& eLLJ6:e&!SOOHe:LLz ,o^,HJJC?J :SC6HC6&Se{,6^^H: L#CzO:L6JCCJOe&,CzHr6 rH#JO:^&HSLO eSL,^:rC^,H&Je!H&6SzJuKJLze+,L^^HS  nJ&CH66&CeOHe6,zzHrO^R6 JL: 6SH6OJeSLrzJre^OLCJe3_&OHCO:COL zSr^^JHC rQ&&e:H66:zJ,e6,^^:rL  H,J,:Se&SrO&ee6-z6re^fH6J^=,^zS^OSC,6&zC,,^&rmeJ+&&z:c JC^OxeL, ^Or, J9CJ,:&6eSH&6:SLHzOr^ :HLJS:S ,HzOSCrL&ze,H^^Hzzy,J&zS:6LC LSez,J^CH  &ICJH:66zS+OOS^&rzOr^ SHLJJbr&r7&J:CrL&zz,H^OHSJ:rL^eS:6LCJLSer,:^erHCOBeJI:O6^C:OOe OSS6r  CHrJ&:e&^S6JH66LOz^r:C&H J:A,J,SC66ZSLCeH,6CSrp 6G^ HL 6^CSO,e^,Czrr& e=JJ6:e&wSOO^e:LLC 6H^LH JCg,&&:r6HC6Lre_,&^^H: L; &SH, zCSOLe&,SzHr  z,(zJ:z&HSLOzeSLCzJLCCOHJJS<H&JSz6HCOL^e ,O^ HS LPJ&::r6&>COHe6,zzHrO ^y:JL: 6SS,OJeSOzz&re^HH  +fq&OS^OC:6&::e&6^^HC r}&&e:HL663 geJL6^:rL  Me^OrSzLr( ^<66&;A6OSJOSJCvJ&LS OSCH6H7L6eS:6LCOLCzH:,6:C^L:eL,&CL6CCrOOezH^^rr, PeSLOzOr^ :HreL,ez6rH6aCzL&ze,H^LLLC&,zzJ,r SH, 6eO,J^Crr &weJH:6^zS,6,e^,:zLr&e^L CH,&z Ce&&R:Jr:J& C:6H HVL& SS6,CJLCzr&6^:rS 6WzJ1:,JrHC Cw&JCSC6ze,OeeHLLz^S 6 C?LOz^rCz:OCCJL6eHr,^kH^&rnz&0:,6  JHg&::L6 Ce J:S&z: 6: SHHJ6:z&ISOIr6OJLze,H^,HJJC=G O(O6,C6Lze/,O^^H: Lb JH:z6JCCOreOOS:OOCzSL6e&,L&r:,O eSL,z6L CJOJeC,zeLS#&JczJ:pJ6^S&6H 6ZC&C:r6&C^&^:eJ,:TrJ^2v:JL: 6e/SJS%SJe:Hr:zBH6Jzl<&,mO^,HzJO3r&e:HO&COrCe6rz^SrLO,ez,^^:rL &r:zCL,^&r,O^C LHz6rz SreeML6zCr& :H&6Sc&6eS:6O L=e&z:d6OCJ J:^&kS:OC zH6Jr:&6eC:&&7OJzS:6ze6LSe:LJ&,SJOCCr,Sze,H^6Hz {2O&^1: &C^LSe,,J^C,J &rezL:&6zS3OOe^O,zLr zLHLJ :C&6S&OeCHOJ:r,V^&H^^6*L& SS&OM:LCeO,&z,rH 6Mz rre6^S,OLee,Sz,rJ^:L J&tH&H:HOzC;LOz^:H^LH^JSsJ&JSS6rC&6rer,J^zrw O/^&:.6^wCSO6eJLCzrr& eH:rJ:z&rSO6Je:LOz rS^,HeeLy,&&Se6:C6Lee9, SHrE L.  L:,6 CC6LHe,CzOr6 eHAJO:^&O,SO CrL,e^rC^,H&JC5H&^rr6HCOL^CH,L^^HS &,:&S:r6&:rOHe&,zSurz ^HHJLd^6S:OOJ:CLJz&rS^HHzJz4e&OH^6OCLLzzSLr^JrO r1zz,:r66Cz JeO,z^:,r,zQS H:JJ6SrOJeeLHz6r:C&H6J^::JCS O:C,Le:L,,^&HezrI6&e:l&&r:O(eJ, zrr, JyCJJOH6eSOO6SJL;z6r^^jHLJC,O&LSJOCS:L&zC,H^^Or HIO&^HN6LC^LS:,,S^CrL &HCJH::6zHROze^LHzLrS SrJJJrC&JS&OSCHOOzz,J^OHSe6}O& SS^zCJLSerL xHrr ^uzJC:O6^C:OLe<,SzJrJ SHrJ&:e&H LOzCLLOzer:^^H  r,^& SC6rHCLeer,6zC&O 6H,&:DH6 CSO,eJeLzr,H eH J6:z&hSOZJe:LCz ,Z^,r,JC/6^SSC6HC6J:es,6^^,HS 7^Je:,&OCCOre&OeSLr&^^Hq r:^JrSLO &eL,e6rC^LH& eQH&^rr6HCOL^}H,L^^HSz,,z&SUO6&S OHC:,zz6zj ^rrJLr^6SSLOJeCLrzz6,^rH6Jz,H&OSzO:CJJaz:,,^JO: rsJ&eHH  Ce6,eOL&^:,C  HL &:J&FSr  eeLrz6,S^1H eHNB&LS ^>C,L zCLL:eHC^L26 ,:o6OC^6::&,^eHr,^zfCJJ:&6e6JO6C:LWz6r^ :HLJ JO&,:COCC L&ze,H^6J} ;HJ&^;L6LCzLSe  r^C,O &LSJH:&6zSHOOeS&6zOr  SOOJJ:S&r:O5&CHOKzz6S^OHzJ:H6& :r ^C LCer&O^err 68:z&:66^C: 6e ,:z,,JS H,J :e&6S66rCWOOl6,%^6H  C#,JLSC&rr,LCe,,6zerT^6d^ :r&6^SHO,CO,Cezr&^rH J&s &vHrO^CYLLzzrS^&L:JSTr&&H 6HC&Lze6,C^zrJ L,r&S:L6JC:Orez&,zrr6 z, JO:z6:S^6He:L&zJOr^rHJJeN,&6S: &C6L^z:O ^ H: ,{JOe:r6 CeO,e6,zzdrOez8:JL: 6:S,OJeCLrz&re^HH6 :sj&OS^6rS,L zS,,^6L6C LOzr,rOzH:Jzz^66SO6CC,OOJ6* 6CSrO&e^OSD{6CC6OJeS,C^CH>^rH& HSr6JSS6O LBz&z:!6OCJ r:SJ6:&rO JuCJr:&6eOHSCbzL,zSr^ :HLJ&r,z&,w zHzJOMf&L^ rr /?O&^SC^err OXH&zS rO S/eJH:66 :CJ:kRJ2:C66^HH JJ:C&rSOJ&;&J&AO6^^&H^J:ML& SS6,CJLCeOOz^erH 6s zJ,r^SHJ r(,JH:z6CC,OLeL,^zJrL C1S r:J6 S&OHez,CeHrO^ek:J Gz& S&6rezOJJr: 6 CSO,e6&J:u6^COHLJ^:z&uSOOJ:H&^:S,H^eHJJCpr&OHL z9e6r:^6z:r6J &*S&S:,6JCz&O:C&SSzr ^^HoJO:^6C:: &HH&eC,6zS O:COH z,r ^H9SLCez,L^ HS HrLz&,z&:H J:F&&L:&O:CCHrJS: 6SS,O6S:&J:,6:C:O:CO, ^:SC6 CLL zS,HC7O&eJHSz6r&^SrL JeJLL^:rL  ae^L,e^OHJ^tD^JO: &,^,rrJ^::&LS&& HH c:^&LCCO:z^LCz r6^6HzL:eL, ^SH^ JVCJr:&6eSHO6SzOCz6r^ :HLJ 3^&,cJO:CrL&ze,H^6r^ !H&&zS:66C 6re,,J^Crr^J+eJH:66CS1O&e^LOCYr  SH, ,:C&,S&OCCHL^:r,H^OH^ ^AL&^SS6,JSLCer,&^CrH 6_z rH:6^C:OLC,,Sz,rJ C,HJ&:e&HS6OzCVLOz^mS^LH JSvO&JSC6rC&L,eH,6^zrH Oh^&:HL &CSO,eJ,Czr,^ e,H S:z&9SOO^e:O,z LBzSHJJ:Ur&JSe6HC6LzC^,O^^H: 6U J+:,6SSzOre&,ee r6 eH}JO:^&,HzO^eSL,CVrC^,H&Je:J&6Sz67C6L^z:,Le OH LKJ&C:r6&S:OHS6JrzHrO ^0:JLyJ6S:OJ:eCLLz&rC^HH6Jz2=C^S^O:CLLzzS,O^Jr:ze7&&e:H&^CzOVeOLeqLrO  PS &:J6CSrOCr6LHz6rzzeHOJz::&OS 6rm^L zC,re,He r86&:r&66C^L:_L, ^:r,^^6rJ,:&6eSLO6ezLDzOrH :HOJ :S&,SJOC:r&^zC,r^6He hH&&^G:^zC^L:e,, ^C,r &der::66eSPO&e^LHzLrCCOHLJJ:Cz3S&OCCHOJH;,H^^H^ ONL& SSJ,C<LCe&,&zHrH^Hfz^E+e6^SOOLeC,SeHrJ^:rJJ&B,&H:,OzCKLOz^Lr^LHSJS8^&JS:6rCCO6eH,z^zL^ Obz&::O6 SrJ^e ,CzrOH eHrJ6::^&S6O^e:Jrz r:^,,JCL5,&eSe6OC6O^eUL&SHH: zP Jk:,6JCCOrre,ez6r6^rH>J&:^&O,SO C,L,SJrC^,H&JChH&^rr6HCOL^S:,L^^HS &,:&S:r6&H^OHe&,zC8OJ zHLJL:C6SSOOJSC&OzJ,H^HHzJz2O&O:ezLCOL:zSL&^JHC rr&^::r6eCzO6eO,:^:rLCJi:JJ:J&rSrOCee6HS re^OHOJ:::JOS JL6 LJer,rSOHe rM6&::>6 HHO#eL, Ser,  =C^rr^6CS6O6e:LTzer^z:L&J^h,&,SCOCC^L&e^Ce^6rL lLr&^:d6LCSLSe&6:^Srr &L JH:&6zSLJeez,:zL6& SHLJJ:COHS&6YCHLJzz,A^Or/ &8O& SSJOCJLSer, ^erOeCieJ.:OJeC:OOe ,SSLrJ CHrJJ:e&HS6OzCMLOz^r:^ H JS},&z:r6rC&Lez:OJSHOSCJ<^Jq:&&HCSO,eJ,zCC6OSLL:zC,e^^SJ6He:LLz rezzOeeSL6zS,L6LSkLzeT,O^JLLCO,:eerC^::  ecOLrzHr6 zHf&e:^6:SLO eSL,zJLCCOHJJelH&6Sz6OCO6^:r,O^ HS ,;J&S:rJ&k:Ore6,zz4rO S1:zL::6SS,OJC-Lrz re^HL&Jz=}&OSzO:CLL zS,,^JHC rs &e:H66CSOOeO,^^:rrSOLLeHLH&uSJO&eeLHzL&ICJLzezL9&SS OSC,O^Hr,,^&He r(6&z:86OHzL:eL, ^:r, ^4CJJH:6CSHO6CLL-z6r^ :HLJC,O&LSJOCCzL&zC,HzJ&n H2O&^:H6LC LSe  L^Cr, &peJH:&6zSHOOe^OLzLr  SH,JJ:C&rS& rCrL6zz,r^OHzJ:mJztS:6,CJLCer,J^erHe&>zJj:O6zC:OLe ,:z,rJ Cr&J&:e&HSJOzCfLOz^r:^LH JS_6JPSC6rC&L^:C&(:LOze:LCe^:&&JCSO,eJ,zeC6OC:L^^H, z&rC^,S&JH:&6:CeHz Lsr&&SeO:HSJ,;&&,S:6J &H,&S:,6JCz6^tL&r:JOeC,O z:LH&=S&6TeSL,zJrzz:OHerLrz:rJ6,CzL^z:,L^&6&e ,:zSre6^SJOHe6,z^S6HCLOJeS,Sz H   H&&e::rS,z^:rL  /SJ,HJH,Lee,,,^JHC vL^z6,S^:CSOJeO,^^:rrCOLJee,L^&rO^re:L z6rz^VH,^z,Oze,rJJHzJre#, ^&He HPLeL,S^^HL ,::,ez,r, JQCJkL,^rH: :eSL zOr^ :HreLLJz6rx^6HEJz::,L^:Hz DgO&JDe^SHzJLY6&eSzOz ^HLJH:66zCS&,5C&^Ce6CSOOCJzq,&rS&Oee:Jr:O& SHOr rF & SS6,C6&O=6&S:6rL^&7zJV:O6J:e Soz&L:66eCzLz^SLjzOr:J>t6Jeh,&6^LH JSHOeCSS6rC&OJeH,6^zrBC6>^&::L6^CSOOeJOCSOrJ eHHJ6:zJrSO6ur LLz rS^ HJJSmr&JSe6O2CLeeR,Oz{H: Oy Jrr^6 CCOrsC,ezrr6 z2&JO:^6:SLO eSL,CJ6g^,H&JenH&6:v69:O Heh,L^ HS ,.z&C!L SCeO,e6O_z<rO ^Y:S : 6SS,O^eCLLz&OrH,H6JzDAJ,S^6!CLL:zS,&C:HS r+&J^:H6&CzOL:e,z^:rLC:nSJL:J&:,&OJeeLHeHrz^oHO eOL&OS^OSS6LJzC,r^&CC HR&&z:H6OCeL:eJ&*^:r, JOHJr:J6eSHLCezLOzOr^ :HLJ HS^6S 6rCrLeze,6^6,ze,Q6&:S:6 C 6re,,SF&rr epe  :66eS-O6e^L,Szr^ SH,^l:C&,S&6cpJL&zz,DS H^ k%LJzL,6LCCLCCs,&^erH 6 rJ.:z6^S,OLe ,Sz,,6 CH&J&:S&HSJOz:6z&z^,L^LOCJSBL&J:C6rCzJ,er,6^z6L O9z&:h6zSC:OJeJ,:zrr& eHHRC:z&6SOOSe:LLz rSzHHJ r?r& Se6,C66z:,,6^:H:  B Jr:,6JCLOreC,ezHr6 zHi^OrC&NS^O CLL,zCrCerL^JC%&&6:H6NS L^eOS,^ r, ,r:&C:,6&SrOHe^&rzHrO ^,6JL:^6SS&J:eSLrz&&n^HH&JzHre^Sz6LCLOLzS,,^Jr:S&vJJr:H6:CzO.eO,^,6rL^FZSJ&:J6CSrO&&^LHzerz^rHO H::&Jr4O:C,LJ::,r^JHe^,Oz&e:^6OSJL:eL, ^S^^ JHJJrtc6eSHO6ezLSzO,L :H6J 0%&,;Sr,CrOHze6,^6He 1NC&^:, zC^LSe,6^^Cr, &HNzJ:&6zS% &e^LnzL,z:,HL r:CJHS&OeCHOJCJ,yz0H^  *L& SS6,SLLCee,&^SrH &AzzB<:6^SJOLC6,SzLrJ^:r&J&T6&H:rOzC.LOz^L(^Lr,JSRL&JS:6r:&O:eHLs^zr^ OHe&::^&jCSOCeJ&:zrrJ eHHJ6::^&S6O^e:J6z r:^,HJJL1rJHSe6HC6LzeMOOCCr0 S! JJ:,6CCC&r:^,Czzr6^OH7 6:^J:H&O^CJL,errC^ H&zr&L&6:O6_H&L^ey,L^^HS &,:&S:r6&HSOHe&,zzLOe z/:JLrz6SSLOJC,L^zJ,H^HLrJz*H&OSeO:CJJFz:,,^JL  rMJ&e:&6SCeOteOLe^:rO  HQJ,:e^LS,O&eeO,z6re^-HOzz::&LS O:C,LJzC,r^&He H%6&z:H6OC^L:e&,C^Sr, JYzzSLH^:S,O6ezL;e&OL :HLJ ::&,SJOCCr&Jze,H^6He VvO&^S:6LC LSeL, ^Crr &I:Jz:66zSVO,S&J,: OHCJO^C,,&z S^OeCHL6eCJO^6H^J:dO& SS6,CJ^Cer,&^err 6TeJu:O zC:OLe ,:z,rJ CHrJ&:e&HS66^C/LOz^,r^zH JSw,&60O&CHSJrW,&*^Srr O0^&::r JSHO&eJ,CzrrOzSL&ez:S&JSOO^e:LrSr&ree6Le&,ez^SS6HC6Lze+,OS^ SCLweJz:,6JCCOBS J^: 6:C LJ^,Lrz*H^ ea&L6z:rC^rH&J^rLz^j,^HH,J:erLr^ HS ,%6^6HLzOrL ^oL&,eS6CCzLOe&,r&HSJOJeCLrzO&JC&OLCL{,&^S^O:CLL&.&6 :YOC O. &e:H66C &CeJ,S^:rL  Uee6,rz SO6UeeLHz6r eOO Cr,CzCr&^rH6LzeL,r^&HeJ:HSzO,,^SHL 6e&LJ^Sr, Jjz C,O^:H^&HN J&:C&,z&OHe&,:^eyCOCCrL&eSJ6^&Hz (t:&^S:6L: JHeL,J^Crr &HOJH:6^eS.OOe^L;zLrz SH zq:S&rS&J8CHL&zz,!^OHSe6PO& SSJ&CJLSerL VHrr 6izJJ:O6^C:O^:H,:z,rJ CHrJJ:e&HS6O:%&L6z^r:^LH J:>,&JSL6rC&LeeH,6^zr>zO,J&::L6 CSO,ez,CCr,L eHHJ6:z&M:LO^SHOBz ,#^,HSJC*r&&Se6rC6Lze(,&^^rH LK: L:,6JCCOre&,CzHr6 zHLze:z6:SLO eSLLzJ,::&HJJeQH&^Sz6PCOOeHL,O^^HS LRJ&C:rJ&T:Ore&,zzHrO^6M:JL:?6SSOOJeCLrz&reeHL Je?r&OSeO:C&L CS66^ H: rn &e:&66:zJ,e6,e^:r6  HeJ,HJ^2S,O eeL,z6,J^N,OzC!<&6S 6{C,O,zCLLCSHe L76J<:t6OC^L:zz, zrr, JgCJr:&JeHLO&e:L}z r^^rHL^ ,H&LSeOCC6L&er,He6LS H0 &^:,6LS&LSS,6z^Sr6 &HAJH2,6z{gJJezL,zLrC SHOJJ:CL&S&OCCHL^zz,X^OH^4,;L& SS6,CJLSer,&6rrH 6kzJH:O6^C:66:,,Sz,rJ^LHrJ&:e&OHCOeC.LOz^r:^OH JS,L&JSC6rCJLeeH,6^zrp O(^&::C6 CSO,ezLrzrr& e2:Cr,H^SrSOCCJLLz rS^HrSC Lr r,,^zHL Le,,S^^H: LZ& L,: SHCJeN^&6:Jr ^HHXJO:^6C:e 6kJ&z:J,G^ H&JedH&LD,^LH&JeC^6J^erO ,lJ&C:o&CrJJ&x6&O:,r&,L^JHC rX&&eHH_eLOeLre^HH6J HSzJ,O^,HLJ,S66CS:6JeeLS&:: 66CzO=e,6HS 66CCO&zCL}JOSrO&eeO,pzre^-HOJz::&LS &_.^LJzS,r^SHe HP6&z:S6OC^L:e6, zvr, S,OJ,:&6e:JO6eeL1zOr^^,LzJ^:S&,::OCC,L&eSJ6^&Hz -y&&^S:6LC:&6eL,J^Crr &UCJH:66zSLJeez,:zLr  SHLJJ:C6 S&OeCHL6zz,Y^O,^erkO& SS6,CJO6erO&C:rr 6(zJQ:O6:C:&LHM,:z,rJ CHrJ::eJ,HCOzCrLOzCr:^LH ^R^r&J:!6rCzLeeH,6^z,e Ou^&::&6 C:O,eJLLzrr& eHHJ6:z&uXO&6e:LLz rS^,rHJCrr ,Se6HC6Lze9,^^^,:  l &S:,6JCCO^e&LSzSr6 CHlJJ:^6:SL6z/OL,zzrC^JH&JeaH&6Lr6(COL^er,L^^HS &,:&S:r6&CeOHe&,zzZO6 ^A:JL:^6SS,OJeCLrz&re^HHCJz+j&OSC6JCLL zS,HeO6&CL,Cz:,O^LHLO,C6,^^:rL &rzeC,^^,rO za^&^CC6:SLOS^:,Ozz,r6HC^LJzC,r^O,L^eLCzH,r :CCOSeL, ^SrHz,LzeO,yJ&H: CH,J eC6&CCOOermH&^SJOCCrLOC 6zCeOeC Lr&C:66LC LSeHOCS,6 CHL:e^:J6zS?OOe^,:zLr  S,LJJ:C&rSCJLCrL6zzLS^OHzJ:/L& :r ^C LCerOO^err 6rzz,:66zC:OLe LLz,rSeOH,JJ:eJ:S6OeC9LOz^,,CzH^JSv, 6SC6,C&6e0J,&^erZ On^J,:L&zHOO,ez,Cz,r& eHHJ661&+S6O^CrLLzzrS^ &rJCY,&&:&6HC&LzeH,O^SO6 O9 &S:S6JCSOrez&,zrr6 zrzJO:z6:ML^de:LLzJrC^rHzJeH,^CSz6,COLez:,L^ HS:JEJ&S:r6^CeO,e6LHCJr6 zy: :: 6:S,OJeCL6SSrC^HH6^6TB&6S^&:K&L^z:,,^JHC ,W& erL6&CeOIe6,^zLrL^&L&J,::6C:CO&eCLHz&rz^LLeJz::&LtLOSCLLJCC6O^JHC H+6&z:r6O:^JreO,^^SrL JH;Jr:C LSrO&ezOzzOrz :HLJ Dr^^S OCCr6rze,r^6HzL62O&zS:6OC LSe,,JJerr JFeJ,:66zSMO MHLazLr zSH,J :C&r COeCrL6zz,5^OH^J:S,& S:6,C^LCer,&z}OJ &uzJaHO6^S/OLe :Lz,r  CHrJ&:e&HS6,^C4L6z^,H^LH JSA,^ SC6rC&LCeH,6^zrG O8^&::O&HCSO,eJL!z:r& eHHJLH z,,Y S?:&SSH6JS^6,e&L &&SC6LSZLzed,O^J,^CzO,ze,e NH^ 69e,:zJr6 zH7J,Hrz,r6 zS &&zz,r^rH&Je:: JrH SHJLCe ,L^ HS HrLz&,zJrr, z2LJL:JrJ^rs:JL: 6eES 6HOJqSS6CCzH  ,5X&OS^OC:zJ,-F&&:HO&C^Hr&e:H66CzL&eO,^^:rL  hSJ,HJ,JSrO&eeLHz6,,^.,O  ::&LS OSC,LezCOre/He HW6&z:x66C^6HCC, zxr, S#CJr:&6e:BO6ezLAz&r^^BHLJ :O&,SJOCC,L&ze,He6LS HFO&^S:6LCSLSS,6z^Srr &{eJH: 6zHxOze^,:zL,T SHOJJ:C^,S&OeCHL&zz,n^OH^J:TL& SS&6CJLCer,^zHrH 6}z&S,G^JrrJCeeLJz,rJ CH%^:,6^&:C O#6JC+,,O^&rrJSR,&JSz66CHJOeH,&^OO  OmCJ :L6 CSOH:j&&SJ,SC6L&eSLLzJSJO^e:LLz ,H^CHJJCTr&O#  zKeJec &reH,6zppeJL:,6JCCO;SrJ,S&6JCOH,J&:^6:SLO&e:L6zCrC^rH&J^LLzp,J^ CJO,z:,L^ HeJCLH&C:,6HHOOHe^,SzOrO ^f:Jr,Oz6rCJ:C_Lzz&re^HHLCLLLzJ,L^HTzJ,7O,6^CHC r/&&^HL eHCJ^eJLL^:rL  qe^e,rz^rz&JMr&J:c6e^,rHJ^::&LS&&^GC HCO6:SOOCe^LCzO,,6&C^L:eL, rS:z&JLCJO:e6eSHO6e 6 S:&&SJH&JS:S&,SJOzeeJ4ze,O^ rr 0DO&^SC^err O7H&zS Oz &ueJHBJeRSHOOe^LJzLr  SH,&::C&,S&OeCHL6zzO}CJHz .oL&^SS6&CJ6CW ,J^CrH &_zJ::O6^JCOLe^,SzOrJ :HrJz,,&rS6Oz#LLOzzr:eLLeJ:/J&J:H6rSLLeS&:e^zrO OHL&::O6 S!O,ee&Lz,r& eHzJ6:e&TS  HCULLz 6r^,H JCrr^^SC66C6L:e<,z^^,:e&n^J,:,6CCCO e&OeSLr&^+HYJ^:^&CSL& QHLLzCrC^&H& CbH 6,r6HCzL^eL,LzLHS^O,:&C:^6&C:OHe6,zerOe ^HJJL:S6SS,OJeC^&z&,r^HH:JzBr&Oc^ rCOOGzS,&^Jr, rr&^::r6CCzO&eOLH^:LLeeD:J^:J&LSr6Oee6HS re^&HO H::JOS OS:rLJeO,r^:He H;6JCLO66S,L:C&, ^Sr,zJLdJ,B!6eS^O6eeL-zOzH :HSJ vL&,SJOCSL&Sze,e^6r, dMO&^S:e C O&e,L,^CrL &HrCz:6&LSE&Le^L/zLr^ SH&z::S&rS&&zCHL&zz,LCeHzJ:uL SSS6LCJ6Cf ,JzOrH CpzJz:O&eH6OLCL,SzCrJ CHr  ,,&H:rOzCOLOz^r:^L&SJS5e&J: 6rC LeeHzC^zrJ OH,&::L6 SrJ^e ,CzrOH eHrJ6Hzz&S66,e:Lzz , ^,r^eLWrJrSe&,C6LzekL&SHH:^0T J,:,6JCCOrre,ez^r6^&HaJ&:^6:6zO C6L,eHrC^rH&^eLJ&&:L6cCCL^e^,LzzOO ,H,&C:^6&CeOHCJ&rz{,H ^HLJL: 6SS,zCeCLzz&,J^HHJJzHre^Sz6 CLOOzS,,^JHCH _&J&:H6:CzOIeO,^zCrL^,kSJO:J6:Sr6O:OLre6rzCLHOJz::&SS 6rt^L zC,rCzHe rh6&ze:6OCSL:e6, ^Sr, SHOJ,:&6eS&O6eeLGz&r^^,LzJ^:S&,SSOCC,L&zeS&^6Hz 4KO&^S:6LC rCe,,J^CrL &PeJH:6 eS{OOe^LVzLr  SH,JJ:C&rS&JeCHL6zz,,^^H^J:KL&&HH  H^J&eOL4^erH 6T ^O, zrHC CI&Jr:6r^ CHrJ&:e&H^6eCHkLJeHr:^LH JeHzzer:^L:rJneLL,^zrG OmJ C,&zLrr ,Gr6OSe6SS&LzeC:S& SOO^e:LrC66LCe,CCHL5z^,O6LCzLzeh,O^JOze^LzzJ:6&LCCOre&,^CJOeC,L^ S,LzJH^ &B:Jzzz,6^rH&Je::J:,O^&az ,:C&JSerH  AJ&C:r6OrHJ&uLJr:JrJ^&N:JL: 6e4O ri:J6:S6^CzOSJvHCz:rH6rS,L zS,,^6L6eeL eH,r^yC2 LoBr:CJ6rCzLJJ6l,6CSrO&e^O:: 6SC^Oe^rL!zJrH SC6L:zC,r^&H^z6LCz:,r^^r,Ore:, ^Sr, 6,OezrCz,r^ nHrOe::6J^rrLJ :S&,S6JrH JzG 6:SJO C O, :,6^JHz ,Pe,zzCrr &%e&:rS^:r,JSkJJHSS6zCJL C6,:^eH: ^CLOrzz,q^OHJzJ,Szz,,^LHr6O},&zSL6H  HzJ*:O6^CCJrECJJ^JLOC,Lze^:Jz^Cz&&M^&ztH,r^zH JSI,&6}O&CHSJr;,&P^SrO O{^&::rzOHL HHHL}zer& eHHJLH,^CHz^H+O&e=r6JS^Hz rQr&&SeO:H:JH=J&O^Cr& L} &S:H Hr JeTH&::^6^ SHJJO:^6:SrJ8*JJO:e&6CeO:J:0 &6Sz6cC,6Lyr6^S_O:eCLHJZ:J6&CeOHeL6LSS6SCzL J&::6SS,OJezJ^:e6rSCO JSxO&OS^O:Cr&r:JJs:Hrj^H+&&e:H6L:6JS(J&,e^6rS/O6eeH1^^rD JdOLLe^rz^#HOJJ,^zr,x JHJJ:/H&:SOOSe:L:e ,O^eHS H_ JrzH,& J}CJr:OJLHS 2t,Jtez6CCJ,CCO,J^CrzJ6ieJ (H&rSlHS^H9O&^S:6r:6 JnO6S:_66COLO^J,^^:r &^+{J6:Cre^rH,JJ:C&Y7  rH6L e,,W^OH^JCrez,,&&zHe L:e,^zSrH 6{z&SHe^LrL Ok&&6S &HC&Lz^:LOzOrC H_e&:zC,O^LH JSMHzC,L^qH^ Oe,,6^zr( Os^&:SL^JSH6LeJ,CzrrOeLLze ,L ,r ^,/C&::&66C 6HezL6z^S:6&C6Lzej,,erOeeSLHzS:6&,CCOre&,^eC68SL,Jz:LHz^rr HtJLOzJrC^rH&Je_H&Srz6,SHL^z:,L^&,^eCOH Or:^OHCJ^*C&O:,r& ^k:JL: 6SS, 6mCLLz&re^HH6Jz}5J r^6rCSL zS,,^6,:eJL,z:r:^:rOJ ::,Cz,rL  2SJHL,&,SzO^C6LHz6rz S,reJ,zzHr^ e2:JOG6 ^^&He HHJ^J:H6OC^O6eL, ^SL,^C5CJr:&6eSH&^ez6Ne,r^ :HLJ :SJeSJ&CS L&ze,H^6Hz L=O ^::6LC LSe,,Jzrrr^ HSJH:J6z:rOOe^,:e6,r SH6JJrO&rS&OeCH^zzz,u^OHCJ:d6& EUS:CJLCer66^erH 6HCJS:O6^C:J,e ,Sz,rS:&HrJ&:e&SS6OeC>L6z^,,CzH^JSW,JOSC6,C&OE:J,&^zr-SCh^JM:L&z,,OLeJ,CSHr& eHH^6rS&HSOO^e:LLz:rS^ LUJSNr&&LL6HC&Lze5,O^SO6 Ou &SLz6JCSOrC  Hzrr6 z,:JO:^6:DLJee:L,zJrC^rH:JeH,XrSz62COOzz:,L^ ,I^,oJ&C:rJ&CeOHe6,zH-rO ^3:JO: 6:S,6^rrL,z&rez H6Jz27&OSHO:COL zS,,^JHCzr,^&C:r66CeOaS&,^e:O& ^=:J,: 6CSSO&Se&Lz&re^.H6J^<C&LB  HCLL zC,,^&,* HE6zH:H6OC^OHeL,^^Sr,J:WCJr:&6eSHO6ez6vSJrz :HLJ :S OSJ&CuOLJze,H^6Hz ebO ^^U6LC LSe,,Jzzrrz&H&JH:66zSvOOee,:zL,& SHLJJ:S&rS&Oe:HOrzz,H^OHzJ:H^& AS6eCJLSer,J^eLr 6rzJC:O6zC:OOe Lhz,rJ^SHrJ&:e&HS6OeCv6OeOr:^LH JSd,^6SCJJS+LeeH,6:Srp 6_^^ :L6CHOOLeJ,C1Or& CHH JOs&HSOO^SLLLz rSzOL:JCU,&&Hr6HC6LzeaS ^^H: LBz&S:L6JS:6ee&,ezHLO zHnJO:^66SLO^eSL,zJrC^r,&z:sr&&Sz6HCO6ez:OL;3H: L_J&S:r&,Ce&HCJ,zzHrO z=: r: JS:+OJeSLrzJrezHH6JzH &OS^O:C6L z:,,z^,J rt&&el666CzOqC&O6^:rO  ,zJ,:J6CSrOJeeLHz6rC^VH6J^HHe S^OSC,OrzC,r^&HeO6<6&e:T6OC^L:eLO zSr,  !CJ,:&JSSH&6COL;z6r^^%HL O:S ,:JOCC,L&zC,Hz,HzzlH &^:w6LC^LSSS,J^CrL &TCJH:J6zSZOOe^O,zLr  SH,JJ::&rSz6zCHL6zzJH^OHzJ:rLeAS:6JCJOHerOO^e,,eCpzJ&:O ^C:OLe ,SHJrJ^rHrJS:e&,S66H:JL6z:r::LH J:1,&JSC66_SLCeH,6:zrw 6*^ :r&6^S,O,ee,CSrr&zeLLJ&5%&tS^O^S LLz:O6^LHCJCOr&&SC6HC6LzeL6e^zH: LO &S:L6JS:^&eJLHzHLz zH4JOH^^rSOO:eSL&zJrS^rH&L0gH&zSz6rCOLzz:L6^SHS JGJ  :r6&CeO&rr,zz6rO ^l:JO: 6:S,OJ,kLrz&re^OH6JzYR&Orn6YC L es,,^ HC rOz&C:L66CzOFeO,^zOre ^cSJ,,J6CS,O&eSLHz^6r^HHOJ^,:&LS^OSSO CzS,r^&,, Hw6&zHT JCzL:eL, ^S,J JH:z :&6CSHO ezLKzOr^COHOJ :S&OSJOSCrLz:,,r^6Hz:&nO&zS:&6rSL:e,,JzLrr &%e^H,C6eS1OOe^,:CCr zlL^JJ::&r:6OeCHL6zz O^OH^J:46& :?6,:J Le,,&^erH 6rSJu1&^HC:O6e 6Oz,rJ CHr C:C&LS6OzCBLJz^O:^^H  H4, ,SC6CC&&ee&,6^Sruzrd^ r:L  SLO,ez,Czzr&eJHHJ6Or&pSOO^CrLLz^rSzO6CJS*r&&.,6HC6LzS?6J^zH: L. &S;J6JS:J e&,CzHOr zHyJO:^^OSOO eSLOzJrS^rH&zC9H&6Sz6HCOL^z:,O^ HS ,c^&C:r6&C:66e6,zzsr,COLCez,,zOHC ^HHJz:H6LCSO^e:LJ^:r6  k^ ReH,J^JHC rQO :r&^JHOOOeO,^^:,6S6h:J,:J6SSrO&eeLHerrz^HHOJ^::&LS &SC:LJzS,r^JHe ,/6&zGJ6OC^L:e6, ^:r, Jy:Jr:&6eSrO6ezL3zOr^ :HLJ :S&LSJOCCrL^e&,H^6HzJSr^zSrC^&rr&6ke6S:66^  7eJH:6&CR^OOe^,:zOr  SH,JJrS&rS&OeCrL6zz,t^OH^J:NL&^S:6,CJLCeOL5^erH 64  6LH^^:^ zH,&e:er^ CHrJ&IS zS6OzC7L6z^r:^LH z:g,&JSC6,C&LeeH,6^zr% Ojz &:L6 CSO6C},Czrr& ^r e^,Sz H: CHJL&eLrS^,HJJzH^zLr6  H66CSJOS:r6& &Hr&S:,6JCz&,uO&JSS6:C O,eH:C&LSLO eSLH4H6,S^O&J:ue&6Sz6kC,6OY,&SSeO&JJr^eH,6^^C:O6e6,zzIr,zCLOe6,,&HSJOJeCLrzOOOC:OJeOP,J6S^O:CLL&SD6 SJO&zOLzeOr:^HH JJ:zJ,SC6JCeHHJC:J6CSrOOS JO:zO,C^OeCO, zzSzOSC,LJzC,r^&LLCHc Jr:.6OC^LCc6&C:r66SiO6JO5H6eSHO6e OJ:66SC&OLzr,ezOrr6YSeL&ze,H^L,SCLLS6:R^^Jr, H:erCe:66CzL:JrSz ,r JzHHJJ^ L6SrOJJz+J&rS&Oee:6 :O&CSS!:zrLrzOrz^eCzO,er,&^eH:zLLCz6,H^LSrO e ,Sz,r6C LJe ,6&,S6OzC#LOz^r:SrO  HHK&JSC6rCO6S:z&JS:6&C,LLe&S J6rJJ^ezLrzrr& e(:Cr,H^SrSOCCrLLz rS^HLe^ ZL&&Se6HC6Lze%L S^rr^C8 &S:,66rLJ HL&r: 6SCOO e,,,&SSJOCCLLezS,J^JrH ^/J&z:56zCJOLz:,L^ He^SOrzS,,Oe:S Oy^&Sz,rS ^*:JL:&Jzr& C:BOCC 6re,OJJzb}&O:ezLCOL zS,&^JHC rr&^::r66CzO_eOLC^:rLC^gSJ,:J6SSrO eeL&H8rz^mHO 4::&OS O:C,Le:L,,^&He &n6&e:k6 HHO2eL, S:r,  jC LLe6CSHO6C:L2zOr^z:L&J^:S&,SJOCS^L&erJz^6Hz GHv&^:_6LC^LSe&6:^Srr &H&JH:&6zSLJeez,:zLr  SHLJJ9:e&SJOeCHLJzz,8^OH^C<DL& SS6LCJL:erL C6rH 6YzJz:O6^C:OLeI,Sz,rJ CHrJ&:e HrCOeC!LOz^r:^eH JSH & S:6rC&LeeO,6Czr6 Ofe&::^6 :aO,C^ rz,r^ eHeJ6:z&o:O^6CnL6z r:^,HzJC,r&CSe6,C6O^elLz^^L: ^c J<:,6:CC6,e&,eaJr6 zHuJ&:^&aSL6zr,LLzJrC^CH&JeXH eOC6-COL^SO,L^^HS^^iJJHr 6JCeOHSe,zzHrO^e6LJO: 6S:,OJeCLrC&O:^rH6JzW8&OSCO::L&ez:,,^JHC rH,&eH&eLCzO5eOO^^:rO  r,J,:e^LS,O&ee6Hz6re^7H eHDW&LS J&C,L zCLL:eHC H46Jz:Y6OC^6::&,^^Sr, JMCJO:&JeHLO&ezLZzOr^^zHL &,&&,:rOC:JL&zC,H^6Hz L,e&zS:6L::LSeL,JzHO  JUeJHH:6zSHOOCe LzOr  SHSJJ:C&rpCeSCHL6zz66^OHzJ:Hr& :r ^C LCer6C^err 6lz&&:O6^C:OLe ,Sz,LJ:SH,J&:e&HS66,C#LOeLr:^6H JS;,&eSC rC:Lee,,6zHrN^&9^^:: 6 SYO,e ,Cz&r&eeHzJ6:C&a:LO^SOLLS ,q^,H^JCA &&:C6HC6OHeK,O^^rH LR^&S7OzCCSOre&LXzHr6 z,izJ:z6:SLO eSO6zJ,:C H&JCXHJ&Sz6WCOL^:O,O^ HS O*J&S:r6zH,Ore6,zz=rO z}:JL:a6SS,OJeCLrz&reeH&&JeMu&OS^O:CeL zSL ^JH: rc&&e:O660zO^eO,e^:r^  r1J,rJ&6SrO eeLrz6,J^_LO^O::&6S 6CC,OSzC6r^^He ,;6Jr:4&^C^L:SE, ^Sr, ^pCJ,:&&S,6O&ezLPzSr^ :HLJ OS&,SJOCC,L&zC,H^^Or HBO&^S:6LC^LSe,6 ^Crr &ZCJH:66zSiOOe^,:zLO, SH,JJ;m&&S&OeCHLL:&66S&OL r< & SS6,C6J::JJAS rL z4zJ(:O6JrzJ^f&J&z6,, CHrJ&:^ &,M OHJJSS,6CSCO^eJI6JLSC6rC&L^Cz&&S 6 e:r&e ,&zrHJ ^ezLLzrr& e*: SH6z&Hz eG L&ezrS^,HJJzr zH,H^rHLJ,:6&SSLOJzeOrer,^ SH Jee^L,zHr6 z;SeCL,z6rr eb^L6eHrC^rH&J^r6z^,, SHSJJn,&&^zHS ,+J&C:r6&HP He L,zArO ^*C^:,&z6rHJ:_S&ez^,u^HH6Jz:SzJrL^zC&LSzS,,^JHzeCLOz:r^6 SSOReO,^^CLCCC,&e:,r^&rOJ,3^J^:,LOS,OSCH,O^er,6HC^LJzC,r^O,LCOLJzCUz  CCOOeL, ^SrHzrLSe.LV^6SLOCezLlzOrJS6L^ee,&z&r^6YCJL&ze,H^LLHC^,:er,J6&ShLSe,,J^z,:CHLrer,:^JS,6De^,:zLr&z6Over,Ozr1H C%:J::O,,^^H^J:nL&&,&  rQJCeO,C^erH 6i  ^oezLr& JeeLOz,rJ CHT^^LpJ r&  HOLJerr:^LH JerezeH6^SHHJ6!L, zOr5 O3^&C;e^CrH e:S&z:O6HS,H,J6:z&DSOO^e:&r: ,HzLHJJCEr&Ov ^zHJJH2,& SJOJzzLCer,eJCH,  Hm,SzHr6 zHIJO:^^CrLOeC,L,zJrC^k,^erL,z{SS6:COL^z:,reLOeC6LH J,K^SrL ^CS&JSS66C,HrJC: 6SS,O6S^Je: 6rSLO^e , &J:&O:CLL zeOHSz6JC6L&z6H ^Xrr z::JHzHrL  >SJ,:J6CHWH&e:L z6rz^VH,^Lrz^SH:^,H&Jze#,J^&He H}L^LrS^SHzJ e&LL^Sr, J.z S,HzO>  %HrJz:,6rC H& h:S&,SJOzSeO::C6:CSOz ,1C&^S:6LC&&O:C&^:H6zCHOLJL:S6zS7OOeJ6^SS6HS&O&e:wO&OSeOeCHL6z OrCzOJCr-6& SS6,CJLCer,&^erL z+zJI:O6J>JJSH6J&,:rJ CHr  OH&rS6OzSOLOz^r:eLLeJ:o,&JSC6rC^LeeH&&^zrP O4z&::66 SL^CeJ,CzrrC eHrJ6:e&vS  HC9LLz ,L^,H JCX6^SSC6HC6C6eq,6^^,HS R^&S:,&JCCOre&Lrbzr6 zH3J::^&ISLO^eSL&S:rS^rH& 6ZH&&Sz6L+eLzz:,L^ HS L<JJ:L&6JCeOHeS,zz2rOz^LrJO: 6SS,OJC^Lrz&r,^HH&JzN%&OS^O::L&ez:,L^JHS rr:&eHH  CeOHeO,z^:,6  rSz6: 6SSrOJeeO^z6LzC,H6Jz::&OS 6rC,6J:d,,^JHe r=6 S:>JO!COjeO, ^:r,ergC LLe6CS,O6C:LYzOr^ :OOJ j<&,S OCCLL&Ce6L^&HC !2&&^*e6LC z,e,,J^CrL &WSJH:eeOSFOOe^O zLr^ SHLJJGH^ SJOeCH6Wzz,H^OHSe6RO& SSJLCJLSer,&^,rH 6szJV:O6^C:&L:e,:z,rJ CHr^::e HH OeC=LOz^r:z6H ^S,6& SC6rC&Leee,6zHLJ 6u^&:HO6 C:O,eJ,Cz6OS CHHJ6He&IS6O^C,&zz^rS^,LrJCk,&&:Sz6C&Lzed,6^^H: Lr H&:,6JCCOre&6yzH,J^LHTJ&:^&6SLO eSL,eCrC^rH&JS_H&JSzJbShL^z:,L^ HSz 0J C:,6&CeOHe6,zz:rOz^r^JL: 6SS,OJSCLre ,L^HHJJzfO&OS^O:CLOOzS,,^JH: r;J&ex,zzCeOdeOLS^:rL  YSeL:J6CSrOJeeL,z6rz &HOJz::&OS OSC,6J>L,,^JHe rG6  :yJO#COke&, ^Sr,zOYCJrOe6eSrO6eSL9z&r^^O6SJ ::&,HzOCC,L&zC,H^^Or HwO&^rr6LC^LSe&6:^Srr &J JH:&6z*8 eezLFzLr  S,HJJ#:^ S&O:CH6Hzz,b^OH^:L>L&^SS66CJL:er,CCLrr &yzJh:O6zC:OLe LrS^r  CHrJ&:e&rS6&zH&L6zzr:^LH ^eF,J^rL6rC^LeSd,6^zr- O6:&::O6 SHO,e^,CzJJH eHrJ6, &FS6O^C!LLzC6O^LHJJCLK&&SC6HC^JreH,O^^H: LG^&SH, zCSO,e&,ezHLO z,KzJ:z&?SLO^eSO6zJ,zLCH&zOmHz Sz6HCOLzz:,JS9H: ,;Je>:r6JCeOO:C,ezQrO ^2:JO: JT,JO eSLreere^HH6^z&O&6SzO:COL eH,,^Jrq r7J&e:r66CeOZC&L-^:rO  rLJ,:J6CSr6OeeLrz6re^dH6J^HH&&S O:C,6^zC,r^&He^,v6&e:b66C^OgeLLze&r,  4C ^:&6eSH6JrvLHz&r^^OHLJ :S ,x^OCCLL&zS,HzrHzzoHz&^:r6LC LSCS,JeC,O &I:JH: 6zS OOCeLrzLrC S,^JJ:C&rP&6eCHL^zz,L^Or6J:H6&:SS6JCJL:er,&^eLHz,nzJO:O6:C:6Oe OQ8er ^,Hr^J:e&HS66CCzLOeHr:zSH JSN,&J:H6rCeLeeJ,6^CrB^&HJ&::^6 SJO,eJ,CeL,z eHJJ6:C&ASOO^S:OLz ,O^,H:JCH,&&:S&eC6O,eEO6^^H: LHz &:,&HCC6ee&,ezHr6^rHNJe:^&JSLO eSL,eLrC^6H&Je?H&JSz6a;HL^er,L^eHS &PJ&CrC6&CSOHe ,zzyrO ^HSJL:^6SS,OJeSLre ,H^HH&JzrO&OS^O:CL6rzS,L^JHS r/J&e:H6eCzOHeO,z^:rL  rb ^:J6SSr6SeeLHz6,H^JHOJ^::CzS O:C,L zC,6CSHC Hq6Sr:u66C^O,:z,^^Sr,HrnCJ,:&JerJO&eeL5zOr^zCHL z,O&,SzOCSCL&ze,H^6J8 %d6&^:r6LCzLSe  r^Cr, && JH:&6zSHOOeS&6zOr  SJjJJ:S&rSz ,CrL6zz^^^OHzJ:rLegS:6LCJLCerOO^e,,eC>zJ,:OJ C:OLe ,SHJrJ SHrJ^:e&,S66Hr^LOzzr:H^H J:i,& SC66}SLCeH,6rHrI 6I^ :r&6^C:O,eJ,CCHr&zeLLJ&:e&aS6O^SrLLC:^H^,H JC&e&&SC6H::LzeL6e^zH: LJ,&S:L6JS:^&eJ,CzH,6 zHiJOx1 &SOO^eSzCzJrS^rH&JeyO^CSe61COeLz:,O^ rre^A &C:r^^CeOre6,z66rO z-:JL: 6SS,6^:&LrzJrezJH6Jzp_& rH6xCLL zS,,^ HC^LOe&C:r66S O1eO,^e:rJ  HbJ,:J6C:CO&SeOrz6rC^fH&J^gO&L:z&,C,LzzC,J^&He Hr6J,:-6JC^OreLLO^S,O^z_CJ6:& OSHO6ezOreCr^^LHL^O:S&,SJ6:S,L&er,He:Hz pGO&^OL6LCeLSe ,J^:rr &rOJr:J6zSrOOeC,:zLO: :HLJJ::&rSJOeCH:ezz,H^OHzJ:*L& {oJCCJLSerLS^erH 6#:z&:66^C:OLe ,:z,rJeSHrJ&:e&rS6OzCwLOz^r:^LH  HQ,&JSC6OCCLeeH,6^ 6OeCL!e7,O6eS,O,eJ,Czy&%CrO e6:S&OSOO^e:Lr?O6LSH6H JRr&&Se&,rzLeeM,O^eH: L{  Sr66 CCOre&,ezLr6 zOHJO:^6:SOO CtL,zSOO^,H&Jevz&6Se6wCOL^e,6z^^HS ,Hr&C:,6&SS^6e&,zzGr6 ^I:JL::e^S,O eCLrz&rC^HH&Jz;%J^S^O:CLL zS,,^JHCeJ?J&e:H6JCzOHeO,SS6rO  kSJ,:J6SSrO&:CLHz6rz^HHOJ^::&OS OSC,O zC,r^&H: O<6&z:X6,VrJ 5C,eC r, JxCJ0,LzOr^ zC^LLz &6Sz6.JeLOz&H: SH6 Lz:6 S^OC L,zer,& SrrOrC&&6S6,L^OHJJ6bL&HS 6,e:L zzre^JH,JJ:C&i. ^gHOJ e^rO^:HS  X&&SSS6,CJLz:S6CSSOz  ,6JD:O6^CC HHrJ&:J,&^HH6C,LJzCS ^rHL&e:z&,:HHee6L&z^:H JH: L:z&:^:,LC,L, Hwr&OS,6HeSL6ej,r^ H6J r6&pSOO^eCJHIr&&SJr& Hv6e,,J^CC  r{L6eSz6,SHWez6,&^^SHJJ5:JLSz6: :rLe,,,JH:r6OC,OHzS,6zQrl LD&& : 67COL^zCO6SC6rC6,Hz&,:zkr6 J{tO S rJ^Lj:JL: 6euO eHHJOe6rH^JH^ Op,& S^O:CLL&S6&,:6r%zC9&&e:H6LHJ  ZS&:zSrJ CO^e:LL&lr  zl,Jr:^&J^,LCeSLH&JH:^6HzJrQ6,6zzO^e^HJJ :e6^SJOOeS,Sz&rJ SHc^C:&6eSHOLcJJ :S6:^SHJJCL^z:,L67H Jz:,&rS^6J ,,CzS,H6Ji: 6xz&r:6r6^zL^z^IJ& SeO^CJLOzC,H^^Hz Ynl&zS&OeCHLLCe6SSHO&CJLrzer^66SrLCer,&^^L,C^L:e,TLO:S&OJC,LHzCrJ CHrJOHSzOr^ SC:,^el,,^SHe J_,&JSC6x:  0KO& z^HO S-SJ :&&,CSO,eJ,zCL6zShOL O:u&OS 6LCrL:z rS^,H6^ ,eeRHL zHC 6:S6CSL6J Ln &S3OzCCSOre&L.zHr6 z,8ee:z6:SLO eSOLzJ,:C H&JS7HJrSz6%COL^rL,L^ HS OwJ&::rJ&0:Ore6,zzMrO^,E:^Lre6:S,OJeCLrzSree&JJJzI<&O:&O:COL eL,,^eOL ,*&&e:S66CeO1eO,H^:rL  ?SJ,:J6Ctr SeCLHz6rz^0H6J^HH^zS 6(C,LzzC,r^&HeSJj6&z:V6&C^O}eL,CSOrL JNCe^:&6CSH6JriLHzOr^^,HLJ :S ,r:OSCrL&ze,Hz&Hz^r,e&^:H6LSOLSe,,J^CJ& &=eJH:J6zSrOOS^&rzOr  SH,JJM6&rX&J:CrL6zz,h^OrHJ:r^SzSS6,CJ6&er,J^er, 6*:z&:66^C:6Se ,:z,rJ LHrJ&:e&HS6OzCu6OAH,{^LH JS(,& SC&LWSLee,,6z^r_ O/^&:Lz6 CSO,e^,Cz,r&^bLJJ&:z&vrCO^ChLLezJ,^LHJJC;6&&Se6H:6C^eH,O^^H: LH^&ScO&zCCOLe&LJzHr6 zHo e:^6:SLOzeSLOzJLCz6H&JeUH&6Sz6 CO6^Cz,L^ HS ,+JJL:rJC:6OHe6,zC,rO z>:J:: &rH^O eCLrC^re^rH6J:,&&6S^O::eL z:,,^JHL rV&&e:H66CzOISOJHzsrL  =SJ,: 6C:LJSeeL,z6,J^FHOJ^::ezS OSC,L^zC,,^&r(eJP&&z:3^CC^O0eLLzE,rL JKCJ6:&6eSH&6O^LHzOr^ :HL ^:SJON,OCCLL&eJ,H^6Hz =rr&^S:6LCzLSeO,JeC,e &9eJH:66zS OOS^L zLr  SH,JJaL&rbC6LCHL6zz6H^OHzJ:RS& :r ^C LCer6J^err 6l:z&:66^C:J^e ,:z,rJ LHrJ&:e&HS6OzC/6O7H,I^LH JSN,& SC&LESLee,,6z,rw Oi^&:Lz6 CSO,e^,Cz,r&^dLJJ&:z&?rCO^CNLLezJ,^LHJJC(6&&Se6H:6C^eH,O^^H: LH^&S-O&rCCOLe&LJzHr6 zHQ ,:^6:SLOzeSLOzJLC^CH&JesH&6Sz6 CO6^e6,L^ HS ,{JJL:rJC:,OHe6,zS:rO zl:J : &rH^O eCLr:6re^rH6J:,&&6S^O:HJL z:,,^JHL rt&&e:H66CzOySOJHzfrL  mSJ,: 6C:LJSeeL,z6, ^jHOJ^::ezS OSC,L^zC,,^&rseJ5&&z:-^CC^O/eL, ^Or, J.CJr:&6eSH&6HrLHzOr^ :HLJ^:SJOH:OCCLL&ee,H^6Hz wOe&^S:6LCzLSeL,J^CO, &7eJH:&6zSPOOe^,:zLr  SH,Je:C&rS&O:C L6zz,j^,LHe L6zC,& Cr{OPCr,&^erH L,Le&rzzOH  OSrJOSC&*SOO ezLL^&S 6rC<LOz^rCzeOCCNLO ,rH6OSLLeeH,6^ ,SCJOOe,,L^,V6JCc:JJSe6S^,HHJ6:z&<S^Oze:LLz rS^,HJ^C5,&&Se6HC6LzeH,Oe^r^ Li &S:,6JSDOrS&OrzHr6 zHjJO:S6::66OeSLOzJr:^rH&Je5H HSz6=COLez:,O^ HS 6oJ&C:r6JCeOHe6,zzqrO ^1:JC: 6SS,OzCOLrz&re :,:e:LLz6H, CH Lee,,,^JHC pr^zr,,^+CSO eO,^^:rrzKLLzz,JzrHJJ:<eLLzerz^uHOJJrH^Sr^ J7CLzeH,r^&HeJ:rLe,466JS6L:eL, ^e,:CrO6 ^,L^^rrJ:Hr&^:JrC^LHLJ :S&Hrz &H: .z:,z^6Hz Q1, rre ^rVJL:zJHS&6  ^HHJH:66zCS&S}SJ,:OOR SH,JJ;:e&SJOeCHLCzz,9^OH^J6?L&^SS6,CJLCerO&C:rr &WzJH:O6CC:&LH%,:zLrJ SHrJC:e&H LOzCHLOzer:^6H  r,^& SC6rSJLeer,6ez6& 6l:&::J6 S,O,C^&LzrrS eH^J6:z&;SOz:e:L z ,O^,H^JCEJCHSe66C6O&eD,6^^rp L_CzO:L6JCCOSe&,CzHr^CrHHJO:^JuSLO^eS6,SzrS^&H& 88H&&SzJ6L&L^eL,Lz^HS L%JJH:r6zH,Ore6,zeHrO z0:^Lre6:SJOJCHLrz re^H:OJzjO&OSeO:CLL eL,z^ HC rpC&e:r66CCOAe &HzVrL  HLJ,: 6C:L^eeCLHz6,r^>HOJ^::6zS O:C,LJzC,r^&,eeL}&&e:h66C^O&eLO :OrL  ;CJ,:&&rSHO6& Lfz6r^^HHLJz:S&&H:OSCrL&SN,H^&HzzELe&z:L6LCCLSeJ,Jz:O  &H,JH::6zS(OOe^^LzLrS SH^JJ::&rSCJLCrLzzzOL^OHzJ:;L& :r ^C LCerOz^err 6rzz,:66:C:OJe ,:z,LS6,HrJe:e ,S6OeCkL z^,,CzH^JSX, ^SC6,C&OV:J,&^zr4z I^Ji:LJ HHOLeC,Cz6r& SHHJ6C^&TS^O^CHLLz rS^ rRJSKr&&2O6HC&Lzer,O^SO6 O. &Swe6JCSOre&6CzHr6 zHHJO:^6:SLO eSL,zJr:^rH&JeTLJ,Sz6GCOLJCJ&r:HOLe^L z&Hzz,H6JzI ,SzzrO ^N:JrrHzrrC  :L&eSC&HCzOC !7;&OS^&HeLL zS,,^^HC rl&JS:J66CeO<e6,^^:rL^zy:J,:^6CSLO&eeLHz6re^+H6J^3H&LS^OSC,6,zC,r^&HC Ho6&z:U6OC^L:eO,^^Sr, JH5JJ:&6eSHOLH/&JSz6zS!HzJ :S&,:^zrC,L&ze,r^6Hz t7zC6S:6OC LSe,, ^CrO &?e 6:66zSwOOe^,:zLr z,H,JJ:C&,S&OeCHL6CE,x^OH^ HUL& SS6,ySLSer,&^SrH &qzJYr66^C:OLe^,Sz,rJ SHrJ&:ez6S6OzC}L&z^r:^LC HzH:,&^C6LC&LeeH,6^zrjJCL JH:L6 CSH,6rLC&rS& :HJJ6:z&ES,&&V &^:^&&SuHz rZr&&SeO:H:JHYJ&O^Cr, Lb &S:H^zH& Se^LLzHr6 zgS C,JzJrr^JNJJ6zz,&^rH&Je:: zre 6r,JLk6OU:,Oe OFJ&C:r6&CeOHe6&zzrrO ^R:LLP^CS^zHJe:CeO2eO,^^:rLz zLSeO:CLL zS,,^J5CCH* &e:H66CzOAeO&JS:r&^^=SJ,:J6z:J^HHOJOCJ&OSJOOeLLJ^Sr,^O:0&S96,L^&He HB66^,CrC ^OHeL, ^S6,HOMJ,:z&6SSHO6ezLnzOr^ :HLJe>O&,SJOCCoO:;1&,SJ,6eLpJ&CS:6LC LeeC,Cz1,^ &UeJH:L ,r JzHHJJC6O:C^O6erL6 L,H^LHHJAIL6^C:6Hee,^er:7&6C LC^r^JezSzO6<CJW:O6^C:OLS C^:,rz^^HrJ&:e6::S  H J,E 6 S&,:CJ,CeK,66rCJL:ez,6^zrx ,rezO,X^eHe eHr&6Ser  eHHJ6:z&9SO6^!:L&z:rS^,HJJzr,zH,& zH&LSe:,O^^H: rrLze,6^H:J 7TSJL:^,SCJLSe6,,&rS^O eSL,z6O,SeOHCLL^&6Sz6rrrL^z:CLSSzeFCLJJQ:J6&CeOHeL66S666SLL J6,l6SS,,JHOJJre6e^LHSJzPQ&OSJJ6hSJzZr&eSr6O OTe&e:H66C &r:z&J:rr&^SjSJ,:J6z:^ OHO&:TO6OS,,zCL, ze,rJ,H^Je: & SH6LC ! JH:P6OC^LC_ 6:Se6^Sll: J:&6e^He6H:z^:OrC^OHLJ :S&HrC OmJJJ:C,L^eHz UcO&JHJ^rrrJ::C,zzrrr &4e&:Lr^HHS SeCLCzLr  SHH^J,zz,rJ 6B^OC:H&,CSOJCJLe&zSS6,CJLCrz&:6:SH  H6JB:O6^CC&L}&&::L6rC6r ezLLz S 6rC4LOz^rCSe6rCOLHzzr 6OCeLeeH,6^ OzC,LCzJ:&&^CSO,eJ,ze^OCSHO^ze, z,C^&LHb&S:S6zC OzC6GOJOSe6HC6L Cz& :HO CeOr&,HJ^6rLJJHI&6zL,J zHPJO:J ,rO rS6OS::6,SLOH^6Lrzg,j CyzJC*J,&z6HS ,sJ&zHG^^r& Oo6&OCJO:SHO^zSL/&HSSOJeCLrzOOrSzOWC,L  SrJ^JHOJ,eH,S^JHC r<O^L,^ err  SzJLS 6eSrHHJC:J6CSrOOSLJO: &LC6O,eC, zzSe6JC,LJzC,bz:O e&LCzHrJ^SHL 6e&Lr^Sr, JIz^&,zzLH: :# JL:JrC^6HLJ :S&HsC ,H JH::&^^ r, 2aO&^SCJCHC&&2:&rS&6O  gHJc:ON^O6Hz,S&:z&rS SH,JJ:zJzHC^Op&L eL,d^OH^JCrHe,,{  Hz H9M&B^S,L &cz6%rS,O^JHLeeL^z,rJ CHN^,,6z^:S JcSJ6:,&6CSOe H(z&JSC6rCO&&:z6S:L6LCeHrJr:e6 CSO,e66J:<6:C^LJe&,O&,SeO^e:LLz&L6zSO:e,LLzHS:66C6Lze},,eCOOC6L,JH:66JCCOreO&NeCr ^aHlJO:^6C8C ,HzJezz,S^rH&Je:: ,,O^rDzJCb,&rSrLOC&Lee6H& Cr, ^<C,ezYrO^e6LJO: 6SneOJeCLre 6,^HH&Jz!z&OS^O:CLO&zS,,^JH: rE &e:&JSCeOqeOJ(zqrO  sSJ,:e^LS,O&eeJ&z&re^Xr&C:Y1&LS ^HC,LJzCOrC^HC H86&z:o&,C^OOSe,^^Sr, J=CJ,:&6eSHO^srLHzOr^ :HLJ^:S&,C:OCCrL&ze,H^6Hzz<,J&zS:6LC LS:S,JeCOO JseJH:66z:zOOS^&rzOr  SH,JJHC&r:O:SCHOezzL3^OHzJ:tL& :r ^C LCerL&^err 6D:z&:66^C::,e ,:z,rJ LHrJ&:e&rS6OzCo6Obr,8^LH JS5, ^SCJrSCLeeH,6^zr9^&Q^ ::&6 CSO,eJ,CSLr&^SrrJ6:C&Zo O^e:LLz ,J^,HJJC;L&&SS6H:66re+,O^^H: L,,&SH 6CCCOre&CzzHr& zrSJO:S^6SOO eSSrzJrS^rr SHkr&6SzJCCOL^z:OLCeH: ,vJ&C:r OCeOHzC,zzHrO ^*:JL: JSH6O eSLrzJre^ H6^z,,&6SzO:COL SH,,eJOn ,yJ&e:r66:JO%SO6CzIrO  n:J,rC6C;rJ^eCLrz6re^*LJJ^H:6eS O:C,L zCO^^&,e JI6&e:266C^ ,eLLzzCr, ^qCzr:&6eSHO6S,LyzOr^^HHLJz:S& xHOCCrL&SL,H^&Hz HMO&Sr66OC LSSz,J^Srr zL,Jr:66zOeOOez,:e6&S :H,JJr^&rS&Oe:H& ze,M^OH^J:,r& SSO^CJLSer,&^erH 6rzz,:66zC:OOe L6z,LJC3H,JJ:e&rS6&SCa6OSC,c^OH J:*, OSCJr3^LCer,6^erWe^!^ :r&6^C:O,e ,CSOr&ze&CJ6:e&MS6O^:&LLC Lz^,H JC9,&&,d6HSJ6,eV,&^^,r La &S:,JHCCOre&,SzHrJ zH6^Z:^6:SLCOeSLLzJrC^rHze,yr&6SzCeCOLzz:,L^{HS ,aJ&C:r6&Ce&HC ,ez*rO ^k:Je: JSS:OJeCLrz&reeLH6^zH&&OS^O:CLL Cz,,eJ,r rF&&e:H66HzOiSz,S^:rL  LeJ,: 6C:^O&C+&Jz&rz^ZO,J^Uv&LSC OCLLJzC^S^&HC H{6&r:36OC^OHeL, ^SL,C:kSJr:&6eSH&rezOrSer^^HHLz :S&,SJOC,&L&ze,H^JHz r5OJuL 6LC LSjJ,J^Srr J{eJOrC6eSBOOx:,:zOr ^rL^J :C&rOJOeCrL6eCJO^6H^J:r & SS6,CJJ^er,J^er, 6NzJGHOJ&C:OOe ,:z,66 CHrJS:e&rS6OCC=LOz^r:zGH JS*,&JSC6LC&OoC^,6^zr#8,V^J4:LJ HHOLeC,Cz6r&CSHH^eeH&WS^O^HSLLz^rSC,HJ H, &JSe6HrOLzeH,O^SO6 O_ &S646JCSOrC  Hzrrz zHOJO:^6:fLJee:LJzJ,r^rLNJeAHC6Sz6OCOLzz:,O^ ,XSJp Jr:rJSCeOHe6LH}erO^?T:JO: 6:S,O eCLrH^re^HH6J:>c&OS^O:JJL e,,,^^HC ,/&JS.S66S.O;iJ,^^:rLz LHJL:C6CS&O&C^LHCe:H^BH^J^6^&LS^OS:HLJeH6 ^JHe H&H&z:H6O:^JreO,S^Sr& JLOJr:Ce6SHOzez SzOrz :HOJ Ur^^S OCCr^Oze,r^6H:e&(6&^S:e:C L:e,OJSvr, e;eJO:6^&S.&O:CL>z r ^,H,Je:C J&COeC6L6HS,I^6H^^4?L&CrO6LCJLCrO,&^CrH ^LrJH:O6^L^OLe^,Sz,H: CH&J&:e&HS6Oz:;OJzz,L^LHSJS3z&JVC&eC&OHeH,z^zL, Or^ ,:L6SCSOJeJO^zrL&^,HHJz:z&OSO ^e:6^e8rS^JHJ:J7r&JSe&:C6L::&,6^^H:::K &::,6eHLO,e&,e5Ur6 eH=JOzM6:S O eSL,zJrCzLLHJeU6&6::6bCOL^z:JJ^^rH ,TJ&C:r6&SrO e&,zz2&1 ^H#JL:z6SS&J:eSLrz&&&^HH&Jz_L^eSzO:CLL zS,L^JHCLJ?&&e:H66CzOieOLe,zrL  1S &:J6CSr6 C LHz6rzC HOJ^::J6LrOSCLLJ:S,r^&HezHrF&z:H6OCzL:e^, e{,^ Jo:Jr,L6eSHO6CCLOzOrC :,,J :S&,:^6NCrLzze,r^6Hz cqOJ,S:6OC Ore,,J^Crr  peJH:66zS4O6e^L,Szr^ SH,JJ:C&,S&6Sr6L&zz,_CSH^J:7LJzL&6,C LCx,,&^erHz6HzJw:66^SKOLe:,SeO,: CHLJ&{z&HS6OzSr6Hz^,r^LO,JSl,&J::&zC&O=eHL6^zr5 Ob^ O:L6^CSO&eJ,Czrr&^zHHJ6:z&_SOOze:O6+Sr:^,HJee_r&&SeJHJ:Lzen,O^^H: ^9  kZ 6JCSOrC6,ezHr6^CHeJO:e6:HSO eSL,e^Lh^rH^JeHH&6Sz62COOSz:,L^ rH ,+^&C:rOSCeOre6,zzxrO ^r:z&:^6:S,O eC&Jz&LeHCH&Je39&6S^^LCL6 eJ,,^ HC ,y&z,:H66:&OseO,^^:rL ^2S^,qH6CSrO&eeLHe:rze6r:J^::&L&eOSCLLJe^,r^zO, r46&zJ,6OCzL:eJ&(^:r, J.CJr:J6e:,^zeeLBzOO, :HLJ H<LCSJOSCrL ze,H^6Hz zaO&^S:66C L:e,,JzJrr &0eJr:66zSX&OCe,:zLr  SH,^^:C r?LOeCHL6zz,sz&H^^:H & SS6,CJLC:L,&zS,J 6cCJ(r 6^C:OLCz&Oz,rz Cr J&:e&H:J rCKL z^,z^LH JS+,e:SC6rC&OteH,&^zrLee_z&::L6 CSOLeJ,C^ r& eHHJ6:z&nSO&^}rLOz rS^,HJeJvr &H:6rC6Lzej,OeOH:zL,e&::,6JCCOrS&,ez:L: er6JOr&&ySOO eSL,ze6L^,H&JerS&&Se6+COLHz:,L^ H: ,<J&CHr^:CCOHe6,zz3L& ^r:JJ: 6SS,OJeCOLz&Le^:H6Jz87&OS^ HCLOzer,,^^HCz6m&&e:H66:&OVeO,^zHrL z%S^,<S6CSrO&eeLHSrrze6r:J^::&LH6O:CLLJCz,r^zO, ru6&zHC66CzL:eL,+^Sr, JUCJr:&6e!HJ eeLyzOr^ :HeJ HS^6S OCCrL&zeOL^6,ze,16&^S:6LC 6ze,OJS8r, &BeJH:6^zS*OzrL,:zLr OLH,J :C&,S&6n_JL&zz,_OzH^ a{L&CrO6LCJLCee,J^CrH^J6jJH:O6^QeOLe ,SC,Oz SHrJ&:e&HHLOzCn,ez^,;^LH JSo,&JyC OCJLCeH,&^zrJ Or^zr:O6^CSOLeJ6XzrL&e:HrJ&:z&HSO&&e:6LSer:^LHJJSjr^eSeJH# LeeH,O^zH:e&?  SO:6JCSOreJ,eC r6zzHeJO:z6:SOO HrL,e^,C^rH Je,<&6Sz6jCO6Hz:,L^ r- ,{^&C:JJrCeOHe6LOzHr6 ^G:JL:C^OSLOJeCLezJrC^HH6Jr_}&OS^O:CLL zSO,zzHS rf&&e:H6SCz&_S+,^^:rL  wS^6:JJC:SO&eeLHz6rzzCHO^^KH&LS OSC,LJ:C,reCr, Hj6&zze6OCzL:Ce, zrO^  /CJre,6eSrO6e:&&z6r^ :HSJ^::&,SJOLCrL&ze,,^6Hz FrOeH:w6LC LSe,OL^C,LeS?eJ,:6 ^SMOOe^,:H r  SH,J^:C&LS&6rrzL6zz,0&JH^ .TL&^SS6&b:LSer,&&:rH &nzJLre6zC:OLe^,:zLrJ^:6&JJ:e&H3zOzC?LOz^6e^LH^JSAO&JSC6r:&O eH,&^zrH OLJ&::L6eCSOLeJ,:zrr& eHHJS:z&ZSOO^e:L6z ,rzmHJJCQr&OSe6rC66z:,,6^:H: JD ej:,JS^,Oree,eJSr6 eH{zL:^&,HzO^eSL, OrC^,H& _,J&&Sz6!CrL^e/,Le OH L}C&C:66&rHOHS66SzHr^ ^HLJL,^6S:OJreCL&z&OC^HH6JzHre^Sz6LCLLSzS,,^J,CeOwJJH:H6zCz& eO,^y:rL S7SJL:J6SSr6 rHLrzzrze&HOJ^::&^LOOSC LJzC,r^JHe ,26&zO,6OC^L:eJ, ^Sr, JrrJr:&6eSHO6ezLTzOCS :H J n*&,S OCSLOOze,6^6OS I?O&^V: &C^O,e,,C^C,y &,r:,:6&FSxLre^L4zLL& SH&z::S&rS&L CHL&zz,LCeHzJ:bL&6SS6LCJ6C:O,JzHrH ^>zze:OJ^HrOOeS,SzJrJ^HHr^C6:&HSzOzeCLOzzr:zOH  r,^& SC6rCLLeer,6ezO, 6k:&::J6 H6O,eS &zrre e<6J6:e&pS6O^C,&zz^rS^,YCJC(,&&:/ JC&Lzet,r^^r< Lu &O:,6CCCOre&,ezHL6^SHHJ^:^&LSL6HeS6,z:rC^&H& HQH  SzJ=SLL^eL,L^SHSzpTJ Co^6&SHOHez,z:MrOeRH:JL:S6SS0OJeSLrCOre^OLCJeB0&OS&O:COL er6^^ HC rS&&e:r66Cz^Le6,C^:rL  KSJ,:S&OS,O&eeH^z6re^DH&J^<,^zS^OSC,rHzC,,^&rmeJ7&&z:Y6OC^O_eLLzj,rL J5Czz:&6eSH6JrLLQz6r^S3HLJ :S ,5,OCC,L&zC,H^eHz^rv:&^:H6LSSLSe,,Jz:,o &f:JHHe6zSAOOCeLHzLrC SH6JJ:C&rS&6eCHL&zz,L^OH^J:*LJrSS6,CJLCer,J^erOeCUeJj:O6^C:OOe O4fJr  CHre0:e&HS66Cr LOzzr:SOH JSq, J:z6rCJLeer,6zHr(^&H,&::66 SCO,eJ,CeLrC eHLJ6,O&4SOO^SHO:z ,r^,rJJCKr&&Se6OC6LeeA, ^^H: L3 Jz:,6JCCOre&,CzH,JOYH<JO:^zXSLO eS6,zSrC^rH&JeGH&eSz&rSCL^eZ,LzJHS ,4JJ:/&6&CSOHgh,zzTrO^eH^JL:e6S:,OJeCLrz&,O^HH6Jzq,&OSeO::LOzzS,,^JHC r,S&e:H6CCzOHeO,^^:rL  rS e:J6SSrOJee&&z6LzHeH6Jz::&OS ^,C,6Je,,r^JHe r;6zr:<6O:6L:eL, ^Sr,  UC^r7^6eSHO6ezLEeSr^eOr6J :S&,w^OSC,L&C6,H^^Or HcO&^HH6OC^LSe&6:^Srr &neJH:&6z:r^^ez,:zLOr SH,JJ1:LeS&OCCHLJzz,u^OH^ JIL& SS6OCJLSer,&eHrH 6(zJH:O6^C:&LC^,Sz,rJ CHr^ :e H:LOzC>LOz^r:z6H ^SH &JSC6rC&Le:,,6zCrL ONe&:HJ6 CSO,C^&Lzrr^ eHJJ6:z&ASOzHe:LLz ,H^,H JCX6^SSC6HC6LzeK,6^^H:JzR &S:,6JCCOre&OeSLr& zH9JO:^^^SL& xHLLzJrC^rH&^&RH 6HS6HCOL^z:,Le HS^H,H&S*J6&CeOHe&,zz/rO SL6JO: 6SS,OJeSLrz&r,^HH6Jz_H&OS^O::LOJzS,,^JHC rr &eHH6^CzO8eO,^^:,6  rS ,:J6CSrO&ee&,z6,CzLHOJe:: JS OSC,O^eC,r^^He J+6&z:n6OSeL:eL, zHr, ^vC^Jdc6eSHO61JLHz6r^^JHLJC,O&LSJOCs:LJzC,H^^Or HaO&^S:6LC^LSCOJC^Srr &LOJH:66z:r^Se^LvzL6^ SH,JJHC&CS&OCCHL&zz,6^Ore h7L&zSS6CCJLCerL z rH  !z^H:O6^C:66C6,Sz&rJeJHrJ&:e&HSJOzCHLOzSr:^LH JS{S&JSC6rC&Leer,6^:O& 6D^&::L6 C:O,eJ6Szrr& eHrJ6:z&XS&O^e:LLC,rS^,HJ XHL&&Se6HCL ,:^&SS&OCeCLrzJ,6^CrL 6we&6:J6:S H, H:^6:SLO&SOJCFH&6S6O^ rH^z^,&^,COL^erLO^ HS ,=6 ^,e^ Hr L<^& S LeCSO,eCHS^Lr^^HC9L^z&re^HHLz6,^^C,,^,HzONeH,z^JHC r-O 6HC^1HH Ox &Czrre  pSJ,:6 6r6J+HJ&z:y6S^rHOJ^::&LS OS6&JJeq,&^&He HFLzJ,^^HHLOre , ^Sr, 6L:zJL8^ SL6HezLwzOrJzzLSCrr6^Cr:^JH%&::6,,^6Hz .VO&^S:^CH ONe,,J^Crr &.e86,66SSeOOe^,:zrOLCeO^CHL&^JrJJ6H JFyr,r^OH^J:iL& SS6,HJOQe&,&^erH LL&z6,&^LSHOLe ,Sz,rJ CL6e&::&OS6OzCYL,:C6 :nHe :U,&JSC6}::J^Z,J-SeO6CSLJe,,& mHLJeB6J&:^r^^SHHJ6:z6Sa  zkJOeCL&OC O^e&HezJr6^6H,JH<,&S^CrO L! &S:HJr:L e;:J5zLrz zHUJO:J &rr^JcJL6e^rC^rH&J^H ^e,>^ H: H: LeSC6HCeL:eH,,^JH6 Je L,ztrO ^oC^:,,^6re eHLL^z^,&^HH6Jz:SJCry^rSeJC::&LS6O6eeo^J,:H66CzLSCCOO:6O^CzLJzS:J6CSr6 ,rLHz6rz^6HOJ^::&LSeOSC,LJzS,r^JHe^,! &z:y6OS:L:eL, ^S,6 J>CJr:J6eSrO6ezL,zOr^ :HLJ :S&,.J #C,L&ze,H^6H: #,OJ<S:6LC 6&e,,z^CrrJSVeJH:66zS2OOe^O:C6r^ SH,JJ:C&6S&6SS^L6ze,;zCH^J:XL  _,6,C LCe,,&zSrH^Jr6JA:&6^SzOLe ,SeO,  CHOJ&yJ&HS6OzSrL^z^,,^LrOJSm,&JSC6^C&LCeH,^^zrr OH^ez:O6 CS6 eJ,Szr, :HHrJ6:z&&SOO^e:LLzWrS^LHJJCWr&&SeJHC^LzeH,O^zH: JI  S{^6JCSOreJ,eezr6^CrHJO:e6::SO eSL,CJLM^rH Jen,&6:C6kS&O(z:,&^ rC ,yJ&C1L6 CeOOe6Lez;rO ^rH e: &,S,6&eCLrz&reF6H6JCyK&^S^6HCLL C&,L^ HC ,w&&S:H66HHOHeO,^zHrL ^QSJ,S:6CSrO&eeLHz6rze>LJJz::&LS OSC&LJSC,J^&He HH:&z:,6OC^L6eL, ^Sr, J2CJrH& :SrO6ezLpzOrS :r6CS::&LSJ&HCrL&zeLH:rHe ?lO LS:6OC 6KHJ, ^Crr^&#eJH:6Jzr&O6e^,:zLr ^ H, ^,L&rS OeC:L6zz,M^O&:J:#L& :W6,C^LCSr&S^CrH 60zJdke6^C:hJe ,Sz,r^ CH,J&1SJdS6OzC}OOz^r:^L, ^C8L&JSC6rC&O&eHLJe{rW &G^JC:L6 CSO,ez,Czrr& SHHJJ:z h:&O^e:LLz rS^OHJ :HS&&SS6HCzLzem,Oe^,H L+z&S:O6JS:OrC OrzHr  zHJJO:^6::6OeeSL&zJ,^^rH&JeTHJJSz6rCOLSz:,L^ HS  sJ&C:r6&CeOre6LC!Or6 ^>:JO: 6SS,OJ#JL,zJre^rH6Jzf+J&:8O:C6L CH,,^JHC^LHC&e:L66SOO-eO,^e:LY  HHJ,:z6CSzO&eeL:z6rz^NHJJ^Nv&LS 6bC,LJzC,,^&He Hu6&z:-6OC^66eL, ^Sr6 CUCJr:&6^HCJe/C&^zJ,^ :HLJ :e O,r^OHrJH;O6zSl6r^C,ze,HH^JHeOHe:,J^Crr O,&z:,CzLr^Jznz6 :e6,SOH6 ,:C&rS&O^SCJ#PLOJC:6HC^LrzHrJ6OCJLCer,&^erHr^LzJ,:e6^C:OLe&O6eS6:C,OLeH:S&HS6OzC*LOz^&JSLH JS;O&JSC6rC&LeeHzzSzr, CA^&::L6&N JC4XJ6:66S^LHLJe:z&XSOOJS Oz_,&6S&H^JCZr&&Se6HC6J Pm,&^^H: Lp &S:,6JCCOOe:,ezHr6  ,zz:,rzJrJ^}COL6zCrC^rH&J^r zL,^ ^CJOzz:,L^ Hez/Orz:rJ^^r.J:::6r:L6 S,,Lz^L+z&S66,eCLrz&r^z LeeSHJz rz^FHrJr:J,6^eHC rV&&^,L^*r&O,CH,^^:rL &rOeCLHz6r6 ^CrO^:^&&S,HJ^r::&LS Oe:z H:,& :m,Se&LrzSr^^S:e  Me& SJ6eCrL&e ,L^rr^O C,LIzOr^ C,CeCr&z:rr &HOL^eL,H^6HzJSH:^6r  ^HS rg6,zz:rr &{e&:ES^HrO SHLJ6SSLHSrO6CHLLz6rJ C}zJCS:,2^OH^^H6^& SS6,SSLCer,&^e,z 6{zJ!:66^SgOLCzOiz,rJ CHCJ&:e&HS6&JCsLOz^,K^LH^JS?,& SC6rC&LeeH,6^zL-z&>z&::L6 CS6,eJL:z^r& CHH h:z&GSO&^S6LLz^rS^LHJ :NrJ :J6HCJLze&,O^^H:^6HH&S:66JSLOre&,ee,re zHLJOnH6:SLO eSL&zJrS^rHzJei,&6:z^eC6L^z:L,^ H: ,H^Cr:,6&Ce66e6,zzXrO H4:JO: 6SS,OJeC6rzzre^rH6Jew>JOS^&:S&L z:,,^ HC Jy&JS: 66CCOjez,^^:rLz HHJ,:^6CSLO&CSLHeJ,e^3HJJ^Ie&LS OSSO6rzC,6^&rJ H26&zxr6 C^OLeLL6^Sr, JUCS&:&6SSHOzezLrzOr^zJHOJ^:S&LSJO:CrL&:r,r^6Hz rUO&zS:6LCELSe,,J^Crr &=e^Hr 6eSfOOe^,:eLr eSH JJ:C&r:JOeC L6eCJO^6H^J:VO& SS6,:J Le,,&^erH 6N:Jow&^HC:O6e LHz,rJ CHrSe:e&HS6OCCDL&z^L:SzH^JS_,&JSC& C&Le&O,6^zr7 &s^Ja:L&zC:O,eJ,Cz,r& eHH^6H^&HSOO^e:LLzCrSzOH JC8L&&S:6HC6LzeA,:^^H: Lqz&S:O6J:C6^e&,ezHr6 zr,JO#eJHSLOzeSOHzJrC^r,&^,1H&JSz6rCOOez:L6z,HS 6RJJr:r6&Ce6,CJ,zzLrO^,0:JL: 6SSJOJe:Lrzzre^HH6JzHH&OS^O:CLL z:,,^JHL r<&&e:H66CzOQSO6CzlrL  3SJ,EJ6CwrJ^eCLHz6rz^.HzJ^HH SS OSC,L^zC,r^&HeL&g6&z:D66C^L:eLLzCJr, J.C 6:&6eSHO6:eLazOr^^MHLJ :S&,SJOCCrL&ze,H^:Hz #AO&C%76LC LSeHOr:{OJeSLCzzHH^HrJ SSIJJ:CO:C6O,Jzk,&rS&Oee:Jz:,66S6Oz rI^& SS6,C66J:J&::O,: JxzJI:O6^C:OLzH&Cz6,r CHrJ&:^JeHe^,H OS:L&+C^6& HmJ&JSC6rCO O:&&SSzr, JP^&::L6&HO zezLrzrr& eB:e:, ^JrOOCCLLLz rS^H6Le,L!e=T^6HC6LzCrJ^^zH: Lq:&S:,6J:CJOeJ,ezHr6 zH JO8eeLSOO^eSLJzJrC^rH& ^YH&6Sz6rCOLez:,^CHH: ,YJ ^:r6JCeOHe6,:S&r6 ^a:^H: 6:S,6^rrL,z&re^rH6JzK5&zLLO:CLL eJ,,^ HC ,l&J+rJ6&CzO/e:,^zYrL CLOJL:J6CSrO&eCLHz6SH^_HOJ^}T&LS OSSOCLzC,r^&H: HA6&zcr&eC^L:eLLs^Sr, JH:C&:J6CSHOSezLbzOr^SNHLJ^:S&LSJO:CrL&:z,r^6Hz hUO&zS:&rJLLSe&,Jeirr JxeJH:66:H&O6e^,:e&r  :H,Je,L&,S&OeS^L6ze,?z&6: #FL& :L6,CJLCSr6^^CrH 6czJZ:S6^C:zLe ,Sz,r  CH,J&+Se6S&OzCWLCz^r:^LH e:+,&JSC6,C&LSeHLJCOrx O9^J6:L6 CS6OHC,Szrr& SHHJ6:z&rSJO^C+LLz rS^,HJJC,J&JSe6HCJLzeH,O^SO6 OE &S:,6JCSOre&6CzHr6 zHHJO:^6:SOO eSL,eerC^rH&J:-e&6Sz6/C,6O:O&e:r,LCeOHz,r^^&C:Oze6,zzir,zeLOeI,e^ere^r46&ez^,J^HH6Jz:S 6rS &N^J^S,&LCS6zeeLS&S:H66CzO=eO,^^:rL eH,J,:J6CSq^,Mr&:::rS^6HOJ^::&rN%^rH& Q36,OzHHe Hw6& He^ rHJ:4e&SSLOzCrHpJ^:&6eSHOLSOJ,S:6eCCLSCHh4&,SJOCCrL&zeJ^S6HS^HIO&^S:6r:6 J<O6S:#66COLO^J,^^:r &^M?J6:Cre^,H,JJ:C&Kr, rH,JMzS,S^OH^J:ur zrL^zrHJ&b JOCm66C:L eL,J6CS6OLe ,SzHLOC&LJeJLO^SS 6gC2LOz^rCSCL:C6L,&z: 6rC&Lez:OrSO6 ^CL&zC,O^rrOJCtzLDz^r& eHHJLr9zHHz^J2 Jz!H,H^eHJJCIr&OHH^OHSJ w &,SS6r &=:&S:,6JCz &:C&^:J6S SH^JO:^6:Sr&HZz& ::6,C^6Ie6LJ& :L6BCOL^zCOH:,65e LzeH,D^3qHOHe6,zer&r ^t:JLsz6SS,OJC:OHz&rC^HrHJzRM&Op^&HCLL^zS,L^JrL rr&&S:H6&CzOHeOLr^:LL^,ESJL:J6SSr66eeLHCHrz^HHOJe::&LS OSCzLJzC,r^&He ,g6&::S6OC^L:S6, ^:r,^^6rJ,:e6eSCO6ezLUzzJL :H J r/&,S OCC,L&eI6J^&Hz qr&&^:46L: JHeL,C^Cr6 &rFJHH6 SSHO^e^LLzL,6 SrHeH:C&6S&&SCHL&zz,O^OHSe6/O& SSJOCJLSerO&C:rr z_zJL:O&LC:&LO,,SzJrJ^rHr J:eJ,:&OzC6LOeOr:^LH ^SH,&J:,6rCCLeCH,6ezr6 OHh&::^6 SHO,SJLrzrrC eH&J6vS&/BO&Oe:L^z ,L^,rrJCrr rSe6&C6OHeIL6^^H:^Cy J,:,6CCCOJe&OeeJr6^sH1J^:^&HSL&:CSL,zCrCeLH&JCaH&:Sz6LReLzz:,LezHS L7JJ:L&6JSHOHe&,zznrO ^C,JL:S6SSLOJeSLre ,v^HHzJz;S&OS^O::LO^zS,J^Jrr rke&e:H&zCzOOeO,z^:rO  r_ S:J&rSrOCeeLHz6rz^^HOJ:::&OS O:C,LSeO,,^&He  76&e:N6&C^O,:z,^^Sr,^QPCJ,:&6eHrO6ezL(z6r^ :HLJ :S&,SJOCCr6^ze,H^6HS L}O&^S:6rNHJe5e,zz,rr &Ue&:H=Jrr^ C5SLrehr  SH,J6r6^erS^,HOJCS,6CCz6He:W&&SSS6,CJLzDS6CS^6^  H&JR:O6^CC&CY,JO:^6eSLO^eL,rzJr6OSC6LOz^r:^rOSeLLHz:,O6LC&LeeH,6^zr1e,L^JH:L6 CSO,eJ,Czrr& :HJJ6:z&+S,&LS&JO:&66S,Hz Okr&&SeO:hHJO:J&SSS66 elz&S:,6JCCOre&&#:Hr ^&HEJO:^6C>/ ,H&Oz:O6zS,OdC,,zz SS6&COL^z:,reH, C^,Sz:re6^SHOHe6,z^SLJCwOHzS:e& S,OJeCLpC,66S^,SeOL&ewrJ &3SLeeO,,^JHC }r^eII ^&H  OeJLL^:rL  Be^:,ezLrr :HH&&SS6O^rHOJ^::&LS OS3HdJew,^^&He HlL O,, :HeJC:SJHzHr^ J2CJr:OJ HzJeceJ :rrC^LHLJ :S&Hr^ ,HzJLze,H^ rO X_O&^SC tB:J:7,63:rOeCHLOJL:z6zSUOOeJ&zS^6zCJH6 H:C&rS&O^SS N:C66SJOSeC,C&e:J6,CJLCe0L:S O&CCLHzJ,S^Lr6O&eC,Sz,rJ zOOeHLJ&L:OOzCILOzJL^SrOee&HSz6,L^^rv6L:S&LSeO  JHr&::L6 Ce6C:L&&SJ6eSFOLJ Nr&<SOO^eCJzS:&HCeOee:GO&:Se6HC6L S & C,6zeSL,eH:6& CCOre&,^eS&wCCL6eJ,S^CHCJpHrJ&RHOrCJOSCO_LJRSz6?COLJCS&SSz6,zJLee re^SC:6He6,zzEr,C6L eCHe^J,{^H:rJ6::6^S^OLe:L,&JS:O:CLL ze&eCS6OCrJ6&e:H66SC^Oe6,^^:L&  ESJ,HJ^#S,O&eeLHz6r:^THOez::&LS O:C,L^zC,JMHHe H?6JH:K66C^OteL,CSOrL JxCJJ:&6CSHO^!rLHzOr^HCHLJ^:SJO,COSCrL&z:,H^6Hz 6O:&^S:6LS,LSeL,J^Srr zL,Jr:66zS^OOez,:zJ6? :H,JJ:C&rSJOeS, zze,-^O,rJ:GL& ES^^C LCer,&^e,! 6HCz&:O6eC:6Oe ,Sz,rJ!rHrJ&:e&,S6OCC_6OC&,?^LH JS+,JzSCJrSeLeeH,6^zrbzHp^ HKC6 SAO,eC,Czrr& eHJJ6:z&hS&O^CHLLz:L,^,HJJCH&&&SC6HC&LzeL6e^zH: LHS&S:L6JSHJ eJ,ezHr6 zHHJO(eeLSOO eSL zJrC^rH&e KH&&Sz67COL^z:OLz^HS L*J&S:r&,CeOHC&,zzHrO e7:JL: 6SSeOJeCLrz&re^,H6J:Ae&OS^O:L:L z:,,eJOE ,Te&e:O66S OFSz^e^:r   J J,: 6CS&O&Cu&Jz&rz^( ZJ^?I&Lf ^OCLLCzC,6^&,J HHJzr:!6eC^6:eL, ^Sr,:CqCJ&:&&,SHOJezL6CCrz^LHL(L:S&LSJOCCrLz:,,r^6HzyzDO&zS:JLr_L:eJ,JzHrrz,=e ,rC6zS&OOS,,:zLr  S&JJJsr&rSSOeC,L6eHOJ^6H:J:&:& S:6,CJLCe66S^CrH 6J6J9:66^::J&e^L,z,re CrzJ&He^LS&6xCQL^z^L,^Lr&, D,J;SCJ:C&LCeH,z^zrLeeBz&::L 6CSOLeJLHS rJ eHHsH:z&HSOO^e6LLzSrS^LHJJCkr &H:6rCzLzeO,OeLH:zL,e&::J6JSrOrSf,eCHO  eHOJO::6:SOO CL CzJ,r^rLzJe=r&6Se6AC JHeV,L^ Or ,q &C:6 SCCOHe6&,zXr6 ^B:&z: &,S,O eCLrz&LeCLH& 5Mj&^S^& CL6 :H,L^CHC &p& O:H 6SHOke^,^zbrL^:AS OLC6SS&O&S:LHz6rze8J^Jz1L&LSSOSC&LJzCLO^&rH Hh&&z:H6OSe6zeL,S^SrO JmCJr:&J6SHOzezLHzOrz :r6 O:S&JSJ&^CrL&ze,He,Hz O1O&zS:6OC 6hCz,Jzrrrz6ceJH:6&C,OO6Cv,:C6r  SH, ^Or&,SSOeCSL6zz,0eO,eJ:nz& :O6,:,LCSrLr^er  6;:JpHO6^::OSe L6z,,< CH:J&RS&eS66LCDL:z^r:^L,  O0,JHSC6zC&6&eHLJzerR :/^ L:L6 CS&,CC,Czer&^6HH^L:zJr,SOzC^LLezrS^,HJ :H:&&:J6HCCLzek,O^^rO LH,&S::6JC:OrC ,:zH,H zHzJO:^6::6&LeSL:zJLr^rH&JerHJrSz6eCOO6z:Or^ ,#^,RJJ^:r& CeOHe6LCzzrO^J/:Jz: 6SS,OJC,Lre,re^:H6Jz8-&O:rO:CCL zS,,^^HC r,,&e: 66S,OyeS,^^:L^ ^HOJ,7b6CSrO&eeCOz6,H^_HOJ^::&LS CrC,LCzC,r^&HC HHJCm:H6^C^OJeL, ^Sr,:JaCJ&:&6CSHO&ez6FSJrz^LHLJC:SJeSJJCCJL&eH,HzCHz JPO ^rr6OCSLSe&,Je6rre&HrJH:z6z#HOOCr,:zLC: SHJJJ:S&rS&OeS,Crzz,O^Or^J:WL& kn6 CJOrer,^^erH 6HHC^:O6:C:z&e ,:z,r  CH6zS:C&HS6zSCdL6z^,,CzH^JSY,:HSC6,C&6eVJ,&z4r_  {^ z:L&zHOO,e:,Cz&r& eHHJ66(&oS^O^C6LLzzrS^ &rJCV&&&OO6HC&LzeH,O^SO6 O* &SOe6JCSOrez&,zrr6 zJ JO:z6:NL^ue:LJzJ,H^r,,JeH,^CSz6&CO6^z:,L^ HS:JnJJr:r6SCeO,e6LHN^rO :?::,: 6:S,O eCL6SSrC^HH6:^b;&6S^6,WzL^zS,,rHHC ,q& e,J6&SjO}e ,^ezrL^zLOJ,::6C:zO&eeLHz6 b^jH^J^{6&LSzOSC &_zS,&^& O HA&&z:>6OCSJ6eO, ^S e JASJrH& :SrOzezLLzOL, :,Lze::&JSJ6rCrOzzeO&H Hz O%O:,S:6OC O6e,,eSLr, &ve:^:66eSgO EHLpzLr C6H,J :C&r COeC6L6zz,u^OH^^HrS& :,6,SJLCer,&zrr  &ZzJ.H96^SuOLez,Sz&O: SHrJ&H&&HS&OzCL&ezzr:^LH JS5L&JSC ,C&LeeH,&^zrK O;^&::L6 CSOJeJ,Czrr^^&HHJ6:z6S:e S*OJCSH6JSLOreOLz&^:^6HC6LzzSO^SJ66e^OrzJy^^:HzJS:C&OSzr ^&HhJO:^6C:z CxLJeCz6,SLOH^,LzeLSS6OCOL^z:,r:OOLCHOHJogO6&CeOHeL6MSS6eCKOJzSHOzOH  zi6O :S6^CCLeeL,^J&S^O:CLOzH,,L^JHC 6P&&e:H66HeOmeO,^zdrL z.SJ rY6SSrO&CCLHz&rz^{HOJS,6&OS OSSLLJzS,rz &H rk6&z:H6OC^L:S^^z^Sr, JH&Jr:J6eS,O6e:&&z6r^ :HSJ ::&,:^ LCrL&ze,,^6Hz ?H&^LS:6LC OHe,,J^Cr6eSiCJH:66zSiO6e^OH< r^ SH,J :C&rS&Jr &L6zz,uz,H^ vhL&SSS6&K:LSer,&z^rH &ozJLre6zC:OLe ,SzLrJ^:L J&:e&HSzOzC<LOeeO ^LH JSl6&JSC6rCzJ,er,6^zr4 O+z&::L ^CSO,eJ,Szrr& eHHJ6:z&hSO6Le:LLz ,H^^HJJC+r&O,6^LHzJH:J&O^Cr  Lv &S:HJ^HzJ^USJhS 6,C OOJJ:e6:SLO eeL^zz,O^rH&Je:: CrO^rH  ,: &e^zHS ,0J&C:r6&Ce He LJzlrO ^;C^r,ez r& JU&6^:H&,SeOACrd,&eS^O:CLL&C6&&S^O:^C,z&:or66CzO3e,OH:KO^CHLSz^,r^,r  /:,&z=r6HS&LSJe::&LS OSC,LJeO&r^ He Ht6&z:l6Oe^JSCH, ^Sr, Jr,J,:&6eSHO6eSLZSO,_ :HLJ NJ&,:sOC;re6zC,H^6r_ D+&&^H:&OC LSe,LH^CrO &EeJO:66eS*OOe^,:zLL z,H,J :C&,S&6VCH66zS,w^6H^ k4LJZSSJ,S^LCe,,&^CrH e%z rH{6^SrOLe^,Sz,rJ Cr,J&!3&HS6OzC+LOz^,e^LHeJSV&&JSC6rC&6TeH,&^zrX Ojz&::L ^CSO,eJ,Szrr& eHHJ6:z&oSOOee:LLz ,HzUHJJC-r&OMO :HSJH:&&6SLLJSqL,zJ,66zSJOre&,e^:L:COOHz:r,z6rrJ:/:OezCrC^rH& S:H&6Sz6QC&L^z:,Lzz,z ,M &C:,6&CeOHCJL:z4r& ^HHJL: 6SS,&BeCL,z&rS^HH&JzPf& S^O:CLL^zS,,^JHC r5&&e:r&,CzO#eO,CzrrL  +SJHreJ SO6LeeLHz6r zSOJCOL,zLr,J6UCJ:}J6eSSH: ,E6&z:T6,SsOrC^, ^Sr, 6r,eeLhzc:J^xH 6HS:66C O&er,Lz^,6JOHSJzj,6^^ rr IlO&^SC&eHC Z2OO,SHrO  +eJH:66 S&OJC:,:zLr  e,Ler, ^er^ Ox&JCI OJ:HOSC6,C rrJ  H J&q ,^^SrH 64z&S:C6eC:OLe ,Sz,rJJCOHJ^m,&HS6OzeSJ::C&LC^OHeSqO&JSC6rC&LeeH,6Szr, ^n^&::L6&r^J ;6J6zOr: eHHJ6:  &H: eH,JC:,&6eSHJJC}rJ LH6rC6Lzee,O^^H: LL^&S:,6JCSOre ,ez&LS eHZJOrL6:SOO eSL,ze6L^,H&Jerz&6Se6XS& :eb,L^ H: ,>J&CHr ^CCOHe6,zz5r  ^HO^e:^6SS,OJeCL,z&re^HH^erIH&OS^O:CLL^zS,,zSHS rW&&e:H6JCzJsez,^^:rL^rNSJ^:J CSJO&eeLHeHrz^,HOJ^:6&LS^OSC,LJzC,re&L: r;&&z:H6OS&L:SL6e^:rL J;SJr:e6eRH CeeLHzOrz :H6J H-eJS 6uCrOHze,H^6HzH&0O&SS:6LC LSe,,J:,rr ^feJO:66zS.OOCH,:zOr  SH,J :C&rS OeCrL6zz,/^&H^z:He& S:6,SHLCe ,&Ce,^ 6yeJGy-6^SOOLe Ozz,r^ CHrJ&:e&Hw66rCbL&z^,H^Lr6JSr,^zSS6LC&LSeH,z^zL#CeVzJH:L6zCSOOeJL:q&rJ^mHH l:z&DSOO^O6LLzSrS^LHJJC+r&&,r6HC^LzeO,O^^H: LrH&S:O6JCCOreJ,ezH,s zHrJO:^6:S6O :SLOzJr:^rrUJe0J&6Hz6SCOLez:,:^ r6 ,(J &:r6^CeOHe6,zz=LO^O{:J&: &HS,6OeC6rS^rC^LH6JSdg&^S^&:HzL^eH,,^zHC L/&JSL66&S+Oie:,^^:rL   OJ,:S6CSLO&eeLHz6OH^HH^J^TO&LS OSC,zezC,O^&He HX&&z:L eCzL:eL, ^SrL J3Cz,:&6eSHO&ezLhzOr^ :HLJ :SJ,SJOCCrL^eJ,H^6HzJS,EzLre^rHHJ::C6aS&OJS9_:Jz:66zSQO,Sr&eS^&fCLLzCH,&z S^66CHL6zzrSeCO:e ,SzrkO^&cS 6eOLN^erH 6! ^rrzz&T&  0,&JSerz^eHrJ&:e6:1H  H,&SCO6CSz6HC&HzzOrz^,HcL:eC,6^zrb ,r6z ,CJHHz H2 &6: 6HC:HLJe:z&8SOOJS6JJS:&&SzHz ^7r&&SeO:HSJOu &CS:O eSLrzO,& Sr6OOCr,ezHr6  rez:L, &HS^DH JH:>6&^OHzJe_H&6S JJH, ,er,C^ HS ,a6 ^,e^ Hr Lt^& S rJ^rc:JL: 6eAJ  R, s:H&,S H  O%<&OS^OCaQJCaO&,:A6reJ,:z6:L&rCzOueO,JC?6JCHLLeLHC^SHJ^Of6JJz ,E^tHOJ^:CzWH:^7tCLze,,r^&HeJ:LzzHrS^err&jeL, ^S,OSC4SJr:&6:SHO6ezL6f:r^ :HLJC:S&LSJOSCrLz:,,r^6Hz L{O&zS:6JHfL:e,,JeCrr J{e ,Lz6eScOOC^,:zLr z?6JJ :S&r:6OeCHL6Cz&&^6HzJ:8O& :&6,S^JLer,^^erS 6bzJE:Oe:C:OOe LHz,r^ C,rz^:C&rS6OeCbLez^L:SzH^J:d,& SC6JC&LeS&,&^erF &0^&::L6 L<O,eJ,Czrr& SHHJ^,r&HSOO^SCLLz^rSzO6CJSa&&&:z6HC6LzS%SH^^rL L%S&S:e6JS:6Oe&L,zH,r zH}JO:^&^SLOSeSL^zJr:^r,& 6PH&zSz6OCOOJz:OL^CHS J?JJr:r6 Ce&Hee,zzOrO :b:J:: JS:6OJCrLrzere^zH6 HO^&OS:O:SCL z:,,^ HC 6,S&C:H66:LO4e6,^z,Oz ^ASJ,H66CS,O&SeJJz&,a^uH J^ZL&L:z OC,L:zC,,^&He HB6SG:{6^C^O6eL,z^S,OSCBSJJ:&&LSHO6ezOY+Hrz^LHLJC:S& SJ6,C^LJze,HzLHz HKO&eS:6JHgL:e,,Jzzrr J=eJHr&6zSWOOez,:zLr  SH,JJ:C&rSzOeCHL6zS,,^OH^J:dr^CK^6,CJO<e:,&^erH LrLzS,C^3H6 O=,6&::6rC&OOJ^#O&HS6OzeS6r:S&Le&,Lz.,  ^: 6rC&LeC,Jz^erH O#z&::L6 SS :e ,Szrrz eHHJ6gCeOS6Oze:LOz rS^,,JeP?,&JSe6rC6L:eaOz&qH: Oa JO:,6 CCOLe&LXSJr& zHyJe:^&KSLOCTOLLzJrC^CH&JCAHJJLl6HC6L^er,L^ HS^OOC&S:L6&CCOHe6,zCkOJ zHHJL:z6SS&OJeC&JzJrC^HHJJz>H&OS^ NCLL zS,L^JHC rM&&e:H66CeOreO,^^:r&^63SJ,:J6z:z OHL&&SC6eC^,SC6, ^Sre6HCeLJzC,r^O,&e&LCzCHJ^OHJ Le , ^Sr,^^:CJr:&6eS,O6ezLRe&Lr :HOJ ::&,SJOCSL6Rze,,^6HC !-O&^S:JUC L:e,,^^Cr, &2e z:66zSBO6e^,:zLr  SH,JJ:S&eS&OeCHL e,,8^OH^JCr:z,r6^eHe Le^,^zerH 6-z&SrH^WrJJSHoOOS &>C&HL^e,C^&r  OCrLOz^r:^LH eS rzJ:Y6&C&LeeH,LC,OSSLLLJr:J6 CSO,e6J}Se&, :HOJ6:z&WS,&e7OJ ze,,^,HJJCB4e,rr :H:LSez,O^^H: r,OzL,e^rrL&&FJ&r:L6* CHsJO:^6:SLO r^J,z^rC^rH&JeQH&6,:^I:LL^z:,Lzz&, L2J&C: 6&CeOHe6&ezarO ^HuJL:z6SS zreCLrz&,H^HH&Jz4H&OSS 6COL zS,J^JHS rZzz,:r66Cz6SeO,z^:,6SSK:J,:J&OSrO&eeL&CSre^iHO C::&OS OSC,Le:L,,^&He^Lx6&e:_6OCHL:eL, ^Sr, JpC^r:z6eSHO6ezL0zzr^z:r:J :S&,SJOCCLL&eSL,^6He sn6&^S:6L: OJe,, ^Cr, &HHJHuJ6eS3O&e^LrzLr  SrO J:C&OS&6OCHL6zzLr^^H^ ,_L&eSS6,CJLCr&,&^CrH ^YzJr:O&^rzOOe ,Sz&rJ SHrJz,,&rS6OzC4LOzzr:^LHlJSl,&JSC6rC&LeSH,^^zr- OQ^&::^6 :S6CeJ,Czrr& eH,J6pC&,SOOze:LOz rS^,,J^,4r&JSe6rC6OGetL&z H: 6t JH:,6JCC6LCO,ezLr6^OHUJO:^JH: O CrL,zzrC^rH&Je66&6Se6*C L^eH,Lz 6^ L8J&C:66&CCOHe^&rzHrO ^(:JL:^6SS,J eCLrz&rC^HH6JzV2&OS^O:CLL^zS,,^Jr# C_&&e:H6LT, O:z&eCHOSC^LJzCLs6:SrO&eeO,S<rz^3HOJz::&LS OSTLLJzC,r^JHe HX6&z:76OC^Ose6, ^Sr, zHNJr:&6eC:J^S&L,e:r^ :HLJ&HLzC,H^HS  HT^LzS O,eC,zzCr& SHzJJI6JHeO66CJO3ez,C6SS*OOe^OHZ r^ :H,J :C&rS&6eHCL&ze,g^&H^J:7L& H:6,CJLCe,,&^erH 6(zJ8:O6zSrOLe ,Sz6,O CHrJ&:^J^rL^,o6&e:z6 eC6OeJ,Czz:V6JC&LeeH,L:6O6C6OLz :&&JCSO,eJ,zeJ&HSOOO^S,:z^r6&6H JrPr6LS^HSJCqr&&:Sz6C&Leeq,&^^H: LHz6S:,6 CCOOe&,ezH,J^eHQJ6:^&ESLO eSOOe^rC^LH&J:nH&6Sz6ASLL^eE,L^zHS L_J&C:J6&CeOHe&,zzcrO ^g:JL: 6::HOJeCLrz^,6^HH6Jz:SJCr& OHz&::6&eSr6L OH6&e:H66C 6zf,&CSJ,:C&OOezLHJOH: OEC&^z ,6^mHOJ^:C er, :YCJcI6&zSz60CrN &z:P6OC^OreC, ^Sr, 6r^ee, ^rrL ^! & zJ,H :HLJ :e 6re&OH,JO8H,,LRzLr  SH,JJ,CHJOHee,J^Crr Or,z&rS^zrOJzYr&:z&re SH,JJ:zzCHCO:C&L6zz,3^,,ee LOz,rJ66SrLCer,&^^,CC8OL^er:^krL J*eLHzCrJ CHrJOH6z&,P  HO6S:S&,SOH^ H1J&JSC6rCO J:&&L:LLe O;^&:K6zSC:OLeJL6zrr& eH&S/:z&HSOOSe:LOz r:^,HeeLl,&&Se6OC6Leet, SHrx Li J,:,6 CCOr:J,ezHr6 eHRJO:^JH, O^e:L,zzrC^rH&zre&&6Se6USHL^e7,L^CHS &,:&S:r6&SJOHe&,zer&^ zH1JL:e6SS,OJ:,GJz&rC^HrrJzKH&O:&O:CJJfz:,,^Jr  riJ&e:O CCeOpeOLJ^:rO  rUz^:J6SSr6HeeLHz6,Ce^HOJz::&&S OSC,O^Hr,,^JHe em6&z:q&&r:O}e6, zHr, JTCJr/O6eSrO6eCLxz&r^ : zJ :S&,S OCCrL&zerJ^6He D}O&^S:6L: JHeL, ^Cr, &HLJHH6zrSHO6e^LQzLrz SH,F::C&OS&OeCHL6zz,Gv^H^ ctL&eSS6OCJO,S^,J^CrHeH_zJH:O6^C:OJ}M,:z,rJeJHrJJ:e&H eOzCHLOzzr:^LH ^crC&JSS6rCCLeeH,6^zH& ONz&::L6 CSO,SJ&Ez,rJ eHrJ6l,&jwO^HCyLOz r:^,H^JC3r:SSe6LC6LzeQ,O^^H:: D &::,6zCCOLe&LSU6r& CHy ,:^6:SL6zROL,zzrC^ H&JeuH&6rH6HC&L^eH,L^^HS ,::&C:L6&CeOHe6,zCfOJ zHHJL:z6SSLOJSCe&z&rS^HHJJz%O&OU^&eCLLzzS,O^Jr  r/&J6:H6^CzOHeO,^^:rL^O?SJO:J&HSrOJeeLHeSrz^rHOJ^::&LS &ZSOLJz:,r^CHe HE6&zrH6OC^L:eO, ^Sr, JyCJr:&6CSrO6ezLizJ,  :HLJ :eJSHS^LHL6 :r& S:OOC&O,JO:L6 CzLSe,,Jz:Le &yeJH:&6zSsOOe^&VzLr  SHLJJ:C&rS&OeCHL6ze,J^OH^J:?&&SSS6,CJLzSO6CSSOz  H^JG:O6^CC6:7&JHSeL,CzO e:LOJ r,  HH&SzC,z^LH JSwH^{,  JH^LHS6&L:rO6CSLLJr:z6 CSO,e6O^SeOCCCO^e,:C&kSOO^e:LLz rS^,Hz  Vr&&SeO::rJO_ LCS&OCCOLreOrC^zS{Oze&,ezHrLzJO^e&,EzrrJ &_&L6zSrC^rH&J^L6^er ^&HC6,z:,L^ ,gSJt &C:r6:CeOHe6,zSCrO z.:JL: 6SS,&JSLLrzJre^rH6 HNW&Oa&O:COL e_,,^JHC rHz&e:H66CzO7e&,^z,,&  NSJ,<S6CS,O&Se&Lz&,n^hH J^G=&Ls:rLC,LCzC,e^&HC H; &z:L eCzL:eLL,^SrL JHHz :J6eSH6eezLHzOL^S6HOJS:S&&SJO:CrO :,,H^CHz &lO&^S:6L,SLSeJ,JzLrr  peJ&Oo6zSOOOC^,:zOr  :H,Je,L&,S&OeSHL6ze,T^ OH f}L& PL6,C LCSr6^^Cr6 6c:JP:e6^::J&e^L,z,rC CH6J&>^^^S66gCBOzz^,j^LHSJSE&^:SS6rC&6reH,&^zrDLzk^JL:L6^CSO,eJ,C Hr&^HHHJJ:z&(SO64C&LOz rS^ HJJSpr& Se6OZCLee!,Oz#H: O1 &SrL6JCCOreJ,ezHr6 zH/JO:^6:QHO eSL,zz,r^rH&Je::  rH^r5:LCe&,L^ HS HrCzz,  CH:JS:e,SzJrO ^F:JrH, ^HCJSHrJ6:^r:^JH6JzMf&,f&  E^J^g&&P^zrL rj&&eS:&S:6 &:z&eS r6  nSJ,:J6CSr ODeLLz:rz^BHOJJHezSrz LH6Je:z6z^^r6 H<6&zSS HHb cPL6H:,OCCrL6JOKL6eSHO6e O6:66ze&OHz:LOz,wJ zH,JJze,H^ rT 32O&^SC^/o: f:C,zzrrr &te&:Lr^HHS SeCL zLr  SHHzLLHz r&^LH6&e:,6^^&H^J:mL& SS6,CJLCeO,z^erH 6Y e,r:z6SrOee ,Sz,r6z&OOeH,S^:rG^,C,OLz^r:^LH&^ LHzzr6&CHO ,X &:e,OCC,LzzJ:&6:CSO,eJ,z:&OCC^OJeS:S&^SOO^e:LrCH6zC O:e,,^eir6^JC O&eg,O^^HCziL,e&vz^OHz ,4pJ,Sz6  SHOJO:^6:Sr^rjLJz:J,=^CH&Je4H&Lk& ^HS&r: &z:LOeezLrJm: 6&CeOHeLOOeJ66CJL&eL:e&rS,OJeCL0C:6^S^H  e9;&OS^OC:H ,306 Sz6HCIL_^,,O^^rL&O:zJH:Jr&^HDSJ,:J6z=z z:OJC:56OS,HJ H::&LS Oe:6JeCO&,SO6H Lue&z:+6OCJ&&RH6::O6, zH,Jr:&6eC:&?SrJ^:C6S&zHLJ :SJO,COSCrL&CH,H^6Hzzb,J&zS:6LC LSe:,J^C6, &keJH:&6zSrOOCc  zLr  SH JJ:S&rSJOeCO&Cze,v^OrtJ:_O& :r ^C LCerHr^err 6HCCO:66^C:OCe ,Sz,rSeOH,J&:e&HS6OeC<LOz^,,CzH^JSB,&JSC6,C&OSH6,&^zr*^4q^&::LJ rOOLeJ,Czrr&zrHH J,r&bS&O^CeLLz rS^,&CJCgr&&SS6HCJLzS}Or^zH: Lu &S9,6J:COOe&,ezHr6 zrHJONe&TSLOzeSO:zJrC^rH& J*H&6Sz6rCOLez:,^e4HS ,3J H:r6JCeOre6,:S&r6 ^}: J: 6:S,Oe/LL,z&reHHH6JeygJ&,:6GCLL CP,,^JHC rLL&e:r66CzO}eO,^e:,^  ?:J,: 6C:6O&eeOSz6re^GH&J^::&LS 60C,LJzC,r^&HS HR^J&:B6OC^zCeL,^^SL,ezDSJ&:&&DSHO&ez66r&r^^LHL:&:S&LSJO:CrLz:,,r^6Hz:S<O&zS:JLr*L:eJ,JzHrr^Jne ,rC6zS&OOee,:zLr  S&JJJ}r&rSSOeC,L6eHOJ^6H:J:&r& S:6,CJLCe66S^CrH 6& Jc:66^:: ze^L,z,re Cr,J&ES^JS66rChOSz^r:^LH :,o,&CSC6 C&LSeH,eC,rH ^#^SC:L6^CSO,eJLHS rJ eHH:L:z&HSO&^H6LOzSrS^&HJ S}rJ r,6HCCLze&,O^^H: L6S&S:J6JSLOre ,ez&LS eHOJO6J6:SOO eSL,ze6L^,H&Je6:&6Se6K:O&Cel, ^ rr ,<:&CHr ^CCO6e6LnzNr  ^HCr:: &eS,J eCL,z&,H^HH^ersH&OS^ XCLL^zS,&C:HS r}&S^:H6&CzOmze,^zLrL ^NSJ,:JJCHOOJCHLHzzrzz,HO^^,r&OSSOSCJLJeL,re&L: rRz&z:O6O:rL:e^6H^:rJ JLJJr:J6eSHO6e:&&z6r^ :L:J ::&,SJOLCrLeze,r^6Hz mrO^C:o6 C O,e,Lz^CLre^7CJ6:6&UShOee^6:z^r ^,H,^3:C&eS&6Sr6L&e>,hz^H^J:4L  6,6LCCLCe&,&zJrH 6rrJF:^6^SBOLe^,SeOr  CH&J&H &HS6OzCZL6z^,L^LH^JSjL&J::6^C&OHeH, ^zrp Op^Jz:L6SCSOLeJ,Szr, ^:HHJz:zJ^SOO^e:6LzCrS^ HJ Hhr FSeJHCeLze6,OzEH:  I  _X&6JSLOree,ezHr6zzHJJO*H6:SzO CCL,e^,O^rH:Jek:&6Sz6NS&Orz:,C^ rL ,sJ&CFL&QCeOze6L z2rO ^l:S : &OS,6reCLLz&rez^H& HdG&zS^66CLL &r,,^CHC Lk&&C:H&JSeO{e^,^e6rL  9SJ,OJ6CS&O&eCLHz&rzeRLJJzZL&LSCOSC^LJSC,J^&rH HdS&z:S6OC^sOeL,S^SrL J8CJrm :JSHOzezOzzOr^ :r6 e:S&JSJ66CrL&ze,&eSHe OdOS6S:6OC LSe,,eSLr, &#eSC:66eS_&OHHLhz r ^rH,  :CJLHSOeCJL6zC,-^OH^J:6 & :,6,C:LCeL,&zr&z 6HKJXOH6^SiOLe^,Sz&O: SHrJ&OJ&HS&OzCL&ezzr:^LJOJSEL&J4C^ CJOHeH,^^z,H OHez6:L&3CS6eeJ,Czrr&vHHHJz:z&&SOOee:L^SHr:^JHJ: -r&JSe6HC6L::&,6^^H:<(I &::,JJrLO,ee,ezOr6^eH< &,H6:SzO COL,zJrC^r&eJex6&6:r6iC&L^eOJS^ r, ,6:&C:,6&CCOHe^&rzHrO ^&6JL:^6SS&J:eSLrz& J^HH&JzrZ^JSz6LCLLCzS,^^J,CeOKJJH:H6zCzOLeO6{rrrL S2SS::J6SSr6OeeLOSCre^NHO:6::&OS 6r0^L zC,rSrHe rm6&z^66OC:L:eL, ^Sr,^^,&Jr:e6e:eO6ezL_zz,r^wHLJ HJ&,S OCCLL&eN6J^&Hz IH:&^:>6LSz^,eL,J^CrC &keJHH6zrSHOOe^,:zL,: SrOz::C&LS&6 CHL6zz,c9^H^J:bL&zSS6OCJ6C:_,&^erH 61z <:OJ^SSOLe ,Sz,rJ^SHr  ::&HSJOzCrLOz^r:^LHeJS=,&JS:6rC Lee&L^^zr? O#^&::O6 CSO,ee&Lz,r& eHHJ6:e&l:&^:CYLLz Lu^,HJJCjrzLSe6rC6Lzei,O^^,: &x &::,6 CC66e&,ezer6 eH<J&:^6:SLO SzL,zJrC^rH&JShH&^:S6>COL^ &,L^^HSz,,z&S:&6&SBOHe&,zC6 & ^HLJLCH6SSLOJS Lrzz6,^rH6JzCJ&OSzO::L <z:,J^JrH rHJ&ew, CCzO&eOO6^:rL  nSSJ:J&rSrOSeeL,z6,H:^HOJ::::CS O:C,L zC,6CSHC H=6bL:*66C^O,:z,^^Sr,&wjCJ,:&JerJO&CbL=z r^zTHL z,O&,S:OCSzL&ze,H^6JW #8^&^:66LCzLSe 6+^Sr& &SLJH:&6zS0OOeS&6zOr  SSzJJ:S&r?&^,CrLzzz,L^OrzJ:H6zUSS6^CJOLer,&^erH:z5zJO:O&HC:O6e LLUCrJ^rHrHz:e&rS6OeC;L :H,Y^LH rrn,& SC66NSLCeH,6J,rd 6x^ :r&6^S,O,ee,Cz r&zeLLJ&=n&%S^O^C,LLe&C ^,r6JC z&&SC6HCzLzeL6e^zH: L^r&S:L6JSHJ eJ,ezH:S zHHJO:^66SLOSeSLLzJrC^r,&z:5r&zSz6OCOOCz:OLCeH: J+JJr:r6SCe&H: ,ezOrO :_: e: &L,COJCrLrO&re^rH6Je!_& rH6;CLL OS,,^ HC 6,S&C:H66&:O8e6,^^:Hz  H,J,: 6CSrO&Se&Lz&,<^kH^J^Hr&L;  HCLLCzC,&^&r, H,6JH:=6^C^6&eLL,^S,OSC_SJ&:&JHSHO6ez6Vr^rz^LHLJS:S&:SJOCC^L&eH,H^&Hz HbOJe:J6LCSLSS{,J^Crr &r&JH:z6zSHOOez,:e6L, SHJJJv!&rS&OeCHLJzz,O^OHzJ:GO& 5E&JCJOrerOH^erH 6rzJL:O&iC:OJe O&z,LJ^,HrJC:e&&S66GCvO&e,r:^zH  ,i,&JSCJr:rLeeJ,6zrrc^LB^ HnC6 S6O,C6,Czrr&^SHLJ6NL&BSzO^e:LLez,L^,rrJCHT&&Se6HC6z2e3,e^^r  LBz&S:,JHCSOJe&LrzHrC zHQ, :^&LSLOzeSLLzJ,:^6H& HsHJCSz63COL^H:,L^SHS LZJ&S:rJ&B:Orez,zzLrO^H4:zL::6SSJOJCOLreOre^HeeJz9O&OSzO:CLL CXz:^Jrr rrr&e:H66SCO:eO,:^:rC  3SJ,:Se&SrOeeeEHz6re^UH6J^p,^zS^OSC,XJzC,,^&rheJ9&&z:T,zC^OfeLO :OrL CICJ6:&&CSH6J!rL?zer^zzHLJ :S&,LCOCC&L&e,,H^JHz 6O:&^:L6L :LSeL,J^Srr zL,Jr:66z^6OOez,:zJ6> :H,JJC,&rSJOe:HJCze,O^OHSJ:HO& GQ ^CJOLerOx^erH 6ZzSO:O6:C:Oze Lxz,rSeOH,Je:eL&S6OeCwLOz^,,CzH^JSI,LSSC6,C&6ecJ,&zlr_  >^ %:L&zHOO,e:,Cz r& eHHJ66t&oS^O^C6LLzzrS^ &rJC4&&&zC6HC&LzeH,O^SO6 O_ &SeL6JCSOrez&,zrr6 zS6JO:z6:_LJee:LJzJ,H^rHSJerH^ Se6OCOL:z:,J^ LL46YJJr:r,CCeOre6L z<r CHH%JL: LLS,O eCL6SSrC^HH6r:w8&6S^O:J^L e,,,^JHC r=&JSHz66S.ONSb,^^:rL :H6JL:J6C6rO&eCLHzJrz^LLeJz::&L6 OSCLLJeH6 ^JHe Hg6&z:H6OC^JueL, ^SrL JcCJr:&6eSHO6ezLHzOr^ :H& L:S&,SJOz:^JH:C6zCS6L^z,zeH,H66C LSe,L^C&rr &>eJr:66zSkOO:z,:zLr  :H,JJ:C&rS&OeCHL&CH,j^OH^ rH6& SS6,C6JJ__&SS6O C&L zJ,O^,H  C*,&6:e6eSLHOJS:e&HS6O SJJ :e&Hz:LC HXe&JSC6rCO6&0z&&SeL&ezLJzJ:&6SCSO,eJ,z:zOCSLOHJ fr&}SOO^eCOzU,&&SeOeCj+OJLSe6HC6L CS&J:O6,CLL,^6rC^:rJJe_S,:zer6 zHKJ,rr^ rO ,n6JeC:6,STO5J:3:&6Sz6AC,6rIE&rSHOS^eLre6re :rO OpC,Sz&rO ^%:JrrH^JrL rqOJzz^,m^HH6Jz:S^LrS^ C&O6zS,,^JHz^^LOe,r ^&HO6SsC&zSO6&CrHTJ,:J6CSrO&ee,H:OrS^6HOJ^::&rrS 6X J :S,O^eHe HZ6& Hr zHJ re&,C^Sr, JMz^LrCzHSL6OezLlzOrJz&OHe,,6z,i6^O: &C:^6^SLOSee_JJ6S:6LC LeC^&eS,6zJerLz&,SzLrHJ:eCLJzLr  SHH^:,,z+rV^L:LJz:,,,^^H^J:TL&&,^  H6 6eOL,^erH 6v ^&rz^JHJ&eH,Js:O6eStH J^uO&HS6OzeSOS_H6 Se6HCrL^^S:M6^C&LeeH,LCrO^C&LSeJrSzHrCO,eJ,CeL&e CHHJ6::&FSOO^S:&&z^rS^,HJJCHO&&Se^rC6Lzev,6^^rH LY:CJ:,6JCCOJe&,CzHr& zHLze:z6:SLO:eSLLzJ,HC HJJeaHeLSz6HCOOeHL,O^ HS^JaJ&C:r6CkLOre6,zz^rO zU:JL: &rH^O eCLreHre^rH6J:,&&6S^O:SrL z:,,z^&r ,u&&e:z66CzOdez L^:rL  HeJ,: 6CS,O&Ck&Jz&rz^Ur,J^/Q&LSC OCLLJzCLS^&HC HHJC1:H6OC^OreL, ^Sr :rWCJr:&&SSHO&ezLHzOrSC6HOJ :SJOSJOSCrLz:,,r^6Hz^eFO&zS:&6rSL:e,,JzCrr &beJH,&6zSUOOez,:z6r ^L,zJ :C&rw,OeCrL6zz,f^ OH ZyL& g^6,C LCCLJe^CrH 6HJJ5:O6^SOz{e ,:z,rJ CH,J&:S&HS6&<C*LOz^r:^LH JS},JCSC6rC&LCeH,6^zr8ezNz&::L6zCSOLeJLHS rJ eHHJ6:z&HSO6erLLOz rSzJHJJC*r&CL66HC6LzS,,O^zH: OQ Jrr^6 CCOrS^,ezrr6^C6OJ6:^6:SSO eSL,zSJ&^rH&JerL&6Se6/C6L^e,6z^^HS ,rz&C:,6&S_JJe&,zzGrO ^HcJLGze,SLOJeCLOz&re^HHez,7H&OS^O:CLL^zS,,^JrHe .J&e:H66CzOHeO,^^6rL  kSJO:J6CSr&&::Lrz6rz^qHO^Q:: LHeO:C,LJzC,r^ HezHLC&e:c6OC^L:e^, e;O^ JZ:Jr3 6eSHO6CC&&zOrC :HCJ :S&,:^zrC,Lzze,J^6Hz dXOC:S:6LC Ore,,^^CLJOC3eJH:6 eS+O6e^LzzLrCCOHLJJ:C^,S&OCCHL6&,,#^OH^J:FL& SS6,JSLCer,&^CrH 62z rL^6zSnOLCS,Sz,rJ^,6eJ&:C&HHeOzCHLOzzr:^JO5J:m,&Jr,6rCJLeeO6C^er8 OL^&::O6 :Q^Je ,SzrrJ eHHJ6:zreSOOee:L&z rS^,,J^ nr& Se6,C6O^evOOe6H: 6a JD:,&,CC&re ,ez,r6 CH7  :^J:S^O CFL,z^rC^&H&^eHS&6SC6xC&L^eC,Le H: ,5^&C:L6&SLOHe6LCz0r6 ^HHJL:^6SS&6 eCLrz&re^HH&JzHre^Sz6BCLO,zS,,^Jr,Sev&&C:H^^CzOHeO,z^:rJC50:J,:JzHSrOJeeLOSCre^dHOJ^::&OS &IrJL zS,r^JHe H*6&z^e6OCeL:e&, ^Sr,zJySJr: 6eS,O6C^LuCO,6 :H6J !f&,: OC:rO&ze,,^6HC bH &^-:&rC OFe,,^^Cr& &reJS:66CSoO&e^LCzLL ^,H,J^:C&LS&6LCHL6CL,_^6H^ HfL&^SS6&:HLCer,&^erH &!zJkr66^C:OLe^,Sz,rJ SHrJ&:eJ6S6OzCnLJz:r:^LH JeL:^Srz^zC LeeH,6^zrx OOJz::&&HCSO,eJ,zCz6zeOOCeX,Oz,S&:L6JCCOre&,eCHeetOJJSe6HC6L SJ&,Se6 CO,:e&,H^erh& :C&OS:&wS,H,Je:^6:SLO&Sz&CSS6SSzOLJ:HA&6Sz6PC,66: &CerOJCzL}z&,O^EHr Lx:J,z,r  ^!:JL:&zHHC^LCFOLz&re^HHLC,,^zSr& CPCJr:J&6SC6LC6Lez6,J^:r O,C2,^^:rL &,HzCLOz6Dj :<C&&: 6L^,HzJ^::&LS&^,! J6GL&^^^rH H36&zSS^&Hq JlH,ezOr, J*CJXH^z+:  &2 JOzJr: :HLJ :ezU,r  !eL&ze,LzOHz q!O&J?^^rHeJ&CS&6:L6^S=rLzS,L^eH O&e^,:zLr  SH,JJ:C&OSSOeCHL6z LJe86HeOL6z,:H6eCJLCer,Oe 6zCJLHe,, ^JHJO&C^,Sz,rJ zr:CH,S^&r  :DS&SSH&,SJ6rz,, z:,66OSrLeeH,6^ ,JezLC &,J^^H: HFH&&:6r& eHH JO1&HSOO^C LLz rS^,O JClr&&SC6HCJLze6OC^zH: LHz&S:L6JCCOrez&,zrr6 zrrJO:z6::6^Se:L,zJ,!^rH&JeH,ezSe6HCOOLz:,L^ HSCL_J&S:r6JCeO,e6OzCrr6 zX:JO: J.S,6^e:Lrz rez,H6Jz.X O:CO:C6L e/,,z0HC^LV &e:L66SeO(eO,^eHr6  HrJ,:^6CSrO&CSO^z6,=^;r6J^::&LS &^C,L^zC,&^&HS H>6 L:H66C^O*eL,z^Sr,eSYSJr:&6SSHO&ezLt6zr^ :HLJ^:S&,SJ6::eL&ze,Hz,Hz ohOJeLL6OC LSeS,J^Crr &L JH:&6zS9OOe^,:CL,6 SHLJJ:S&rSSOeCHOJzz,H^OHeJ:+L& SS6JCJLCer,&^er, 6W:JS:O6^C: Oe ,:z,LJSLH,Je:e&OS66zCRO&:Hr:^zH ^H8,&JSC6r,eLee6,6zrr7 &%^JOLS6 S,O,S6,Cz,r& CHHJ^,r&HSOO^SCLLz^rS^&L:JS?r&&rC6HC&LzSN&e^zrL LGC&S{,6JS:J e&L,zH,^ zHTJO:^CLSLOSeSL^zJr:^rHCS6#H&zSzJLCOLzz:,O^ rre^b &C:rJzCeOre6,:S&r6 ^G:eO: 6:S,&J1uL,zere^OH6 S{# OHC64C L e,,,^SHC^tLP&e4r66HeOZe6,^zLrL CLOJL:J6Cr,O&eCLHeJJ7^HH^J^iB&LS OSSO&:zC,J^&r! Hu6&z:* zCzOLeL,z^SrL JrCzO:J&HSHO^ezO,zOO^S HLJS:S& SJ6SCr6&er,H^zHz LpOJSS: L:6LSeJ,Jerrr^6Xe ,-J6zSOOOC,,:zLr  SrJJJs,&rSJOeCHL6eC, ^OrHJ:E & SS6,S^6&er,:^erC 6pzJ?HO CSjOee L6z,,6 CHrCS:e&6S66,C_L6z^,OeeH^ rK,z SC6,C&LeeH,^SrrH Oy^ei:L6^CS&,<:,Sz&r&^iHH 6:zJrHeO^C6LLeerS^,HJJC6&&&:H6HCCLzer,Oz5L& OyS&S,L6JCSOre&,ezOOC eH*JO,z6:SOO SS&6z ,r^rHzJeHL&6nz ,C6L:z:, ^ rL ,rSL,:r6eCe re6,ezc,6 ^H,zz:^6SS,  eCL,z&,{CJH&JzVG CS^6pCLL:e6,L^JHC^^w&&C:H6JCzOL:e,z^:rLzHqSJL:J6CH,O&eeLHz&rz^UHOJ^::&LS OSC,O,zC,r^&HS HN6&z:/6OC^6,bL,ezLr, J}CJxHO^SH& r1OL,e6r^ :HLJ&rP^ rJ &:OJz/O6:SHO eJ,ze,rC^JHeOHeJ,J^Crr O,Oz:,J^OS,OCe^,:zLr&z6O&eC,z^erxOrCLO,zz,p^OHJC&,Serr6^LH6 r: &zSr6Je:DSJC:O6^C:OrSz&J:O6eSLOKeHLL66{,^Oa&LJerr:^LH JeHzze,k^zHHJ:{^, zyrd O*^&CH& :r>JCezO6zrr& eF:eC,rzCHz^rH&&S_r6eCer& HP6&C:&6&SHOHee,^zrr ^}H,JHH66JCCOreO& :^6:SfOJ L:S&,,j^OH^L6c6&HSe6kC6,JzuSS JH Jee,L ezOJCOLeJrFm6eSrO&Cr,zzMrO^e6LJO: 6SS OJeCLre 6,^HH&Jziz&OS^O:CL&:z:,,^JH: r>J&e:HOCCzOTeO,^^:rL  rSSL: 6CSrO&eeLLz6rzzrHOJe::&LS 6rC,&JC6,r^ He ^>6Jr:= OSJL:e6, z6r, C=CzriC6eS,O6eCLwz:r^e:HOJ Dq&,SeOCC,L&zeLz^6Hz (=&&^:U6LC &:e,,J^Cr, &heJH:66zSROOe^LrzLr  SH6 O:C&rS&O^e6L1Z!OH:nHCJL:SzrSSOCHCO*er,&^erH  HlJu:O6^CC #HHJJS^r: CHrJ&HezJS&OeC=LOz^,r^LrzeOp,&zSC6,C&LeeHLJSrrR  K^JH:L6 CSO,rC,Cz,r&^7HHJJ:z&F6eO^e:LLz^rS^,HJJCSH&&Se6HCJLzeg,O^^OD L_ &S:L6JCCOre&,ezHr6 eHJJO:^6:S&6,eSL,zJrzz^OLerLJ^er,^ !: Her,^^ HS ,}6errJ^Or,  e LrzxrO ^.CeeLrzOrH z= LOzCre^HH6J Hzze,L CHCLee,,,^JHC gLrz^,L :CSOeeO,^^:rrzOLJeeH4^^rd JqOJJ:_6S^,H^J^::&LS&JHg J^:&,OzWHe H16& M& zHrJ:a 6:S66,z:1CJr:&&S,6O&ezL!z&r^ :HLJ ,,&,S OCCrL&ze,He6,, xG6&^:v6LSHLSS,L:^Cr, &uCJH:e6zSI6He^LWzLrz SH,JJ:CJ^S&OeCHL6zz,r^OHS ^1L& SS&LCJLSerL 1Hrr zZzJ,:O6^C:&LeH,SzJrJ^rHrJe:e H:zOzC6LOzSr:^zH ^BHz&J:L6rCzLeeH,6^z,, Os:&::z6 SkO,eSL9zrre erTJ6:e&fS6O^C,&zz^rS^,r&JCR,&&:7 JC&Lze4L6^^rA L} ,L:,6CCCO,e&,ezHr6&^HYJ^:^&HSLO eSL eyrS^rH& ,sH&&Sz6rCOLS:6,O^ HS ^NJ&S:r& ,HOre6,zzrrO ^8:JLrS6SSLOJeCLrz&reeHHCJz?H&OSzO:COL CS,C^JHS rRJ&e:&66Cz6LeO,z^:r6  -SJ,:JJrSrO&eeLHz6rC^mH ^r::&LS JrC,L zCLL:eHC 6/6&S:R6OC^6:ze, z,r, CqCJ&:&Je:&O6CHLIz r^^6HL zf,&,S:OCC6L&ze,H^6HC lB^&^:66LCzLSe ,S^Cr& &rSJH:&6zSHOOeS&6zOr  S,OJJ:S&rSz ,CrL6zzOL^OHzJ:oLr:SS6JCJLSer,&^erH&OUzJO:O6eC:OLe LLzzr  CHr^H:e&rS6OCCoL :H,b^LH ^Ja,& SC6r<JLeeH,6^ery OG^&::L6 CSO,ee,Czrr& :HJJ6:z&BS,&rH,J6:zL C&Hz ^4r&&SeO::LJS1z& S^O zeL,eO,S^rrLOOCL,ezHr6  ,Oe6,ozCHS^.SzJC:z&6CeOSJ:. &6Sz6#C,&H: &6SC6&eCOXJL:r6&CeOHez,ezNrO ^8:JL: JS:OOJeCLrz&re^OH6^zHe&OS^O:CLL z:,,eJrL rp&&e:H66CCOiC&OL^:r6  HHJ,:J6CSr6JeeLHz6rC^lH6J^::J S OSC,L zC,r^&He HX6&z:76&C^L:eL,ezHr, J%CJ.rzJJSL6wezLIzOrJeJOSC(LH ^HS OieL:z:,H^6Hz^rO^&z:i6LC^LSe,,JzC6S JVCJH:J6zS+OOe^&jzLr  SHLJJ:C&rS&OeCHL6ze,^^OH^J:F&JJSS6,CJLzCC&OS:O^zHL e&,Cz,:& Hj&&:Serz^ HrJ&:e6:Yr OH OC:&6CSOOrCO,CzzS:6rC&LeeH,6^z& CO=CJ,:L6 CSOHoz&&:Sr  eHHJ6:z&USOO^e:L&e^rS^,HJJzH:eHrS &H J::S6SCH6,CJOr^,r ^:r6OOCH,ezHr6  ,Jz:,PJ6HSJ:H6Je;_,1^JH&Je2H&L,_ 6H, Hj&,&zHHS ,*J&zHz^zWO C*(&O:,rJ^Hb:JL: 6e:z&,HL&J: 66zzH6JzQ5J&,:63CLL e6,,^JHC r,e&e:r66CzOmeO,^e:,e  Y:J,: 6CS O&SeLSz6re^mH6J^vH&LS &HC,L zC,L^&He Hn6J^:i6OC^L:eL,z^Sr&^^cCJr:&J,SHO&ez6d:erz^LHLJC:S&LSJ6:c L&e,,H^eHz RxO&^OL6LCSLSe^,J^:rr C,LJr:z6z:&OOez,:zLr ^rL^J :C&r:SOeCrL6eCJO^6H:J:oC& SS6,:JOHer,C^erO 6HHJ#HO&eC:O^e LLz,,r CrL ^:e&JS66OCaLOz^L:^ H  OV,&:SC66C&OSeS,6z,rc ^/^&::L&z:6O,CH,CzOr& eHH JEe&IS:O^CLLLz rS^,&CJCZ &&:66HCJLzeiLS^zrO LE:&S:^6JCCJJeJLHzHrJ zHHJOZ4&&SOO eSL^zJrS^rH Je4O^CSe6VCOOHz:,O^ HSeLlJ&C:r6JCeOHe6,zz7rO ^>:J6: 6SS,OzC6Lrz&re :reC^L^J:re 6xS +eHLp^JHC rBO Or:^SHHJ&p6&LCJ&tC,LJe6:C6CSrO&CS,Hz6rz^_H6J^::&L:z&rC,L zC,L^&He HHJ L:76&C^OneL, ^Sr, C!CJ,:&6SSHO&ezLde,r^ :HLJ^:S&,SJOCCrL&ze,r^eHz uAO&C:S6LC LSeHO S,6^SsrLer,^z,H^ CH,6rC LH^HHzJJ:C&rSO&::6OSCe6SSC6, rRz& SS6,C66OCC&SSr6,CATSJJ:O6^C:OrSe6,ezLzC,OLeH::&6S6OzCsL,C,6OSCL: HY &JSC6rCO H:&&L:r6J^&!^&::L&zeEO,eJ,CzJr& eHHJ60z&{S6O^e:LLz rSe,rCJC},&&SC6HCzLzSbLC^^r( L<^&S:O6JCCOze&,ezHrJ zHrJO:S&6SLO eSOrzJrS^r,&z:-r&zSz6LCOLSz:,L^xHS  sJ&C:r6&Ce&H: ,ez6rO^_<:J : JSH6O C,LrzCre^rH6 H^:&OS:O:SHL z:,,^SHC 6,S&C:H66SJOhe6,^z,Oz ^cSJ,1&6CS,O&Se&Lz&,N^wHJJ^Rr&LS ,CC,LCzC,L^&He HBeJ,:H6OC^OOeL,^^SrO JHHz :J6eSHOeezLHzOr^CuHLJ :S&LSJOCCrL&ze,H^6Hz r>O&^S:6&S6LSe,,J^z,zCOOLz&rC^eH^&SH6& SS6e^HrrJJ:C&rSO&rg JL:O&,SS,SCr,S :,J Crc 6e&,&^erH^J:zJN:O6^SHOLe ,SeOLL CH,J&:C&HS6OzSrOSz^,H^LHzJSo,&JSC&6C&LCeH,J^zrH OW^Je:L6 CSOLeJ,Czrr& eHHJ6:e OSOO^e:L&CrrS^,HJJzr^zerr^,ez&,U 6z:,6 CeHJ&,qe^rrJ wbJ,Hee6CSOLSeS:C&&SLO eSLHCz6,SLOH^JLzz SS6OCOL^z:,r:rOLCzLJJY:J6&CeOHeLJ,:e6 SHLJJ&::6SS,OJezJL:H66SrOsJSHH&OS^O:Cr&HN,6 S^Hrz^Ogzr,^zQr,O:z^O6: 6& eH^J,:J6CSa&JH_& Se6eeOO6edLC^S,h6HCzLJzC,r^OLHCr,ee r^^errOrez, ^Sr, 6OOez,S^^rL reSOvzOr^ :HreH,z^Cri CH^J&:^&rS&L,CeL eHrJ6&CzLSe,,J^z,C ^H:JH:66zCS&C-:&O:6HSe6OezSL6zer:6ze66J:O&HC:OL rHH& SS6,C6JO::&HSL6HCSLzzS,6^z:J6:eeL z,rJ CHB^7,6zerL eSzJe2L6CSCHe^Hx,&JSC6*:: H:&&J^kLJCSLdeJ,SzHSCLJ:+J :66SCOHL L:z&RSOOJ0&JH:,66S,6AeCLszJrC&Cr(JSe,,C^^H: Ly&^6,J SH:6zSrJLzL,H zHGJO:JJzHS^r:6&C::&JSiL:e6XLJHSz6>COLJS&& C:6jzOLrzSre^HrLOLCL,zz/rO J,&zS,e^&N, rHzOe<r66SLO:C,%,&:S^O:CLL&SH6 S^O&zLLHzCrz^vCS&LeO,^^:rrCHLze&,H^zHe ^HLJ6Se6CCCO,CH,Cz6r&^zHHJrp.6^SLO6C^,SeOrJ^rrL r#A&zSL&H zHHJr:&6eC: rHOJ,zJr: :HLJ :e^:HS :=eL^eH,H^6HzJSHSz/,J ^CeOSe,,J^Croe:L zzrS^zrJ OgJJ.:OLzCJOLer,&&OSeOeCHL6z &eCzOJCJ4&JLSS6,CJLzS^&eSr6,zSO&eL,e^,r&O&ee,Sz,rJ zLzer::JHS6OzCGL,CL&OSSO&C,r:zrr,^&HzJ:SL6eSCO^ JH,&::L6 Ce&zgC&,:LL,S6OLeS:S&^SOO^e:LrCe6LSOOrzOLSzz,, ^C OHeV,O^^HCz:,:z:,C^rS(O e&,ezHrLePOLeeL,^OrOOeCLL,zJrC^hOeC,,:z ,L6,SLL^z:,L^&,JC Orzz,&&CHC r:r&OS66^CSOrJ&:S6SS,OJez&C:O6:C^^HJz%a&O:ezLCOL zS,6^JHC rr&^::r66CzO}eOOO^:rLC^TSJ,:J6SSrO eeL&HBrz^xHO Q::&OS O:C,Le:L,,^&He &j6&e:_6 HHOZeL, ,Jr,  AC LLe6CSHO6SHLszOr^^O,eJ^:S&,SJOCC,L&ze,H^^Or H9O&^S:6LC^LSCOJC^Srr &H6JH:66zSc 6e^,:zLr^ SHOJJw::SS&OeCHL^zz,M^Ore^ejL& SS&CCJLCer,&SCrH 6FzJH:O6eC:66OO,Sz,rJ^rHrJ&:eJ,::OzCqLOe&r:^LH JSLL&JSC6rCJLee,,6zC^e O}^&:HH6 CSO,C^Lzzrr& erHJ6:z&dSO ze:LLz r:^,H^JCHLX,Se6HC66re>,O^^,H ^V &S:,JOCCOre&LrC r& zH+eJ:^&dSLO eSL&S:rS^rH&e:aH&&Sz&rr^Lzz:,Lz^HS ,?JJ,Le6&CeOHSr,zzHrO zP:JJ,g6:S,OJS LrzJre^OLCJeR=&OrCO:COL CaJJ^ HC rH;&e:H66:zJ,e6,^^:rL  ,,J,0^erS,OJeeO z6rz^a,O,6::&OS O:C,O^zCLLe4He Lj6J,:B6OC^L:SH, ^:r, z_CJL:&JeS6O6eeLRz6r^^6HL^ H,&,S OCC,L&CO,He6,H A*6&^:y6LS&LSS,LC^Cr, &tCJHH&6z:rJee^LHzLLz SH,JJ:CC&S&OeCHLJzz,r^Or_S yL& SS^6CJLSer,J^erOeCKeJ}:O^CC:OOe O_2Jr  CHr^L:e&HS6JHLrLOz^r:CrH J:4,J,SC66VSLCeH,6C rZ 6<^J,rz6^CSO,qz,Cz,r&^S66J&:z&voJO^e:LLez6O^,H JCM,&&Se6HC6::ea,O^^rH L0^&SBOJBCCOre&O^zHr6 zrrC^:z&mSL&HeSL,zJLCLSH&JCwH&&Sz&rCOOeC,,L^eHS z%J&C:r6&SzOHe&,zz,rO e;:^L:C6SSLOJeSLrzSreeHHzJz9H&OSzO:SCL CSL ^JHS rxJ&e::66:zO,eO,z^:rO  r:J,:JrHSrO&eeL,z6re^+r& C::&LS 6zC,LJzC,rSJHe HX6&e:;6&C^OOSe,^^Sr, J{CJ,:&6eSHO^jrLHzOr^ :HLJ^:SJO,COSC,L&Cc,H^6Hz XJe&^:H6LC LSe,,J^COJ J!CJH:J6zSHOOeS&6zOr  SH,JJ:S&r: zHCrL6zzL^^OH^J:?Lz^SS6,CJLSer, ^er&zSTeJ{:Oe,C:OOe ,Sz,reCLH,J&:ee^S6OeCwO&!:,_^LH ^HB,&JSC6J::LCeH,6jLrm 6w^&::L6CHOOLeJ,CVzr& CHH JO2&HSOO^:rLLz rSzO^6JC-,&&:J6HC6Lze>LS^^H: L(z&S:L6JS:6Le&,ezHLL zHUJOseJ=SLO^eSOJzJrC^rH& ^%H&&Sz6HCOL^z:,Lz,HS ,>J&C:r6JCe6,Cm,zz1rOzLa:JL: 6SrLOJeCLrzJre^,H6 HrJ&6S^O:CLL z:,,^JHC 6,S&C:H66CzO-e6,^eH&  ^4:J,ie6CSrO&eeeJz6rC^8HOJ^::&LS  LCLL zC,L^&HC Hu^zr:H6OC^L:eL,^^S,OSC2SJr:&&6SHO6ezLw:6r^ :HLJ^:S&OSJ6,:^LJze,HH6Hz HbO&^S:6JHjL:e,,JHCrr Jje ,Lz6eSsOOS6,:zLr ^L6CJJ:C&rLJOeCrL6ze,D^ OH V%L& L:6,C LCe66S^CrH 6&zJi:66^:H^ e^,Sz,Lz CHrJ&pS::S6OeC(OLz^r:^LH  L;,&JSC6LC&LCeHLJe&rt OB^ C:L6 CS6OCr,Cz,r&zeHHJ6:z&A:6O^ChLLz^rS^,HJJCHJ&&Se6HC6LzeH,OzerH L7 &S:C6JCCOre&&CzHr6 zHHJO:e6:S^JHe:L,zJrC^rHJJeEH&6S: &C6L^z:,L^ H: ,H^Cr:,6JCe6Oe6,zz=rOrH(:J6: 6SS,OJeCLrSCrC^rH6JCmP&6S^6,bzL^zS,,^JHC ,K&JSL66&CzOMCO,^^:rL  L:J,:J6CS,O&eSLHzeJO^fHOJ^&L&LS^OSCLLJeH6 ^JHe H&z&z:H6OCSJ6eO, ^S^^ J_SJrw eHSrO6ezO:zOr^ :H^zH::&,SJSLCrLJze,H^6H:e&26&^S:SzC L:e,L^7rr, &Ie^L:66zS_6&RH,:zOr ^LH,JJ:C&r zOeCHL6zC,l^6H^^HHg& SS6,SJLCer,&^e6r 6MzJb:66^SHOLCz ,zLr  C,_J&:e&H:JzYCHL&z^,H^LH JSg,JeSS6LC&LCeH,6^zrqM q^JF:L6 CSOLeJL,C^rJ eHHJ6:z&HSOO^e:LJ:<r:^,HJJC>r&JSe&,rzLeeH,OzSH: Lj &S&^6JC:Ore&,ezHr6 zL6J6:z6:S6O e:L,ze6L^,H&JefH&6Se6NS& :eK,L^ Lr ,<J&C:re&CeOHe6,ezNr6 ^H,zz:^6SS,OJeCL,z&reCrH6Jzka&6S^O:CLL zS,,^JHCzLP&&e:H6 C:OIeO,^^C6&C,O^JO:J6CSrO&eeLHz6rz^,HCJ^::&LS&J&H&&H; 6eSHO: Lr^&z:X6OCJJ&UH&CS&6HCrO1e^,e^rr, ,* J&:,6eCC6He&,Jz6rU ^!e 8:L&zCSOJC^LJz6,H ^r&OHCL,J^Crr Or ez,J^Hr,  XJ&JCz6CSrOe^C,,z ,7OSCHL6zz,W^OC^rHLL&e: 6,CJLCe{L:e&6JeeLCz^HrzLrr CeeLOz,rJ CHc^e,rzJr} SH LJe r:^LH JeHSz6,- z:rJ^dJ&S:L,JCrLJe<rC6eSJO,eJ,CzU,:C L&eC,H^JrS LH6L&zSrS^,HJJz,S^CrS zC OVeN,O^^HCCC,:e6,,6zS,Ore&,e^:OHCHOHe:,L&rSCO eSL,z6L^SeO erLLz^r   CJO6z:,L^ HezLLezOrJ^JnH r:eJ S^6e CHJJL: 6SSH&CHHJ^:O&OC:O^eS%,&eS^O:CLL&C6LSS:O,CLLH&S:H66CzOFeO:^,H6L eH^J,:J6CS!&,26J^e:6 SJOSebLr^er,6HC&LJzC,r^OLLe:L:&S:L6OC^L:er6:Se6O zHOJr:&6eC:&zne&6m,6LS6OeJe9J&,SJOCC=6::66&zCOOe6LCe,,&66C LSe,,J^CSrW LeJL:C6zSwOOeJOeSSO:C:OeeO::&rS&OeCHL6:zS:SOHC 6ZL& SS6H:z HC^&JS^66  H&JM:O6^CC&MM,J&ez6OCzO,eiL,^zr OSCOLOz^r:^r6OeLLHeH:R6eC&LeeH,LSJO^ezLzeJ,H^^rr :ezLzzrr& eb: S,J^^HC ^:&&SS:LOCCLSCOLz&^:r6HC6LzzS&^SKOCCzOH&S:,6zSLOre&,e^:OLeLOez:,Lzr&LO eSL,e^Jr^,H&Je<C&6Sz62:O&Ce#,L^ HS ,rO&C:r^JCeOHe6,ez-r& ^HO^e:^6SS,S&eCL,z&re^HH^erWH&OS^SSCLL^zSLO:CHS ra& ,:H66CzO6H:,^^:rL^r{SJL:J6SSrOz%,Lrz6rz^ HOJz::&JrBO:C,LJzC,r^JHe^,Oz&e:D6O: L:eL, ^S6L J_CJr:J6eS,O6CH6Jz6r^ :HLJ ::&,SJOCC6&SzC,H^6Hz NX6&^_Hz C^LSe,OJ^Crr &qez6:66eSuOOe^,:zLL ^:H,J :C&,S&&,CH66eJ,4^6H^ !.L OSS6,:,LCe,,&^SrH 6QzJ9fC6^C:OLe ,SzOrJ^HrrJ&:e&H&rOzCHLOC^&6^OHSJS.&&J:66rS J,eH,C^zrO O(^&::LeSCSOJeJLLzrr  eH&SG:z&OSO&Le:LOz r:^,HeeLd,&&Se&zC6Leel, SHrZ Ly q^:,6 CC6LHe,Cz6r6^SHqJO:^J:H&O^CLL,zerC^&H&^e,L&&:H6mCzL^e:,L^ re ,9C&C:L6&CSOHSeCHz7r^ ^ zJL:^6SS OJCH& zJre^H^rJz?H&OS^O6CLLSzS,L^JHC rr&^::r6zCzOOeOLL^:LLeev:JJ:J&rSr6Oee6HS re^OHOJ:::JJS 6LrCLJer,reSHe r_6&e:_6 HHOgeL, COr,  XCJ6rS6CSHO6:6LRz6r^ :FzJ M,&,S OCCrL&Ce6L^&rE 7?^&^: 6L: JHeL,C^Cr& &H^JHr6&HSQO^e^O,zLL^ SrOCC:S&&S&6JCHL6zzO%CJHz LGL&SSSJUCJLCrr,&zHrH &ZzJH:O&e,LOOeS,SzSrJ CHr^&r:&rSzOzCOLOCbr:eLLeJ:YJ&J:r6rS6LeSH6 ^erO O>:&::S6 :SJ6e Lrzrre eH:J6Hz^,S6O:e:L z L&^,r6,JWr HSe JC6LeeD,^^^r,ez3^&S:, :CCO,e&L8SJr& zHke^:^&qSL6zr,LLzCrC^OH&Je8H 6S:6lCzL^e,,L^SHSz,H^&C:J6&SrOHC&,zer,6 ^H6JLD^6SS,OJSCLzz&,,^HHCJzPH&O:e&6CLOHzS,O^JHC rH Jr:H6:Cz6JeO,^^:,6^ RSJC:J6:SrO&eeLHHzrz^&HO L::&6S OSSeL e,,r^CHe Jg6&zr666C:L:e6, ^:r, Je,Jr:e6eSrO6ezLKe&OL :H J H &,SJOCC6&SzC,H^6JJ P86&^MHz C^O,e,L,^Crr &rezL:&&fSfO^e^OOzLL CHHLJC:C&&S&6zCH66SS,H^^H^ LWLJ,SSJ,gzLSe&,&zHrH^L>z^ErJ6zSLOLeS,SeerJ^:6&JJKr&HELOzCMLOe=z^^LHSJSOr&JSS6rCCLeeO6C^er_ OO &::O6 SrJ^e ,Czr L eHrJ6mCeOS6O:e:66z rS^,HSzO4,&eSeeHC6LeeF,O^^r,ezW^&S:,eJCCO,e&LSB6r&^{HyJJ:^6:SL& CrL,zSrC^6H& HFH 6:O6qCzL^eO,Lz^HS^OHr&C: 6&SCOHe6,zCs,z ^H6JL?E6SSLOJC:Lez&,L^HHJJztI&O:e&OCLOrzSLO^JHC rH Je:H&lCzOreO,^^:rL:S;SJ^:J&&SrO eeLHe:re^6HO t::&zS OS. L er,r^ He r+6&z^66OC:L:eO, ^Sr,^^,&Jr:e6e:eO6ezLyz 6H^*HLJ 6z&,S OCSL ezC,6^6HS B_O&^p:6JC OLe,,e^Cr& &reJr:6&HSsOze^O>zL,z^zH,J::CJ,S&OeCH66zS,o^eH^ 6;L&^SS&OS,LCe^,&^SrH 6.z r2U6^SJOLSH,Sz,rJ^:r J&a6&HSJOzCvLOz^ L^LrjJSAC&JS:6rC&6Oer,e^zr6 OHH&::L :C:OJeJ,:zrrJ eHH,e:z&OSOOze:LLz LueCHJ r0r rSe6HC6Lz&6,O^:H: O7 &S:,&^%&Oree,ee6r6 zHx^OrC&bS O CrL,zCrCerL^JC<6&6:<6xS6L^CHOS^ r, ,U:&C:r6&Ce(&e6LgzMr6 ^B:JLRz JS,OCeCL6z&re^HHeSObR& S^C6CLL^zS,L^JrHe >J&e:HCCCzOHeO,SS6rO  XS. :J6SSr&&::Lrzzrz^LHO r::&^L,OSCJLJ,J,r^JHe r_6&:r&66C^L:,:, ^:r, eLLJ,:&6e6&O6eeLuCOOC^cH J qr&,_HOC:r&^zC,6^6rV yHr&^HOC&C O,e,zS^Cr, &DSJH:^^rSHOOe^eOzLr^ SrOCC:S&&S&&zCHL6zz,7S6H^ L%L&^SS6OCJO,S^,JzHrHHevzJH:O6^C:OJ5*,:z,rJr,HrJJ:eJ,,zOeCOLOCHr:^LH  LOC&J:r6r}rLeer,6^er4  LHJ.:L6 4 O,e ,CzrCC eH6J6:z&ySOO^SH6Sz ,,^,HeJCvr&&SeH&C6O_e{,O^^H: LHz^J:,6CCC6Ce&,ezHr6OHHMJ^:^6:SLO eSOOSrrC^&H&^HEH&6Sz66CCLzz:,LzCHS LXJ&::r6zH,Ore6,zeLrO zR:JJ,D6:S,OJeCLrzJre^HL&JzEh&OSzO:CLL zS,,^JHC rW &e:H66CSO,eO,^^:rreCr^J6FO6CSrO&e^6 :26eC^LCC,HCzer^ LH6JHev,r^&He^,Oz&e:H6OCzL:eL, zS6:  MSJr: 6eSHO6ez&HzOr^ :HOJ :S&,SJOCCrL&zC,e^6Hz h}J&:S:6LC Le::6SS:Oe ^HLJH:66zCS6:;C& :66&CJOzJzF,&rS&Oee:Jz:H6SSe6r r<C& SS6,C66^3e& Sr6LC^L z :J&6C:OLe ,ee:6rS6r^eL,^zrH:^rV^JJzC,&^LH JSlH CrS JrOJ6dJ&S^Sr^ O-^&::rJHHzJ I:&,S^&wC6OJJ ?&&bSOO^eC6O:C66C O zrL,^C,^ zHCLSe^,O^^H: rOOer,^^JrO &:C&LSzr ^6H/JO:^6C:e 6ALJ^SS6OSzOHC,L & TH6aCOL^zCL:S&6Heer,zz, ^:rO6 d,& :HOSzSL^ e,^^Lrz^Y:OLrz&re^HreJe{H&OS^O:CLL eLJ:^JH: r3&&e:r66CCO1eO C^:rL  BSJ,:J6CSrz^eeLHz6re^BHOJ^HHe S^6HC,LzzC,r^&rS^CF&&::86SC^L:eLO zzr, euCJ6:&6SSH&6CCL-z r^^,HLJS:S&,:HOCC6L&eH,H^6Hz wHH&^:r6LC LSeJ,JzH,6 &WeJH?66zSHOOe^e6zL,H SHOJJ:C&r;&^,CrL:zz,&^OrOJ:H6zdSS6SCJOHer,&^erH6zKzJ :O&OC:OLe ,Sr&rJ^OHrJ&:e&rS66HCJL6zCr:^:H J:0,&^SC664SLCeH,6z6rs 68^ HL 6^SHO,ez,Czrr&^SrCJ&::&qSSO^e:LLC L6^,HeJCN6&&:66H:6OeeR, ^^r, LKS&S:,&:CCO6e&LHzHr6 zH=J^:^&rSLO eSLJzJ,H^ H&Je{H ^Sz6HCOOeHL,OzHHS LYJ&C:rJ&_:OreS,zzJrO^iX:^Lre6:SzOJCOLrz:reeHL JeAJ&O:rO:CzL eLSr^JrL rrz&e:r66S,O>e &HzlrL  ,rJ,: 6CSrCSeeL z6rC^BHOJ^H:zzS^6&C,L:zC,C^&rSeJ-6J6:/6 C^L:eL, J,r,^HlCJC:&6eSHO6,:L-zCr^ :HLJ^:S& :hOSCOL&CO,H^&Hz r{O&Sr66OC LSCe,J^Srr &SzJH:&6zSrOOe^,:zLO^ SH,JJ:S&rS&OeCrL6zz,sz#H^J:EL&eaL6,CJLCeyOvS^6 C:LHe,rC^L:^ z+CJwez6OC,O zC,Lz^rb^rCrLOz^r:^LH JS(,&J:%6zC&LeeH,LCr6LC O,^Lr^zPr&OOeJ,Czrr& eHH ^,z&,SCO^e:LLz&O,SLLSCz,ezS,L6LCCLzey,O^JOCC&OHzJ,^zHSkOSe&,ezHrLzeOLzC,uz%v  ^QL H:r&L^OryJe!H&6S JOH  r:C&CS&6rC6tzJ,:r6&CeL:_:&HS&66CLHrJz: 6SS,O6S^&eSC6CS^O,JS}O&OS^O:CrJO:L&OSr,  rT&&e:&epCzOueO,C^:rO  o:J,:e^LS,O&eeLLz6re^4H eH9T&LS & C,L zCOrC^HC rs6&z:96JC^OOSe,^^:r,z,?CJ,:&6eSHO^nrLHzOr^z^HLJ^:S ,HzOSC,L&ze,Hz_Hz Szu&^:H6LS,LSeL,J^Srr zL,Jr:66zS^OOez,:zJ6p :H,JJHJ&rSJOeS, zze,H^OrOJ:wL& vS 6C LSer,J^er6 6rzz,:66zC:OOe LOz,LJSLH,JJ:e&rS6OeCn6OSC,9^&H JSx,&zSCJrd^LCeL,6^Srx C_^&:O 6 C:O,ez,CzLr& e4JJ6:C&!SOO^e:LLC :J^,H^JC;L&&:R6HCeLzeH,6^^,O L4^&S:O6JSHJ eJ,ezH,e zHHJO:S^6SOO eSOSzJrS^rr SHvr&&Sz6 COL^z:OLCeH: L!J&S:r6CCeOHzC,zzrrO zB:JL: JSH6O CTLrz&re^LH6JzO&&OSzO:C&L z:,,^JLS r_&&e:r66CzOWeO,^^:rL ^2:  :J6CSrO^CHLHz6rz S,CeJLS^SSe6&C,LJzC,<z:69COL&zL,LzHHCOHeL, ^Sr, J.C&rz66:S&O6ezLuz,OLzJOrezMO&6SSOCCrL&z^LeSCOHCr,:&C:66LC LSeH62SC6}CJLCe : 6:SEOOe^,CCr&HzLH6JC:C&rS&O^HLJV/J& ^&H^J:ML& SS6,CJLCeOLR^erH 60 ^ r:^erL O::J&SCrz^JHrJ&:e6:P: OHCJSCr&,SOOCCOlz&z: 6rC&Lez:OrSO6 ^CL&zC,O^rrOJC3zLMz^r& eHHJLHS^6r& LSzJS:e,H^JHJJCAr&O!S &HLJSe,, ^^H: LY&eHrCzLSTOee&,ezHrLeZOHzzLJ^ rz&OHJJHzz,e^rH&Je:: Hr ^,yS6O:C&z:H6&^zLOzz,,^bC:OCe6,zzor,CLOOeS,&z,r: rI,J&:z6:^LHeJz48&OSJJJHr r::6C^zrr rI&&eS:J HH r::,e^:rL  vSJ,:JOCrHO^C,LHz6rz SrCeSLlzJ,X66rLLJzC,rz &H rj6&z:C6OC^L:eL&^^Sr, JtSJr: 6eS&zjezL2zO,b :HOJ ::&,Se LC,L&ze,&^6He lcO  S:6LC LSe,,J^Crr&6seJH:66CSnOOe^,:^zr  SH,JJ:C&rS&&e6SL6zz,*^OH^ :tL  p26,CJLCer,&z^rHz6r&JE:O6^C:OLe:,SC,,6 CHrJ&:e&H:&OzSrO z^,H^Lr6JSR,&JSC&zC&LSeH,&^zrW Ow^JN:L6 CSO,eJ,:zrrC^,HHJ6:zJHSOOze:LLz ,rC^H JC.rJJSe6rC6L::&,6^^H:^z- &::,&^,rO,e&,ee,r6 zH< &L:&>SOO CzL,zJrC^rrzJCRr&6Se6hCOL^z:^J^ HS ,>J&C:,6&CeI&e6,zz.rO ^t:JL: LCS,OJeCLLz&re^HrJS.+H&OS^6&CLL zS,, :HC ,{&&e:H66Cz&j:J,zzPrL ^4S ,:JJCHOOJeCLHz&rz^SHO^^,r&OS^OSCLLJe,,rz &H roJ&z:C6OC^L:eL&^^SrO J(SJr: 6eSH&^ezLHzOrz :H6J HSz^S OSCrLJze,C^6Hz,ShO&zS:66C Ooe,,eSLr, &Dee::66eSE&OHHLlz r ^rH,J::CJLHSOeCJL6en,7^OH^J:6 & :,6,C:LCeL,&zr&z 6HDJEHC6^S#OLe^,Sz&O: SHrJ&rL&HS&OzCL&ezzr:^L6&JSxL&JNC OCJOHeH,^^z,L O,4LO:L6SCS ,eJ,Szr,H eHOzC:e&PSO ^e:LOz LSC6H  r>r&zSe&LC66zSr,6^:H:  ( J :,&^:JOreC,ee&r6 zHb^Oaz6:S^O CLL,e&rCzLreJeBJ&6fA6.COL^CHLr^ r6 ,HC&C:r6&SSOSe6LLz7,^ ^_:JL: J S,OSeCLzz&rS^HHe:rkH&^S^ :CLL^zS, ^JrHe oJ&e:H^6CzOHeOO^SrrO SxSJ&:J6:Sr&&z LHzzrz^OHOJz::J6:eOSC LJeH,r^&HezHHz&z:66OSDL:C,, e<,6 JHLJr*Z6eSHO6CCL&zO,r :HCJ :S&,:^& CrO.zeL6^6Hz jH& HS:6SC OHe,,J^Crr^6ZeJ&:6&OSuO&e^LOzer ^,H,CL:C&,S&6rCHL^:r,H^OH^Cz#L&^SSJ,7zLSe&,&zErH JFz^YSr6^SLOLeS,SzLrJ^:HzJ&=r&HS^OzC-LOC^Lz^LH:JS% &J:e6rS OSeH,C^z,O O0^&:y6&CCSOzeJL6zrr& er,Je:z& SO6:e:LLz Ll^eHJ &8r&^Se6HC6LzeH,OzcH: S( J7:,6S:,Oree,e:Cr6 eH=Jz:^&,HzO^eSL,iLrC^,H& s,J&&Sz6}r,L^eu,Le OH LfC&C:66&:qOHe6H^z?r^ ^HHJL: 6SS 6oeSLrz&LS^HH&Jz1r&OSS 6COL zSOO^JHS r3&^C:H66CzOHeO,^^:rL  mSJ,:J&HSrO&eeLLzCrz^XHOJJH&zJrz^GSS&eek,C^&He HcL^L,& zrOJ mOOzSL6HCzHvJ::&6eSHOLS J,c16SC:LSzH,Jz^,, &H L^eL,H^6HzJSrezL,H^JrrJJMz,:^Crr &#eJ6:&6zS_OOe^,:zLL z^H,JJ:C&rS&6yCH66e ,Q^OH^J:!L&^SSJ,:yLCer,&^erH  5z r:^6^SHOLez,Sz,rJ CHzJ&:e&HSJOzCHLOz^,O^LH JSXL&JSC6rC&LeeH,6^zrO O1^&::&& CSO,eJ,zSS6HSOOJzeL&zrH:^,9OJCS:6OSLOr .+S&&Se6HCLJS:^JHSrO&COLCe6,C^:H&OOee,ezHr6  Lezz,e^ S&6OeSL,zJrzS^OHCOLJz_rH  H JC2QJr^er  ,DJ&C:a zHQ L:e&CS^OCC_O+eOf&6SS,OJC: &zJre^HH&JzjK&O:ezLCOL^zS,6^JHC rE&J^:H66CzOreO,e^:LLeev:JL:J6CSrOeeeO,izre^rHOJS::&LS OSO^LJeu,r^&He HM6&z^66OCSL:eL, ^Sr, J6LJr: 6eSOO6eeL+e&&:^+H6J B0&,SJOCCJ^,ze,L^6Hz /a6&^:{6LC zHe,,J^Cr, &QeJH:6& StO&e^LHzLrz Sr,CL:S&rS&6HCHLJzz,nC6H^J:bL&^SS6,CJLSer,&^erS 6qzJ3:66eC:OLe ,Sz,rJJCOHJ^7,&HS6OzeSJ::C&LC^OHeSu6&CSC6rC&L^}^&C:OO^ J4S&::L6 CeJ Z6&:zO,  eHHJ6: ^eH:^,Hr&^:z6JCzLSeSL,z r6^^H,J:: ,Jz,H: L% &eHJ^erO IH%&^:O6  CH?JO:^6:SLO eSJ,zz,,^rH&Je::zHrH^HHCJLer,:^ HS ,56 J,#^SH6& ToJr:zO:SHHrJC: 6SS,O6H6J6::&OSJOLeS,e&J:6O:CLL zeO^SrO:C6Ovz6ZzzHHO ,wS,Cz^rL  VSJHH4JJr JCIS&zC,&OS,OSz ::&LS &.rJL zS,r^CHe Hd6&z,H6OCzL:eO, z*r, Jr,J,: 6eSHO6ezLozOLO^vH&J :S&,SJOCCreezC,,^6Hz ..6&^RHz C^OHe,L,^Crr &9e0J:66:SQO6e^,:zLr ^eH,Jz:C&LS&OSCH6eJH,#^JH^ ^3L&^SS6CCJOH: ,J^erH^HMzJH:O6SH6OOe ,SCCrJ SHr  OH&rS OzCzLOz^r:eLLeJ:M&&JS:6rC LeeHLL^zr, Ope&::66 5LH eJLVzr,J eHrJ6b&&_S  HCvLLz ,:^,H JCD6^SSC6HC6&Oe#,6^^,HS 2^JH:,&,CCOre&OeSLr& :HNJ&:^&&SLO CeL,zzrC^LH&JS!H ezH6WCJL^S ,L^^HS &KJJHr 6JCeOH:>,zzHrO^e6LJO:e6SSSOJeCLrC&O:^rH^Jzlr&O:rO:CLO&zS,6^JH: rg &eH&reCzO,eO6L^:rO  H&J,:e^LS,O&ee6zz6re^Wr&C:a=&&S 6,C,LJzC,Je:HC Lw6^O:N66C^L:eL,CSOrL JiC^e:&6CSH6Jr.LHzJr^^eHLJ :S  ^SOCCOL&S6,H^&Hz HEO&Sr66OC LSSC,J^Srr^ 6HJr: 6zSCOOe^,:CLOe :H6JJ7X&rSSOeSH rze,r^OrrJ:h&& SSO^CJOmer,&^erH 6HCCO:66SC:O&e ,Sz,rJrLHrJe:e&,S6OzC%LOSh,w^JH  ,-,&JSC6rzJLeeL,6^zr+ OW^&:J,6 SHO,eJ,Czrr& eyJJ6:S&KSOO^e:LLz L ^LHeJCmr&&Se6HC6reek,J^^H: Lf &S:,:&CCOOe&,ezHr6 zHtz6:^6:SLO^eSL,zJrC^rH&JesH&6:v6_COL^er,C^ HS ,R6^6re^JH6 6D^Jr: rJ^rE:JL: 6exJ  I,&^:HL^C^H  6-V&OS^OC:;J,P&OzSr6LCCLOzLrz6 SzOieO,^^CLCC,L:zC,CzHr ^P:L&z:C&6CSLCeL1r& S OSC,L6: 6JS O6 z16&z:7&&r:OieL, z,r, JdC^r,S6CSHO6ezL4zJr^zHLzJ 8y&,SeOCCrL&ze 6^6Hz 9M&&^:H6L:  OeL,J^Crr &PCJH}JeVSHO&e^LLzLr  S,,zz:S&LS&OSCHLJzz,9 eH^ r?L& SS6,CJLCH ,&^erH  ZzJH:O6^H_OLe ,SzLrJ CHrJ&:e&HS6OzC^LOz^r:^6H JSo,&JSC6rSzJeeLL,^zr2 OXJ C,&zLrr ,%r6OSe6SS&LzeC:S&OSOO^e:LrfO6LSH6H sWS&&Se6HCL&_Kz&^e,OCCe,:zO,L^rH6OOCH,ezHr6  ,ge,,zzMPe^r9LJ^gH,P^&H&JeXH&LoC 6H,JCer,e^ HS ,Q6^J,t^:H^JJE&&Oz,rC ^l:JL:& OHC ^HHJz:H&L^LHCJz{k&OSJ&&HJJz4tLSCerj e9&&e:H6L:O ,:z&H:#OSzSO eJHH6CSrO&CS 6z&rz^MHJJ^::&LS  :C,LJzC,,^&HS H+e^,:H6OC^6&eL,^^Sr, JHHz :J6eSH6SezLHzO,e:LHOJ :S&JSJOCCrLCH6,H^6Hz JkO&zS:6OC Or:^, ^Crr :+eJr:66:H&O6e^,:zLr  :H,JJ:L&rS&OeCHL6zz,oeOLC /?L& SS6,CSLCSr6^^CrH 6YzJT: 6^::J&e^,Sz,rJ CH J&!r  S&OzCBLOz^,Z^LH JSF&^:SS6rC&LeeH,&^zrdJeM^&::L6^CSO,eJOC&Cr& eHHJ6:z&JSO&^SzLLz rS^,HJ 6_r &S:6HC6Lzex,O^eH:^6Ge&S:O6JS&Ore&,ezHr  zH0JO:e6:SOO Sn Jz rC^rH^Je0H&6:C &COLzz:,O^ HS ,oJz,:,6&CeO,e6,ezWr CHHAJL: 6SS,O eCLrSJre^HH6JeGt&OS^O:CLL zS,,zCHC rG&&::L66CzOhe,6Sezr&^,!SJ,:J6zF& JDrJ::2&rzeO:eJ::&LSe&LC,LJzC,pe:O6C^USzLH& :HCJJ:SJqSe66CLr&eOrC^,rr +3LL,e#r^ :HLJ&rOzCrzJOaeJSh&6:CSOO ,HH&^S:6LC&6OYL6SSO6rC:LLeJ,2^Or,OJCr,:zLr  eL:erL6^SrH :HeL e6,w^OH^JCrmz,,&JzHr L_C&OSLOz  HHJE:O6^CC :::&::C6r CH,J :e&HS6OzC_JO, 6:^&rHJS},&JSzJOHH JS &L:^O^ JuS&::L6 Ce 6RrJ zOrC eHHJ6:  ^:S JHHLzze,:^,HJJCXI :,O &HC LC&&6SjO&CL,Hz6,^^rH& Oe^LHzHr6 zXS^C,JzSHSOzeSL,zJrC^rH&Je{H& :&6RCOL^zC6fS6OeCeLr^Or^^SH6JzG ,SzOrO ^y:JrHz^LrH zC3L&z&re^HHLe&,6z&rL6rSoL zS,,^6,6eeLrzr,z^&rL&JW,J S 6,  _SJ,*^ &SrO&eeOqz6rz^XHOJH::&OS OSC,LJzCOrC^HC rn6&e:56&C^6::&,^^:r,  iC O:&JeHLO&eeL>z6r^^OHL zO,&LS^OCC L&ze,H^6Oe Bn&&^:l6LCzLSS,6z^SrO &BCJH}66z:<^HezLHzL,S SH6JJ5:e&SJOSCHLCzz,2^OH^C*9L&zSS6LCJL:erL gHrr  VzJS:O6^C:&L:e,:z6rJ^8Hr L:eJ,HCOzCLLOeOr:^LH ^j,^&J:r6rSJLeeH,6zCO& OH#&:::6 CSO,C^&LzrrS eHeJ6:z&5SOz:e:L&z ,O^,H^JCHre,SC6,C6O&e?,J^^,HS U^JF:,6:CCOre&,e:rr6 CHFJ6:^&HSLJ CLL,z^rCzHH&J:WHJJLn6HC&L^eS,L^ HS  6r&C:L6&:6OHe&,zzHrO SL6JO: 6S:COJeSLrzz6,^rH6JzHC&OSzO:S6 Sz:,O^Jr  r?&&egHzrCeOHeOL^^:r6  Hrz^: 6CSr& eeLrz6,C:OH6Je::JrS OSC,6J:5,,^ He ,46JJ:h&&r:Ole&, e,r, JgCJr5O6eS,O6eCL3z&r^^:6!J^::&,:JOCCLL&eSJ6^&HC Bl6&^S:6LSz^,eL,z^Crz &+eJHl6z&SHO&e^OHzLre SrOCC:S&LS&OCCHL6zzOgCJHz HIL&zSS&OCJ&,JJ,&^SrHe?<zJH:O&LC:OJbh,:z,rJe&HrJJ:e&OHCOeCBLOSer:^OH ^4OJ& S:6rSzLeeH,6ez6& 6_e&::66 S6O,C^&Lzrrz eH6J6:z&TSOz:e:L6z ,r^,H^JCrrzSSC6,C6LCea, ^^H:L^W Jr:,6JCCOre&,e<Jr6 CH4J :^&}SLOC-OLLzJrCSQH&JCPHJJLQ6HC&L^ej,L^ HSz,,z&S:L6&CSOHCJ,zC6Sz ^HHJL,X6SSLOJC>Lrzz6,^rH6Jz,&&OSzO:CJJDz:,,^JOz r=J&eX,zzCeOreOLS^:rL  rSe^: 6:SrO eeL z6,CC&HOJS::& S OSC,LJrr,r^ He O/6&C:NJOrHO%e6, z4r, eTCJr^C6eSOO6eeL;zOr^ :6zJ _W&,SeOCC,L&ze6r^6Hz V!6&^S:6LC LSe,,J^SrO &ueJH: 6SS!OOe^,CSJLO^HrAJJ:C&rSO&Oi:JS:H6&S6OLzJOuz,rJ^6CzO^er,&^eH:zCL eOH,^CHJ z::OS:H6 CSH J&:e&H:JzNCHL6z^,V^LH JSH,eLSS6,C&L:eH,6^z,rS^IzJU:L6zCSO,eJL:V&rJ SHHJ&:z&%SO&^hrLOzzrS^OHJ lyr&&rr6rC&Lzer,O^zH: L,^&S:,6JCSOre&,ezHr6 zHyJ6fO6:SLO CHLezJrC^rHO^,,&^Srz^O9zJr::,&z,HS ,!J&zRe^Cr6J:Pz6L:L6 CzHr ,: 6SS,O6SJJa:^6OzeOLCrLJzS{r eHrJ^:&,6^CHC r{&&^H^^^H: He&CLLJzC,r^&HezH^eSOO:eeLHz6r eOO6ehLC^S,G^6C6OrzC,r^&H^^ L,zH,& zHr J:SJIzHrJ J}CJr:O^JH& J;OL,z^r^ :HLJ&L^^ r6^6COO,ze,H^6H zHL zrrO^O:SJ:: J6S&6  ^HOJH:66zCS&rHLJHS^6eSrOHeHHz&rS&OeS, zze,H^OrrJ:pL& TSSeC LSer,J^er& 6rz L:O6zC:OOe LJz,LJzRHrJJ:e&rS6OeC06OCrr:^OH J:j,&zSC6rS6LeeL,6^zrh ON^&:7S6 C:O,ez,CzLr&^r6zJ6:e&%S:O^CxLLz^rS^&L:JSjr&&:66HC&LzeL6e^zH: Lr6&S:L6JS:^&eJ,CzHrS zHUJOH^:JSOO^eSLLzJ,,^r,&^,.H&&Sz6HCOOLz:OL^SHS LxJ&S:r6JCe&HS5,zzHrO zt:J&: 6SSeOJC_Lrz&re^HH6JzHJ&OSzO:C&L eT,,z^^  rWJ&e:O66CzODC&Or^:rO  H&J,:J6C:LJSeeL,z6,*^uHOJ^::rJS O:C,L^zC,,^&rS^H-6&e:76CC^L:eLO SHrL  <CJ,:&&rSH&6:SLHz6r^^8HL ,:S ,HzOSC,L&zC,H^CHzzv,J&z:j6LC^LSeS,JeC6  J_CJH:&6zSrOOCe LzOre SH&JJ:C&rS&z,CHL&zz,,^OHzJ:aL^^SS6,CJLSer,&^erH 6KzJF:6&zC:OLe LHz rJ CHrJOLH^ He eHHLJeHr:^LH Jer^z6r J,HOJ,eL,S^zr/ OBJe6rS^:rJ Hd:&&zO,r eHHJ6: JeH:^,:&&S2y& SHO%e&1O&eSe6HC6L :e6zSeO  &>S&S:,6JCz &QJ&r::r ^rH5JO:^6Cre 6RLJ^:r66^O,_JeEH&6S ^eHeJ<GLL^:r6&e L.zC(J^^H^ ,:eJLSS6 CCrOeeL&zHHzOzCHLrz&re :LSC?,J&J:,O:CLL zeOJCS6LCzLOzL,r^bCSOeeO,^^:rrz^OrzzrS^S5& J5rJ::k&r^,rOJ^::&LS&&6H&J^:L6J:7,&CJ,ezCr^zHHS 62L,ezrr, JACJb,zz,rrO C L2zOr^ C, e^,LeHrr^L:^&:t,6:Sz6LCJ-JJrS:6LC LeSJ& S,&mCHO,e : &CSpOOe^,CCz6,S,OLe6,O^J,m 6!^6SAL&LSeOMez,S&e: 6,CJLCekOHS:O&eCLez^3CzLr6 ::r,Sz,rJ^:6&JJ:e&HSzOzC3LOC^6r^OH JS.,&J:e6r:&&:er,6^zr4 OHO&:R6zSC:OLeJLTzrr& e,Hz :e&rSOO^e:Orz LSC6H J:yr& Se6CC66z:,,6^eH: 6/ JJ:,6JSzOreJ,ez,r6 CHV &L:&qS6O CHL,zJrCzL6eJCKL&6:06RCOL^C:&z^^rH ,nz&C:66&SSJJe6Lnz7,O ^#:JL: C,S,OzeCL&z&rS^H,6zSTH&JS^6rCLOOzSO,CzHS OU&&::H6JCzOIC,,^zHrL zGSJO:J&:,&OJe:LHzCrz^hHO^^,r&OSeOSC6LJe^,r^CLL rx &z?O6OCzL:eL, zrO^  ?CJr_e6eSrO6e:&&z6r^ :reJ ::&,:^zrC,L^ze,J^6Hz 5rO^C:06JC O=e,L3^C,rS,<CJL:6&JS=O e^OHo r^^HH,J::C&rS&&edLL&zS,#^JH^ J+L&:H66LCzLCC:,&^CrH 6+zJLre6zC:OLS6,SzLrJ^HL JJ:e&Ha6OzCHLOeeJL^OHeJSP^&JSC6r:&&:er,^^zrH OHU&:5LzOC:O6eJL6zrrz er,Cz:e&,SO6ze:LLz ,LezH  jsr :Se6rC6LzeT, SHr( L2 ^6:,6 CC6LHe,CzLr6 eHZJO:^&OLmO CrL,zJrC^,H&JS0H&6LS6qCOL^eH,L^ HS ,6z&C:r6&CCOHe6,zzTOz zHrJL:z6SSLOJeC&,z&re^HH&Jzk8&OSzO:CLL z:,,^JHC Ory&e:H66C  eZe&_:L,^SrO&z ,Z^C:J ^i^J,Se&LCSO eCHOze,&^HgzLSzC,r^&HeJJA6&z:m6OC^L:eL,:t^r,  <CJr:&6CSHOJezLDe^r^ :HLJ :S&,SJOCS&L&ze,H^&Hz tMOJ^,z6OC LSeL,J^Srr &,CJH:66zSHOOe^,:zOr  SH, H:C&rS&O:C6L6zz,!^,,:Ct,^e&:H6^CJLCer,O:LOSeeOrz^rS6eC:OLe ,Sz,rJ&COHJ^RA&HS6OzeS&C::6&^&HSJSg,&JSzJ^rP >;6, zWrf O>^&C, ^^HL^HezL^zrr& e_:er,Oz :e z#O&C:,LzSH6HCOMO&eSe6HC6L ie6zSJ6J 6D &S:,6JCCOr &&zeSr6 zH0JO:H6:S O eSL,zJrCerL^JCB6&6:Y6VCeL^z:zz^ rL ,_ &C:r6&CeCJe6Lrz3r& ^X:JL: :OS,6yeCLOz&re^HH6:9P4&^S^6&CLLzzS, C{HS &8& J:H6&CzO}eO,SS6rO  gS ::J6SSrO&e,LHzerz^HHOJ^::&6SeOSC^LJzC,r^&He^H,r&e:66OSNL:ez, eSr6 JH,Jr:&6eSrO6CCLLzO,r :HCJ :S&,:^O:CrOsze,^^6Hz 7H&JJS:6SC O&e,,J^Crr^LleJ&:6&OSEO6e^,:e r ^LH,Je:C&rS&OeC L6er,>^^H^J:aL& (L6,CSLCeL,&^CrH 6HLJ>:z6^SfOLe ,SeO&C SH J&:S&HS6Oz:8SVz^,6^LrdJS%&&J:C6,C&OreH,e^zr& OHeJL:L6:CSOzeJ,Czr, ^6HHJC:z&,SOO^e:LLzCrS^ HJJ:%r&JSeJHC:Lze6,O^^H:  j &S:L6JS,Ore ,ezrr6 zLHJO:^6:SOO eSL,z rC^rH&JeIH&6Sz6HCOL^z:,LC^HS ,mJ&S:r6&CeOHe6,zz%rO :t:JL:S6SS,OJCkL^z&re^HHLz7,SzerQ^J;S HeH,^^JHC rMO L,O^JHC6z: ,CzerL  ESJHH6zfrC zTe&zCS6OS&6NeLL6&&:HOSC,LJzzO SHOSCOL:zO,J6JSrL:eL, ^eLzCrO6^z,H^rr,OSezLTzOr^C HLJ :S&,SJOCCr6&e^,H^6Hz 1*O&SS:JLSHLSe,,J^Crr  Ie^H1S6zSoOOe^,:z&r zTr:JJ::&rSeOeCHL6eC,O^OHCJ:(O& SS6,CJ6Jer,&^erL 6WeJN:O&&C:OLe ,:z,rJ CHrJ&:e&HS6O:CVLOz^,r^^H JSD,&6,r ^_CJCKr, z rx OD^&CaC^CrJJ:sOOC:x6^CJ,HeL,ezHSJO:e:LLz reS:LSezLz&^:g6HC6LzzS6LSS6 ^Jh &S:,&^,rO,e&,ezLr6 zHEJO,z6:SLO e:L,z^rC^J,:JCWH&6:S6hC6L^z:,L^COO L_J&C3O6&CCOHCJ FzHrO ^HHJL: 6SS zreCLrz&,L^HH&Jz-H&OSS 6COL zS,z^JHS r7zz,:r66CzOTeO,z^:,6SS;:J,:J&HSrO&eeL&HFrz^=HO 6::&OS O:C,Le:L,,^&He C96&e:b6 HHOheL, ^Sr,  oC LLe6CSHO6eeL9zOr^^O&fJ ::&,SJOCC,L&z:,H^6,P hmO&^S:6LC LSe,LC^Crr &5CJH:66zSM6^e^,:zLrz SH,JJ:C^JSJOeCHLJzz,H^OHSe69O& SS6,CJLSer,&CCrH 6YzJH:O6^C:OOe ,Sz,6L CHrJ&::&OS6OzCcL,:C6 :RHe  7,&JSC6a:LJ6:&6:^a,&ezL^z ,z6eS,O,eJ,CzwL:C^6>eo:S&:SOO^e:LrCL6eS6OH^JLbzS,L^^SSJJ:S&6S,rr z1 &S:,66:&6^YJ&^S 66 SH^JO:^6:Sr&HKz& ::6,C^6/e6LJ& :H6<COL^zC6GS6OJC^LrJD:e6&CeOHeL6&S666C^,&e ,,^JHeOzC^Lrz&re :,JeOLrz ,H CMS Hz,O<:rOL ONS&e:H66C &O:zJHS 6&SrHH 4:J6CSrOOS,&&:66 S,OH&:r&zCH:  +SLzer,r^&HeJ:LHz ,, SCCOLeL, ^SrHSHL,e^,&6:S O6ezL_z,LLezLSz:L,z&rzO:CrL&ze,H^6Hz t5O&C:^6LC LSeHObS,6O^:Oper,&^ H J:eCL6zLr  SHH^zLHJ^rJ ^H6LJzz,1^OH^J:+L& rS66S,LCer,&^^L C:LHe&,SJHr6 r1e&^zOrJ CHrJ&:e&Hr: zCrLOz^r:JL^ =SOLzJ:v6 C&LeeH,Le,6LC&Le ^rJ6eSOO,eJ,Cz_,:z&OJze,C^^SJO:e:LLz reeyOre,,z&^:O6HC6LzzSLeSiO&CLLSzLrz^JSZ6He&,ezHrLz,OLe ,^^CHSLSS6J^SS6JSzOHC,9L&CSz6+COLJSL&J:HLMC&Lz&::r6&Ce,H J rOwSO CHLJL: 6SSH&z(,JL:Hr:^:H6JzXD&,Hr^zVSJ,v&rJe?O^eJLJz^r ^DCSOzeO,^^:rrzHLLe,,r6r:S^HhrJJS:rS^OHOJ^::&rr6^Js:Jre.,z^&He HAL J,^^&HB r9J&&S&r6 C0CJr:&6^rCJe3 J zJLS :HLJ :eJereOrr_JzD6r6:rOHC,LS6:,J^JeS rdJ&r:0H&S#L zzSzz9rL eH,&O:OHSSHO&CLHH&O:,OeCHL6z LeC:6,^&LHz&r: eH:J&9O,^zrrH 6wz&S,^^uHC zHHLHz rJ CHrJOH6JJ,I^,HLL&z^r:^LH JSG,^erC6OCSLeeH,6^ ,Ce:L!ev,C^6CSO,ezLSzrr& eF:^S, zrr: zgOJC:&&rS6,:e,,zzO,6^ C O,eE,O^^HCzzL,e=,&zHH& ^e^L,zHr6 z0S^J,SzJrr LHeL6zCrC^rH&J^L,^e,L CCJOrz:,L^ HezeLe^6,S^HH6 LeJ,zz%rO ^-:JL,&^SS66,eCLrz&r^z^O^CO,ezrC:&:HrJe:^,6zOHC rc&&^w:^ r6 L4O&LC&OSS?O zC,:6:SrO&eeLHrHSr6&COJCfC&LS OSCH6L!H6z^,6LJ6HSzJr6^6HJJ&:S,ezSr, J>CJXH:zJHz /HLOJ:r6xSwOreH,J 6rC OCOOOze,H^6H ^ L eLrz^H: Jeh6&LeC6_CJLCJLqJ6zSmOOeJO&S^6 CJ,Je:,zzOH: 6: Jz:H&eSJOLC61&JzSS6,CJLz!^&H:OOSCLLLz r:^CrL z+CJ,SC6:S66+J^1C&HS6OzeS6rNL&HC^OeCrLHzHHL^6Hz OS66e:r6  JHr&::L6 Ce&STr&O:z6zS,H JJ:z&nSOO^e:LLCC6S^6reJC9r&&S^JLH^ LzOL:SC6,CSLOzzSJJ^H& z+HJ,S:OeCeH,Je:^6:SLO&H6Je::6zSOO,:J;r&6Sz6oeeL^z:,L^ HS ,XJ Cr36&CeOHe6,ze rOz^rOJL: 6SS,OJCHLre LO^HHJJz,,&OS^O:CL6rzS,,^JH: rW &e:&&CCzO+eOLr^:rO  BSJ,:e^LS,O&eeL z6re^gH eH9A&LS 6CC,L zC,r SHe HK6&z:P6OC^6::r, ^Sr, JPCJJ:&Je:JO6ezLXzOr^^,HL zwH&,S^OCyOL&ze,H^6rm d%O&^:H6LCzLSe Le^Crr &,LJH:&6zSbOOeS&6zOr  S,zJJ:S&r: zHCrL6zz6e^OH^J:rL^eS:6,CJLCerL,^erHJCfzJH:O6zC:OLe OSS6r  SHrJJ:e eS6&z2,L6zzr:^OH ^Lj, J,L6,CJLeer,6Cert^&LH&::&6 HrO,eJ,CzrJe eHrJ6:S&jS&O^SH&zz ,B^,H:JC4r&&See6C6Lzei,&^^rH L+:^6:L6JCC&,e&,CzHr6 zHLze:z6:SL&^eSLLzJ,::&HJJetH^rSz6-COOe:6,L^^HS eNJ&C:r& H,OHeJ,zSzrO ^#: 6,.6SS6OJd&Lrz&re^H6CJzIk&OSCO:COL er6^^ HC r&r&C:r66CzL&eO,^^:rO  FSJ,HJHLSrO&eeLHz6O6^d,OJz::&LS OSC,OSzCOrzJHe HP6&z:m 6C^6HSH, z;r,eeFCJr:&6eS,O6ezLWz&r^^_HLJCH &,SJOC,CLJzC,H^6Hr niO&^S:6LC LSS,OO^Srr &8eJHD:6z=jO6e^,:zLr  SH&JJy:JrS&OSCH6Lzz,F^OH^ 6BL& SS6OCJL:er,CzHrH 6Qzz&:O6zC:OOe LrS^r  CHrzS:e&rS6Oze&LOz^r:^LH JS>, J#^6,C&LeeH,6zHrRzOH?&::L6 CSO,ee,CeL,S eH,J6H &!SOO^e:L:z rS^,H^JCML&&:r6rC6LzeE6e^^rT L<^&S:& :CSOre&&,zHr& zHLze:z6:SL6ee:LLzJ,::&HJJe?HzrSz6-CO6^:r,O^ HS ,DJJ :r6&C,OHe&,zzHrO ^G:^Lre6:SLOJeSLrSrreeHL JesH&OSzO:S^L CS&^^ HS rKJ&err66SCJ&eO,C^:O^  }SJ,:JCrSrOJeeLLz6rC^/r&eH::&6S JHC,LJzC,r;eHe Hp6&C:<6&C^OOSe,^^Sr,SrdCJ,:&6eSHO^vrLHzOr^S HLJ^:S&,C:OCCrL&zC,H^6Hzz+^e&^S:6LC LSSS,JeC,, &geJH:66z:6OOS^LOzLr  SH,JJrS&r: 6rCHLJzz66^OH^J:(L LSS6,CJL:er,J^erO^rEzJ<:OCOSIOOe ,S^^rJ CHrJ :e&HS6&zH&L6z^r:^LH  r#,J^rL6rC LeCz,6^zr* O6:&::L6 SVO,e^,CzJL: CHHJ6Le&7S6O^e:LLzC6O^LHJJCO,&&SC6HC^JreH,O^^Jr Lp^&S:,O:CCOre&,SzHr6 z,Ree:z6:SLO eSL&zJ,:C H&JSxH OSz6FCOL^rL,L^ HS O?J&::r6C,6OHe6,zH,rO z_:JO: &rH^O eCLrH^re^rH6Jz:&&OS^O:C6L zS,,eJ6L ,U&&e:H66C:O=C&&H^:r6  H J,:J6CSrzeeeLHz6rC^>H&J^WOeSS OSC,^zzC,,^&HC HZ^zr:H6OC^zreL,^^Sr,J:NCJr:&6SSHO6ez6.:erz :HLJ :S&&SJ6:% L&zS,H^JHz G?O&^OL6LC LSeO,J^:rr C,LJr:66zJCOOez,:zLr ^rL^J :C&r LOeCrL6eCJO^6H^J:r & SS6,CJJ^er,J^er, 63zJ#HOJHC:OOe ,:z,Le CHr H:e&rS6OCCmLOz^r:^zH JSu,&JSC6LC&OcC&,6^zrM,:q^JU:LJ HHOLeC,Cz6r&z HH^e6C&wS^O^,eLLz^rS^SHJ H, &JSe6HL,LzeH,O^SO6 Oi &S6^6JCSOrS&6:zrrz zHLJOH&6:{^H:eSLJzJ^L^rHJJej,&6S: &C6L^z:^z^ H: ,rJz?:,6eCeOOe6OJz#LzPe4:J : SrS,O eC6Hz&,4CJH&Jz!vS S^67CLLC:O,L^JHC< .&&C:HJ6wSOHe^,^z,rLz6>S^ 6^6CS&O&&6LHz&rzz^HOJS,6&OS OS&CLJzS,re&L: rnz&z:L6O:zL:SL6e^:rJ JHrJrH:6eS:xHezL:zO^6 :HOJ 0,&,Se LC,L&ze^C^6He =M zH:56LC :Je,, ^C,LSefCJ6:6&JS2OOe^O::^r^^,H,JC:C LS&OeC L6e*,u^6H^ T0LJz: 6,CCLCSJ,&^erH 6HeJn:^6^SROLe^,SeOrS CH&J&V^&HS6OzCEOCz^,L^LH^JSaL&J/C6SC&OHeH,^^zOJ O,^JO:L6SCS6,eJ66zrL&e:HrJz:z&LSO&re:&Lz:rS^JHJ CWr^ISeJH# LeeO,O^SH:eej  Sr66 SrOree,eeJr6^C eJO::6:::O eSL,e^L^^rHeJer:&6Sz65:OLSz:,^^ rr ,L1&CHr&&CeO&e6LHz*,e ^rH C: &OS,6:eCLrz&Lez&H6 rGA&eS^6uCLOze^,,zcHC^HR&&e:H&J:+O5eS,^CSrL  +S OE,6CSeO&CzLHz6rz^_&^J^16&L:,OSCOLJzCLz^Jrr HNe&z:&6OC^j,eL,S^SrO J/SJr4 JOSHOzezLOzOr^ :HLS :S&JSJOSCrLJze,HOeHz O-O&zS:6LC 6-L:,Jzrrr^JxeJH:6&C:POOe:,:S r  SH,JSrO&,SeOe& L6ze,b^OH^ ,,z&^SS6,JPLCe,,&^eHJ 6HFJU:66^C:OLS JOzLrC CH&J&7}&H:J rCMLez^O:^LH JSw,CCSC6&C&O,eH,J^zr6zCRzJL:LKeCSOLeJ,CzrrzC,HrJ6:zH,SOOze:LJ:1r:^,HJ,Otr&JSeJHh LeeO,O^SH:zO;  Sr66 SrOree,eC r6eHJ,JO::6:JeO e:L,e&rC^6LSJC<H&6 ,6qC6L^e,6z^^HS ,JL&C:,6&Ceb&e6LqzDrO ^c:JLvz JS,OCeCO,z&re^HHe ,nH&OS^eJCLL^zS,O^JrHe iJ&e:He:CzOHeO,SS6rO  >SSS: 6SSrO&JrLHz6rz^?HOJ^::J6H,OSC,LJCX,r^&He Hze&z:?6OCzL:eL, e5^: J0CJrvJ6eSHO6CCL:zOr^ :LrJ :S&,:^z6CrLJzeLJ^6Hz VrOJ,S:6OC L:e,, ^C,L S3eJ,:6J&S*OOe^OHe:r ^HH, C:C&rS&6SSCL6z:,RC&H^J:GL& fL6,C LCe6,&^erH 6r6J.:O6^C:OLe^,Sz,7J CHrJ&:C&HS6Oz:8OCz^r:^LH JSE&&J::6OC&LSeHO?^zrA OP^J&:L6 CSOOeJ,:zrrCzrHHJ6:z,iSOOze:LOz ,rC^H JCWr,&Se6rC6L::&,6^^H:6LP &::,&^,rO,e&,eC:r6 zHNJOH^&MSOO e:L,zJrCerr:Jefr&6Se6VC L^CHL&^ rH ,rr&C:r6&Ce6^e6,ezDrJ ^HHJLH &LS,O eCL,z&6L^H,6^OMl&6S^6;CL6tzSLOz:HC L.& ,:H66Cz&a^J,^zHrL zXSJL:J&::OO&e:LHeJrz^!HO eHe&LSCOS:^LJzC,rz ,J Hvz&zqr6OC^L:eLOH^SrO JHrJr: 6eSH6CezLHzOrz :H6J :S&SSJOCCrL ze,r^6H:e&A6&^S:e:C^L:e,,J^Lrr &qeJr:66zS7&OHHL*zLr  SH,Je:CJLHSOeC,L6C^,<^OH^J:6 & SS6,C^LCeL,&zrL  &jzJ!Cz6^ScOLe ,Sz&O: SHrJ&Sr&HS&OzSr ^zzr:^LL&JSD,&JSCJrCJLCeH,&^zrw Or^J&:L6^CSOLeJLHzr, zHHHJ :zJ:SOO^e:LLe6rS^LHJ d1r& SeJHSSLzeH,O^zH:eew  S:^6JCSOreJ,eeJr6^CHHJO:e6::zO eSL,CJHF^rH Je_,&6Se6_S&6Oz:,&^ ,0 ,QJ&CuL&rCeOOe66rz>rO ^rH J: &,S,6^eCLrz&rezOH6JC2?&^S^6HCLL eH,,^ HC ,g&&S:H66S^O?eO,^zHrL ^>SJ&r:6SSrO&,&Lrz&rz^%*eJ^::&LS^OSC,LJCC& ^JHe Hd6&z:L6OSeJ6eL,z^SrS JFCJr:&CHSHO6ezLrzOre :H^zH::&,SJO CrLJze,H^6H:e&<6&^S:6gC L:e,L^grr, &Be^::66zSsOOS^L9zOr  :H,JJ:C r:rOeCrL6ze,R^ H^^HWC& :H6,S,LCer,&^e,^ 6geJT:J6^SHOLS OHz,r  CH,J&,L&Hg6OSC#L6z^,s^L,VJSHO OSC6LC&6,eH,6^zLY&Jg^JH:L6zCSOLeJL:eer& :HH J:z&NSO6eC7LLzCrSe^HJJCxrJ :e6HCzLzCr,O^^H: LHJ&S:O6JSrOre ,ezHLH zHHJO:z6:S6O eSL zJrC^rH Jevr&6S: &C6L^z: :^^H: ,8J&L:r6&CeOre6,zzsLOSHHiJL: 6SS,OeeCOLSSre^,H6JCKm&OS^O:, L zS,,^^HC L8&JrLz66CzO*eJ,zz/rL ^fSJ&r:6SSrO&e:Lrz&rz^LLeJz::&LOLO:CLLJe:J&^JHe H,L&z:>6OC^6:eO,^^SrL JwCJrH&J6SHO&ezLHzOrS :r6Jz:S&6SJO:CrL&ze,HzzHz HxO&CS:66C 6Sez,J^Srr Jmez :6JzSLOOez,:zOr zOH, ^?C&rS OeSJL6zz,ZeO:CJ:=6& :16,C LCCLL6^erL 6HCJf:O6^:H6re Lrz,L: CHrJ&+S&6S66EClO&z^r:^LH  Sc,&^SC6&C&LSeH,6eOrB 6>^J-:L6zCSO,C&,Czrr& SHHJ&:z&LHeOze:LLrLr:^LHJJC: &&Se6HCJLze1,Oe^66 OV &S:,6JSHOrC &,zHrJ zL5JO:^6:SLzSeSL,zJr:^rH Je!&CQSz6oCO6LeN,O^ H: ,TezL:,6&Ce6ze&,ez#r CHHTJL: C SLO eCOLFerC^HH6z7Bl&OS^O:HHL z:,,^^HC rl& e:^66CeOpe6,^C,rL  H,J,: 6CSLO&eeLHz6,^^XHOJ^::&LSzOSC&O:zC,r^&JO rw&&zHs JCzOLeL,C^SLa J,,LJ:&&HSH&^eeLHzOO^ :HJe#::&,SJJHC,LJze,OCCHe EPOS,:16OC 6SV^, zrrr zheJO:6&CH&OOCH,:COr  SH,JJ6r&rSeOeCJL6zC,c^z&LJ:h & HJ6LC LCe,,&z-OJ &tzJBH:6zSAOLeC&OzLrJ C&zJJ:C&Hk6^rCHL^z^,,^LHCJSHO^:SC6 C&JLeH,6^zrN:^n^JL:L&bCSOOeJL,C^rJ^HHHS::e&HSOO^e:LJ:/r:^,HJ:63,&JSeJH_ LeeO,O^SH:zON  Sr66 SrOree,eC r6^ zzJOn 6:HJO^e:L,zCrC^6LSJC=H&6H:6HC6L^e,6z^^HS ,&H&S:,6&SS^6e&LRzl,r ^3:JLH zLSLOCeCL&z&LS^HH6J:?g&^S^65CLL^zSLOzHHC &U&^r:H66CzOkC^,^zLrL ^ISJL:J&:SOO&CHLHeLrz^lHOJ^sO&LSSOSCLLJzS,re&,H HPz&z:L6OHrL::L,:^SrJ JHCJrr>6eTHJ eeLOzOrS :,OJ rS& SJ6rCrL:zeL8^6,zzr36&:S:6JC J6e,L^zOrr C5ez^:66zSt&OCO,:z^r ^LH,J :CJL:zOeCJL6e:,(^OH^^HHS& :66,SeLCer,&zSr^ 6HLJbD 6^C:OLe L&z,rS CHzJ&:S&H:6^&CHL^z^,r^LH:JSHOe SC6&C&&^eH,6^zL?^^%^JO:L6CCSJzeJOCzLr&^rHHJe:zJ&SO6eCJLLe.rSz^HJJC/r &;J6HCCLze&,O^zH:^6H6&S:z6JSeOre&,ee,L, zH JOr 6:SLO S/&^zJ,&^rr6Je(H&6SzeOCOOHz:,S^ rb ,DJ 6:,6CCeO&e6LrzjrOLSD:J : &#S,O eCOLz re^6H6 5.d&OS^O:,LL e,,,^ HC ,.&JSL66&S#O;:e,^^:rL  fOJ,:S6CSrO&eeLHeJ6r^_HeJ^r &LS OSSO CzS,^^&L  HF6&zHK JCzO&eLLH^SL, JQCC :&&HSHOSezLHzOr^OOHLJS:S&LSJOCCrO LJ,H^zHz^HhO&^S:&6:HLSeJ,JSrrr &VeJ&O!6zSOOOr^L{zOr  :H,Je,L&,S&Oe,HL&ze,f^ OH ?.L& OO6LC LCSr6^^Cr6 6V:J*::6^SO&ee^L,z,J: SH,J&:e&HS^ rCHLOz^ 6^OH^JSr,^zSS6&C&O1eHO&^zLoeJ_zJL:L6SCS&zeJ6,LJr&^HHHz^:e&HSO6 e:LJ:nr:^,HJeH4,&JSe6HJeLzeO,O^^H: L#  gHC6JSrOrCJ,ezHr6^HHJJ6:^6:lLO^e:L,z^rC^6LSJCNH&6(z6HC6L^z:6O^ HS ,# &C:r6&CeOHe6,zz<rO zN:JL: &H:HOJeCLrzOLSC&OSCL,^ze,JJ,H  r:e&&SzH: rA&&e-, YCzO?eO,z^:rL  4SzL:J6CSrOJeeLHz6rz^wHOJ^yRJ,S OSC,Lzer,r^&HeJ:LrzH,r :CCOzeL, ^SrHzLL&ezZ:^ H: &1LJ&S:6C^rHJJ :S&,S6&zH^OCz:,^^6Hz td, &, ^6X: Hq&&6S6rO SoeJH:66 :CJ:*RJA:C66^HH JJ:C&rSOJ6HJ&C:H&,^JrrJ:ZL& Se&eHrJ,KO&M:,Oz  HeJ{:O6^CC&HH,J_S 6zSHOpe}r,zOr^^L:O&z{H&J^6H JS;,&JSC6rC&LeeLLJ^zrX O4J^6rS^SH: H2!&,:z6HCO, e:,:z&Hz 6Z L&z:rS^,HJJzrLzzrO zH&LSeO,O^^H: rrezL,O^rSROJe&,ezHrLSPL6e,LHz&S&63eSL,zJrzzzOOer,Jz&r:6,SLL^z:,L^&, CHLzz6}C^Or,  x:O,SC6,CzLJC6: 6SS,OJ^CLrz&re^HH6JzUB O/rO:CLL zS,,z&HC^LHO&e:,66SrOTeO,^^:,6  xSJ,:^6CSLO&CrLrz6rz^srJJ^uP&LS^OSC&&:zS,r^&r: H7&&z:cOeC^L:eL, ^Sr, JrCe :J6eSHO6ezL:zO,eC6HLJz:S& SJOCCrL&rH,H^6Hz r%O&eS:6^7HL:e,,Jz^rr JseJH:66:H&O6e^,:eHr  :H,Je,L&,S&OeSLL6ze,i^OHHJ:uL& SS6,CJLCSr&S^CrH 6jzJx.L6^:HJze LNz,,6 CHrJ&:eC6S6OzC0L&z^,H^LH:z6gL&JSC SC&LCeH,6^zrLee_z&::L^OCSOLeJ,C^ r& eHHJ6:z&wSO&^S6LOz rS^,HJJ:wr&&:66HC6Lzer,O^eH:^6RC&S:L6JS^Ore&,ezH,^ zHrJO:^6:SLO eSL&zJrS^rH JenL&6S:6LCOL^z:6S^ H: ,rJzD:,6CCeO6e6L&zlLzRe(:J^: JeS,O eCL z&,8CJH&Jz7f ,S^6TCLLC:O,L^JHCez<&&C:HJ6>SOHez,^zLrL^O(S^ 6^6CSJO&SSLHz&rz^SHOJS,6&OS OS:OLJzS,r^zO, r56&zr 6OCzL:SL6e^:r  JHrJrs,6eI&HeezL6zOOZ :HOJ AL&,Se LC,L&zeO&^6He %Y zH:u6LC JJe,, ^CLrCSPCJ&:6&BS/OJe^OHSzr ^6H, ,:C&rS&Oe,6L6eH,K^CH^ HcL&:H66LCSLC:e,&^CrH 6qzJLre6zC:OLK,,SzLrJzCO JJfr&HSzOzC:LOee66^LrHJS*&&JSC6rC&zHeH,e^zrJ O5e&::^ HC:O eJ&&zrrJ eHHJ6::^&S6O^e:&Sz r:^,,JCLV,&CSe66C6O^eUL&SHH: eZ J6:,6JCCOrre,ez&r6^,H0J&:^&O>eO^CLL,:rrC^,H&JeNH&^rr6HCOL^: ,L^^HSz,,z&S:J6&SHOHe^,zC#OJ zHOJL::6SSJOJCz&zz&,O^HO5JzkH&O:jO:CJJNz:,,^JO& r!J&e:HLOCzOOeO,e^:rL  HLJz: 6SSr&HeeLrz6rC^(H eHlp&LS &JC,L zCLL:eHC Hn6&e:g6OC^6:SH,^^Sr, JFCJe:&Je:,O6ezLtzOr^^SHL zH6&,S^OCC L&ze,H^6,r sAO&^:H6LCzLSe ,^^Crr &OeJH:&6zSHOOeS&6zOr  S6,JJ:S&r: zHCrL6zz,H^OH^J:rL^&SS6,CJLCerLH^eLH^,3zJF:O6^C:6,e O<e rJ :HrJC:e&HS6OzCLLOz^r:^6H  {N,&S/O6rC&LeZe,6^er8 OV^J,rz6^CSO,H,,Cz,r&^RLJJ&:z&?,OO^CbLLezJ,^LHJJCm,&&Se6H:6&SeH,O^^H: LH,&SH,^:CSOre&,ezH,O zrrze:^&HSL6&eSL,zJrCk&H&JecH&JSz6rCOL^ S,L^ HS OtJ&C:r6&4COHe6,zzHrO ^v:JL: 6SS,OJeSLrz&re^Lr=JzNP&OSJJ&H &:Y^&6elO,CrLH&S:H66Cz6rS:,^^:rL ^WSJ,:J6CH,O&eeLHz&rz^%HOJ^::&LS O:CLLJzC,r^^r6 H-6&zSSJCHLJOCz&,SL6zSHOOJL:&6eSH6J:OLPzOr^^sHLJ :S&,H OCCrL&zC,H^6Hz >(O&^S:6OC^LSe,,Jz<re &weJH:LJ,H6 &H,J,:66CSrO6J^:C&rS&6S:zL6zz,U^6H^J:nL& H:6,CJLCe,,&^erH 6DzJ#:O6zS OLe ,Sz6,H CHrJ&:^ 6r^^,BSJS:J&,S&He  5,&JSC6o:,J6}^OSSO6&SjLJz&rS6eS,O,eJ,Cz.&,CrL:e::SJHSOO^e:LrCO6JSe,^CHL6z^PO :HCJO:J&SSJ6,C&?eJe:,6JCCO>C:J6:J6CCOO,eSHr^Or6 ,HO& zz,L^rH&Je::JSs6^&czJe: ,&^SHS ,.J&zrS CHSJze ,:z=rO ^jCe&,,z^S66reCLrz&r^z LeeCL z re^,HJJeeH,e^JHC rpO Cr:^rHJ  o,&CSzLr  gSJ,F^erS,O&eeLLz6rz^5HOez::&LS O:C,L^zC,Je:HC HT6 J:a66C^L:eL,CSOrL JWC ::&6CSH6Jr9LHzOr^^JHLJ :S& H=OSCrL&ze,H^&Hz pgO&Sr66OC LSe,,J^Srr &w,JH:66zS=OOe^,:CLOe :H,JJ:C&rSeOeS, zze,H^OrUJ:FL& -S 6C LSer,J^er  61z&&:O6eC:OLe ,Sz,LJCFH,J :e&,S66mCQ6OSC,.^6H  u>,&SSCJrm^LCe,,6^CrG 6<^ HL 6^SHO,e:,Czrr&zeOJJ&:S&WSJO^CHLLez6O^,HCJCYe&&Se6HC6zmeE,J^^rL LKz&SH,:^CCOOe&,:zHr^ zHRJz:^&rSLOzeSLOzJrC^zH& XGH&6Sz6_CO6^eO,L^CHS &(JJr:rJ&SeOHe^,zzLrO^#s:^L9 6SS&OJCHLrzJre^Hr:JzI,&OSCO:CJL zS,:^JHS ro^&e:,66Sz6zeO,^^:r^  <:J,:e&eSrO&eeLHz6re^aHOzz::&LS O:C,LJzC,r^&He HZ6&e:.6OC^OreC, ^Sr, 6,L^^LHzHrJ LH,&^z&r^ :HL zrJ&,SJOCC,L&ze,H^6Le /NO&^:o6LC LSe,,J^Crr JdCJH:66zS,Oee^,:zLr&eWO&z:H ^e,x6rCHL6zzLr:^HzJ:aL&^SS6,CJLCz ,&^CrH 6czJ/:O6^ OOLez,SzLrJ CHrJ&r,&HS6OzCrLOz^r:^L^JJSk,&JSC6rC&LeeH6&^zr2 Oaz&::L6 CSO,eJ,CzrrJ eHHJ6:S&6SOO^e:LrCe&rzSOee yO&&Se6HSJ^WeH,O^^rU L* &S:,eJCCOre&,CzHr& zH>z6:^6:SLO^eSL,zJrC^rH&JeXHJOSz6aCOLCe6,L^ HS HLAeH,O :H  Oe LLz%rO ^WC^H,Cz&CJ ClzJO:&r:^eH6Jz+!&,H6 CH& r:J&^ CLOCrOO&:: 66CzO>e,6HS 66CCO&zCLZ&ES O&eeLHzLL,SLO&eeH^^JSe&-C,LJzC,peSO6C6L&z rJ zr,J :C6H:&6&C:L,zS,H6:SJO6ezL1z,LSSCOeCr,Jz^Sz6JCrL&zer:erOOC rCzL,6^:H&J6:C,zz6rr &/e&:rS^:r,JCh&J,:Q6O^HHJJJ:C&rSO J!&JJ:O,,zrH^J:pL&&le^6r, Hir&HCLOzCCO6z^,e6CSJOLe ,SzHLCS&O eH:H Jr. LC,O,z^r:^LH&eL,zeHrz^C8C O:zLSS:6HC OHJr::6 CSO,e66LSeOCCCOrCL:pz&H: ,CrL:z rS^,H6zOLOzz,JO68rJJ:S&SSL,6 L_ &S:,&SCSO,e&,ezHr  zLsJz:^&BSLOzeSL6zJOC^JH&JCWHJLSz6eCO&^eO,L^^HS ^_JJe:r& 6JOHe&,zzHrO ^-: 6Ir6SSLOJeSLrz&re^H,^JzXH&OSzO:CLL Cjz:^JHS rHh&e:H66SCOeeO,z^:rC  0SJ,:Se&SrOJeeLCz6re^0H6J^y,^zS^OSC,OLzC,,^&rseJQ&&z:b&zC^OIeLLzT,rL  BCJe:&6eSH&6HrLHz6r^^_HL H:SJOH:OCCOL&er,H^6Hz R6^&^:P6LCeLSeO,JeCOO JpCJH:&6zSLOOS^&rzOr^ SHLJJir&r5&^,CrL&zz,H^OrOJ:H6zBSS66CJO^er,&^e,,SzVeJL:O&,C:OLe ,Sf^rJ SHrJz:e&rS6OzDHLOz^r:^OH JS_,&JSC6rC&LCeJ,6^zrV &l^&::L6 CS&&6z&CzO,6 eHHJ6:   Hz^Hbz&SVr6JCe,CeS,JeOr6^JC L:eG,O^^HCeeLHJO:66eCCOre&,^:,6LCSH,Jz:^6:SLO&H,& :6&LS^H^J:}H&6SzOS7CJrerL&^ HS ,h6  rezu!H r:eJ S^6ezzL e:,,^:#L 6HOJzCJre^HH6 COO&6S^O:C6L zS,,^SLO ,i&&e:666CeO>eO,^z,Oz ^NSJ,:C6CS,O&CS 6z&rz^/H&J^::&LS ,CC,LJzC,L^&He HHJCj:H6OC^O6eL, ^S,OSChSJ,:&6:SHO6ezLne,r^ :HLJz:S&OSJ6::eL&ze,H^eHz !/OJer66LC LSeL,J^Crr^  JJH:66zSLOOe^,:e6,L SH,JJAr&rS&OeS, zze,H^OrmJ:cL& SSHHCJLCer, ^er, 6a:z&:66^C:6&e ,:z,,^:rH,Je:e&OS6OzCKLzLr,j^JH ^H8,& SC6&C&OE:J,&^zrv^J3^Ju:L&zlJO,ee,Cz6r& eHHJe2,&HSOO^CSLLz^rS^OHJ H, &JSe6HSOLzeH,Oze&L OT &S:J6JCCOrC  Hzrr& zH6JO:^6:SLK&eSL,zJr:^rH Je_O^CSe6KCO6Jz:,O^ ,WSJM Jr:r6zCeOHe6LH,zrO SU:^H: 6:S,OCeCL6SSrC^HH6^Jdk&6S^6,fzL^zS,,e6HC ,#&&eC#66CSOge&,^^:rL :H6JL:J6C:zO&eCLHzJrz^LLeJz::&LFrOSCLLJzC6,^&He HR&&z:c6OC^L:eL, ^Sr& J+CJr:^&HSHO6ez,S:S6vS&OLJel,&,SJOCCU ,:r6:S:HS 6%O&^S:6rHSJ6: & SSrO C8eJH:66 :zJzHrJJCr,J SH,JJl:e&SJOeCHL&zz,=^O,^er3O& SS6,CJL:er,&SCrH 67zJH:O6eC:O^r,,Sz,rJ^,HrJJ:e&rS6O:f&L6z^r:^^H J:%,&erL6,C&Lee:,6^erK^&O:J*:L6 SrO,eJ,CzJL: CHHJ6:z&wS6O^e:LLzC6O^LHJJCKr&&SC6HSJ^XeH,O^^rr Lt &S: eLCCO,e&,ezHr& zHHJO:^JLSLO eSL,zJrC^rH&erbr&6Sz6rCOLzz:,JSqH: ,4J&C:r6JCeOH:&,zzXrO z%:JL: 6:S,OJeCLSz&re^HH  6Bo&OS^OCW:JC:6&C:xLOCz,Ce,,^6 SzO9eO,^^C6HC&O&z^,ez^QLJCnJJL:L&LS^LSeLhr&CS OSC,L6:^&eS OrCLL^z r 6&C^L:eL, ^Sr, JLCJr:J6::rO6ezLAz,6KC&OCe&L ^C8G^HHO D#,&OS&Oee^Le&C: 6LC LSeH&6:BO^CSL6e,,o^Sr O&e^,:zLr  SH,&Jze&LS&OeCHL6zz,b^OH^ rHO& SS6,C6 6s*& S6L^C^rSz^Lrz,:O CHr&LSz6J :HrJ&:e&HS6OzHLJOzC,^^LH JSUHJS,&^zHz&,cO&:SH6 e:Hz&::L6 CSL^eJ,Czrr& eHHJ6Hz^,S6O^e:LLz ,L^,LJ ,vr&&Se6zC6O,e_,O^HH: L_ &S:,6JCC&r:^,CzHr6 zHxJz:^ :S^O eSL,z rC^zH&Je:J&6Sz6yCOL^z:,Le OH LdJ&C:r6&SrOH:6LHzlrO ^HHJLqL6SS,L:eCLrz&re^HH6Jzru^JSzO:CLL zS, ^J,CSSxJ&e:H66CzO,eO6^e^rL  fSJ::J&rSrO&CSLHz6rz^9HOJ^:: LG6OSC,LJzC,r^CHeeHHe&z:U6OSHL:eJ, ^S,& JdCJr:J6eSHO6ezLfzOr^ :HLJ^:S&,SJ6NCeL&ze,H^L,OC,,zzH,9 S: JJx6,^^Crr &HS^z:66zSGO6e^,:zLr e:H,JJ:C&,S&OeCHL6zz,+^OHz^HZL& SS66SHLCer,&^^,JeeL,eo,^^WH& LeeL&z,rJ CHh CL6z^r^J R6J&:A,rzHH JS.,&6#z^Orr 0+H&yC,O^CeOOz ,z6eSOO,eJ,Czq,:SbO,eJH6^LSJ6Je:LLz rezzO ez,^z&hO zH:JO:J&SSS66 &H,&S:,6JCz&S:CJOSz6CC6L6e6,z&rSeO eSL,z6OLCeO CQL^zM,,6,C^L^z:,L^&Lee L^z,:L6&CeOHe6,zz06,C^HrJC: 6SS,O6:rJ :z6JSJO#C,LJ&JS:O:CLL ze&:CSOzCzq^J,:H66CzLSSr&u:rOCC^LJJ6w^6CSrO&e^&e:L&rC^LCez,C^er  &mC H:&6^:i6!CJW &::26OC^LCS66::,rO,r^6Hz cxO&^}:B^L,err^ :HLJ&r6^CHS SoeJRCe6&S:OHC,,z&C:z6LC LSeHOrSS6#SKL6 SLM^Sr J:HHLre,r  SH,J6HJzTr^ OSeJLjr&JSS,reeLrz^r&JeCJLCerL 5Hrr 6XzJz:O6^C:OLX^,Sz,rJ SHrJ :e&&kSOeCiLOSrr:^OH JSu,&erL6,C&LeS ,6^erK^&O:Jw:L6 S.O,eJ,CzJL: CHHJ6:z&yS6O^e:LLzC6O^LHJJCkr&&SC6HC6Lre_,O^^H: LK &SH,6rCCOre&,ezHrC z,B^H:^6:SLO eSL&zJLC^CH&JeyH&6Sz6,COOee&,L^zHS^LlJ&C:r& S:OHe ,zz^rO ^b:JLAL6SS,OJCiLrz re^:HJJz0 &OS^O:COL zS,,^eOL ,V&&e:H66CeO%C&J:zQrL  H J,:J6C:LJSeeLrz6,^^kHOJ^::rJS OSC,L^zC,,^&rS rG6&z:2&rC^L:eL, ^Or,  hCJ,:&6eSH&6:SLHz6r^^IHL &:S ,HzOSC,L&zC,H^eHzzZ,J&z:i6LC^LSC,,JeCOO J(CJH:&6zSeOOS^ ^zOr^ SHLJJUr&rS&OSCHL6zz,r^OHzJ:>LJeSS6,CJL:er,&^eLH^&mzJ{:O6^C:OOe OSeOrJ CHrJ&:eJ,S66CSCLOzer:^eH JSk,&JmL6rC&Lee,,6^Cr{ z,rJ>:L6 kHO,e ,Czrr&^FLJJ&:z&DRJO^C=LLzC6O^LHJJC9r&&SC6HSJ^TeH,O^^rH Lg &S:  0CSOre&6,zHr& zH3JO:S^6SOO eS6^zJrS^rHze,lr&6Sz&RCOLzz:,JS>H: ,TJ&C:r6JCeOH:&,zzTrO zP:JL: 6SS,OJeCLrzJre^HH6JSH,&OS^O:Cr6L:e&6SH,,ezOrzr,L SHOJ CS&LSO6OC,OOJ6:J6CSr6 rHLrz6rz^HHOJ^::&LL OSC,LJzS,r^JHe H,&&z:j6OCzL:eL, ^Sr, JiCJr:J6eSHO6eSOHzOr^ :Hr^,LH^ H: Sbe6r:r& S:,HC LSzZr&^LCzLSe,,Jz:Le &teJH:&6zS}OOe^&1zLr  SHLJJ:C&rS&OeCHL6ze, ^OH^J:W6& SS6,CJLCerLzSerL ^!zJs:O6J:JJ^H&LHz rJ CHrJOH6zJrC :H&LJe,r:^LH JeH:^Sr: eB{J^w,&!^Sr^ O}^&::rJHH: &%R&CCz6OCSLzJ VL&>SOO^eC6O:&6^Sx6HezLOz,S:6&C6Lze4,,eCOCCgL6e&:66CCCOre&,^SCOeCCL^J&:^6:SLO eSL,S^6CzLH&JeFHJJrr6qCOL^er,L^ HS^O L&C:r6&S7OHe6,zer,O ^M:JLhH6SS,OJSC&OzJre^HH6JzT6&Ob^ rCOL^zS,,^Jrr rHO^O:r6:CzOJeO,z^:rO  Hrz^: 6CSrO:eeLrz6r:C&H6J^::&SS O:C,6SHz,r^JHe SV6&e:*66C^O,:z,^^Sr,^O1CJ,:&&SHJO6eCLbzer^ :HL zrJ&,S^OCC6L&ze,H^^Or H-O&^:S6LC^LSCO6:^CrL &ASJH:66z:r&:e^LHzLrC SH,JJ3:e&SJOSCHL^zz,2^OH^6SlL&zSS6OCJLCer,&CCrH 6!zJH:O6^C:OLe ,Sz,rJ^6HrJ&:e&L:OOzCsLOzJL^SrOee&HSz6,L^^rG6L:S&LSeO  JHL&::L6 Ce6CtSJ&:N6eeOOOe^,e&r&::,6JCCOre&&eO& Rb&&&Se6HCL &:6&,:,rr zK &S:,66t6 6oz&CC 6q SH JO:^6:Sr&6HJJOSS&nS6OOeO0L&CSz6lCOLJSr&JeHO:CHLCJP:z6&CeOHeLOrS6OCC^OLz^,H^SS66reCLrz&r^z O,eHL&^zrr^JqS TCz,,^JHC Jr:&C:H66CSO.e6,^^:rL CLOJL:J6CSOO&eCLHz^6r^HHOJ^K,&LS^OSC,& zC,r^&HC Hj6&z:PHzC^OneL,^^Sr, JH:^e:&6CSHOCezLFzO,ee HLJ :S&JSJOCCrL&z,,H^&Hz R4O&^S:JLr:LSeL,J^Srr :7e^HQ66zSHOOez,:zOr zVHCJJEk&rSeOeCHL6zzLO^OHzJ:q&& :=6,CS6rer,J^e,C 6!eJl:O6^S,Jze^,Sz,LL CH,J&:e6JS6OeC{LOz^r:^L, ^OG,& SC6,C&OLeHO6zCr! 6}^JP:L6^CS6Oez,CzOr&^HHHJ6:z&8:NO^CELLzerS^OHJ :H &&SS6HC^LzeP,OzerL L4e&S:66JCCOre&L^zHrJ zHrJO:z6:SLOxeSLOzJrC^rH&JerH^ Se6rCOLez:,C^ ,Se6. &::r6 CeO&e6Oz:&r6 eX:J6: &DS,OJOLLrzzre^rH6Jzmh&OLHO:C6L er,,^ HC r,J&e:H66CeOaeO,^^:rL  ZSJLQz6CSrO&e:LOz6rz^_H,^zL^&&Se6&C,LJzC,Z:d6MC L:errS^JH6OrCH, ^Sr, 67r&e,eJCreO e7,^SSr^  O JeDL&,SJOCC3Je:r6:SC6, ,NO&^S:6LCeOOe,,J^Cr8COL:e ,*zrr OJe:,:zLr  eL:C7L&^ S^66CHL6zzrSe&OSe6rezSrL^:Hz OeO,S^erH 6j eJ,SzHHC &ZOLHzJrJ CHrJOH:^&rJ OC,LCz^r:^LH&z?L&^:Hf JH J6eLLr^zr< OsJ  ,&^,rF^H:cJrSJ&,C:O J W&&USOO^eC67:,&&zzOOezL,z_,, zH LCeU,O^^H: L9 6S,r6zS,Ore&,e^:6:CHL&e6,L&rS:O eSL,z6LOC:OHeLLH e,O ^HC ,er, ^ HS ,76zJ,v^^HOOLez,zz/rO JLzz^,z^JS66reCLrz&r^eCO^CrLpzCr: OueJ,:e,,^JHC rHC&C:H66CzO}eO,^eH&H  Q:J,:e6CSrO&CSLzz6rC^cr&J^::&L1 &LC,L^zC,L^&r: Hr6 ,:P6&C^OHeLLH^SL,^CPCJL:&6SSH6,ezL-z&r^^HHLJe:S&,SJOCC,L&zC,H^6Hz ,XO&S%^6LC LSCJ,J^Srr^ 6HJr:e6zS:OOe^,:CLOe :H JJ>,&r:JOeCHeCzz,&^OH^J:4L& 0S 6C OOer,e^erz 6xzSO:O&XC:Oee L.z,rS:&HrJC:eJ6S6OeC7L6z^,,CzH^JSf,JCSC6,C&OSH6,&zHr{^Lf^&::LJ HHOLeS,CzJr&^rHHJ6Jr&WSeO^e:LLz rSe,LzJS>^&&:H6HS_LzejJe^^rO LHH&S:L6JS,O^eJ,CzHr: zHHJO:e6:SJ .e:L,zJ,6^rHJJeH,ezSe6HCOO,z:,L^ ,Se6i &S:r6JCe6re6,z^&rO eP:JL: 6SS,&JWyL,z re^,H6 &.0 O,H6oC6L eo,,zOHC rHO&e:,66CCOWe&,^e:He  H{J,:^6C:;O&SeO z6rC^FH&J^* &L:z6zC,LzzC,,^&He HD6JJ:y66C^OreL,z^Sr   _CJ,:& 7SHO&ezLHzOrSC6HOJ :S &SJOSCrLz:,,r^6Hze ZO&zS:&6rSL:eL,JzHrr &%eJH&C6zSrOOe^,:zLr  SeHJJ:S&rS OeCLL6z:6&^6H^J:,^& S:6,CJCLer,C^er6 6nzJbU&zOSNOze Lyz,rJ C,rJJ:e& S66PC1Lez^LH^:H  J!,&zSC6rC&OSeS,6z6rE ^R^&::L6 S^O,C?,CzCr& eHHJ6lJ&tSeO^e:LLzzrS^,rJJCu&&&:,6HC6LzCrJ^^zr6 LH &S:,6JCC ,e&L,zHr& zHrJOH^^rSO6veSL^zJ,J^rHC:,/r&zSz 6COLzz:,z^ rre^0 &C:r CCeOre6,zJ:rO^7V:J6: 6SS,OSCOL,zJree H6JeB%&&S^6,MzL^zS,,C(HC ,T&JQrJ6&CzOVsr,^zirL^z6,JL: 6C:rO&eeLHz66e^XH6J^MI&LSzOS:,&zzS,,^&HC HHH&z:cLLC^OjeL,z^Sr, J#Cz,:&6eSHO&ezL(zOr^ :HLJ :S zSJOCCrL^eC,H^6HzJSrCzL,r C:e rIe&6SJ6Ze:Lre^,L^:r,OJC&,:zLr  er:er,,z Ce6Oe66^:C6^SHO_ HgL& SS6,CJLCzr&6^:rO 6KzJ>:,zOSOOCeeLLz,rJ CHp :, ^zHS zC,L^z^r:^LH&z&,CeO,66LC&LeeH,6^zrN CL^Jr: 6 CSO,e6& SJ6 C6HLJC:z&NSOOJH J&:S6LCzOJ NXL&&Se6HCL6He,L&^^H: L(&^OrC^CHS n::&r:^6WCL,JeS,Sz6H^ O/JL6z^rC^rH&J^HJ& :66yCOL^zCOAS,6&zzLreL,C^OHLJze LHzcrO ^>Ce L0^er6^HCBL:z&re^HHL^&,^^z,HOLCC,SCL&LSCO^eJP^Jr:H66CzLSSH&LSO6z^rHHJ::J6CSrOO:O&z:J&1SHL:^rLkzJrH SC6OEzC,r^&H^zJLpzC,L^SHL &e&,:^Sr, J/z S,H^rrJOSeCL7zOr^ :HLJ _Sz,SzO:CrL&zer::HHS e#O&^S:6rxHJJ<L&rSO6zJerJzzrezrS,OCe^,:zLr&z&LCe,,,zerJ^OCLLezz,o^OHJ^z,S^:,O6CC^LCer,&^erH 6aze=:J&OC:OLe ,eCz6CC&OOewrHzOrL SH LJewr:^LH JeH:zrr,^ CCL:eC,6^zr+ ,,HzOre^,:&JCHH&,:86JSLHL 6:z&?SOOJP&JJ:e6&SHO^e&LLzHrr^:HJJO:J&,^CrO L0 &S:H HHz z8J&6zL,H zH%JO:J &rCJ:HOJe:r&LzS6He^!LJ,Sz6_COLJCC&&:L6rC,Lr^Ore^Sr&Jz}C,CzMrO ^_:JL: ^er,OzCLLrz&re :rSe:Lrz&IO ,C&L:zS,,^JHz^JLJeHrS eCSO6eO,^^:rrzCO{zC,L^,SO6;eeLHz6r z O:CH,OzCr&^rH6Lze,,r^&HeJ:rrzOr6^eSHOree, ^Sr, 6,OzeLfJLrO C#OL,err^ :HLJ&r^^ r6^6SCJz9,L S,O CH,SLOS:6LC 6.L:,J^Crr^eAeJH:6&C:eOOez,:e r  SH,^Se,&rSJOeC6L6ze,Ke/H^ ,,z&^SS6,CCLCe,,&zaOJ &9zJq.C6^S!OLCz ,zLr  CrsJ&:e&H:J,&CBL&z^Lr^LH JSG,JHSC6,C&LSeH,&^zr5^OF^JZ:L6 CSOOeJ6Cz:r& CHHJ :zJHSOJ^CCLLz^rSzeHJ^&1r&&:O6HCJLze=,O^^H:zLHh&S:O6JC:OrS:,ee,,  zHLJOue6:SLO eSL zJr:^rHzJen,&6Vz&eCOLez:,6^ L6 ,H^zL:r6zCe&,e6,zzWrO::o:J6: &rS,O^eC6r:SrC^,H6JCWF OS^&Hr L^er,,zHHC rf&&e&J66S5Ope6,^^:rL  ,LJL:e6CS&O&eeLHz6 :^uH&J^::&LS^OSC&&:zS,r^&C^ H1&&zxrz^CzODeLLS^Sr, J,,:L:&6CSHJ6ezLHzOOj :HJep::&,SJJCCrLJzeL,:zHe H-OJJS:6LC 6RU:,J^:rrzC.eJH:66zSzOOez,:z6r  :H,JJ_D&rSJOeCHL6z:,nCOr&J:2O& :H6,S LC:rOr^err 6rLJfm:6^5:6Ce ,:z,r: C,JJ&reJSS6OeClO z^O,^LH ^z(,&^SC6rC&LeeHO6eOr8 &u^JH:L HCS6OC,,Cz6r&^SHHJ6:z&YL^O^CHLLzCrS^OHJ^CL &JSS6HCJLzSJ,OzeO6 L4C&SHO6JCCOre&^HzHrJ zHLJO:e6:BL^qe:LOzJr:^r,&JeH,ezSe6LCOO,z:,L^ HSH^RJJr:r6JCeOHe6,zC6r6 Sb:J : 6SS,OJLHLrz re^HH6JeRb& rH69CLL &e,,^ HC^LOe&C:r66:uO2eO,^COS^  3:J,re6CS,O&CeLHz^6r^HHOJ^,,&LS^OSC&&:zS,r^&^^ H}&&z+rz^CzO?eLL&^Sr, JH:z :&6SSH66ezL.zOr^O,HLJ^:S&OSJOSCrO e:,H^&Hz^C4O&^S:JLfeL:eL,J^Srr^,(e^&6J6zSHOOH^,:zOr z&H,Je,L&,S&OerHL6ze,_z&6: tWO& :e6,CJLCCLJ,^er, 6_CJU:O6^C:OJe ,:z,r^ CH,J&:e&,S6OeCULOz^,,^LL ^z;,& SC6OC&OCeH66^:rZ 6w^ J:LJ,CSJ,ez,Cz,r&^,HH 6:z^?SSO^CcLLeCrSe&HJJCaO&&SS6HC6LzeE,Oe^,. L2z&S:O6JAOOrC L,zHr^ zrrJO:^6:SLzSeSLOzJ,H^rH JerHzCSe6rCOLez:Oe^ ,>e^ZJJH:rJ CeOHe6,zHOrO eR:JJ: &!S,&JHLL,z re^,H6^z%xJ&,:65CJL e&,,^JHC rJS&e:666CeObeO,^^:L^ ^HrJ,:C6CSrO&eezOz6rC^+HOJ^BK&LSC OCLLJzC:Y^&HC HHJCl:H66C^6eeL, ^SL,ezISJ,:&6CSH6Wez66r&r^^0HL:r:S&LSJ&6CrLz:,,r^6Hz: #O&zS:&6rSL:eL,Jzzrr &0e ,Lr6zSrOOC ,:zLr  Sr^JJ:S&rS OeCrL6zz, ^OHzJ:aL& :r6,2JO:er,J^erL 6HeJ4rO6SC:OOe O&z,Lr CLrJ :e&rS66rCiOOz^O:z6H J:t,JeSCJOC&LeC,,6^CrP OT^&::LJ SCO,e^,CzLr&eLHH J? &sS O^SHLLz rS^,&CJCAL&&:N6HCJLzS/&e^zrH LUz&SHz6JS:J e&L5zHLJ zH-JO:^CLSLOzeSL&zJr:^r,&C,qr&JSz6rCO6^z:L6:SH: &%JJ6:r6&CeOHLC,zzOrO zg:JL: 6SI O CHLrzere^HH6Jz&L&OSeO:CLL z:,,^eOL ,U&&e^:66CeO1C&J:zxrO  rzJ,:J6C5rJ^eCLrz6re^3H:J^rOCrS O:C,56zC,,^&,O H(^zr:H6OC^<CeL,^^S,OSCmSJ,:&&LSHO6ez6vSJrz^PHLJ^:S&SSJ&ChOLJzC,H^&Hz^rcO ^rr6OC^LSeL,Je:rrz&O,Jr:&6zSHOOS^,:e66n SH6JJWS&rS&OeS,&Czz,L^OH:J:GL& SSeJCJLSer,z^er, 6HC;e:O6zC:OJe ,Sz,,^^6HrJJ:e&OS6OzCP6OSC,_^OH J:R, LSC&L6,Leer,6eJr{ Ok^ HHH6 C:O,C6,Czrr&^SOCJ6:C&3:LO^e:LLz ,e^,H JC1L&&SC6HC6Ozen,6^^H: LBC&Sr,&eCCO,e&,:zH,& zL< ^:^&tSL&reSOCzJOCzOH&JCTH&CSz&ZCO&^e:,L^^HS^&8J^_:r6&: OHeJ,zzyrO ^m:^Lc^6SSOOJe:LrC:rez,,;Jz;L&O:eO:CLL zS J^JH: r<z&e:,66:z &e6,e^:r6  ,6J,1^^LSrOzee6,z6rz^9HOS:::&6S 6rC,L^zCOrSSHC ,f6&C:FJOC^6HH ,^zrr,^H4CJr:&6e6JO6CaL!z6r^ :HLJ rL&LSeOCC&L&ze,H^6J: ad&&^S:6LC^LSe&6:^Srr &e^JH:&6z:r^^ezLczL,S SH,JJr,,JS&OCCHCJzz,H^OrCJ:4JzQS:6,CJC:er,J^erOeC-eJU:OHHC:OOe O4+Jr  SHr O:e&HS66CHeLOzer:z&H JSD,&Jj 6rCJLee,,6^er< OHr&::O6 CSO,ee,CSr,L eHrJ6:S&s:6O^::Lzz r:^,,HJCHe&&He&&C6LeeA,e^^,r L, J6:,6 CC66e&O:zHr6^eHdJ&:^6:SLO eS6,eHrC^LH&JS8H SSz&rSHL^e,,LzzHS ,ZJ&CO&6&CSOHe^,zzrrOz^O6JO:z6SSOOJ:OLre 6,^HH^Jzrr&OS^O:CL^SzS,O^JrH rn &eHH^CCeOreO,e^:LL  r+CJ: &HSr6geeLHz6rzr&HOJ:::&OS OSC,LJS,,,^zHe 6(6&z:96OLSL:e6, ^Sr,  #CJ6rS6CSHO6J L3z6r^zH6 J^::&,:COCCrL&Sr^,^6He Ee,&^:F6L:HLSe&6:^Srr &e^JH:&6z:r^^ezL2zL,& SH,JJI:zSS&OSCHOSzz,F^OH^ ,yL&^SS6OCJLSer,&^:rH &gzJu:O6SC:JLS6,SzLrJ^VHr J:e^H:lOzCHLOC,r:zSH zS4L&JSS6rCSLeC ,6Czr, Oaz&:IJ6 :OO,eJLzzrr  eHHJ6:z&74O6,e:L6z ,!^,LUJCHL HSe6OC6OCeV,O^^H:: x J/:,6eCCOLe&Oe:Jr& CH8J&:^ &SL6z1OL,zerCeLH&JeDH&6Og6XC&L^e,,L^zHSz,L:&S:L6&CSOHS6,zer&^ zH,JL1r6SS,OJeCe z&,H^HH&JzAy&OS^JOCOLCzS,J^JHC rk&:3:H6JCzO#eO,z^:,6SSp:JL:J&OSrO&ee6H:Cre^HHOJz::JHS &vs^LJeP,re6He H(6&zOO6OCzL:e&, z(r,zJOLJ,:J6eSrO6:rL;e&6H :H&J ::&,SJOCCrOCzC,O^6Hz nGJ&^H:6^C Ore,O6^C,J &HSC6:&&dS56^e^,:zL, S^HLJe:C&JS&6HCH&6eH,j^ H^zL8L ^SS6,r:LCe,,&zPrH &.zJYr66^C:OLe^,Sz,rJ CHrJ&:e&rS OzCILOzC,^^LH JSxH Jrz^,HJ&O0J&LSH6HCC_C^,:L6 CSOHwM&^:668C^Lze L,zOHz e#eJrQ;6eSOO6C^LNzHr:  H,JO* 6C:LO&CHO,eHr:^^H,^Ge^L6zHr6 zYS^C,:^Or6JH9SJH: 6S^zH&Je#HJJLD6HCOL^eg,L^ HS  ,(&S:r6&S<OHe&,zzorO SL6JO: 6SS&OJeSLrzz6,^rH6JzTJ&OSzO:CL::zS,,^JHC ro&&e#, ICzOleO,e^:rL  ?S, :J6CSrO&eeLHz6,Ce^HOJ^::&&S OSC,LJSS,r^&He rE6&z:16OC^L:eL, zMr, JYCJOML6eSHO6e O :,&rCOLze^,J e,L &VeJ^z:,C^6Hz W5, OrO^zHz6 : &%:666CSO^J6:66zSk6&z^,:zLr ^gH,JJ:CJLSJOeCrL6ze,+^OH^^HES& :h6,C^LCer,&^erL 6beJ8:&6^S=OLe L,z,rJ CH,J&:e&HS6OzC9LOzz&z^LH JS76&eSC6rC&L^(L&5:&r,^iw^&::L6&:O LHrJLee6rC&LzzSLL&,S O^e:LLz&OAC OC +_J&&Se6HCL&,:C&,:H6J &HL&S:,6JCz&^0 &r:r6&zJOLe:Lr^ S&6,eSL,zJrzz^OLerLJ^er,^ f: HerL6^ HS ,36^Lre^eHCJ::S&H: O:C,,&eC,CzOH  Lt&LOzCre^HH6J rO^zrC^JHeLeeL,,^JHC 5r:zS,O^6HOO,CH,^^:rL &,HeC,^^LHe S:,&&: 6&C^HJ J::&LS Oe::&Su66eSSLJe&OHzOHJ^,r J e&,:^Sr, J}z^ ,z^LrH SeSL:zOr^ :Hr^O,Jze.H &H^&::6&LC:OHC,LSer:r&HC LSe,,6C,6eeCLCz:,:z FHJ:HO& :Ore^LH,JJ:C&{ML^mH^J;:e,,^zH^J:uL&&H&^^qSJzm,,^zzrH 6fz&SrH^XrJJSHd6^S &,C&,^ee,6^zH:OSC LOz^r:^r,^ee,Szr,6^TH J6eL,:^zrd OXJ^&,  :rO ,% &&:^r^^rHHJ6:z6Sr^ bxCJz/H,H^zHJJCWr&OHO zr, Lb^&eSLrH LX &Se,:j^_Or7 ,:z^r6 zHMJ,Lr^ rC^r.eJ6:L&O^OHzJeVH&6S &SHC6wer,C^ HS ,26^&,O^JrAJ&::&OS rJ^^y:JL: 6e:z eHLJO:H&,eCO9eL,e^:*: OHz reHL,^JHC rTO^Hr&^CrLJS:C&zS ,SCzLeeeLH^&r O L^ezZ,6H 6J&eeLr&&::OSC,LJzzL^SzOCCOLC ,,L^erHJ :eJrSe6&Czr&zC,r^6H  :eSLzzOr^ :Hr^ELOzHrL ^HzJ^:6& SSHS ^xO&^S:6r:SJLc^JHe^66SHOLzz: &rS9OOe^,CCCO:S LCe:L*&O:HOeCHL6z OJS^OSCJrOz&r^^VrHODeJ,&^erH L,Oe,,,^SrrOLe LHzJrJ CHrJOH:^&rJ OC,Orz^r:^LH&z&L^^S,*^^HeJrWJ&fSSOJS,jCJC:L6 CSOHC:&SSJ6:SO,6eC,OzJrC^LH6&Sze,,^,HJJCbfz,rr^,HTLCeF,O^^H: L! 6S,r6zSOOre&,e^:L&COOzz:,z&LS^OeC^L,zJrC^l,eeCLzzrr ^,:H H:O&e:HrH^6NJ&C:r6O:OJzWzJLSCL COr^er,,^:He&rhJ&C:H6LS^H  ed3&OS^OCDN&:0&6CS:LLeeLrzCrz SrLJ6RJ&rS r&^,.SJ,:J6zvz SH6J :SOXC6OeC,Er&eS OSC,L6C&&OCCO,CrLizL:,6^C^L:eL,&C,O C:O6JO::6eSHO6e 6 S:&HS6L^e&LH&6SSOCCrL&z^L^SDO,e6L6&C:L6LC LSeHO,Sz6 CH%:JC:66zS1O,S6& :CLHCzOHe ,6z rH :CLOgzz,3^OHJzz,^z^r:JJH6J&:^&H^:r^ 6.zJV:,JzHC PN6J&:H6zC HO H:e&HS6O S^ r::&2SJ6HeeL&zz:c6 C&LeeH,Le66LCHrLerrC6eS&O,eJ,CzxL CrO^e!Lr^SHz zCrOQz rS^,H6^LL,zz,I^,:aJ6:z6:Sr6J &HH&S:,6JCz&&DJ&r: 6:C LJJJv,6:SLO ee6O:r&OC:,eerLJz:SS6eCOL^z:,re_O:e O#e6H  CHOJ:HvJ,z,r: ^v:JL:& ^r& :oCJ^:e6rC OfJSmO&OS^O:Cr&rMO6CSrrX^9c&&e:H6L:& HN &HSO6OeHLzz ,HzHrS :e:L&z6rz^pH,^rLozJ,, &C6OHzC,r^&H^^JLLz&;C^ rL &:S,ezzr, J8CJAH:^SH: &GOOzSz6rSJOJCgLe&OSJOCCrL&ze,H^6Hz ,oe&^S:6LC&6&:CJHS,6PCJ%:Jz:66zSUO,:H& :&6rCJO^e6Lq^SS^6SCHL6zzrSCHO?CJ,SelH&^^>S Z_^&eSr6JCkLSzJL,6CSzOLe ,SzHL:C&LCeJ,6^ r: HH,&C:L,r^SH JSn,&6q, ^s:J6; &SS:6&S,%CJC:L6 CSOH:UJ&:OLSCrO:eSHO^zr% Lo&JCze,J^,HJJCPV^=r6^SH: Of&6:eJ,J &H&&S:,6JCz&LgO&OS^6&CO,Oe,,zzPH^^uH6L6e0rC^rH&J^H^z%,,^ HeJStCOO^^HS ,H^e^:r6&Ce6Oe6,zzc,&z&Z:JO:  OS,OJeC6rzzre^rH6Je/>zrS^&::HL z:,,^ HC O3& e:O66CeOve6,^zerL  rHJ,: 6CSLO&eeLHz6,S^(HOJ^::&LSzOSC&O4zC,r^&Or Hx&&zHk JCzOLeL,C^SL& J,,LJ:&&HSHJ^ezLHzOL^ :HJeD::&,SJ HCrLJzeOHC He O<O&SS:JJC &LJ ,JzrrrezaeJr:6^CS+O _HLbzLr CrH,J :C rH^OCC6L6z:,Xe H^zOe^& :,6,leLCe,,&S^rH ^LrJH:O6^H,OLe^,SC,Oz SH&J&ap&Hv^Oz:6mzz^,L^LLCJShL&J: 6rCzJ,er,6^zOL Obz&:HL eC:OJeJLHzrLz e,&:J:z&OSO&re:LOz LC^,HeeL1,&&Se& C6LeeF, SHra Lk zr:,6 CC&r:^,Cz6r6 :HR^ :^ OO6O C,L,CLrC^,H& z<H&^rr6HCOL^Cz,L^^HS &,:&S:r6&H>OHe&,zC?OJ zHLJL:C6Sm&OJ:,+Jz&,H^HL^JzjH&OHSO:CJJuz:,,^JOH rnJ&eHH  CeOOeO,S^:LJ  ,L:O:J&rSr&^eeLrz6&6^EH eH7#&LS JHC,L zC,6CSHC Ht6^::_66C^6::&,^z,r, etC^6:& rO,O6CULKCer^^FHLe :S&&H:OSCrL&S,,H^&Hz L,e&zS:6LfCLSeL,JeCOO JHHJH:^6z4LOO:m-OzLrS SL&JJ:S&rHHOeCO&Cze,}^OLSJ:>O& DS 6C Orer,z^eLO 6,HL6:O6:C:JJe ,:z,6  CH6zS:C&HS6J:CPL6z^L:C&H^ ,?,&eSCJ6C&&r,,,6z>rxe6c^J{:L6SCSO&::,Szrr&eCHHJ&:z&LHeOze:LLSCrS^LHJ^C,O&J:H6HC^LzSL,OCn H L3S&Sr 6JCSOrIz,ezOOC eHUJO,b6:SOO SSJ^z ,r^rHzJeLC&6Sz 6C6L:z:,6^ H: ,fSJO:,6&CeO e6,ez-r& ^H,zz:^6SS,6TeCL,z&,S:6H&JzPRJ S^O:CLOzH,,L^ HCz Z&&e:HJ6.SOHe6,^zurL^tbS^,rz6SS,O&eCLHe:rze4OeJzAj&LS^OSS_LJzCOJ^JHC H(J&z:v6OC^zHeL, ^Sr, Jh:Jr:z^,SrO6ez^ezOrz :,Lze::&JSJ6HCr6zzeO&6eHz OhOSLS:6OC 6Se,,eSLr, &%eSz:66eSF&O:CL4z r ^rH,^e:C J^COeC6L6rO,0^6H^CH9L&CrO6LCJLCre,&^CrHz6,SJH:^6^S,OLSC,SC SS CH&J&66&HS&Oz_SLOzS66^OH JS6C&JSS6r:&&:er,z^zrL OrS&:H^CzCSOJeJJ^zrrJ eHCJ6::^&S6O^e: Hz r:^,HeeL1,&&SeezC6LeedOOCCr/  3 Jr:,JeCC&JJC,ez6r6IOHAJ6:^JSSLOC*OLLzJrCKeH&JCuH 6HS6HC^L^e,,LeCHSz eS&C:&6&L6OHe&,zz:rO SL6JO: 6SLCOJeSLrC&O:^rHzJz_L&OoSO::^B:zS,J^JJ& r7J&erO66C:J&e6,^^:JS  _:J,HJ^US,OeeeLOz6L:^!,zO}::& S eJC,L zC&C^&rBeJ!&&z:oe:C^OReLO SHrL C8CJ6:& ZSH&e,CLFz^r^:eHLJ^:Sz,SJ6HI LJze,HT,Hz HqO&Sr66OC LSrC,J^Srrz&,:Jr:z6zSLOOSS,:C^S: SHJJJ6&&rSJOe:zL6z:6&^6H^J:6S& S:6,:JJ_e,,e^erO 6r:J?HzCeC:O e ^rz,r  CO,J&#s^JS&OzCf^ z^,?^LHCeOAL&JSCeeC&LCeHO6CSrH ^I^J,:LJCCS& JS,Cz&r&y6HHJ&:z&OSOOS=6LOz rS#CHJJSDr &H:6rCzLzeL,OeSH:z^&z&S:J6JL OreJ,e:Or6 :L&J6:^6:ORO e:L,CJ&L^,HeJeYO&6,&6QCOJmeY, ^ rT ,9 &C:J6:CCOHe6&zzfr6 ^HHJL:C^OSLOJeCJrz&rC^HrJSU_H&OS^&,CLL zS,,CCHC ,1&&e:H66Cz&BSr,^zsrL ^oSJ :JJC:LO&eCLHz&rz^CHOJ^H &LS^OSCOLJzC,r^&r^ H*6&z:a6OCeL:eJOO^Sr, JJ:Jr:J6e}H CeeLOzOrS :reJ HZ^^SJ6LCrJ:ze,H^6Hz:OiO&:S:6zC OWe,,S3&rr eTeqH:66eS(O6e^L,Szr^ SH,kJ:C&,S&&evLL&e},#^ H^z,mL :zL6,CCLCLr,&^CrH SyzJLre6zC:OLL ,SzLrJzCLOJJaH&HS^Oz:LLOS#^H^LHSJSJO&JSS6rCzLeeO6C^er. OJe&::O6 :S ^e Lrzrrz eOCJ6:z^6S6O:e:L6z r:^,HS O5,&&SeC6C6Leej,&^^r,ezX^&S:,CCCCO,e&,e6&r6 zH2J6:^6:SL6zHZL,z rCe H&JeqH 6Se67C&L^en,LS6HSz,uz&C:O6&CCOH:z,zCKLr ^H,JL:z6SH,OJ:CL:z&,0^HrHJzL,&OH^6:CLLCzSLL^J6M r,& 6:H6^Cz&eeO&C^:OL^OoSJ&:Jz,Sr ^ee&HeCrz^,HOe :: &S JSS;LJe7,rCSHe^&_6^z:66OCCL:Sr, :Hr,^^6rJ,:e6e:JO6ezLhzO6z :H J ::&,S^OC:r&^zC,6^6rA TL^&^H:6^C O,e,L6^CLz &HSC6:&&ASm6 e^,:zLL SOHLJS:C&,S&6 CHL6SH,H^zH^ 6PL& SS6,,^LCe&,&^erH C;zJLre6zC:OLe,,SzLrJzCO JJc6&HS:OzSJLOee66^LrOJS,r&JSC6rC&zHeHLD^zre Oue&::^ HC:OCeJCezrrJ eHHJ6::^&S6O^e:S,z r:^,HeeL9,&&SeHFC6LeeuOO:Hr- Sa J&:,JxCC6L:S,ezCr6zCH7JO:^6:L O CJL,eLrC^LH& rOz&6:O6MJLL^ek,L^^HS &,:&S:r6&JzOHe&,zC#6e zH JLor6S:zOJC:& z&,J^H,fJzlY&OS^eLCLO,zS,:^JH: r8C^L:r&3Cz:^eO,z^:rL  Hrz^: 6CSr=HeeLrz6r:C&H6J^::r,S O:C,6J#L,,zHHe ^q6 ,:8&&HHL:C2, Czr, JvCJrOe6eSzO6C&L%z&r^^O,eJ^5J&, ^OCC,L&ze,H^^Or HwO&^^H6LC^LS:,,S^Crz &LLJH,Y6zH=Oze^LJzL&h SO6JJTH^ SJOeCHLRzz,H^O,^C6hOJ,SS6eCJ6OerL S,rH^rhzzH:O6^C:OLrS,SzCrJ^ HrJ :e&&LvOzC^LO&Jr:^OH J:Q,&erL6,C&Le&:,6^er0zOOHJW:S6 S&O,Sl,CeLOS eHCJ6Hf&oSOO^e:^ z ,J^,rLJCDL&&:rJ C&OOeA:O^^rE LN &S:& :CSOre&:ezHr& zH6^C:z6:SLH eSLLzJrC^rHze,wr&6SzrACOLzz:6L^:HS e<J^r:rJ:CeOO:C,ezcrO L;:JO: JSr^O C&LreYrez H6 C,&&O:6O:S:L zS,,^JJr rHH&e:C66CCOvez L^:rS  CJJ,: 6CS,O&CM&Jz&rz^4C:J^kT&Lt ^OCLOrzC,z^&,L HHJzr:B&HC^O:eL, ^Sr,:C%CJe:&&JSHOJezL6CCrz^ HLO :S&LSJOCCrLz:,,r^6Hz68NO&zS:&6rSL:eC,Jz&rr &(e^Hr 6eS^OOCL,:zOr zTL^JJ+J&rr^OeCHL6zz,S^OrLJ:o6& :?6,SJ  e,LA^e,, 6HOJ{: ^HS}OLe ,Jz,r  C,reS:C&zS66LC!OCz^LHCzH  ^T,^SSC6rC&Ler6,6zOrF^H+^JH:L6:,JO,Cr,CJJr& CHHJ&:z&LHeOze:LLJ:rS^LHJ H, &JSe6H^:LzeH,OC^rO LHr&SH 6JTOOr:&LrzHr: zLeJOrr6:SJ Be:L,zJr&^rHJJerHzCSe6^COO,z:Le^ ,Re^QJJ :r  CeOHe6,zHOrO^LU: V: &AS,OSr&LreHre bH6Jeuq&6S^6,_zL^zS,, &HC ,?& e,J6&SOO9eS,^e&rL^zLOJ,?L6Cp,O&eeLHz6 1^-H:J^gz&LSzOSC &hzS,e^&Xq HG&&z:c6OCSJ6eO, ^S8& J=SJr:z^,SrO6ezr:zOrz :,LCj::&CSJ66CrO:zeL,CCHz e>OJ,S:6LC LSrJ,Jz&rr^,ReJ,:6&HNJO6CL,: Sr  :H,JJ:C&6HSOCCHL6^O,3^6H^ ,,z&^SS6,e&LCe,,&ee6J &HOJF:S6^:&OLCz&Oz,,L CrOJ&:e&HS6eQC{L:z^,z^LHzJSG ^iSS6eC&,CeH,&^zrs O?Sz6:O6 CSLLeJ,SzrO&^rHHJ::z SSO&Ce:LJ:4r:^,HJJ&Fr&JSeJHHCLee^,Oz,H:^e1  wr^6JS OrXr,ezHr6 z&OJOYL6::VO CZL,zSJ&^rrHJe:J&6Se62C6L^e,6z^^HS ,::&C:,6&S7JJe&,zz0H: ^HbJLr &LS,6HeC&^z&66^HL6 H}2&SS^^6CLJezS6,^SHC zW&e6:HJrCzO6eC,zzLrL,roSJL:J6:SrOz>,Lrz6rz, HOJz::J6,SO:CJLJCH,r^&HezHLC&e:66OCCL::&, ^SL   H,Jr:S6eSHO6ez^rzOr: :HLJ AO&,Se LC,L&zeL:^&He {rOeH:f6SC O&e,Ov^C,LeSGeJC:66CSkOOe^,:H r ^JH, L:C&LS&6r: L&eO,M^eHz wBL& SS6&q:LSer,&z,rr &TzJLre6zC:OLS6,:zLrJzCO JJc6&HS:OzSJLOee66^LrOJSLe&JSC6rC&zHeHL(^zre ORe&::^e,CSOCeJO^z,rJ eHrJ6::^&S6O^e:6Hz^r:^,,JCLU,JHSe6^C66,e-L&SHH:^k/  z:,6JCCOrre,ezzr6^&HVJ&:^&O,SO CJL,COrS^,H&JCjH&^rr6HCOL^Ce,O^^HSz,L:&S:e6&SOOHCS,zerOe ^HzJL,r6SS,OJeC^&z&,6^HrrJzTr&O:QJ&COO,zSL^^ HS r5&&e:O CCeOBeOOHznrO  Hrz^: 6CSr&LeCLrz6LzS&H6 L::&CS &6C,O^:L,rz,Heze/6&z:y6O,:L:eS, z^r, ^>CJJOH6eSzO6SJLHz6r^^5HLJC,O&LSJOCS:LJzC,H^^Or H/O&^1C6OC^LS:,,S^Crz &,^JHH 6zS6OCezLLzLr^ :HLJJ::&rSz ,CrL6zz,H^6HzJ:qL^^SS6,CJLSer,&^erH 6pzJ<:O&JC:OLe LHzzrJ CHrJOLL^zrC^6>S&C:L,r^:H JSh,&6HL J1:J6Cz& SO6&CHOJJraJ6 CSO,e66J:Q6SSOOzze,eJSrJ :H JCCz6LS6LSe ,ezSS:66C6Lzes,,:,OOCeL JHh,6JCCOreO6,S&OSCO, ee,;zrre LHrJ^:^6&CzH^ z.H&6SzOS:cJJtr6CeLOeC^Oke6u^^LH^ r::,Sz^rO ^K:JrHH^zH  :m,&^YD66SJH  o!>&OS^OCrb&::e&e^zr^ ru&&eS:JSHO ,:SO^S &rz,O zC,zz6SLO&eeLHz6rz^(FOe <r& S OSC,L6: 6JS O6 L!J&z:76OCJ&Ce&,:^Sr, J+z^CrC^Crz 5eSL6zOr^ :Hr :L^z,H,66-&L&ze,HzJ&9 HxO&^:,6LC LSS,6z^Srr &weJH:S6zS- 6e^,:zLr^ SHOJJI, ^SJOeCH&^zz,H^OH^J:lJz=S:6,CJJHer,J^e,,Sz}eJs:O6SC:OLe OSS6r  CHrJ&:e& S6Oz,sLOz^r:^OH J:.,J^Lr6,C&Lee:,6^zrY z,rJW:L6 CSO,e ,Czrr&^XLJJ&:z&YSOO^CtLLz rO^,HJJCDr&&Se6H:66JeH,O^^H: LHP&SH,&zCCOre&,ezHre zrrJ^:^&HSLOzeSL,zJrC^CH&JeEH&JSz6rCOOYer,L^ HS^6yJ&S:r6JCeOO:C,ez%rO^Ca:JO: &rH^O eCLrz&re^rH6Jz:&&OS^O:CLL zS,,eJOh ,U&&e:H66SrO_SO6CzmrL  vSJ,:^6CcrJ^eCLHz6rz^XrrJ^lCH6S 6JC,6rzC,,^&He HR^zr:H6OC^6 eL,^^Sr&e:{SJr:&6eSHO&ezL7^er^ :HLJ :S&,SJ&CjOLJze,H^6Hz &!O ^rr6OC LSe,,Jzrrrz&,:Jr:66zS8OOC&,:z^J, SH,JJ:C&rSJOeCrL6z:6&^6H^J:fL& S:6,S^^re,,&^ere 62zJuHOzHSVOLe ,Sz,r  CrLzS:e&,S6OSCMLOz^r:_ H JSn,&^SC6LC&6e<J,&^er* OB^JJ:L6  LO,ez,Cz,r& eHH J,r&tS O^CzLLz rS^,eSJC5&&&Se6HC6LzCrJ^^zrO LHL&S:,6JCC^ e&,CzHre zHHJO%eeLSOO^eSL&zJrC^r,&z:wr&&Sz6HCOOrz:,LR HS LhJ&S:r6JCe&HYC,ezHrO ^V:JC: 6S  OJCgLrz&re^HH6 C,&&OSSO:S1L zS,,^JC, r_e&e:H66CzOfC&J:z%r^  H J,:J6CSr^SeeLrz6,H^+H6J^n,^zS^OSC,LJzC,,^&HeerR6&z:Z66C^L:eL, ^Sr, J7CJ::&6eSHO COLWzOr^ Cree6,Lz^HS OHzJHG,,LzrHz cvO&J?z Srr663g&6SSOzCSL6eL: &UShOOe^,CCC6CSrOLJz=r&rS&Oee:6 :H&rC:HC &mL& SS6H#H H#6&JCOO:CzfSJr:O6^C:OrHHLHzerJ CHrJOH,^&HS zHO&z:r6:^&rOJSZ,&JSzJ,HzJL:&&&C36HezOJz ,z6eS6O,eJ,CzhLeCCL&CL,Oz&rCOCC,LLz rS^H,6COHJ&^:H6HC6LzzS&HSd6HeSKe&S:,6JCCOOeC,ezHr6  OOzz,Jz6reJJeSL,zJ,:C H&JCYHJrSz6MCOOeLz,L^^HS  iJ&C:r& S OHe&,zzCrO ^c: 66,6SSOOJCJLrz&reeHrJJzcr&OSeO:CCL CSLO^JH: r< &e: 66:z6 eO,e^:r6  HOJ,HJJ^SrO eeL,z6rC^?HO r::&6S 6HC,LJzC,rz&He rp6&z:;6JC^O,CJ, ^Sr,^CpCJ,:&JerJO&CHLcz^r^^ HL z,O&,:lOCCOL&ze,H^6Jo udz&^:&6LCzLSe 6W^SrJ &rHJH:&6zSjOOeS&6zOr  SrJJJ:S&rf&J:CrLezz,O^OH:J:_^SfS:6 CJ6rer,J^erH 6_:z&:66^C:6 e ,:z,LJC(H,JC:e&6S6O:C<O&SLr:^^H  L;,&JSC6JC:LCer,6z6rX 6l^JH:L6CHOOLeJ,CzCr& CHH JOa&HS6O^CeLLz rSzOJrJC7L&&:&6HC6LzSU,&^^rH LZz&S:e6J:C6,e&,SzHrJ zHJJOH^JzSLOzeSLOzJrS^r,&J:?H&JSz6rCOLez:,LeLHS ORJJ8:r6&CeOHe^,zzHrO ^{:J&: &r:rOJeCLrSHre^rH6^zL&&6:qO:C L eJ,,z^OL ra:&e:L66CzOjeO :^:r^  H6J,:^6CSJ&:eCL&z6OO^oH6J^::&LSC OCLLJzCOe^&HC Hr6^S:H6zC^OLeL,S^Sr ::;SJJ:& 6SHO&ezLnzOrSC6HOJ :S CSJOSCr6&S:,r^eHz O;O&SS:&6%,LSe ,Jz,rr &feJ&:S6eSHOOS^,:zOr ^fH,Je,L&,S&Oe:HL6ze,}z&6: GpO& :L6,CJLCerH6^err 6_CJK:O6^C:JOe ,Sz,r  CHrJ&:e&HS6OzCHL&z^r:^LHe z(,&JSC6x:NJ^U 6eSr6He:,,ezrS^,rHO6CL,Czrr& ^Oe S,e^6r, e:&&^:06JS^HCJC=r&&:SOeC6LzeV,&^^H: LHz ,:,6 CCO,e&,ezHr6^LH!J&:^6:SLO eSL,eorC^,H&JSBH&&Sz6wSzL^z:,L^^HS ,KJ&C:r6&CeOreJ,zzZrO CHOJL: 6SSH CVO&J:J6C^LHzJzdW&OSJ^z*^J&q&,:^JHC rH CH:r66CzOreO,^^:rLC^hSJ,:J6SSrO eeL&H4rz^.HOJ:::&OS O:C,Le:L,,^&He 6i6&e:46 HHOdeL, z r,  fC LLe6CSHO6eeLfzOr^^O&#J ::&,SJOCC,L&zS,H^6,T D7O&^S:6LC LSe,LC^Crr &4CJH:66zS0Jzez,:zLrz SHLJJFH^ SJOeCHL6zz,H^OH^eENL& SS6LCJLCer,J^erH 6HHJj:O6^Sr6He ,Sz,r6eJO2e:,^zOr Jr>6&S:J& SeHe ,7,&JSC65H Jrn^&,^Sr6 OP^&::r LHL LHr&&zOrz eHHJ6:  JH:^,CrL^z rS^,H6eJL,zz,3^JC 66eR,O^^HCzJL(e6rC^:rJJJH(&^:O6  f,&zz,C^zHSLSS:&C9,6&S,.e z:6JrSz6=COL^z6,L^ HS ,0J&C:rJ&OSOre6,zzWrO S#: 6Vz6SSOOJC,Lrz&rez,,,JzF,&OSeO:CLL CS,^^JrF rf^&e:666CzO^eO,S^:rO  cSJ,HJJOSrOzeeLOz6re^p,O 6::&JS 6rC,LzzC,rzOHe LV6&C:}6&C^L:e , zyr, ^qCJO:&6e,JO6ezLqz&r^^DHLJ r:&,SJOCC,L&ze,H^6Hz w.O&^S:66C LSe,,zz rr &ye&:<e^,r  ,HO& ee6CC:O&e:4n&:S&OeCHLLCL6SSCO#e6LOz,H&^:HrJ&2O,e^erH 6HC&o:O6^C:OOe ,Sz,,^zrHrJJ:e&,S6OzCFO&C&r:^6H J:c,&JSC6rS Leer,6^Crt 6I^&::O6 CSO,e ,Czrr& eHHJ6:z&HS6O^e:LLze,6^,HJJCEWJ:,;^LH JO:J&SzHH: L/ &SS^6JCCOre&,ezHr6zzO&J6:^6:SLO e:L,zSJ ^rH JeUH&6Se6+C&L^z:L ^ HS ,5 &C:r6&Ce66e6,zzKr& ^4:JL: eOS,OJeCLLz&rC^HH6ze#-&OS^67CLL zS,L^JHC rHL&e:H66CSOOeO,^^:rrz<OJezL66CS,O^CrLHz6rz SOSeA,6zOr,OSC,Lzz:,r^&HeJ:OL&S::6OC^L:erOLSe66CHrJeN,SzLr^6SvJ&S:66,^HHLJ :S&,SJOCCrL&z:,6^6Hz yk,^r,J^SHeOHeC,J^Crr OrLzSrezrH6JCH,& :zre^:H,JJ:C&m{H :_&&C:e6^eVO_C&LCJ:,&^ewSJOwr,^zrrH 6{z&Srb^4rn SN,LHz rJ CHrJOLH^ He eHHLJeHr:^LH JeLee6,r eHzJ&Sr,6^zr5^&O:Jp:L6 SJO,eJ,CzJJH eHHJ6::&QS6O^C?LLzC6O^LHJJC*6&&SC6HC^JreH,O^^re L_^&SVOzCCSOre&L zHr6 zrrC^:z&7SLOSeSL,zJrCzDH&JesH&JSz6rCO&3,H,L^ HS^35J&S:r6^CeOO:C,ez2rO^&g:JO: J-,JO eCLre,re^HH6 HOe&OSzO:CLL z:,,^ HC rHe&e:H66CzO8eO,^^:O^ ^+SJ,:^6CS,O&CS 6z&rz^oH:J^::&LD:C3C,LJzCOr^&HC HsJ&z:L eCzL:eLO ^SrL J#C& :&6eSHO&ezLpzOL^zeHOJ :S&,SJ66Cr6&e,,H^6Hz B%OJGS:&6SeLSeO,JzOrr &=eJHZS6zSFOOee,:z6r ^LHLJJ:C&r::OeCrL6ze,x^ OH 1tL& s66,C LCe66S^CrH 6rzJ_:66^C:Lze ,Sz,r  CHrJ&He^LS&OzCDLOz^,J^L, eHDL&JSC6rC&OLeH66zHri O_^J^:L&<CSO,z:,Czrr& CHHJ6:z BHJOze:LLz rS^eHJ^C,O&JSe6HC6LzeH,OC^rO L5 &S:S6JSHOre&6CzHr6 zHHJO:^6:SOO eSL,eSrC^rH&J:D,&6Sz67C, JeH6JS:SL_CL6rJe^^JC:O^e6,zz/r,C&O e6r:zHr& 6G6LOe&re^HH6J ,Cz,,, 6HJ 6S/6 SL6=CjO/e6r^^DCSO&eO,^^:rre:L6ee,6zJHeO^C6LHz6rz SLzC,LJ^^rH SHHJz: ,r^JH: ^=6&z:%6,HH XNJ&HSS6HCzL JOhr6eSHO6e &z: 6rS OezHL&^ r:^6CLL&ze,H^6Hz o:O, S:6LCeOSe,,J^Cr4S7L^e,,q LrL&J=LJe:CLbC:O&e0,C&OSeOeCHL6z 6CS:O6e .&J,SS6,CJLz1-&^SL6JCMLCz^,Jz,SHOLe ,Sz,rJ CHrJ&:S&HS6OzCyLOz^&CSLHe ,Z,&JSC6p:: O}O&z^S,H O2^&::rzrHe Olr66:6L^C6OSe:HHz rS {<&JLze,:^,HJJCB=^CrL^^HL 6:^LCSS6rCCOaer,L^ H&  e^L&zHr6 z-S zLLzJrJJuHrJeSS&6CeH Je+H&6Sz6;COOr::,&^SHS ,xJ&z,L CrOJS:H,zz%rO ^_6JL: 6SS,OJeCLrC&&,^rH6Jzya&O:zO:CL:CzS,,^JH: rZJ&eq,JrCzOseO,z^:rL  rSz6: 6CSrO&eeOLz6,C:OH6Jz::J^S OSC,6J:v,,^JHe rw6JJ:A&&r:O/e6, eLr, J_C^rr^6CS,O6eCLAerr^zH6 J^DH&,:SOCCrL&Ce6L^&HS 9=J&^:e6LC zOe,,^^CrL &#:JH:6CrS-O6e^LDzLrz Sr,CL:S&rS&6SCHL&zzLr:^HzJ:yL&^SS6,CJ6C:O,J^erH 62z ,:O ^SOOLe ,SeOrJ^&Hr  OH&rS6OzCHLOz^r:eLLeJ:{,&JSC6rS^Le:H,e^zrK OGS&:-L6 :N^Je ,CzrrJ eHHJ6Hz^,S6O^e:LLz LH^,LJ ,0r&&Se66C6O6emL&::r= Ly &::,6JCC&r:^,CzHr6 zH} J:^ :S^O eSL,eLrCzHH& SO6&&Sz6sC6L^z:,Le OH L=J&C:r6&S:OH:6LHz3rO ^HJJL:z6S:O^CeSLrz&rC^HH6Jzru^JSzO:CLL zSL6^JLC Jp&&e:H&LCz6OeOLe=LrO  TSJL:J6CSr&&::Lrz6rz^4HO C::^LS:OSC,LJeO,rzrHe^,Oz&e:26OCzL:eL, eSO6  fCJr:&6e:LO6:zL6zOr^ :H^J ( &,:^zrC,L&ze,r^6Hz ?rO^C:c6LC LSe,Lz^CLre^bCJH:66zS4OJe^6:z^r  SH, e:C& S&OegrL6zz,5^6H^J:NL& SS6,CJLCer,&^SrH 6TzJ,>r6^C:OLe&O&:H&gC,L eJ,6 ^,r Ow^JJzC,J^LH JS%H^dr,^*HJ6,wO6e:LrO OI^&:W6O CSO,eJ,:zrr& er, O:z&HSOOze:LLz L>z:HJJ:qr& Se6HC6LzeO,O^zH: 6* &::,6J:LOre&,ezrr6 zHUJO:^6:SLO^C L,zJrC^Or<JeMH&6S ^ H  rWJ&zS&6He:0z&C:r6&CeOLCJ,zzGrO J,6zSr:^:nz J*zJ,:JOLCzO&eO,JzSrL JC&LezS,,^JHz^H:e&::&66CzO;e,J,SOOzC^LJJ6bO6CSrO&e^6,:%6CSLOeeJ, zeCS&zHC&:eG,J^&He H_Leir6^,rH &e&L&^Sr, Jtz^^,&^^rr &:,&^:66LC&OCe,,&&6S:OCCrL&z^6:S 6,e^Lee,:r6zC LSe,,6Ci66SyL^zeLL6SS&OOe^,:zrOHCSOHe ,S6&/^OeCHL6eCJO^6HzJ:ve& SS6,S^^re,, ^er  6{zJN:OJSC:O6e Ldz,rJ CHrz :e&,S6OCCpLOz^r:^SH^J:G,&JSC6LC&LeC&,&^eri O2^&::L&z6^O,e ,CzOr& eHH JHO&BS6O^C6LLz rSzO6CJSgL&&:L6HC6Lze5S,^^rh L2z&S:66JSHJ eJ,ezH,J zHHJO9} &SOOSeSOOzJrS^rH&JebO^CSe6jCOOez:,O^ ,+SJA J,:r6eCeOHe6OzS,r6^#3:J^: &&S,6^rrL,zSre^LH6JzVA&O&HO:CeL er,,^JHC rOS&e:&66S,O(e6,^zOre ^Y:J,T,6CS,O&eSLHz^6r^HHOJ^E^&LS^OSSO CzS,,^&r6 HU6&z>rC,CzOHeL,:^Sr, JH: ,:&6:SH6HezLqzO,e^LHLJC:S&LSJOCCrL&C,,H^zHz M>O&^S:6LSeLSe&,J^:rr  xe ,Z&6zSOOOeS,:zLr zY,iJJt,&rSJOeCHL6eC,e^OrHJ:oe& SS6,CJO,er,S^erJ 6MzJq:OJrC:O^e Ljz,r^ CrLzS:e&JS6OCC<LOz^r:^ H  H},&zSC6 C&LeHJ,6^er9 J%^JB:L6 x:O,eJ,Cz,r& eHHJ6:z&XSOOzCVLLz rS^6HSJCmr&&S^&Jr#  SHOC^eH: La  UHC6JCCOreJ,ezHr6 zLHJO:^6:SOO eSL,zJrC^rH&JCpe&6Sz6?CJOOz:,L^ HezzLrzSre :rO6e:eJr:rrJ^ N:JL: 6e:SJSHLJLC 6rS O:eOL&e,:O6LC Leer,,^JHC jr:z6,^6&CSOeeO,^^:rrCHLzz ,z^ He :HJJO:C6L^,rLJ^::&LS&&6H*Jr:O&re OrC rSzO,H :Hr Je6, ^Sr, J+CLr& ^eSLOzezLBzOrJSzL^e&L&&6SCOCCrL&z^LJS^OSe^8J&:S:6LC LeZe6S:O6r ^HrJH:66zCS&CH6J,:z6rC7H,JJ:CJL,eOCCHL6eO,I^OH^^:,&&^SS6,CJLCe^,&^e6r 6PzJq:66^SHOLe:66zLrJ CL,J&:C&HS6OzCL&ezzr:^LL^JS}L&J::z&CJLeeH,J^zrx OHK^&:O6 CSO,eJ,Szrr& eHOzC:e&BSOO^e:LOz Ll:JH JC3r&CSe6HC6OC:&,O^zH: :3 &S:,6JSzOre&,ez,r6 CHR , e6:SzO CeL,z rC^rH& Z,J&&Sz67S,L^e+,L^COO LYJ&C1,6&CCOHCJ (zHr6 ^HLJL: 6SS,zJeCL,z&rC^HH&JzqL^eSzO:CLL zS,L^JL,:/=&&e:H66CzOHeOLH^:rJCEu:J,:J6CSrOJeeO,azre^HHO r::&LS OS,,LJzS,r^JHe rc6JCLO66CzL:eO, ^Sr,zSC,Jr:J6e:^O6eeLwz r^^,LzJ^:S&,*HOCC,L&e/6J^&Hz #r,&^:j6LC LOe,, ^Crr &beJHH6zrSHO6e^L1zLre SrOz::C&OS&6OCHL6zz,2:eH^ G_L&eSS6LCJOH: ,J^erHzedzJH:O6^C6OLe^,SzLrJ CHr^&L,&rS&OzCHLOzCr:^Le:JSU6&JSS6rC&LeeHJC^zrH OXC&::O6 CSL^eJ,Szrr  eHHJ6Hzz&S6Oze:LOz ,H^,r^eL%r&^Se6eC6Lze0,O7HH: O; JH:,6 CC6LHe,Czrr6 CHiJO:^&O,SO e:L,SrrC^,H&JC-H&^rr6HCOL^S ,L^^HS &,:&S:r6&CeOHe&,zer&^ zHgJL::6SS,OJC:& z&rS^HrHJz3I&OS^6CCLL^zS,O^JH: rHOHS:H6CCzJXeO,z^:rO  Hrz^: 6CSrJ&eeLrz6r:C&H6J^::J&S O:C,Le:L,,^&He H{6&e:M6O-zL:eL, ^:r, J<CJr:&6eSHO6eSLPzOr^^rrhJ :S&,S6& %e GCL6SSLOee LezL,r6&CSLSe,,J^zOSeCLSzz: &,SxOOe^,CC 6^CL6HerLLz^SSOeCHL6eCJO^6H^J:i6& SS6,:JJ_e,,&^erH 6_SJWHOzHS!OLe ,Sz,r  CHr O:e&HS6OCC?L&z^r:^:H JS<,&JSC6rC&Le^F,6^zr2 &W^&::L6 4:O,eJ,Cz,r& eHHJ6:z&oSOO^CJLLz rS^6rLJCmr&&S^&Jr; Ls & SCrO^CLCe^,66^CCOre&,ezHr6 zH2JJqe6:SLO eeOzSS&rSz6HC,,zJSr:^,HS HN,&OS^OJC^_zJH:r6&CeL:j &O:erJ :f:JL: 6eH:JS3:&ez re^HH6JzsP&OC^ SC&OHzS,,^JHzzCLHzL,^^^rrO&eJLO^:rL  ie :,rz6*^ HH,Je:L6,C^HJ 6::&LS Oe:SJ6uL&z:HOrCr,ce,r^^eSSL:eL, eQ&J  mCJr:e6eSHO6SzJ&z6r^ :HLJ M6&,:^ LCrL ze,^^6Hz %kOC:S:6LC O<e,,^^CLrCSdCJH:66zS#OJe^,:6Jr  SH,J^:C&,S&6SS^L6zz,3^^H^J:TL  ,O6LCJLCer,&zLrH^JLrJg:&6^SJOLe ,Sz,JC CHrJ&:S&HSJOz:oJezzr:^LH JSpL&J::z&CJLSeH,C^zrl Or^zr:O6zCSOOeJLHzr, C,HHJ :z&rSOO^e:O6:jrS^&HJ ,Ir&&Se&,RCLzeO,O^eH: LQ  Wr^6JS,OreC,ezHr6 zSOJO:e6:S^O eSL,zJ^H^rH&Je_H&6Se6YCO&zz:,L^ H: ,{J&C:r6&CeOHe6LnzIrO ^HrJe: 6SS,O6SLJe>OL C&O6e f,&CS^O:CLL&SO6CS^6HCzLHeL:L6zCzO3eO,Je66SSHOrJ6::6CSrO&e^O :^6CSr,wzScrJHS OSC,L6Cz&O:r6yCHLk^,r^^erOJ *zLH^Sr, JPCze:&6eSHO6ezLPzOL^^6HLJ :S&,SJO:Cr6&C6,H^6Hz wPO&SS:JLS&LSe,,J^Crr e_e ,l66zSrOOez,:zLr z>HSJJEA&rS^OeCHL6zz,H^OH^J:v&& S:6,CJO^er,&^err 6;zJG:O6^C:OLe ,:z,rJ CHO r:e&HS6O SeJr:S&&SCLHezLHzC,O6LC&LeeHLJCOrb OD^J3:L6 CSO,: ,Czrr& CHHJ6:z&4SOO^e:LOe,rS^,HJ !!J&&Se6HCL 4:6&,:H6& &_C&S:,6JCz&vn:OrzLr: zH_JO:JJ6H^ HUSJJSS6OSrH^ 60H&6SzOSSCJ&:O&zC:O6CeLreL:O6eCeOHe6, S 6,CrL:J&yO6SS,OJezOS:H&Oz O,e LH^S,H  H&Lee,,,^JHC _,#e},O^&CSOJeO,^^:rrerOre&,  6ru ee:L6z6rz^YH,^C,Oz6r,6HC&LJzC,r^O,JCzL  &:_6OC^L:zz, ^Sr, JlCJr:&JeHLO&ezLbzOr^^rHLJ:r6&LSJOCC&L&zC,H^6Hz L,e&zS:6LCSLSeL,JzHO  JDeJH:C6zSHOOe^,6zLr  SH,JJ:C&rZ&J:CrL6zz,7^OHSJ:H6^,SS6,CJOrer,&^e,,SzBeJ/:O6zC:OLe OkRJr  SHrJe:e&HS6&zH&L6zzr:^OH  L;,&JH,6,CJLee,,6^zr8 O6e&::L6 CSO,e^,Cz6OS CHHJ6HL&9S6O^S:Jzz^,,^,HeJC#L&&:S JC6Ore(,e^^H: Lq S,:,6CCCO e&,SzHree,HHJ^:^JJSLO^eSL,zJ,HC HJJegHJ:Sz6HCO6^:r,O^SHS &jJJO:rJC^rOHez,ze&rO z;:JS: &rH^O eCLreSre^rH6J:,&&6S^O:SCL z:,,eJOx ,Fe&e:O66SLO9eOH ^:r   HTJ,:J6CSJO:eCLHz6, ^WH6J^qH&LSC OCLLJzCLB^&HC HG6^e:I6OC^OIeL, ^Sr, JcCJr:&&LSHO6ezL,eHr^ :HLJ&H:z&r1 ,H,6e:C6&:LOOC&PJJLS:6LC LeCz&OS,6 eCLLe^,QzrS,Oee^,:zLr&e,L e:,&zO,-O:SrL6zz,9^,Ose&LCz&,  C:0 H;OJx:,6OC&Lez^,e6CS6OLe ,SzHO:CSLJe<,6z S 65C<LOz^rCS+L:Cp,C&z:O6rC&Lez:OzSeO6S,LLe6,e6zCSO,eJ,Czrr&JeOb C:z&dSOO^e6LLz rS^,HJJCMr &H:6rC6LzeG,O^SH: ^6,&S:,6JS,OreJ,ezrr6 :L&J6:^6:S^O e:L,zJLe^rHJJetr&6Sz62COr z:,O^ rU ,ZJ&CHr ^CCOre6,zz{r^ ^r:z&:^6:S,O eCL^z&,r:zH6Je/{JHS^6MCLL^zS,&C:HS rM&JJ:H6&CzO#SL,^zHrL zRSJ,:J6CeHO&eSLHzJrz^>HO^^,r&OSzOSCLLJeW,rz &H rq &z:66OC^L:SL6e^:r6 JHlJr:S6e_HJ eeL,zOrC :HOJ HS^6S 6ECrL^ze,,^6rH,:bO&eS:& C L:e,,z^Cr6eSACJH:6JlS%O6e^O:S&r^ :H,J :C&OS&6EqJL&zz,gzHH^ *1L& eC6,C LCeL,&^erH 6,eJh:O6^SAOLe ,Sz,rJ CHrJ&:C&HS6OzC,OJz^r:^LH&z6LJ^Sr:J^H&J^fr&&eH6HC6,6z r^^Srr 6e^,Czrr&^S,zJ6:z&jS6O^e:LLz O:^,HJJC3,&&Se6HC6Lze%,O^zrC L. &S:66SCCOre&,^e 6,COLJeO:C&^SLO eSLHS06&S,OHeLL^ HrH^&H&LCe,,L^ HS H,cz&,z6JC:6Ye6,zz(r,zaL&er,,zHre&eHA&eCC&6CzOSCLAr&OS^O:CLL zS,,SJr> &c&&e:H6L:r LFJ&Lzrr   4SJ,:6z HJ OHOLLe,rz^EHOJJHCz&,L^rH,JrSO6eSS6&ezLC&S:L6OC^L:erOn:J&H zH Jr:&6eC:JWH#&e:e6BCJLSz#,L^zrr6_C&L&ze,H^L6Le6LCz^:r6zC LSe,,6eO66C LS er^6SSJOOe^,:zrO0CJOOeeL6^er: SCHL6zzLr:^HzJ:XLJOSS6,CJ6C:O,J^erH 6EzJJ:O6^r%OLe ,SzLrJ :HrJCrL&rS6OzHHLOzzr:^LH  r,^& SC6rHJLeer,6zC&O 6X^&:: 6 CSO,eS6Oz,r& eHHJ6:e&*SOO^C,&zz^rS^,HJJCl,&&SeOJC6Lze?,O^^H: Lr er:L6JCCOre&L^zHL6zLH}JO:^6:SL66eS6,CHrC^rH&JeTH&:Sz&rSSL^eH,LzLHS ,kJJ:b^6&C:OHe&,zzmrO ^r,JL: 6SS6OJe:LrCC,:^HH6JzH &OSzO:C^L er6^^ HC rr-&e:r66CzL&eO,^^:rL  VSJ,HJCOSrO&eeLHz6, ^.,O  ::&LS OSC,OOzCOr^CHe HW6&z:M6SC^6HeJ, zBr,^,2CJr:&&S:SO6eSLqz:r^ :HLJ H &,SJOCCOL&zC,H^^rC ?0O&^S:6LC^LSCOJC^Srr &HLJH:66zShzOe^,:zLr^ SHLJJb:e&SJOeCHLJzz,-^OL4OO%L& SSJrCJLSer,z^erOeCQeJY:OJ C:OOe LrS^r  CHr^z:e&rS6Oze&LOz^r:^OH JSa, J,L6,C&LeeH,6^Sr#^&LH&::66 SOO,eJ,Czr&S eHHJ6:C&cS6O^C,&zz^rS^,LLJCT,&&SeOJC6Lze2,&^^H: Lr eO:L6JCCOre&,:zHr6OHH9J&:^&WSLO eSL,i:rC^rH&JSNH&&Sz6DeeL^z:,L^eHS ,KJ C, 6JCeOHe6,zz,rO ^eOJL:z6SSLOJeCLrz&J,^HH6JzKr&OSzO:CLLMzS,,^JHC r9&&eHH&OCzOVeO,^^:,r  rSJe:J6CSrO&eeLSz6Lzz^HOJ^::&LS 6&C,O^e ,r^ He e.6&z:t&&:OL:e&, ^:r, JyCJr:^6eSHO6eSL%z&r^eOHSJ :S&,rQOCC,L&er,H^^Or H0O&^r&6LC^LSCOJC^Srr &HHJH:66zS6^:e^,:zLLr SHLJJ:S&rSz ,CrL6zzL ^OHzJ:iL&;SS6,CJL:er,&^eLHCC*eJF:O6^C:O&e ,S6 rJ :HrJ&:e&HS6Ozr&LOz^r:^6H J:l,&JSL6rC&LeeL,6^zrXzOOHJi:L6 CSO,ez,CzrCC eH,J6:z&xSOO^e: zz rS^,H^JC%,&&:( JC&Lzen,O^^rg Lx ^::,6JCCO,e&,ezHr6 zHwJO:^&LSLO eSL6zCrC^rH&J^,C^erC ^CJOOz:,L^ Hez^OrefH^^Hr, e1L&,S^rJ^r{:JL: 6e:z eH=JO:H6LS^H  ,IR&OS^OC:e r:J&JSCO&ezj^J&:H66CzLSSH&L:JLeC,OOeS,6^OHe6HeeLHz6,C:OH6J^::&OS OSC,6J1L,,^&He H56Jn:Y&&HHL:e6, z2r, J-CJrOe6eSHO6eCLKz&r^z:L&J^:S&,SJOCC6L&Ce&J^&Hz mNO&^:r6LC:^^e,,^^Crr &-CJH:&6zS06^e^,:zLr  SH,JJ:Ce S&OeCHLJzz,H^OH^e0TL& SS6LCJLCer,J^erH 6rzJt:O6^SrOee ,Sz,r6eJLez:LOzOrC6,C,LCz^r:^LH&^&,Ce#,6^ Hz ^eL,:^zrE O}J^Hr^z6:  &+:&OSer^ SHHJ6:z6Sm^OCCJLLz rS^H,6CkL^e/rr^L}SJOe,,S^^H: L%&e6rCzHHJJCtJ&rSCr ^&HhJO:^6CaO C.6& : OrS,LCC^,zzCSS6JCOL^z:,reSO:e O6z&, ^:C:O&e6,zzar,zOLOeOLH^JS66,eCLrz&r^zCO>CLrJ^:,H^^HrJH:J,,^Jrp ed&&e:H6L:,JC:zJHSOOeSrLJe^:z&eSrO&ee,:CH6 S,LS^O,Czz,H^&SzJO:z&,SpH: J<6&z:N6,:C ,Ce&^Se6J zHHJr:&6eC:&LH,O6zJ,  :HLJ :eJ:rr^6SzJHyL6 S{OSe ,zzC,J^eCeO&e,,J^CrQ^SLre ,5 iH6 eH,LrzCr  SH,J6H^zer  rHLJ^: 6 ^J,^J:%L& SeJGrrJ::J&^:#O:e:,7z6,e^>rb Og,&:C^6rC:O6Cr,6 Lr^J=;C ,xr6CCe6H HHT&JSC6rCO6,1O6:: Lze:Lze,re^&r&^HezLrzrr& e3:er,HzrH:Oee:LLz rS^,HJJC9r&^:r6HC6LzzS&^SpOCCzOHJH:J6JCCOreO& :z6rCOH, m:^6:SLO&S6& :zLOS6OJeC,:^:rO6,C^L^z:,L^&68e OHz^:O6zCeOHe6, :,O:S6Hr^:: 6SS,O6S^Je: 6rSLO^e ,  ^rj^6k^J^::6CS LLeeL el,e^Z:S LS^&&:C6eC&L6ezHzzH}^ OpSJz:&6HS L: HEr& S OSC,L6C^6eCCOO LW:&z:Y6OCJ&^:S&^:rOzC6O6C!:^&,SHO6ez,SC^63S6LSeeL&&OSJOCCrL&zeeO6&Oz+:.O&^S:&6rSL:e,,Jzzrr &1eJ&O26zS/OOeS,:zOr  :H,Je,L&,S&OeCOL6ze,P^ OH DZL& O,6,C LCerrS^erH 6-zJ/:O6^::J&e^,Sz,rJ CHSJ&=rezS6OzCMLSz^,.^LH^JSR&^:SS6rC&OOeH,&^zrLee.z&::LeSCSOLeJ,C^ r& eHHJ6:z&.SO&^:CLLz rS^,HJ  nr &ir6HC6Lzeh,Oz&H:^6HL&S:O6JS:Ore&,ezHre zH8JO:e6:S6O CLO&zJrC^r&eJeNr&6Sz6jC JHe4,L^ J, ,A &CuLzeCCOHe6LHz(rO ^rHYJ: 6:S,6zeCLrz&,SzrH6JC*x&SS^O:CLL eH,,^JHC Lm&&C:H&JSzOGeO,^zOrL  bS OA,6CS,O&SJLHz6rzzrH&J^kH&L:rOSC,LJzCL,^&He H3J&z:H6OSeOzeL, ^S,J J1CJrH&&rSrO6ezLazO,r :,L S:S&,SJOCCrLSzeOH^^Hz EiO&^S:&QC 6Se&,J^Crr &We S:6JzSeOOe^,:zLr ^zH, ^IL&rS OeSOL6zz,I^OrSJ:hL& :n6,C^LCeJO:^CrH 6rSJY:66^C:OLeC&OzLrJ C,OJ&:C&HS^ rCHLOz^Jk^LH^JSHOeCSS6rC&OHeH,6^zLteJ{z&::L6 CS6SeJL:S r& CHH ^:z&lSOO^CCLLz rS^OHJJ:3rJ LH6rC&LzeH,O^^H:zL,e&::L6JCSOrSr,ee,6, eHrJOHj6:SLO SlL6zJ,X^rrCJefH&6:C&HCOLSz:L^^ HS ,TJ 6:r6JCeOOe6,Cz{,O^^x:JL: JeS,O eCOLe re^rH6Je(.&OS^&:S,L z:,,^ HC^C2&JSL66&CCOMC:,^^:rLz LHJL:^6CSLO&SLLHeJJh^HHJJ^H &LS OS:,&zzS,O^&H: HHS&znrz^CzO,eLO,^Sr, JrCzO:J&iSHO^ezOJzOr^bLHLJ^:S&&SJO:CrO&7J,r^6Hz ,NO&zS: LC:LSe,,JzHrrz&me ,Lz6eSHOOC:,:zLr zSL6J :S&rSJOeC L6Cz6,^6HzJ:<O& :O6,:JJFe,,J^err 6H&J#HO CS0OOe ,:z,LO CrrC,:C&HS6&^C/L6z^LH: H^J:F,J:SC6rC&OSrz,6^Crt^^B^&::LJ SCO,e^,CzLr&^LHH^6HL&?S&O^CHLLeorSe,reJCZL&&SS6HSrLzSILx^^rH L.z&Sq,6JCCOJe&,SzHr  zHcJO:^JdSLO^eSL,zJ,t^rHz H.H&6Sz^:COLzz:OL:>H:  TJJr:r&6Ce6,:C,zzJrO^z8:JL: 6SLJOJC,Lrz:re^,H6 HO^&O:;O:rrL z:,,^ HC 6,S&C:H66r OZe6,^z,Oz ^oSJ,L&6CS,O&:eL&z6,b^_rSJ^j^&LS:66CLL zC&^^&HC HqJ&z:L eCzL:eLJH^SrL JH:C&:J6eSH6CezL7zO,eHJHLJ^:SJJSJOCCr6&z:,H^&Hz H0OJLS:&6CzLSe6,JzOrr &meJH::6zSHOOeC,:z6r zSHJJJ:S&rSJOeCJL6Cz,O^OHzJ:UO& :^6,:JO^er,J^err 6HzJB:O&6C:OOe L<z,rJ CHr^F:e&HS6OzC9L&z^,,zzH JSk,C^SC6,C&6ebJ,&z3rw  /^JS:L&zHOO,e:,Ce,r& eHHJ66w&wS^O^C6LLzzrS^ LtJSb&&&LS6HC&LzeZ,O^SO6 O? &SOO6JCSOr:&LrzHr^ zr JOtO6:S^6He:L,zJJ ^rHJJe3,&6S: &C6L^z: _^ H: ,lezL:,6&Cee:e6,ez8,&S:H!JL: &eS,OJeCLJC:rC^HH6:L#_&6S^O:CLLC:O,L^JHC:zD&&C:H6^HrOHeO,^rCrL ^jS OLC6SSrO&SHLHz6rze+HzJz::&LS OSCzLJCCL6^&He Hv6&z:&6O:^6LeL, ^Sr, JH JrH&J6SHO6ezL-zOL& :,LJe:S&,SJOCCrOLzeL,zrHz r-OJSS:6LC LSe^,J^Crr  IeJ,:6&H,^OOe^,:rJr  :H,J :C&6HSOCCHL6r:,X^6H^ ,,z&^SS6,O6LCe,,&zS&6 &izJo1^6^C:OLS LLzLrJ CHrJ&XL&H06&rCRLOz^r:^LrjJSr,J^SC6rC&LeeHLr^zL4^_{^&::L6 CS&+eJOCe&r& eHHJ6:z&CSO6eSJLLzzrSz&HJJCBr&&S:6HC6Lzer,O^eH:zLO>&::,6JCCOre ,ezHOe eH(JO:e6:SOO eS&LzJrC^rHJJeEH&6Sz6%COL^z:,LzeHS ,?JJ.:J6&CeOHeLOC:LOSCLO9J&:S6SS,OJez6OSC6SCzHJJz7o&OS^O:CLL zS,6z_HC rd&&^H^^^?L e::&L:rr&^!8SJ,:J6z:: H;rJr::6J^,HeJ^::&LS&&6SSJ::,&LSHHSS:^,CS,=HzL eJWL,zSrJzJ0^e^^ :rS^HO CeLyzOr^ C,HC,Lk^ rz^HHlJQS,&OS^6LzO,zeH,J6&SrLSe,,J^z,:SHLSz&, ^:HSJSeCLSzLr  SHH^,,zzOr>&&>:JCc,& zCO&eCLOzr:H6^CJLCer,OeC6OC L&errz6CSLOLe ,SzH6LC,OLeH::&&S6OzC;L,::6OSr6?C6A6&eSC6rC&L^C:&SeHr,^H?^&::L6&:^JCHHOOS:6OCCL^eC,Oz,SJOSe:LLz reS6OrC %OJ Se6HC6L S&6:S:6RCrLHzL,e^rH6&^HuJ.:JOeC&L^J&rSS: z  ^Jro&zSCC H&Je}HJJL%6HCOL^e,,L^ HS^O6H&C:,6&SrOHe6,zC!,S ^H.JL:^6S:LOJC:O^z&rS^Hr JzA*&O:e6eCLLezS,^^JHC rH JL:H6^CzOJeO,^^:rL^:?SJL:J&HSrO&eeLHCWrz^QHOJ^::&OS OSS LJzC,r^&He HQ6 z- 6OC^L:eL, z r,^^HHJr: 6eSCO6ezLlzO,: :HLJ *}&,S^OCCJL ze,H^6Lz Tb6&^S:6LCCJOeL,J^COr &KCJH:66rSMOOe^,:zLr  S,, ::S&rS&OeCHO6zz,_eTH^J:mL&zSS6OCJO:C ,&^CrH^LEzJ*:O6^:,OLez,Sz,rJ CHrJ&H &HS&OzCrLOzCr:^Jr:JSY,&JHz6rCJLeSH6 ^er6 Ov:&::66 ?LeOeJL,zrOO eHrJ6o&&QS  HCfLLz Oe^,H JCrrzSSC6&C6ObepLL^^,Hezw J6:,6 CCOre&,eH6r6^HH+JC:^&HSLO::6LLzSrCCUH&JCiH&6Sz6LyeLzz:,LC&HS L4J C, 6JSrOHez,zzzrO^eL6JLEH6SSCOJeCLrz& H^HHeJzaJ&OSeO:C^^,zS, ^JLj rRJ&e:r66C:J&e6,^^:L&  ?:J,:e^LS,O&ee6:z6re^;,OCHW4&^S 6,C,O,zCLLCSHe  q6JL:76OC^L:r , zLr,^=qCJL:&&rs O&CHLiS,r^^?HLJ :S&&H:OSCrL&S^,H^&Hzzm,J&z:O6LCSLSeC,JeCOO JHrJH:e6zSOOOCJS^zLre SLQJJ:S&rSCOeCO&Cze,!^OL&J:vO& :r ^C LCer6O^err 6{zO::O6:C:O6e ,Sz,rS^OH,JJ:eJ6S6OeCpL&z^,,CzH^JSI,JCSC6,C&OSH6,&^zr-^rX^&::LJ hSO,eJ,Czrr&^SHH^6t3&oSOO^e:LLeLrSzOr^JCML&&:J6HC6LzeQLJ^^H: Lsz&S:,6JCC6Ce&,ezHr6 zHVJO:^&HSLO eSLLzJrC^rH&JedH&6Sz&LCOL^z:,&^CHS ,aJ&zH7^::rOLez,zzxrO JOzz^,&z&SOCQHr,r&6& &Oe^Lz0,&zS^O:CLL&X,6 S66LC^E^Jv:H66CzLSQJ&L:zr&^CjSJ,:J6zr  OHH&O:L6SC OeeX:L C,a^JdC,CCJ&6SSOS LHO&z:.6OCJ6^ir&eS&,SC6OLe^LWJLHS LBe& zJ,z :HLJ :e f,r :?JJ^+k6:C:LrCLL e,HL ^r/ &e6,S^Crr &#^^,,^^LH^ 6eCLLzLr  SHH^z,,zLrHO:C L6zz,E^,L,C,rCeOrJ CHzOKeS,&^erH Lr&z^,SJrHe ro^&&:^6rSGHLJ&:e&HS6OzC>LOz^,rz6H JSl,&6HL eHeJC::6SSH6 e:L,^&,C^CrOJ dL&&zLXH e&Ce6z:S:O: ^CrLzz rS^,H6^^,e^CrC^^H,LCOr,^:6::J^Szrrz,6zSLOre&,e^:,Sz6O&zz,e^ S&OSeSL,zJrzCSLCeS,z& :L6MCOL^zCOH:,6we LzeH,+^.HOOHe6,zer&^ z9:JLcL6SS,OJC: zz&rC^HrJJz.m&O7^6^CLL^zS,L^Jrr rH  H:H6JCzO,eO,^^:,6 ^}SJ6:J&eSrO&eeO,zzrz^LHO z::&LS OSSzLJzS,r^zHe HR6&z:J6OC^L:eL, ^:r,^^6rJ,:&6eS,O6ezL?zOJ^ :HLJ ::&,S OCCrOCze,H^6Hz huO&^f:&eC LSe,,J^Cr  &HS r:66CS>Oze^,:zLr ^OH,JJ:C&LS&OSCHLeC&,u^OH^eH(L&^SS6,CJOH: ,J^erHeJ_zJH:O6^C6OLe ,Sz,rJ CHr^&H,&rS6OzC2LOe6r:^L,6JSq,&JS:6rC LeC,,&^zrH OPS&::L6 CSOzeJ,:zrr& eHHJ6:zJrSOOze:L6z ,H^,He^L}r&&Se HC6Lee4OOCCrY ^t J,:,&rCC&JJC,ez&r6z6H*J6:^&OSLOC_OLLzJrCzCH&JC+H&^rr6HCOL^S:,L^^HSz,L:&S:J6&SHOHe&,zerOe ^H&JL5r6SS,OJeC^&z&,r^HHSJzUr&O:tz CLL:zSOL^JHS rqJ&e:O CCeOGeOOz^:rO  Hrz^: 6CSrJ&eeLrz6LzS&H6 >::& S 6OC,O^:L,r^:He^Oi6&z:Y6O,:L:e^, z6r, ^;CJJH:6CS&O6:zL7z6r^ :HLJC,O&LSJOC7rL&zC,He66r HNz&^:L6LS-LSCO6:^Cr^ &HLJH:66zSXz^e^LOzL,H SHOJJ-, ^SJ6rCH&6zz,H^OH^J:?Jz3S:6,CJ&Cer,J^eLHe DeJ6:O6:C:6Je OSS6r ^,HrJC:eJHS66 h LOe&r:CLH J:j,&SSC66kSLCeH,6Czrb 68^&:C,6 S,O,e^,Czrr&^rH J&:e&E:eO^ChLLzzrS^&L:JSYr&&w,6HC&LzCrJ^^zH: LHe&S:,6J:CJre&,ezHr6 zHSJOH^J SLO eSL,zJ,L^rr   lH&JSz66COL^z:,L^eHS ,MJ&::r6&CeOHe^,zzmrO ^>:JL: 6S:&OJeCLrzJre^HH6JzE8&OS^O:C6L zS,,^zrJ rA&&eS:JCHHJS:SO:SC6ze:O&zC:z&^SrO&ee,:e:6 SJLzeHL1^SHr^^aCJrsD,&^&He HHJ6z:V6OC^OleL, ^S,O^e9CJ,:&6SSHO6ezOreCr^^HHLJ^:S&,SJOCCLL&zC,H^JHz HbO&^uz6LC LSeL,J^Crr &_eJH:66eS OOe^,:z&rS SH,JJ:z^SHC SZzL ef,k^OH^JCr6^:re^6CzO6er,&^eH:z&L ze,rz,HC &}OLHzSrJ CHrJOH&^&r ^L16JChJO&SL6& HE&&JSC6rCO&zTOJK^SrS OK^&::rJzrr &Yz66Se&LSOOzeC,OJSHSOCCJLLz rS^H,HCL,ez:,L^OHCJHe,LA^^H: Ln& ^rCzHZOJe=SJ&S:OSCOH,J :^6:SLO&:6J,56L:^rH&JeH,ezSe6+COLez:,L^ rLzz> &C:r&rCeOre6,zz%r CHHUJL: & S,O eCOLqerC^HH6JeKG&OS^&:HzL^zS,,^JHC ^o&JSrJ66CCOZeJ,^^:rL  &,J,:J6CSLO&eSLHC6OS^HHOJ^::&LSCOS:,&zzS,r^&He HRe&z:bLLC^L:eL,z^Sr, JHHz :J6eSH&&ezLHzO,e:LHOJ :S&^SJOCCrLCSL,r^6Hz^6bO&zS:6LC Or:^, ^Crr^C>eJr:6&C,OO6e^,:zOr  SH,^JLL&,S&OeCHL6e,,3z&OHJ:t6& :H6,CJLCer e^erH 6=CJo:&6^::J&e^,Sz,rJ CH6J&He^LS&OzCsLOz^,O^LH 6C(,&JSC6LC&LeeH,^SrrH O.^^k:L6^CS6OHC,Szrr&^HHHJ6:z&6,:O^e:LLC,rS^LHJJSlr&zr,6rC6LzC^,O^zH: JLp&::,6J:SOreJ,ee,&z eHnJO:z6:SLO SSJ^z rC^rH&Je< &6:C &COLez:,&^ HS ,nJSr:r6&CeO,e6,Cz*LOeCHTJL: 6SS,6HeC6rS^rC^HH6Jz9a&zS^O:z,L zS,,^^HC r#&&err66CzOXe6,^^:rL  !SJ,:J6CSJO&eeLHz ,,^GHOJ^:C CrCJ&H:Jr:&&O^^r, Hm6&zSSJJHS6&tO&&:,r6^rGCJr:&6^:  ,AHJ&Sz6rSJLSCF5H&^SJOCCrLOCLLeSCOHCr,:&C: 6LC LSeH6B:666Ce,OeC,3^Or,OJCz,:zLr  e,lCr,:^Jr^^R-:&:Sr&LS 6,zL,^e4,&&HCJLCer,CCLrr 6IzJ,:O6zC:OLe LrS^r  CHrJ^:e&rS6O:U&L6z^r:zHH J:b,&J^,6rCJLeeH,6^zrX^&^z&::O6 SbO,eJ,CeLLH eHrJ6:e&5SOO^e:L z ,/^,HJJC-r&&%e6rC6LCeU,&^^rr Lr   :,6^CCOLe&LrzHL6^NHaJ&:^&HSLOCeSL,e rC^,H&JSKH&&Sz&rr^LzeB,L^SHS ,VJ&COr6&CCOHe&,zzHrO ^L7JL: 6SSLOJeCLrz&re^HH6Je7 &OS^O:C&LSzS,,^JHzCS,Cz^,^6 S,OheO,^^CLCCC,&e:,r^&rOO^C,LHz6rz SrC^OL6^^rz JC,LJeP,:^&He HML LrS^CHAJ6dO&,C&6:CrL&eO:^&OSHO6ez,SCO6JSJOeC,LH^CK660CeL&ze,H^L,eCL,Czp,J^rHC HPz,zzerr &Me&:HH^ r,JSSO&C:z&HS&rzeO,zz,r?O:SkL6zz,i^,,^eCLCeH,J^6HrLrS0&:SCO&C LL 6:O6^C:66OO,Sz,rJ^,HrJ&:eJ,S OzCHLOz:r:^LH ^NOJ& S:6rCCLeeH,6^zCL OIz&::66 C:O,C^L,zrrJ eH&J6:z&*SzzLe:LOz ,6^,H JC_,&&:s JC&Lze7,C^^rm L#CzO:L6JCC6&e&,CzH,J:=HHJ6:^&HSLO eSL,^:rC^LH&Je=H&6SzJ*+JLzeH,L^zHS ^}J C, 6JCSOHeJ,zzJrO^eL6JL:C6SSeOJeCLrz& H^HHJJznL&OSeO::L&ez:,O^JH: rp^&e:HH^CzOHeO,e^:rO  r3 &:J6SSrOJeeLHz6rz{cHOJz::&OS O:C,O^Hr,,^JHe &F6&z:<JzLeL:eO, z6r,  >CJ6:&&#HJO&ezLqzCr^^bHLJ r:&,SJOCC,L&ze,H^6Hz o<O&z:H6LC LSe6L,^Crr &b^^ ,n^eH^JCH,6zS^&(S,H6Jz:C&rS&O^sO6rzS,4^OH^^HO &^S:6,C^LCer,&ze6C &GeJG:66^C:OLe 6:z,rJ CH,J&:e&HS6OzCULOzzO6^LH JS06J SC6rC&L^CSJ%SCO6CJLSzCrC Vrr &HH6rSJ6SSOHLJz:z&(SOOJ:r&^:z6J^6r,JCsr&&S^^e:HJH;J&Se,O CO,:ee:6&ACCOre&,^C^6^eLOez:,LzrS&6 eSL,zJrzzeO^er,Jz&rO&&H: ,sJ&JSe,SeCLzJM:J6&CeOHeLJ*S66,SHO&J6: 6SS,OJeCLrz&re^LHzJz_U&OSJ^JV^ H:S,6eeHC rI&&^r ^,H:J ;,&L:r6eCSLLeO,O^zr  OTS&:%,6 C^OJer,e^S,r 6HCJx:^&eS^OJC,,ee :,6zC^L:eL,&:&O e:LSze: S&:OALHrrHr:zSCSH& e:S&,SJOz:^Je:r&,eSOzeSL6zzlO^OH^&^:C6S:r66C^3SJH:66zS+OOe^,::Lre^6H,JJ:C&bWe CD& L:O&&e,HC SxL& SS6H:,JzXO&0e&O:CCO,e 8C^&HC OErLHz:rJ CHrJOHJ^zr:&,!CJ,:z6JSzO,CHh6J,SC6rC&L^C &,SH6&ezLreJrSzur6O6Cr,Czrr& ^rezeL,z :S LHs&^n&,H^^HJJCnr&OaL&eHCJH5r6:^Cr6 L2 &S:HJzrH6^FJ&^:6r ^eHfJO:^6C:S eGL&^: 6&zCLCCLL^Je,L^ izJr::,6^ HS ,lJ&CzrC HeOLe:,zzXrO J,LeJLH^ere 6HHJOz^,H^HH6Jz:SeHrX CHCLeeO,,^JHC jrLz6r&^&rLJCeJL6^:rL  _e :,rz6:z OHLJ^Se6SCJL:JCm6&LS OSCHJ6gY&^SH6,C^V J,:>6OC^LCCS6OSJO CCOHeO:^&6SHO6ez,SC:&rC r^CrL&^ rs CCOOrze,H^6H zEL,zz,iJCrcJe: & :OrO^roeJH:66 :J&iHH&O:66,zzOCezL6&OSSOeCHL6z L^zCOzeC,ez :H6&CJLCer,OS:OzSr<SJO:O6^C:OrfL&e:66H^DHzJ&:e&HSL&JH^J&:l&rSJO&e&p6&SSC6rC&L^CzLC:O6JC 8CJ,:L6 CSOH:S&z:Lr^^6HHJ6:z6Sr& mszJ&:&&&SCOHe&dOJHSe6HC6L SJ&^S96HzeL ze,L^ &^Ore&,ee,&z eHIJOtr6:SLO SS&6z rC^rH&JeH &6Sz^HCOL^z:,O^ rM ,dSC&:r6&CeO&e6,ez2r6 ^H,zz:^6SS,OSeCL,z&,#CJH&JzmKHHS^6tCLOzH,,L^JHCz%>&&e:H6e,OO8eO,^z rL ^/SJL:J&HH OJeeLHeIrz^HHOJS,6&OS OS6^LJzS,rz &H r+6&z:66OC^L:eL6S^SrL J<CJr:&6e7H6rezLHzOrz :rOJ HSJ SJOSCrLJzeLH^6Hz^,dO&zS:66C LSe,,JzCrr &=eJH:66CS_O CO,:zLr ,rH,J :CJL,eOCC6L6CO,o^OH^^:,&&^:L6,CeLCe,,&eeOL &HHJ2:z6^:6OLe Lez,rC CHLJ&:S&H:JJOCqL^z^OO^LH JSr,^zSS6&C&O-eH,J^zr5Jeg^JO:L6^CSO,eJOCSOrJ^rHHJe:z&rSO6X,6LOzSrSz:HJJSsr&CSe6O.CLeew,Oe6H: Oo Jrr^6 CCOrOz,ezrr6zzO&J6::6:SJO CCL,e^6L^rHSJerL&6Sz6dCO^:z:, ^ rO ,#^&C:JJ:CCO6e6e:zMr6 ^-:JL:C^OSLOJeCC6z&rC^H,6CrwH&^S^6,CLOJzSLOC:HC  %&&C:H66CzOar^,^zLrL^{vSJO:J&,3^OJCHLHL^rz^HHOJ^::&JrFO:C,LJOH,r^JHezH, &e:O6OCSL:S&, eSO6  HrJr:e6e:^O6C SzzO,H :,:J ::&,SCOCC6&SzC,H^6L6 ob6&^:, zC^LSe,ee^Cr, &HSC6:&&lS_O:e^,:zLL :JHLJC:C&&S&&SCHL6e,,R^zH^ H5L& SS6,SrLCe ,&zQrH 6kzJ1:66^SLOLC9,SzOrJ^,rrJ&EH&H&^OzCHLOzzr:^JOWJ:},&JJH6rCJLeC,Jz^erO O,T&::L6 2Le6eJLrzrOC eHrJ6HH&=S  HCkLLz 6L^,H JCN6^SSC6HC6C:ek,6^^H: S7 Jr:,6zCCOre&LSF6r&^1HPJC:^6:SL& GHLLzCrC^&H&^LtH&6Lz65C^L^eX,L^^HS^O,:&C:&6&S&OHe6,zerzH ^HLJLAz6SS,OJC:O,z&,H^H,^JzwN&OS^z:CLLSzS,L^JHS rH CH:r6zCzOeeO,^^:r^:,vSJJ:J^:SrOJeeLrz6r:C&H6J^::z6S O:C,Le:L,,^&HeCSn6&e:%6O KL:e , ^:r, J/C LrH6eS6O6CLLNzOr^ :e^J F,&,SJOCCrL&eSOz^6ro %re&^S:6LC KLe,,C^Cr, &*eJHBJ OS9O^e^6LzLr  SH,&::C&&S&O:CHL6zzO7CJHz L=L&SSS6LCJ6C:O,JzHrH zQz ,:O&e/ OLeS,SCrrJ CHrJz,,&rS6Ozr,LOzzr:z66SJ:sJ&J8 6rC&LeeH 6^zrO O<z&::O6 CS8 eJLrzrrJ eHHJ6iC ^SOO:e:6zz rS^,HJL,wr&eSe6HC6Lze>L&CLH:  0 J&:,6JCC6LHe,Cz6r6 :HuJO:^6:CzO CLL,zzrC^rH&^e(O&6:H6ACzL^eV,Le r6 ,bS&C:J6&S:OHCJ,ezcre ^rrJL: 6S/,OeeCL z&,,^H,&JzHrJrS^6&CLO9zS,,^Jr:^:h&JO:H6CCzOBeOLeeOrL^,3S Z:J6CSrO&,HLHzCrz^^HOJe::&LgrO:C LJe,,r^SHe Hz^&z:O6OCeL:eO, eBrS JHrJrH&6eSHO6ez^fzOr: :HOJ ::&,SJH,CrLeze,r^6Hz oH&^LS:6 C 6re,,J^CrrLC3eJ6:66eS{OOe^OHCSr ^,H,JC:C&rS&OeJ&L6eZ,i^6H^J:}LJzHJ6,CCLCC&,&^erH 6eHJ*:^6^SWOLe ,SeOzL CH&J&H &HS6OzSrOCz^,L^L,&JS?,&J:,zeC&OHeH^,^zrH OBz&::J^lC:O,eJ^^zrrJ eHOzC:e&dSOC e:LOz rS ^HJ rYr&^Se6HC66zu&,6^:H:  F JC:,&^HLOreS,ezrr6 zHiJOO:6:S O COL,z^rC^J,:JCh6&66^6_C6L^z:,L^COO LPJ&C&H6&CCOHe6,rzFr^ ^HrJL: 6S-, :eSL&z&,H^HrOJzHr^eS^66CL6ezS,,^JHC:&.&JH:H6CCzOreOLTx rL SiS:C:J6SSrOJeeLOSCre^5HOKL::&OS 6r(^L zC,rr6He rc6&zS&6OC:L:e&, ^Sr,zJL+J,:e6eS6O6SSL+COOC^TH J D,&,+HOC:JCCze,6^6Or M46&^:66LCCJOeL,J^CO  &jCJHEJeMSHO^e^L zLr  S,,zz:S&&S&6HCH6Hzz,8 eH^ OhL&zSS6,CJO:H&,Jz,rH^LszJ-:O6^,6OLeS,Sz^rJ SHrJ&Hz&HSzOzCOLOz^r:^Lr,JS.J&J:t6rC&LeeHSe^zrO O4^&::L6 :j&CeJLrzrLe eHHJ6:zr6SOO:e:LLz rS^,r^z&{r&eSe&6C6LzeX,O6RH:  ? &S:,6JCC6L:H,ez6r6erH%JO:^6: ^O C,L,zJrC^rH& Srz&6:N65S L^z:,L^ CL ,nC&C:r6&CeOHCJ6Ozlr^ ^HLJL: 6SS,TSeCL&z&re^HH6JzHrYHS^6LCL66zS,,^Jr:^eQ&JH:H6 CzOqeOLeC rL SfS O:J6CSrOCCLLrz6rzzHHOJz::&6S 6r4^L zC,rzJHe r76&:r&66C^L:eL, ^:r, JreJr:&6eSHO6ezL<zO,L :HLJ }H&,SJOCCrOCzC,H^6Hz MVO&^S:6SC LSe,,^^Crr &HMzJ:&6zSQOOe^LUzLr e:H,JJ:C&,S&OeCHL6zz,{^OH^  +L& SS66CCLCer,&^^OCeeLCz^:JJeC:OLe ,e&O CrSCLHz6S,O&,z:C:,^Ce&CSe6ree,z6C9z^^HJJrWL6:^dLJC^LYez,&^&rHJ:ezL&zrr& e7:zr,:z&rO^rHL&^:H6J^6HeJCYr&&S^J Ho Le,L,^^H: Lw&^+,H^:H,JSZH,He:6SCeL6eJ,,&rwHO eSL,z6SLHL&J z:6 J, ^JHSJJ:&r e&66CL,Se-rzOe:: O1:,;ez6 SLOrzC:e&JS,OJeCL+CJ&IC LeCL,Sz rC^&C&O6zS,,^JHze6,,ea,J^&HL&LWe&JSz6rCeHH Y:J6CSrOOSS&::C&rC6OHeL,&zHr, 6H,Lzee,r^&HeJ:rHz ,, S:OJCMzJH:&,zCOLze,,1&:SHO6ezOrG^rz :HLJ^:S&,SJ&C!OLJze,H^6Hz ,oO ^rr6OC LSe,,JzOrrz&,^JH:66zSlOOCH,:CLr: SH,JJ:C&r:HOeS,LJzz,r^OH:J:}L& SS&5CJLCer, ^er, 6HH ,:O6^C:6re ,:z,rJ CH6zS:C&HS66 CbL6z^LH: H^JSa,JHSC6rC&6eYJ,&^zrQ O9^J,:L&zHOO,e^,CzLr& eHHJ6Or&PSOO^CHLLz^rS^&L:JS<r&&:S6HC&LzCrJ^^zH: LHr&S:,6J:C  eJ,ezHr6 zHLJOXe^6SLOzeSL zJrC^rH&S,pH&6Sz6rCOLzz:,LC^HS ,_J&S:r6&CeOHe6,zz}rO Cw:JL: &HSCOJeCLrzOLLCSLeCr,6^C,,  HzLeeC,,^JHC .rOz:re^LHSJSfS&LC&6Ce:Lee^Lf&sSzO&eeLHzLLLCSOCeZ,6zOr, &CJLJzC,r^&H, H{&&z:i6OC^L:SL6e^:rL J>SJr:J6e{HJ eeLHzOrz :H6J >Sz:S OSCrL^ze,H^6HzeHqO&^S:6OC LSe,,J^Crr &xCJ,:66zS.OJC&,:zLr  eree6LO^JHS C0z6:u&6^C:OC r!S& SS6,C6&L:J6:S6L^CCL z6,66:C:OLe OT^,rJ CHrJ :e&HS66CCJLOzzr:^OH JSB,J^8O6rC Lee,,6^zrj OHJ&::O6 SyO,e ,CzrLL eHHJ6:e&QSOO^e:LLz rS^LH^JC+r&&S:6SC6Lze!,,e,OCCe,:zO,L^rl6 SuH&6:Lr ^&H1JO:^6CgC ,3:&CCzOrz^rCzgLLzU:%6mCOL^CHrL^ HS ,d^&C:r6&SS6Se6,ezIr6 ^v:JLBz6:S,O^eCLLz&re^HH6^&l9&6S^6HCLL^zS,,zSHC rg&&C:H66CzO3eO,^^:rO C<SJ,:J&wS^O&eeLHzLOrC^O&eSLJ^S,H6HSWLJzC,r^O,^CLOHz:,o :trJ EzJLSJ6^ zH&Jr:&6eC:&&8:&6SSLOS6OSe&L&&6S:OCCrL&z^L S^OCCrrc^S:&6LC LSe,r:^Cr, &ueJH:66ztYJJezLAzLr^ SHLJJHC^OSJOCCHL&zz,L^O,^C6DO&^SS6LCJL:erL S,rH  <zJ,:O6^C:OLOR,Sz&rJ CHrJ&:e&H,COzCHLOzSr:^OH JS,L&JSC6rCJLeeH,6^zrY OY^J7:66 CSO,ezOHzrr& eQ:^SLOzrr& SHr6L:&&&Sz6rC*,e O,L^r}eJS: ,Jz&H: L* &eGe^6rOJJ:S&CSzL:S&L^z:,C&LSLO eSOO^JrC^rH&JCvH&6Sz&r:dL^e#,L^zHS ,DJJ:mz6&CSOHe&,zz!rO ^reJL:^6SSOOJeSLrz&LL^HH6Jz4H&OS^O:CLL zS,,^ HS rk&&e:L&HCzOPeO,JC&6 e:O+^zLLzHr  pHLL,z6rz^or&zL::&LS O:C,LJzC,rCJHe Hg6&e:f6OC^L:eL, ^SrL  ICJr:&6:SzO6ezL7z,LOCOOeCrH&^Cr  ,rBL ze,H^6rCz^{O&^S:6OC LSe,,JCSrr &{eJr:66zS_OOe^,:zLr^zwH,JJ:C&O:LOeCHL6z LSSJ6OC,LLz,H6 CH: J:e&S^:rO 60zJw:,^CH ^/eeLOz,rJ CHa :H&zJHe C3^L&z^r:^LH JS-,&JrC6OCSLeeH,6^ ,JC LeeHy: CSHO eJ,CzrrOzLLSew,,zZS&O^e:LL, CrLH:,eCbL&&Se6Hz6z&CJqrS^rr :5 &S:,66U6Je4 JH:r6*eLLSe&,L&rSeO eSL,z6OLCeO CpL^z=,,6,CSL^z:,L^&L,C&OZzz,z^OrG LeJ,zzqrO:^zze^O,^SSOOJeCLrz&re^H*6e^>,JLS^O:CLL&SO6 S_O&zCHc^H,J^^H& &::Jr:&r6  _SJ,:J6COr:SueLLzCrz^iHOJJL z&rS L.zJJe0,S^&He H_L &r^^S:,JC<eJrSL66C.L&JO1Q6eSHO6e 6 S:6zC O eCLOzeceOCCrL&eSHO^6Hz y8J&^S:6L: OLe,,J^Crr &jSJHcJJJS*O6e^L6zLr  SrOJ :C&LS&6LCHL6zzLr^&H^ r*LJOSS6,CJLCe&,&^erH  8zJr:O&eSJOLe^,SeLrJ CHr^&r:&rSJOzC{LOeOr:^Lr&JSxL&JS:6rC Lee:6:^zr: OrC&::O6 C:O,ee&Lz,r& e,LJ6:e&7:&^:CqL6z ,&^,HJJC?rC&Se6,C6Leel,6^^H:C&Z^J=:,6JCCOLe&6ezOr6 CH= r:^&CSLJ CrL,z^rC^6H& rkH&6:r6gCJL^z:,L^ HSz,Hz&C:O6&C:OHCM,zClLr ^HrJL:e6SSJOJSCOSz&r:^HH Jz3H&O:ezLCOLSzSL,^JHC rh&b,:H6eCzOreO,^^:rLC:GSJJ:J&,SrO&eeLHz rz^,HOJ^::&OS OSC6LJe_,r^&He ,Z6^z:&6OCCL:CH, zer,eJHeJr:^6eSOO6CCLuzO,& :HJJ :S&,SJOC:rO,ze,O^6H: w}:&^m: &C^Ore,,e^Cr& &reeJ:&6:SwO e^L3zL,z:,HLJS:CJrS&OeCHL6Lr,5^eH^ rXL& SS6,:SLSeJ,&z,rH 6BzJ96 6^S,OLe ,SzLrJ CL,J&:e&HS&OzCPLOz^r:^LH JSk &JSC6rC LeeH,6^zrN&O&:z::66 CSO,eJ,CzrH&CzH,J6:z&pSOO^e:LLz ,H^zHJJC+r&OH& z1S LWL&ezrrr Sg &S:,66::JJF,&:S:6:SOL z::C&,SLO eSLH:z6&SS, JenH&6:CzOC6Lzz:,J^ HS ,rJz<:,6JCeOre6LHzgrOCzw:JO: 6:S,O^eCOLSSre^,H6JS*B&OS^&HXzL eH,,^^HC rh&&e:e66C:OoeO,^^:rL^zLOJ,:C6CSLO&eeLHz^,L^dHJJ^HS&LS^OSC,6ezC, ^&He H*e&z:XHzC^O&eL,^^Sr, JH:z :&&OSHOJezLZzOr^^^HL ,:S&,SJOCCrO :,,HzHHz rYO&^S:6JSrLSee,Je&rr JpeJ&^O6zS6OOS,,:zOr ^^H,Je,L&,S&OeS^L6ze,V^O,SJ:HH& SS6,SLLCer&6^CrS 6HrJ<1r6^::J&e^Lzz,,O CH&J&{eJ,S66 C#L6z^,z^LH:H 7,J6SC& C&LCeHL,^zrLeeXz&::LJPCSOLeJLHS rJ eHH ::z&HSOO^JOLLeHrS^,HJJC>r&zr,6rC6LzC^,O^zH: JLO&S:e6JSzOreJ,ez&LS eHJJOHJ6:SOO eSL,ze6L^,H&JeH:&6Se6MCO&6z:,O^ H: ,j:&CHr,HCeO,e6,Cz;r& ^H,eK: &HS,6EeCL,z&reJ^H6JSm2&6S^6HCLL  C,,^zHC L%&&e:H669eO;eO,^znrL  BSJ,:J6CSrOJS:LHz6rz^rHOJ^::zL S& :eJJz:,r^&He&H^L* ^L^OCzOHeL, ^S^,^6re^z,&6:SJO6ezL;z,Lrz^Ozz:L0^CS^OCCrL&,eLzM::COW_JJOS:6LC Le:r&e:_Oez:L6er,d^,r O&e^,:zLS S^rSzH,C&LS&OeCH^6,r:^, O^ H/L& SSJ,HnH  C:&^:re 6}zJM:,JHr,J^Hr66SC6 C&L^CE::&JS6OzCUL,S &,S&O,J,(e&^SC6rC&Se^SJ^6:60 JHH&::L6 CeJrUeJaSeHe^6HLJC:z&TSOOJ:SJJ:e6J JH:J:_r&&SeLHJJ^ &^&O^eH: Lx OSs6J&b6 re ,ezHr6zzSHeGCrr:S&OCeSL,zJrzSOOHCJNLJ Sz67COLJSL&r:%OLCeLr  ,  CH:J^CCJrSS6HC?LJzS:e&,S,OJeCLg5,6rC:O:JSI&&OS^O:Cr&JZr&6SrHr ^8 &e:H66:zezLzHHS:r6  TSJ,,Je ::J%.eLLeHrz^1HOJJrSzJre JSz6,uL6JS O6 ,Q6&z:dSO /SL^H: zH,H JpCJr:O HH: CqHJ S:LHS6OreO,L^errO:CrL&ze Hz,h:C6LO&C:66LC LSeH6&:H6OCHxHJe:J6zSlOO^^&eC,OrCSHOJJ:C&re&er^HH^&z,,^eH^J:8L&&HC^&HzJ&z&,C^SrH 6>zSFez6,rO Lez,Sz,rJOCS1&&z6zHSJOzClLOO^,O L:JLS^C&JSC6rS ^Her,6^z,O O_^&::L^^CSO,eJ,Szrr  eH&^S:e&QSOX,e:LOz rS^,HeeLf,&&SeY^C6LeeIL&::rc L1 JO:,6JCC&J, ,ezHr6z HcJ6:^J:SLOC>OLLzJrCe8H&JC2HJJLM6HCOL^e^,L^ HSz eS&C:r6&S&OHe&,zezrO SL6JO: 6SSSOJeSLrzz6,^rH6JzH,&OSzO:S6 Sz:,,^Jrr r-&&eHHH:CzOpeO,^^:,&  rD^<:J6SSr&6eeLHz6,C^LHOJe::JOS OSC,O^z:,r^^He ^_6&z:=6O:;L:eL, zHr, ^aC LrH6eSHO6SLL}zOr^^,LzJ^:S&,SJOCC,L&eSJ6^&Hz uH#&^S:6L::ewe,,J^Crr &oCJHq^6zSLJeez,:zLr  SHLJJp:e&SJOeCHLzzz,Q^O,^LJ.L& SS6,CJ6_erL eOrH &qz ::O6^C:66Sj,SzOrJzSHrJ&:eJ,SzOzC,LOe,r:^LH JSHH&JSC6rC^Lee,,6zCL^ O/^&:/C6 CSO,ee&Lz,r& eHHJ6:e&u:&^:CbLLz ,O^,HJJCrJS Se6HC6JLeu,6^^rS LjCzO:L6JCCJze&,CzH,J:bHHJO:^&^SLO eS6 &SrC^rH&zHFH&&Sz&zCOLS:6,O^ HSzJtJ&S:r6zH,Ore6,zCCrO z4: 6LS6:S,OJCrLrz&reeHe:JzxB&OS^O:S&L Ci,O^JHS rH &e:H66SC66eO,e^:rJ  cSJ,b^&&SrO^eeL,z6rz^qHO L::&LS 6HC,L^zCLLCHHe HF6 L:q6OC^O,:z,^^Sr, JiCJ,:&&S,6O&ezL!e2r^ :HL^:eL&,SJOC-,L&zC,Hz^Hz L,e&zS:6L(^LSeL,JzHO  JjeJH:66zSHOOCe LzOr  SHJJJ:C&r_&HOCHL6zz,y^OrCJ:H6JeSS6LCJO:er,&^e,, CgzJr:OJ6C:OLe OnzerJ^wHrJ :e&HS6OzSeLOz^r:^&H  Uv,J^H&6rC&LeC^,6^zr7  LHJ<:L6 CSO,e ,CeL&e CHHJ6_r&{SOO^:Oz6z rS^,6zJC3,&&2r6HC^JreH,O^^&r Li^&S?OzCCSOre&L&zHr6 z,6:&:^6:SL^QeSLLzJLJ^rHze,nr&6Sz^&COLzz:L6:SH: ,aJJr:r6&Ce&H&:,zzurO ^(: &: J%S&OJeSLreHre^HH6 CHH&OSeO:CeL zS,,z^rJ ro^&eH,66CzO#eOOL^:rL  HHJ,:^6C:LJHeeLHz6LL^(HOJ^B,^zS^OSC,LJzC,,^&rSS67&&z:(&(C^L:eLO:&Lr, JACeC:&6CSH6^ezLLSerz :HLCL:S&LSJ6Ha LJze,H^6Hz HlOJeLL6OC LSeJ,J^Crrz&eOJH:66zS#OOCC,:e6re SHLJJ.&&rS&OeS,O{zz,r^O,6J:XL& 1<6:CJO.erO ^erH 6Qz e:O6^C:O&e LGz,,^e&HrJ&:eJ^S6OzCZL :H,h^LH JS_,& SC&LreLCeH,6zrrQ OW^^Oz^6 CSO,H:,Cz,r&^JHHJ^,r&HSOO^r6LLz^rS^&L:JSar&&O^6HC&LzCrJ^^zH: LHL&S:,6J8,HJe&,ezHJH zHHJOHO6:SJ ve:L,zJJJ^rHJJexO^CSe6MCO^Cz:,O^ ,dSJZ &C:r6eCeOHe6Oz6 rO ^V:JL: JHS,6^CHLrzJrezzH6Jz;WJ&TOO:C6L z:,,^JHC^Lpz&e:L66SJOWeO,^^:r   NSJ,:z6CSLO&CS6zz6rz^4rSJ^::&LSC OCLLJzC,r^&HC HHJCN:H6OC^O^eL, ^SL I^nCJr:&6eSHO&ezOLzOrSC6HOJ :S&,SJOSCrO HH,r^6Hz OKO&^S:JL rLSe,,J^Crr^^Ee ,:z6zSHOOSL,:zLr z.HSJJ::&r5JOeCHL6eCL,^OHCJ:HH& SS6,CJ6^er,&^erL 69CJY_& LC:OLe O&z,rJ CH6zS:C&HS6OzCRL6z^LH: H^JSm,&:SC6rC&&rJ&,6^zr*P&y^JT:L&&CSO&::,Szrr&WSHHJ&:z&LHeOze:LLL,rS^LHJ :O&&JSe6HSHLzeW,OCsSO Ld &S6 6JCSOrSr,ezOOC eH;JO&b6:SOO Cr&^z rC^r OJeQr&6:CzOC6L^z:, ^ HS ,rJ,6:r6&CeOHe6LSz{,&^:2:JO: &LS,OJeCOLe6re^,H6^ Pl&OS^&HC&L eH,,zJHC r.&&e:&66CzOneJ,^zHrL^z,JJ,:J6C:zO&eeLHz^6r^HHOJ^::&LS^OSSO CzS,r^&r& Hw6&zH6rzC^L:eLzz^SrL JrHJr:z^,SrO6ezerzOrz :HJe+::&,SJOCCrLJzeL,:zHe EkO&:S:6LC 6S&e,J^Crr &ve L:6&CS:OOez,:z^r  SH, ^*7&rS OeSCL6zz,=z&,6J:w&& :S6,CJLCerL,^erH 6<SJR:&6^:H&Se ,Sz,LH CHrJ&h.^JS&OzC-LOz^,D^LrzS,pL&JSC6 C&LeeHOeHCr- O?^8C:L6^CS&/eJLHS rJ eHHHL:z&HSOOS<6LOz rS,OHJJS3rJ LH6rC6Lze&,O^^H:z^e:&S:,6J6:OreJ,ezLr6 :L&J6:^6:&6O e:L,ze6L^,H&Je_H&6Se69S& :ex,L^ r  ,4J&CHJrCCeOHe6CHzhr6 ^r^JL:C^OSLOJeCCJz&rC^HH^er8H&OS^:CCLL^zSLO:CHS rT&JH:H66Cz&I&S,^^:rL  {S 6:J&::LO&eCLHC rz^NHO eH^&LSzOSSzLJzC,rz ,O H7 &zX&6OC^L:eL,:^Sr, JHcJr: 6e:,J>ezL0zOL, :HLJ ur^^S OCCrL&ze,r^6rCSOE6&^S:6:C LSe,OSH:rr &VeJH:66eS76 e^L,Szr^ SH,JJ:C&,S&6Sr6L&zz,Z^^H^J:dL  ^&6,CJLCer,&z:rH^JHJJT:66^=rOLe ,SeO,: CHLJ&HJ&HS6OzSrL^z^,r^L,3JS0,&JSC6CC&LeeH, ^zrr OHe^ :L6 CS6eeJ,CzrrzC,HrJ6:z&USOOze:LLS^rS^,HJJS(r&&Se6HC6LzeV,O^eH: Lw JH:S6JCCOreO6LSz6&COLJeSr6^Orz SCHL6zJrC^rHOe%HC& Sz6wCOOeHL,O^^HS OtJ&C:r&&rJOre&,zzHrO ^W:JLr^6SS,OJeSLrz&re^HH6Jz72&6:HO:CLL eH,:^JHC raO Jrz^::,JC-,&zSJ6zC,OHJ6d66CSrO&e^66:L&rC6OSeLH6zzr& ^G JH:&,O^CHe H;6& ,O zHJ 6de,ez,r, JPCJ3H^^rr, +eSL6zOr^ :HrCr,L^^r  &COLeze,H^6H ezL,zCrJ6&SeLSe,,J^zL&COO,z&,:^O:e eugJrSCLWSOOHeL,,^zrH&rCHL6zz,XzzHzJ:oL&zSS6,CJO:: ,&^CrH JVzJj:O&eH6OLez,Sz^rJ CHrJ&zS&HS6OzCrLOzzr:z66SJ:bL&J:N6rC&LeeH&,^zrr Oh^&::L6 :S6LeJ,:zrr  eHrJ6:z&6SOOee:L&z rS^,HJJ:Nr&JSe6HC6LSeo, ^SH: Lk  H:,6 CC6LHe,Cz&r6^dH4JO:^J:H&O^CLL,zSrC^JH&JeJJ&6:r6_COL^z:,Le OH LHk&C:&6&S/OHe6^bz8rz ^H&JL:z6SS zreCLJz&,S^HH&JzIH&OSS 6COL zSLO^JHS r#zz,:r66Cz6,eO,z^:rL&JuSJJ:J6:SrO&eeL&zSre^HHO L::&OS 6hC,Le:L,,^&He z{6&e:A6OfzL:eL, ^:r, JwCJr:&6eSHO6eeL5zOr^^rH:J :S&,S6JOHzJz8,6zeH6rC^L,e,:66LC LSCOJC^Srr &dCJH:66zS6^:e^,:zLrC SHLJJ:S&rSz ,CrL6zz,L^OHzJ:?JzWS:6,CJO,er,J^e,,Sz4eJ_:O6zC:OLe ,SH,rJ CHrJJ:e&rS6OzBHLOz^r:^OH JS4,&JSC6rC&LeeH,6^zrw &W^&::L6 SJO,eJ,Czrr& eHHJ6re&mSOO^CTLLz rS^,HJJCMr&J:J6HC6Lze,, ^^H: Ln& e,z&SSu6,e&,ezHrLzJO^e&,xzrrJ &%&6^:e&HSz,eerLJz:SS6&COL^z:,re6OJe L e6r:6^SrOHe6,z^SL&CSLJzS,^&HS:OJeCLrzOLJCzO:^,,Cz,rz JHzJ,7H,6z&HC rU&&^je^LHSJ S_&J:66eSrr6eN,6^SHzO^CHLHz6rz S,JeTLH^SSe6LC,LJzC,w:#OreJL&zO:r6OC^L:eL, ^Sr, JHoJ&:&6eSHOLlS&^8r&,^rH J :S&,S6 JHuJ^:O,L^:Hz ?PO&Jxe^SHzJLq6&eSzOzz6deJH:6&C,OO6e^,:zSr  SH,JJ:L&rSJOeCHL6zz,FeO6H ><O& S:6,CCLCerSO^err 6_CJi:&6^S,Jze^,Sz,LL CH,J&HezJS&6QCsL z^,X^LrzeO9,&:SC66C&LeeH,6Hdr< ^P^J6:L6zCSO :/,Sz&r&zJHHJ&:z&ESOOS;6LOz rSz:HJJS{rJ LH6rCzLzeJ,O^^H:zLOz&::J6JSrOrCr,ezHL, zH6JO:z6:SLO SSOzzJ,L^rHzJe8J&6Sz&eCOL:z:,z^ rU ,?SJS:r6eCe6Ce6,ez_rO ^H,zz:^6SS,&LeCL,z&LeSJH& oc/& S^6OCLOz:O,,^:HC LG&&e:H66LYO=e^,^z6rL zGSJ rK6SS&O&SJLHz&rz^-HOJS,6&OS OSS:LJzS,re&L: rcz&z:L6OS6L:SL6e^:rJ JHrJr:^6eS:}HezL zOLO :HOJ 5,&,Se LC,L&zeLe^6He cv zH:/6LC 6^e,, ^Crr&6peJO:66CSbOOe^LOzer^ SH,JC:C&,S&OSCHL^:r,H^OH^ L4L&^SS6,* LCer,&^CrH 65zJ{:O6^C:OLCy,Sz,rJ^KHLJ&:e&HSL6rC,LCz^r:^LH&zO,Cz^,H^zHH LeLL,^zry OyJ C,&zLrr ,ar6OSe6SS&LzeC:S&&SOO^e:LrSc6JCS6rC_,z&^:,6HC6LzzSLCSS6HC6rLzr:66^CCOre&,^z&r ^eH9JO:^6C:z ^kL&z:J6LCeLCC,,^ CrO^eZz H:JLO^ HS ,1J&L:r6&CeOHe6,zzGLOeCHjJL: 6SS,O^eC6rS^rC^HH6Jz8p&^S^&:HzL^zS,,^JHC Oq&JSrJ66CCOsee,^^:rL^zLOJ,:z6CS6O&eeLHeJe^^iH J^aO&LS OSC,O:zC,r^&r_ H?&&z:+&SC^L:eL, ^Sr, JrCJ :&6eSHO6ezLrzOL^^&HLJ :S&,SJ6rCr6&CH,H^6Hz NnO&CS:&6S:LSeO,JzLrr &*e ,rC6zS,OOeS,:zLr zuL^JJbH&rSJOeCHL6zzJ&^OH^J:XJ& S:6,CJ&Ser,&^err 6?zJE:O6^C:OLe OOz,rJ CHO H:e&HS6O :eJ 2H6:SeOSeL,zzr:A6CC&LeeH,Le,,zCeLVeHrSJ6rJ 6HHL#zzr& eHHJLLLzLrC^,H6Jr:e6^^6,LJC3r&&S^&eHLJS: O^S+66CCrCeHH^ Srz&SAOJOSSLLC&O,e LH^ nO &H6Jez ,t^ H&JemH&L=,&zHeJWGH6S^zHS ,MJ&C:r6&Ce HeJ,zz-rO ^Q:JL: rSS6OSeCLrz&r^e,O^COLJ^:SeO:CLL zS,,^JHC r9^JO:H66CzLSS^&S:&6rSrLee&,z&gSeO&eeLHzLLLCSOeeL,&zCr&^rH6Lzer,r^&HeJ:LrzH,r :CCO6eL, ^SrHSrOPe&rC^LrHO e:L7zOr^ CO&e,L^&6:OOCCrL&z^6CS56L^ L,eHr  errJe=&&zzYr6 &oeJH:L^HHS &eCOtzLr  SHHeL,&zzH: rHrJ&: &,SH6re&Lzz&,,^eCzO:er,&^eH:CrLOe ,J^xrHJS-H&L:L6 C:LeCM, zOH:OSC&LOz^r:^r,CCOLHzLrz^OC^OJeH,6^zHSeCL&z re^ H6J h &SSe6S :HOJ6:z&yS,JH.O rzzrS^,HJJC5r&&Ce^sH,Lze!,Oze&L OF^&Sx66JCCOre&&CzHr& zHHJO:e6:SL6:e:LOzJrC^rH&Je{H HSe6,COL^z:,L^ HSHJd &::r6&CeOre6OzS,r6 C3:J6: JOS,6^rrL,zzre^LH6JzmEJ&,:6{C L C2,,^JHC rHz&C:666CeO}eO,^^:rr  HrJ,:J6CSLO&:r0&z6r:^hrrJ^u;&L:rOSC&&:zS,r^&r  HI&&z:L eCzL:eL6:^SrL JH:C&:J&bSH6,ezL4zOL^CrHOJC:S&&SJOSCrLCr,,r^ Hze68O&zS:6JC Or:^, ^CrreC8eJr:6&C,OO6eS,:e r  SH,JJ,S&rSzOeCrL6zC,Z^z&LJ:bJ& rL6,C LCe,,&zyOJ &8zJQrz6^S!OLS:ZLz,r  Cr^J&:C&HS^OzCL&ezzr:^L,HJS}L&J:H  CJLeeH6e^zrH OHeCL:O6CCS6LeJ,CzrrC:6HHJ^:zJeSOOze:LOz ,rC^H JC}r ,Se6rC6L::&,6^^H:e^q &::,&^,rO,ez,ez,r6 zH;^z6e6:SJO SSL,z rC^&H& Q,J&&Sz6!:OL^e9,L^COO L(J&CrJ6&CCOHS66SzHr  ^HHJL8E6SU,JzeSL6z&,!^Hr^JzHrlHS^6,CLOCzS,,^Jr: C9&JG:H&6CzOweOLe%LrO SDS &:J6CSr6 rHLrzerz^rHOJ^::J6,SO:C^LJe,,r^&HezHz:&z:&6OSHL:C,, ei,O JHOJr_H6eSHO6CCLezO,, :HeJ :S&,:^6eCrOHze, ^6Hz u-O yS:6zC OJe,,^^Crrz_8CJ&:6&HS-Oee^O:S&r^^LH,JS:C&CS&Oe,6L6z:,<^zH^ HVLJz&^6,CeLCeS,&^erH^JHJJa: 6^:OOLe ,SC,Oz SH6J&nj&H:OOzSr ^zz,L^LrCJSm,&J::z&CJOreHLr^zrU Oc^SL:L6CCSO eJ,:zr,&SJHrJJ:z&&SOOSe:LLzYrS^&HJJCKr&&Se&,rzLeeO,OzJH: L! &S&^6JS,Ore ,ezHr6 z,6J6::6:S^O eSL,zJ3S^rHzJemH&6Sz6pCOC z:,J^ HS ,yJ&C:r JCeOHe6,ezsrO ^-:JL: 6SS,O^eCLrz&r:^^H6Jz4_&,H,^zhSJ,=HOJS 6z O.C&e:H66C  O:C&3:k6O SxSJ,:J&:6SO&eeLHz&rz^WHO elr&LS^OSCOLJzC,r^ H: H{J&z:Q6OC^L:eL6:^:rL J2:Jr:J6eSHJ&ezLNzOrz :HLJ ::&,SJOCCCL&ze,H^ r, j-O&^SCJCHC&&K:&rS&6O ^H6JH:66zCS6C%&&O:zO:C6OeerLL&OS:OeCHL6z OOS6ObCC,SeW,666S LCer,&^^,SSXLCz6,J^SHCJC:oJr:&&HerLJeSLO&LSCOzC7LOzJL&z:6oeLLOzr:_6:C&LeeH,LeLOSCCLKz6,O^,0& :xr&&:Or^^HHHJ6:z6SrH ?HH&Sze, ^,HJJCy. ,r6^^:SJOV&J=SJO&eS;eJ&:,6JCCO9:;JJSz6/CS,Oe6LJ&rS O eSL,z6& CJOOCO1L&SSz6;COLJS&O S^OLSHLreLD 6&CeOHCJ 7zHrO ^HJJL: 6SS J4eSLrz&,:^HH&Jz+u&OSS 6COL zSL6^JHS rH CH:r66CzOHeO,^^:,6SSD:JL:J&LSrO&ee6H:Cre^HHOJz::&eS &{R^LJe_,r^^He HE6&zOO6OCzL:e&, ztr,^^6rJ,: 6eSeO6ezL_zOLS :HOJ ::&,S^OC:r&^zC,r^6He b_&&^-: &C^L:e,, ^Cr6 &rezL:&6eSiO6e^LLzLr OrH,JJ:C&LS&OCCHOJee,(^OH^  !L& SS6,,JLCer,&^CrH &4z rL^6zC:OLCr,Sz,rJ^,6eJ&:e&HS OzCHLOzzr:^JO;J:c,&J:36rCJLeC,Jz^er- OHG&::L6 :h^Je ,Szr,j eHHJ6:z^6S6O^e:L6z r:^,HJzSor&&Se6rC6LzeF,O^^H: L2 &:HJ6JCCOre^LLzHr6 zGS^S,S J,j ,4JJ6z^rC^rH&reIL%6e6^!C&L^z:,LL Sx:LJr,C:L6&CeOHr6GObrJ:O^HrJz: 6SS,O6:*J6e:6CC:OzJSK6&OS^O:Cr&L:L&L:rO& L#&&e:H56HH6L r&^zr,w  -SJ,:6 6He JK66LCzL,z6, eC, &&SSOSC,LJzzOLSOO:CHfJ&z:U6O&^>OCJ<6SSr6 :+CJr:&6^: ^LjrJL:e66^rHzJ :S&,S6&OSCJS:r&,SoHC _1O&^e:z666r^G,,^^Crr &reOz,:L&rKO&e^,:zLr O^rrS6zC&OS:OeCHL6z LzS,6reeL6^:,H66CCLCer,&^^6CeeL e :&6^C:OL6 &Le^:OCCHLJ&:e&HJ66L:,Hr:^,r^:H JSi,&6H6JzHHJSm6&&SH6 e:,,JH:L6 CS,,OH^6rS6& SHHJ6:zCRLJ^&^zJLzzrS^,HJ^C,{&&eJ^HC OHeb,O^^HCzHO,ehr ^zC:Ore&,e&HrHSL&CeO:e6:SLO WS6Cl:o SrH Je7H&6Lz:hS H&::,&zHHS ,FJ&zH^^&r^ 6<L&OS6rJ^OE:JL: 6eGe rbS&eS-&,C:LeeeH &JSSO:CLL ze&6Sr6  LW&&e:HS6:Or,^3&^zrr   gSJ,:6z6HJ :*eL,z6rz^0:OCLz,Sz^ 60C,LJzC:r. :^:^e6&S:O6OC^L:er6NSLOzCrHjJJ:&6eSHOLS&&C: &LSAH&JS:S&,SJOzSz&CpO6&feHz 4fOJeLL6OC LSS,,J^Crrz&,:Jr:66zSUOOCz,:zL6^ SH,JJ:S&rS OeC&6Sze,u^O&:J:uO& SS6,CeJLe,,&^eJ6 6yeJw{&z:S.OLe Ozz,rJ CHJSH:e&HS66LCtL6z^,D^LHCeOGL&JSC6zC&LCeH,^SrrH O*^CL:L6^CS6OHC,Szrr&zZHHJ6:z&RLOO^e:LLz^rS^LHJJC: &&Se6HC6Lze2,Oe^Or O# &S:,6J.rOrS&6:zrr6 zHWJOHC6:uLJee:L,zJrC^rHCJer&,eSz6_COOez:,O^ rS ,sezL:,6&Ce6,e6,ezjr CHH.JL: J S,O eCOLgerC^rH6JeBi&OS^&HrCL em,,zLHC rY& e:666CCOue&,^eCrL^zrHJ,:z6CSLO&eeLHeJLr^wH J^A &LS OSSOLSzC,&^&rp H#6&z:t6^C^OHeL,S^Sr, J!CJO:&6CSHO6ezLHzOrSC6HOJ :Se6SJOSCr6CJr,H^6Hz^S_O&zS:&eC Or:^, ^CrrzObeJr:66:H&O6e^,:Czr  :H, ^Or&,SJOeCrL6zz,!z&&,J:f6& :^6,CJLCSrL&^er, 6mCJEH,6^:H6ze LHz,,O CHrJ&}S&^S6O:CgL:z^r:^Lrz Jv,&CSCJLC&LeeH,6z&rB &0^JL:L6 CSO,SH,Cz,r& eHHJ&:z&LHeOze:LLserS^LHJz,&L&&Se6HRJLzeH,OzOH: JL#&::,6J+:OreJ,ee,&z eHHJO:z6:SLO Sh ezJr:^rr,JeyH&63z6rCOLez:,6^ ,e ,H^JH:r6^Ce&Qe6,zzN,&^2I:JJ: J*S,OJeCOLzCre^6H6JSW<&OS^O:SeL eB,,^CHC rx&&e:O66CeO!eO,^z1rL CLOJL:J6C,OO&eCLHCe:H^;HOJ^,L&LS^OSS:LJeH6 ^JHe H,z&z:H6OCSJ6eO, ^S6H JaSJr< eHSrO&ezLHzOr^ :r6Sr:S&OSJ6 CrL&zeOHzJHz rRO&eS:JrC 6Ne^,Jzhrr^OReJH:6&C:COOeS,:e&r  SH, ^H &rSeOeS^L6zz,i^OrHJ:w6& :,6,CJLCerL&^err 6MzJa:66^S,Jze^,Sz,&z CH,J&rrS,S6OzCnJSz^,<^L,CJSI&^:SS6rC& OeH,&^z,rS^KzJB:L6^CSO,eJL:_zr& SHH r:z&#SO&^SKLLzzrS^OHJ^zvrJ :H6HC LzC&,O^^H:^6rO&S:&6J:JOre&,ee,,L zHOJO=:6:SLO eSO zJr:^rHeJeQH&6Sz6eCOLzz:,L^ H: ,yezL:,6&Ce^Le6,ezWLzneM:JL: eHS,O eCLzz&,yCJH&JzTheJS^6sCLOzH,,L^ HC ,M&&e:H&J,LO8e&,^zzrL  qS^,jz6CSLO&eSLHCLrzzrH J^vr&Ls,OSC,LJe:,J^&r2 HH(&z:!6OSeOCeL,S^SLL JACJr:&JHSHOJezLOzOr^ :HL^L:S&LSJOCCrLJze,HOeHz HjO&zS:6LC 67SC,J^Srr e1eJH:6&C,OO6e^,:zer  SH,JSrO&,S&OeCHL6ze,f^OH^ ,,z&^SS6,CJLCe,,&zS&6 &7zJj4 6^C:OLe  Sz,rJ CH,J&:C&H:Jz;CHLOz^,g^LH JSHOCHSC6,C&OJeH,6^zL!^z8^J!:L6^CS&HeJL:e:r& SHH e:z&+SO6eCLLLzerS^^HJJCarJ :S6HC^Lze:,O^^H: Ly:&S:L6JSHOre&,ezH,^ zHTJO:^6:SOO eS: zJrC^rHJJeyH&6:CJ^COL^z:, ^ HS ,EezL:,6&CeOHe6,ez4rOez.:JL: 6:S,OJeCLrz&re^HH6 H9;&OS^6rSLL zS,,^6L6eeLJz6,6^^rr  SC&L:66:C&L6zC:z&,SrO&ee,:CO6:C&,,^,}rJeS OSC,L6S66eSJO6C6L^er, JSHS&L%O6:S6OCz6O;e^Ll^rrLJSgOL,eVr^ :HLJ&H^^C,HJOteJSl&6:CSOO ,ZC&^S:6LC& ,1L6SSOOezOLOJL:z6zSwOOeJ&zS^6zCJHSJJ:C&r: zHCrL6zz,6^OH^J:rLe>S:6,CJLCer,z^e,,eC9zJr:O6zC:OLe ,SHJrJ CHrJ :e&,S6&zH&L6z^r:^LH  H_,J^Lr6,C Lee&,6^zrmzO,CJ_:66 SxO,eC,CeL&e CHLJ6:C&tSOO^e:,zz ,r^,HJJCXr&&SezJC6Lzey, ^^ro LR ^::,6JCCO,e&,ezHr6 zHlJO:^JzSLO eSL6errC^rH&J^H z,rH^&<zJrfJ6S:?rH &8J&C:r6O:OJ:-S,Sz&rO ^t:JrHHzOHCJSH6&ez^,U^HH6Jz:SzJrL^zC&6!zS,,^JHz^^LLz6r ^6:SJ^:zJHS 6eSr,&zC, ^&r& zH,J^:%&r^,H^J^::&LS&J,HL&SYz,Oz6He Hh6& uz^,HCJJC:&&:O6zSHrOz:,O^CH^O C&LozOr^ CrSz:L6zHrz  :^ f(^&rS<HS exO&^S:6r:S O(H&^S,6 SO,Hz&,CzLS,Oee^,:zLr&z:OHez,&^JrSOSCHL6zz,3^O6^9,LL&e:,6,CJLCe7&,Sr6,CF(SJ6:O6^C:Or:HJ,SC6rC6HO l:e&HS6O SCJ::e6OS&OCee,e&z:^6rC&Lez:O::&O^e:LC^&rSzbr  H5g&&zO,, eHHJ6: JeH:^,SJJr8H&&C OzeO,e&^:,6HC6LzzSLCeO66e^LzzJ:66SCCOre&,^:6OSCHOHe6:C&6SLO eSLHCO6&CJOJCO,S&JSz6*COL^z:,L^ HS 6g:&C:r6&C^ LH#&CS&O:SHHrJ:: 6SS,O6S &e?cOLCzOCC6,S^CrL6rC^L zS,,^666CSLHz6,L6 SrOUeO,^^C6CS&O,zC,e^JSOOeeeLHz6r z^OJCLLH&&:LOSC,LJzzOzSe,6CLL:err6^JHrJ e&L,^Sr, J2z^zL,^6Hz  S J,:#6S^HHLJ :S&,SJHCLLJ&U ,H^6Hz P:e&^:j6LC LSe,,JeCOO J5CJH:&6zSHOOC86&zOr^ SO:JJ:S&rS&OeCO&Cze,p^O66J:sO& SSO^CJLSer,&^erH 6rz C:66zC:OOe ,:z,LJz,HrJJ:e&rS66rCbO&eJr:^&H  e/,&JSC6rS^Leer,6^SrI &o^JO:&6 C:O,CL,Cz,r& CHHJ^,r&HSOO^CzLLz^rS^&L:JSUr&&,J6HC&LzeUre^^ru Lh &S:,6J:CJOeJ,CzHr& zHHJOH^^rSOO^eSLLzJ,z^r,&z:dr&&Sz6HCOOCz:LrSrHS^&tJe :r6JCeOre6,:S&r6 ^c:Cw: 6:S,6^rrL,zJre^SH6JzsW&zLLO:COL CL,,^ HC ,R&JXrJ6&CzO%Cz,^z_rL CLOJL:J6C:CO&eCLHeJJm^HH6J^H&&LS OSSO CzS,L^&r  H-6&z:E&,C^OKeL,z^SrO J,,LJ:&6CSH&,ezLHzO,: :HJeT::&,SJ&^CrLJzeL,CCHz H+OJOS:6LC 6ZSC,J^Srr^LheJH:6&C,OO6ez,:eLr  SH,JJJL&rS OeCHL6zz,*^OrJJ:bO& :+6,C^LCCLe,^err 6ICJ.:O6^:HO&e ,:z,r^ CHrJ&rrSLS6OeC06^z^,=^L,OJSk&^:SS6rC&&HeH,&^zrLeebz&::L rCSOLeJ,C^ r& CHHJ6:z&bSO&^=rLOz^rS^LHJJS_r &H:6rC&LzeH,Oz,H:^LOO&::L6JSSOre&,ee,&z eHHJO_66:SLO SSJ^z rS^rHJJeH&&6:C &COLCz:L,^ HS ,IJSr:r6JCeOLe6,CzVLOSHH0JO: 6:S,OzeCLr^Sre^LH6JzKG&OS^&:0&L^eH,,^zHC ,v& erL6&CSOXeJ,^zJrL^z6,JL:e6C:CO&eeLHC6OS^HH J^m,&LSCOSSO CzS,&^&HS H26&z*rz^CzOOeLL6^Sr, JWCz^:&&HSHOzezL6zO,ezJHLJ::SJeSJOCCr6&ee,H^eHz 6oOJrS:JL:OLSe ,Jz,rr^HZeJHsH6zSLOOC=,:z6r  S,(JJgr&rS&OeCrL6ez,&^OH:J:HO& SS6,CJLSer,J^er6 6!CJIk&:6C:OOe OOz,rJ CrL z:e&rS66AC!LOz^r:rzH  R!,&JSC6rC&Lee:,6^eru &x^JH:L6:g6OLe ,C:zr& CHHJ6:z&LHeOze:LL5rrS^LHJ :O&&JSS6HSJLze4,O^err L7e&S:,6JCCOre&:/zHrJ zHrJO:z6::66#eSLOzJL&^rH&Je8H:CSz6,COLzz:,L^ HSe * &::r6 CeOre6LCuOr6 eE: z: 6SS,&JHLL,z re^,H6 H;{&Or!6kC6L eG,,^ HC r,J&e:H66CeOmeO,^zxrL  *SJO:J6CSrO^CrLHz6rz SOSC6, ^Sre6HC^LJzC,r^O,Le&L z,r^^6CSL:eL, e7&J  ?CJr:J6eSHO6SzJ&z6r^ :HLJ sE&,SJ ,C,L&ze,,^6He vKO^zS:6LC L:e,,J^Crr &9eJH:66eSHOOe^,:z&,r SH,JJ:zJC,H CHr6C:H6SCSHeJ:5L& gEJCCJLCer,J^erH 6}zzH:O6^C:OOe ,Sz,rJ CHrJ&:C& S6OzC{LJz:r:^LH JeLez6rO^rC^LSeH,6^zHSCORCJO:L6 CSOH/C&OSJ6JCCH,J6:z&bSOO^e:re:J,H^ HJJCDr&O7& &HS LCS,&LLzJrC^rH&Je,HHeOOee,ezHr6  O zzLr^:S&OSeSL,zJrzSSLCe^L^ rSz6GCOOeHL,O^ HS JcJ&C:r6C>LOre6,zezrO z5:JL: &rH^O eCLrCrre^rH6 COO&6S^O:CzL zS,,eJOY ,8&&e:H66S,O!C&&H^:rO  HLJ,:J6CSr6OeeLHz6rC^tH&J^aOeSS OSC,OrzC,,^&HC H(^zr:H6OC^O eL,^^Sr&e:xSJr:&J&SHO&ezOr0^rz :HLJz:S&,SJ6:r&LJzC,H^&Hz hZO&^,i6LC^LSeL,J^:rr &LzJr:66zSvOOez,:erCL SH&JJGS&rSJOeCHL6z:6&^6H^J:HO& S:6,CeJLe,,&^e,J 6XeJn2&z:S%OLe LOz,rJ C,rz^:C&HS6OzCZLCz^r:WLH JS.,& SC6,C&OSH6,&^zr_ 6D^&::L6 H:O,eJ,Cz,r& SHH JrO&FSOO^CHLLz rSzO6CJS.r&&S:6HC6Lzer,J^^rj L; &S:,6JCCJJeJ,ezHrJ zHHJO:S^6SOO eSL6zJrS^rH&zCtH&6Sz6HCOL^z:,O^ HS ,He&C:r6&C:O6e6,zzRr,C6LOe6,,&HSCOJeCLrzOOJSOOCezLJz^rq &tSLeee,,^JHC ;r zr, ^:HO &H,OS:L6CC&Ore6:z&OSrO&ee,:C36SC^O&eJ, zeSe6,C,LJzC,n:/OrC L6&S:e6OC^L:erO^:rOzeSLS^&,J^rr: IHrL,z:r^ :HLJ&rA^ rL^IHd 3_66^SMHS  5O&^S:6r:S r0z&6:66/CzL:JL::6zSVOOeJOe:S6zCLO6ee,z^zS^6JCHL6zzrSeHOLCJHez6re^LHH L:e&^^:r& 6RzJ*:,^:HO rHwJ6z6r: CHrJ&:^JSr. HHHJS:&,H^LH JSG,&JSC6rC&LSSS& e&hz&&L#& ,r6eS:O,eJ,Cz{LLS6O,ze,SzLr, ,:6JJ:C&&eJLSCLLz&^:H6HC6LzzSJHS.OCCCfeJJ:,6JCCO*C:& S&6CCHLJeS,Lz6S6O eSL,zJrC^r&Wee+L&SSz6*COLJS &&Sx6rC&OXe6:O6:CeOHe6, CO66C-OCzSL_z69JOJeCLre & ^HH6JzZz&OS^O:S6LzzS,L^JHS rw&&eHHJrCzOHeO,z^:r6  rSJz:J6SSrOJeeLOz6Lz^eHOJz::&OS 6JC,LJe ,r^JHe ,<6&z:+6OSeL:eL, ^Sr, ^9CJ6!:6eSHO6SCLQz6r^zH6 J^W,&,SzOCCrL&erJz^6rF Nr&&^:p6LC^LSe&6:^Srr &rSJH:&6zXDJJezLLzLrC SHeJJHC^OSJ6HCHLzzz,e^OrJeJ+LJ6SSJOCJLSer,e^erOeCjeJ?:OJeC:OOe OSS6r ^rHrJz:eJ7S6&z1,L6z:r:^ H  6T,J^Lr6,CCLeer,6^zrYzO,CJ-:^6 SLO,Ce,CCrO^ CH&J64H&qSzO^S:&&z^,L^,HSJCH,&&QeCCC&OHeE,z^^rS Lr  r:,6SCCOJe&LLzHr6^,HZJ^:^&LSLO:eS6,eSrC^&H& HyH&CSzJ6:HL^eL,LeOHS L?JJ::r6zH,Ore6,zeerO zn:JJ,Z6:S,OJS:LrzJrez,6zJe5O&OS:O:CLL CS&^^Jrr r_e&eiH66SC6,eOL-^:,r  tSJ,:J&6SrOeeeL,z6re^Ur& 6::& S &HC,LJzC,rz:He 6U6&e:866C^OOee,^^Sr,^1iCJ,:&6SSHO^qrLHzOr^^&HLJ^:S&,H OCCrL&zC,H^6Hz /fO&^S:6LC Ore,,J^CrO CueJH:66 rOJCMAJk:Ore^,H,JJ:C&V,, rT:J:zS,^^OH^J:qr^jrL zHr&6A &OSr6r  HsJd:O6^CC C::J6:,,z CHrJ&lSe6S&OzCKL z^r:^L, eH0L&JSC6rC&LSeH,6SerR Oh^Jm:L6zCSO rr,Czrr&^rHHJ&:z&HSOOSG6LOz rS^ HJJSBr&zr,6rC6LzCr,O^zH:^6OS&::,6JS2Ore&,ez&J> zHAJOaL6:SOO e:L,ze6L^,H&JeWz&6Se6_C JHeF,L^ HS ,M &CoLzeCCOHe6,ez;rO ^HOS;: 6:S,OJeCL,z&,f^HH6^c3_&OS^O:CLL zS,,zCHC r>&&C:H66CzONC^,^^:rL z=SJ,:J6C:&O&eeLHz rz^vHOJ^,O&OS OSCOLJzS,r^zO, rW6&z:l6OCzL:eL6^^Sr, JgSJr:&6eSrO6ezLcS,r^ :HLJeb6&,SJOCCT6::e&:SzO e^,z&C:L6LC LSeH&O:&OSCH_:JJ:66zSFO,SCJ,ee6^CeOJJzIr&rS&Oee:6J: &,SOHC &YL& SS6H2H HSzJ,S6OzC /SJ^:O6^C:Or:H&JS ,:C&LJe:LO&&S 6OCPLOz^rCezL:e6,C^H,L^GnCJCeLLH^zr+ OaJ &Y:zaHL OtrO^:e6^SOHLJC:z&RSOOJS& r:4&rS^OL !{z&&Se6HCL&,jZJ,C,66Cr,:z::6&,CCOre&,^C 6:CHO&eSH:z,rr eH&L,zJ,2^&H&Je>H&L,& 6H, ,erLO^ HS ,i6 ^,e^ Hr L=^& S LeCSO,eCHS^Lr^^HC4O,z&re^HHLz,,Sz&,L^!n^ r:e&&SzLLeJL2z^,z^SCSO:eO,^^:rrzOLJeeHH^&r^J:96JLS:6HS,OSCrmH&LS OSC,LJzC^zS&H: ON6&z:I6,HCJ Ho,ez,r, J=CJGL9^rr  6eSL^zOr^ :HrzH,J^ :: &3JJ:iO& ^ rr yyO&^SCJHH,JLbLJHS^rO zBeJH:66 H6 ,>eLrz:r  SH,J6HO^Jr^&LHOJ&:e6SCSOL rke& SS6,C66Jcv&:S 6,eeLSJ,: 6^C:OLe&6aS 6C^XHJJ&:e&HSL&&}CJ bL&Q^&rzJSc,&JSz^^HH O:S&LSLO e:LCeL,z^Cr,JC8:J6?Wr^^HHHJ6:z6Sr& }HJJHzzeJ,ezHr6 zHb^O^NC OreQ,O^^HC^erLeOr ^^H&OLe&,ezHr6 zHk^ ,^&rxJO eSL,z66OC:OzeO,:zYrS^JH^JW.H&HS&6OCHL^zz,:^OH6 L:S&JS^6SCrO ze,6zJr6 L4:&J+Or:^&H6JzfT&,HO OHO ,:J,6^SHC rU&&^xSz0HCJ6PJ,CzOrL  _SJH,C^,r8 SHLL,z6rz^pHOJ^::&LS 6HC LJzC,r^O,SCO,:zO,H6&C^L:eL, rSHS&,LCJL:&6eSHO6ezLf:,S^^rH J :S&,S6J0#JJ :6,L^:Hz QAO&Jbe^SHzJL_6&eSzOz ^rLJH:66zCS CqCJ,V;6&S6OLzSLd^zHz&LH:J&: &,CSOLC6Q&&S:z6 C^6^JzHeSzJO^:CJeQ:&6^C:OLe ,Sz,HJCeHOJe:e&HS6O :&&z:r6 ^&rJJSa,&JSz&CHOJ::^OHS 6&CCO, &,H^&H:Je^z,Czrr& eBJJ6:z&BSOO^e:LLC 6H^LHJJCdr&&H 6H:6&SeH,O^^H: Lr^&SH C^CCOre&6SzHr& z,rJO:S^6SOO eS&OzJrS^rr SHMr&&SzJ,COL^z:,LS6HS O}J&S:r6&Ce&HeJ,zzrrO e%: L: 6S:,OJe:Lrz^re^HH6Jz-e&OSzO:CLL eH,,^e,L rp&&er<66CeOiSOJHzKr^  H,J,r66C:LJSeeL z6OL^7HOJ^::C S 6LC,O=zC,L^&rrSzq6JH:T&6C^ObeL,^^Sr&e:*SJr:&&CSHO&ezLLSerz :HLzJ:S&LSJ&CH LJer,H^zHzzSAOJer66LSHLSCH,J^Crr &&HJH:e6zSJOOee,:z^OH :H JJre&rSJOeCHL6z:6&^6H^J:,,& S:6,:JJ;e,,C^er6 6,LJTHO CStO^e LLz,,C Cr},r:e OS6&6CEL6z^,O^LHCeOlL&JSC&CC&LCeH,^SrrH O%^^S:L6^CS6OHC,SzJr&^ HHJ6:zJrHeO^C6LLC6rS^,HJJC,J&J:r6HCJLzeH,Oe^Or O(:&S:J6JD6Or:&J6zHre zrOJOHS6:cL&LeSL zJ,r^rrOJe,HJ6Sz66CO6Hz:L!^ ,; &NJJ,:rJrCeOHe6,zeerO^Hf:J6: 6SS,6^S_Lrz:rezwH6Jz=XJ&:OO:CCL C^,,^JHCzr,^&C:^66SLOZe&,^^:&z  HLJ,(H6CS,O&CS 6z&,H^(HeJ^::&LS:J6CLLSzC6H^&HC Hg6&z:L eCzL:eL6J^SrL JrCzO:J&rSHOzez6 zOL^CrHOJ::S& SJ&rCr6COr,H^eHz^zsO&zS:JJC Or:^, ^Crrzr7eJr:6&HSJO6ez,:z:r  :H,J^:C&6HSOCCHL6e6,2^6H^ ,,z&^SS6,z^LCe,,&CrS& 6NzJ-r^6^SIOLe^,Sz&O: SHrJ&,H&HS&OzCL&ezzr:^L6JJSPL&J::z&CJLCeHO ^zrF OF^LL:L6zCSO6eJ,CzrL&zJHHJJ:z&rSO&,e:6LC,rS^OHJJ:jrJHSeJHCCLzer,O^eH:z 8  S:^6JC:Ore ,eeHr6 zHJJO:e6:S&O eSL,zJLO^rHJJeVH&6SS6QC 6Oz:,L^ 6^ ,# &CHr ^CCO&e6Liz+LC ^,OL^: &LS, ^eCL,z&O6^HH^eriH&OS^^HCLL^zS,&C:HS r7&eJ:H6&Cz6rH^,zzOrL S{SJ,:JJC5LOJC,LHzzrzzSHO eHr&L:HOS:HLJzC,re&r  HtS&z:J6OSeL:C6,z^Sre J,HJr:&6e:,6rezL^zOLS :HLJ HE mSJ6JCr6zze,H^6Hz H.OJrS:6:C OWe,,Je6r, SkeJJ:6&,SpOOBjL(z^r ^_H,J :C&JS:OCCrL6: ,3^6H^ H/L&CrO6LCJLCVt,&^CrH ^LrJH:O6^eHOLe^,SC SS CHrJ&LS&HS&OzSJLOzS66^OH JSOO&JSS6rCzJ,er,6^z^, O5z&:_6zSC:OLeJ6?zrr& eHHzJ:e&rSOOCe:LLz LSzSHJJ:xr& Se&OC66zCH,O^eH: 6l JL:,JJSSOre ,ez,r6^zHkJO:e6:S6O CHL,zJrC^rr:Je0r&6Sz6?CJL^e,LL^ HS ,JJ&C:,6&:eJLe&LHzRr^ ^,&JLH:S*S,OSeCerz&rC^HrLJz2L^eSzO:CLe zS,L^Jr:S&_JJr:H& CzO{eOO^SrrO :#SJ :J&^SrO&reLHzerz^HHOJz::J6,^OSC LJer,r^&HezH3^&z:&6OC:L:Cr, eSr  JHLJr:S6e::O6CCOezO,r :,rJ :S&,WJ&6CrL:ze, ^6rC PH&JrS:6CC &re,,J^C,Lz{?eJz:6&eSqOOe^OHSzr ^ H,^e:C&rS&Oe,6L6e,,_zAH^ H4L& l&6LC:LCe ,&zLrH 6LHJH:z6^SHOLe^,Sz,CS CHJJ&:C&HS6OzSr6:z^,O^Lr:JSG,&JdC OCJOreH,z^zrS Or^zr:O6:CSO eJOzzr, e6HHJe:z&JSOO^e:LL6:rS^ HJJS-r&&Se&,s+Lze6,Oe^H: LY &S^ 6JS,OreJ,ezHr6^C eJO3-6:S&O eSL,e^r:^rHCJe?J&6Sz6!Cz^Lz:,^^  6 ,q &C:,6&S#JJe&,zzm C ^HBJL:C^OSLOJeCzSz&rC^H,6zSZH&zS^6LCL&rzSO,CzHS J%&Jr:H&zCz&6Oz,^zOrL:6tSJL:J HSrOzN,Lrz6rz:CHOJz::&L :OSC LJzC,r^&He^,,#&z:66O:^L:eL, ^SC  JH,Jr:&6eSHO6CC6^zO,5 :r^J :S&,SS6OC,LJzeJz^6He mv&&^:, zC^LSe, r^Cr, &HgzJ:&6zS?,&e^LozLL:6LH,JJ:C:JS&OCCHL:zz,LCeHzJ:aL::SS6LCJOH: ,J^erH,t9zJH:O&e,LOOe^,SzJrJ CHr  OH&rSJOzSSLOz^r:eLLeJ:3O&JS:6rS LeC,J ^zr, O,I&::L6 :g6&eJLHzrOr eHHJ6bC& SOO:e:6zz rS^,r^ &%r&CSeJCC6LzeTL&z H: z? ^r:,6JCC6LCO,ez r6z:H{JO:^JH:^O C&L,CerC^rH& S,J&6:O6cZHL^z:,LzzOO ,H,&CH66&CeOHCJ&rz.,H ^,,JL: 6S:OJ:eCL:z&O.^HH6JzHr^eS^6CCL&OzS,,^JHC6&(&&S:H&LCzOweO,^r,rL ^7SJ,:J6SSrO&JrLHz&rz^HHOJ^::J6H,OSCLLJew,r^&He O,C&e:+6OzeL:eO, CL O J9CJre16eSrO6SOL-z 6H^lHLJ e&&,S OCSL ezC,r^6,S >.O&^S:^HC Oqe,, ^Crr &re 6:66CSBO&e^L:zLr ^6H,J^:C&OS&OeCHL6e6,.^6H^J:%L&eSS6&:,LCer,&&rrH &iz^1,e6zSOOLeS,SSHrJ^:L J&8L&H9:OzCbLOz^ L^LH:JSaz&JS:6rCC^6eH,e^zeJ O#z&::O6 SrJ^e ,Czre: eHrJ6::^&S6O^e:/^z r:^,,JCLi,&CSe66C6& eWL&SHH: eB Je:,6JCCOrre,ez&r6^,H9J&:^&O#eO^CLL,&SrC^,H&Je#H&^rr6HCOL^JO,L^^HSz,,z&S:J6&SHOHS:,zC_OJ zHOJL::6S:JOJCz&zz&Ob^HCeJzEH&O:_O:CJJ<z:,,^JS, rpJ&eh,zzCeO6eOL&^:rL  rgz^:J&LSr&LeeLHz6rzC6H6 t::&6S O:C,6J:<,,^CHe 676^L:d OrLL:e^, e,r,zehC^r:e6eS&O6C-L8e,r^e:reJ PL&,::OCCSL&eSLr^6rH trN&^S:6LC Ore,,:^CrL &/eJHBJ&SSIOCe^LSzLr  SrO H:C&zS&&JCHL6zzO*CJHz JjLJrSS6OCJLCH ,&zrrH :YzJH:O&e,LOOe:,Sz^rJ CHrJCO6&HSeOz rLOzzr:^OH  r,^& SC6r  Leer,6^:O& 6I^&:z^6 C:O,SJ&Fz,rC eH6J6rL&}dOJCC-L^z ,L^,rCJCrJXCSe6&C6:ee7,6^^L, L;CzO:L6JCC7,e&,CzHre^,HHJ6:^HHSLO^eSLOzJ,HC HJJe#HHJSz6HCOLS:6,O^ HS&OEJ&S:rJCLSOHe6,z rrO zY:JJ: &rH^O eCLr  re^rH6 COO&6SzO::&L zS,,^JO^ rW &e:L66CzOcSOOM^:r6  H_J,RJ6CSr6 eeL,z6rS^*HOJ^::&SS O:C,LJzC,O^&r= ^q6&z:2LOC^O5eLO SHrL S4CJ&:& LSH&e,CL4zzr^&:HLJ^:S&SSJ6HN LJze,HJ6Hz HFOJeLL6OC:LSeJ,J^Crrz&rSJr:C6zSOOOSJ,:e6,: SHzJJHz&rS&Oe:H6gzz,J^OrrJ:H6& .g&zCJO6erOz^erH 6HCJ,:O&LC:&,e ,Sz,,^zHHr r:e OS6OzCoLOzSr:^eH   a,&^SC6r:_LCeJ,6zrrq C>^&:r^6^SLO,e^,Cz,r& ee&J6yH&sS6O^e:LLezOJ^,HSJCdO&&Se6HCeO,eH,6^^:> Ln^&S:O6JSHJ eJ,ezH:& zHHJO:^^ESLO eSLLzJrC^rH&Je-H&6Sz67C^L^z:,L^e,r ,pJ&C:s rH^ Jx:JOS666zJOre L,z&IOJSH8&J:,66SJH  !.5&OS^OCHi&:Z26C^zrJ rq&&eS:JCH JeRrJ,C&6HC&L ee:z&JSrO&ee,:Cr6OS ,CeLL6z:r& 6WCLze^,r^&HeJ:rSzO,, S:^J HrO,: OCCzO6JC:&6eSH6JrULHzOr^^HHLJ :S ,r:OSCrL&ze,H^^Hz^r,e&^:H6LC^LSe,,J^CJ& &=eJH:J6zSrOOS^J6zOr  SH,JJFr&rS&HrCHLJzz,H^OH^J:H6zlSS66CJOaer,&^erHLe8zJL:O6^C:OLe OV-Jr ^rHrJ :e&HS6Ozr&LOz^r:^ H J:I,&JHS6rC&Leer,6^zrD Ov^&::L6 :rO,eJ,CzOrS eHHJ6: JJr  eHHO:SC,H^JHJJCYr&OHO^:HzJOe,LL^^H: Li&  ,H^zH66CcOJ,: 6:z,LCe,,z^JS&O:eSL,zJrze^6,CvLJ^:SC6UCOL^z:,L6 ^QC,azJr:r6&CeL:Hr&HSS6S CHJJL: 6SSH& HH&J:kL^S^O#eC=r&OS^O:CLL zS,,SJrB eX&&e:H6L:,JC:zJHSOOeSrLJe^:z&rSrO&ee,:::& SOL:JCw&&LS OSCH6::&&LSz6OezLS&S: 6OC^L:erOTSLOzCJOrzJr:^eSL6,ezLYzOrJCzLSCrHez6,, &HO 0p0&J:LHS :VO&^S:6r:HJz:C&/SCLLeCOL^ ,;^eH^JCH,Lrzer  SH,J6H:^Jr:^OmzJCB ,,^zH^J:+L&&,&  E:JS:e,^zHrH 6dz&SHJ^yrHJSeeLLz,rJ CH9ee,r^:rC^,C,Orz^r:^LH&^eL6e,,H^rHH&L:z&C:6O^Ce?CJS:L6 CSOHS,&,: 6 zSL&eSLL^^re^JC^L zS6J^,HJJCHLeeSC6HC6OCev,O^^H:Jza &::,6JCCOre&OeSLr& eH+J6:^&^SL& _HLLz rC^,H&JCtH 6,r6HC6L^eI,LzeHS^O,:&C:O6&S OHe6,zzI:^ ^HKJL:e6SS,OJeC^Lz&re^HH6JzZr&OSS 6COL zS6^^JHS rH CH:r6zCzO^eO,^^:rLrAiSJ :J&HSrO&eeLHeLrz^OHOJe::&6S JL  LJer,rz6He rX6Jz:-6 HHOIeL, zCr,  DCJ6rS6CSHO6(rLtz6r^z:L&J^Q,&,SeOCCLL&Sr^,^6rN (,e&^:86LCCLSe&6:^Srr &L,JH:&6zm_JJezLLzLrC SrrJJ_z zSJ6HCH&Czz,H^OH:J:%JzvS:6,CJJLer,J^erHJC5zJO:O6zC:OLe OSS6r ^rHrJe:e&CS6&zH&L6z:r:^ H  HR, JrK6,CSLeeO,6zer{ O6:&:: 6 SOO,e^,CzJL: CH6J6HJ&iS6O^e:LLzC6O^LHJJCH:&&SC6HC^JreH,O^^O6 Lj^&S:,O:CCO&e&,CzHr6 z,pOO:^&LSLOSeSLezJLCzLH& HEH&zSz6,CO6^ez,LzYHS &EJJS:r6&CCOHez,zz&rO e{:J^:C6SSJOJ#LLrzJre^rH6J:,&&6S^O:.zL z:,,^JHL r>e&e:H66CzO<SO6Czvr   H,J,I,6CarJ^eCL6z6,E^wH6J^H:zzS^6,C,LCzCLO^&rSeJ96Jr:-6eC^L:eLO SHrL^5>CJ6:&&CSHO6rrLfz^r^^&HLJ^:SJO,COSC&L&er,H^6Hz^r,e&^:O6LSHLSe,,J^CC6 &HHJH:J6zSHOOCeOzzLrS SrHJJ:C&r:  ,CHLezz,L^OH^J:_LJ&SS6JCJL:er, ^eL&:LmzJO:O SC:OOe L,z,reCLH,J&:e^OS6OeChL :H,Z^LH eO>,& SC&LreLCe6,6z:rE O{^JOLS6 S,O,Se,Cz,r& CHHJ^,r&HSOO^:,LLz^rS^ r>JS?r&&:O6HC&Lzer,O^SO6 OE &S:e6JCSOre&6CzHr6 zHHJO:^6:SLO eSL,zJ,C^rH&Je4LJ;Sz6_COLJSz&J:nOSCzLCz,r^^HC:OJe6,zz{r,zrLCez,H^:HCOzCJLrz&re :rCCr,S^Cr^&&HJJ^nr&^^zr  rx&&eS:&CH:J62Sr:e&O^SHO&eL,r&wS6O&eeLHzLL SJrzJC{L&LS OSCH6z:,&LSHH: 6p6&z:E6,::JO?zJrzHr& J_CJr:OJSH& zeSOVzOr^ :Hr^r,Lz^rJOrH^ -Rx&LSAHjeeLezL,C6&S6LSe,,J^zO^CzL:z ,,^:H   iC&O:&6r^HHJJJ:C&rSO Jb&JJ:O,,zLH^J:DL&&K ^HHzJ6CC&O:,6 C:r,zC,,^zHJO&Cr,Sz,rJ z,^CH,Sz,r^ Ss^JezC,L^LH JS/Hzzr&^:r#L:eC,6^zr( ,r6z ,CJHHz HK &6: 6HC:HL H:z&;SOOJSz&S0rO6CCO:CJL;^:r6JJC6Lzeo,OeQr} Lb &S:,6JCC6LO,,ezHr6^OH/JO:^JH{HO eSL,e6rC^rH& SO6&&Se6ISBL^z:,Le e^ ,M &C:,6&SeOHCJ,ez=rJ ^H#JL: 6SS,&reCL,z&r:^HHJJzr2JOS^67CLL^zS,z^J,C^Cx&&C:H6&CzOLeOO^ezrL ^VSJL:J&^Sr&&SnLHz&rz^HHOJe:: L,<O:CLLJzS,rz6He HzL&z:H6OCeL:e6, zrO^  4CJrH 6eSrO6SzJ&z6r: :HJJ .,&,:^ LCrLSze,J^6Hz YhOC:S:6 C OOe,,^^CrJz:WCJ6:6JCSjO6e^,:zLrCCOHLJJ:C LS&OCCH66Dr,H^^H^ ,sLJOSS&Ow:LCe ,&z,rH 67zJ8O^6^SLOLCR,SzOrJ^,,^JJUH&HmJOzCHLOz^r:^JOwJ:{,&Jp:6rCJLeSH6 ^erO OjS&::z6 :SJ6e Lrzrre eHLJ6Hz^,S6O:e:L z ,L^,,SO,gr&eSe&:C6Lee<,S^^r,ezj^&S:,J6CCO,e&L4SJr& zHP^&:^&/SL6zr,LLzCrC^eH&Je>H 6HS6HCzL^e,,L^eHSz,,z&S:J6&SrOHee,zzYr: zHLJL::6SS&OJC,L^zJre^HrLJzsH&OSeO:CJJEz:,,^Jrz rGJ&eR,zzCeO<eOLL^:rL  qS6r:J6CSrO eeLHz6rzCHHOJ^::&OS OSC,LJzC,r^&He rR6&z:_6JSOL:eL, ^eLeeHL&eL,e^CH& :TO6 zJr^ :HL zO,&LSJOCC,L&ze,H^6&z 1QO&^:V6LC^LSe,6 ^Crr &MCJH:66zSyOOe^,:zLL& SH,JJ::&rS&OeCHL6zzOkSOHC^,4L& SS6HeC 6Z 6CS^6LCLLSzeS^zrH  eHH&e:&6zSOHOJ^HH&HS6OzeS6:::6zSzL:e&,Ce(Sr ^HzJSQ6&&SO6 e:L,JSS 6eS^O,eJ,CziOHSHLCeC,H^ H:JHuO&e:,,HzzHJJCvr&OH^^Or!L9C6&eSLHL^CLCeHrCOC=z 6HHJ,^6LCCHLJz::C&HSLO eSL,zJrCe6O&J:HO&6Sz68C,&H: &^:,OeC^Lrz6S& cr,J&QL&S^OL&CSO6zS:e&LS,OJeCLVe:6 CzLSez0,JJS^O:CLL&C66 SzHr^ OHe^S6JrHOJ6cer:Cz6rSrLz&J:z&OSrO&ee,:CC6OSrO C,, zeSzOSC,LJzC,r^&,JCHNJ&z:s6OC^L:eL, ^Sr6^,#CJr:&6^{J w_C&6:,6CCCO&eO:,&OSJOCCrL&ze,Hz^Oz rAO&^S:6LC LSC,&J^:rr &qeJH:66zSJ OeCOLzLr  SHHJe<O&,Ce&:;zJV:LrOeS6HeOLrze,6OJ:^ H{ &H^:,H 6qzJm:, HHOJeY,6&:^OSSYO^erL9zJrJ OV L&z^r:^LH JSo, crC6OSLLeeH,6^ ,SCJOOe,,L^,_6JCa:JJSe6S :,,J6:z&MS,JJH,JS^S6zC 6,e&:&eOr6^^ez LsLr^S>O&CHL&zJ,S^rCrJSNS&6S&6:CSL^eCLr&rSSO eSL,z6LOC:LCC,,&^S,L ^HeLCe:,L^ HS Hr:z&rJ^Er^L6SH&::&H^e,O6err:^:S66,eCLrz&r^ 6,HCr,6zHre  H& rA6,6z^HC r=&&^HJ^_r2 Ht,&rSO6CC,L&^zLHzHr JCRJ&zzJrz^FHOJ^::&LC  CCOLJzC,r^&He H_6zz:,6^C^L:eL,&S^O C^L&JOs66eSHO6e Oz:,6CCJr:e&LOzz,H&O+:JO:C6^^ rr k9O&^SC&eHC g1OO,SH6^ &VeJH:66rSEOOe^,:zLr  S,,^O:S&rS&OeCHOezzOi^SH^J:RL& SSJWCJO:C ,&^SrH^JAzJZ:O6^S:OLe ,SzOrJ :HrJCgr&HS6OzC LOzzr:^OH  r,^& SC6rSILeer,6zCO& Oj^&:? 6 CSO,eJHezrr& eH,J6:z&WSO& e:LLz ,F^,HJJCHL^LSC6LC66&eD,O^^,:^rs JH:,6zCC6ze&OeeOr6 SHGJJ:^& SL& S,L,zzrC^OH&^^KH 6::6.CJL^er,LzCHS^OHH&C:&6&SbOHe6,zerrS ^HOJLkH6SS,OJeC:Lz&r:^HHeJz;O&OS^S6CLL zS,J^JHC rj&o,:H6&CzOLeO,^^:rLr>TSJO:J&vSrO&ee6&rJrz^rHO^L::&OS &JC,Le:L,,^&He^zR6&e:V&&HHL:e&, zOr, JuCJrC66eSLO6eCL_zOr^^,LzJ^:S&,r_OCC,L&Sr:&^6HC Pr6&^:}6L:LLSe&6:^Srr &rCJH:&6za6e&e^LHzLLJ SHLJJ4e&rSz ,CrL6zzL:^OHzJ:_JzTS:6,CJ6Ser,J^eL&(JQzJr:O HC:OOe L z,reCLH,J&:e JS6OeC4O&:Hr:^&H  &/,&JSC6rOSLeeO,6^zrs Oh^ Hrz6 S,O,SW,Czrr& eH6J6:S&jSJO^CLLLz VC^,HzJC*L&&Se6HC^JreH,O^^O& L.^&SH C^CCOLe&6JzHr& zrvJO:S^6SOO eS6:zJrS^rr e,_H& Sz6&COL^z:,LJJHS 6uJ&::r6&CeOO:C,ezjrOCrV:JO:  LOOOJe:LrSJre^rH6  32& rH6bCLL S:,,^ HC^L,S&e:L66SjOkeO,^^:.,  HHJ,:^6CSrO&C4&Jz&rz^wLCJ^.9&L/:CvC,L^zC6^^&HC HH &z:L eCzL:eL&H^SrL JH:z :&6:SHO ezLuzOL^eeHLJC:S&LSJ&JCrO :,,H^zHz^HIO&^S:6LCSLSe6,Jzlrr ePeJHCO6zS,OOee,:zLr eLC JJ::&rr OeCrL6ze,W^ OH 5_L& ,R6,C LCSJ:C^er, 6LJJa:66^SzOLeC&OzLrJ CL:J&:C&HS^ rCHLOz^6:^LH^JSHO^:SC6OC&6,eH,6^zrn&LD^Jr:L6zCSO,eJLHS rJ eHHeJ:z&HSO6e.6LLzerSzJHJJCMr&&ez6HC Lzer,O^^H:^6LX&S:66JS^Ore&,eeHz6 zHLJO(T6:SOO ST&^zJ,r^rH JehH&6Sz6OCOLCz:,&^ r, ,mJOe:r6^CeO,e6,zzUrOezP:JL: 6:S,OJeCLrz&re^HH6JC*_&OS^6rC L zS,,^6L&COLOeO:,66CzOdeO,^S:z,C H,J,:J6CSr 6eCL,z6re^DHOJ^H:^&S^6KC,L^zC,,^&,ezLk&&C:=6&C^OHeL, JCr, ^vCJL:&6eSHO6:eL{zOr^^=HLJ :S&,SJOCCrL eH,H^6Hz ,pz&^S:6LC&J QL&e:H6  ^HHJH:66zCS &47JJ:Hre^JH,JJ:C&9:: CHO&S:zO S,Oee A&JrSS6,CJLzS,&OSJOSC:L e,,H6CSLOLe ,SzH6LC,OLeHvL&HS6OzSr ^zzr:^LHzJS{,&JZC OCJLeeH,6^zrH OHeCL:O6^CSOJeJ,CzrL&e:HrJ&:z&HSOOSe:6LSer:^LHJJSmr&^Se6H:CLze!,O^zH: Lf &SJr6JCCOre&,ezHr6 zLHJO:^6:SOO eSL,zJrC^rH&JeF&&6Sz6cCJOrz:,L^ HezeLeeH,, nH^ 6e LLzYrO ^PC zr:^6r, Cw,&^:&r:^&H6JzUF&,Xz  H:J,::,6^SHC rZ&&^,6 eH  &jC,CzzrL  (SJHHL^&rz6:h &::&6LS&L:eCBr&^S OSC,L6SJ6JSJ66ezH6&z:}6OC^,&eL,^^Sr, J>CJrH&JOSHO&ezLHzOre :r6 S:S&OSJ6HCrL&zeOHz6Hz ,*O&zS:6 C LSCL,Jz%rr z}eJH:66z:^OOee,:zLr ^rH,Je8,&rS&OeCSL6ze,meOLC Pvz& :L6,C LCeJ S^CrJ 6HJJT:66^C:OLeC&OzLrJ CH:J&:C&HX6JSCHLez^,O^LHeJSr,^zSS6 C&O,eH,e^zrK&LB^J6:L6zCSO,eJL,z^rJ SHHJC:z&HSOOee:LJ:_r:^,HJ L9r&JSe6Hx&Lze!,O^zH: L8 &S:,6JCCO,eJ,ezHr6 SHJJO:^6:Sr&HHrJ6:z6&C^6+ rIH&6Sz6leeL^z:,L^ HS ,>J C, 6JCeOHe6,zzHrO^u6zJL:z6SS,OJeSLrzJre^HrzJz4V&OSzO:CLL zSJ^^JHC rV &e:r66CzJHeO,^^:rO  =SJ,: 6CSrO&COLHz6rz^,H J^::&LS&&OHC 6eh,&^&He HyLeLr6^CH^OHeL, ^Sr, JIC&r,66:SJO6ezLuz,LrS,O6ezH ^&Sz6^CrL&zer:eLOSCzL z^r JeH, OoS&r:LrO e+eJH:66 reJzbJJJz&,r SH,JJ:z  _:^6H6JC: &JC:HC &mL& SS6H::J&2L&z:OOzCS=SJ6:O6^C:OrSYJr:66rSOr6J&:e&H:JzXCHLOz^,6^LH JS- CrSC6rC&O2eH,&^zrH O.Sz6:O6 CSO&eJ,SzrrzC,HrJ6:zJ,SOOze:O6{Sr:^,HJJ:_r&&SeJH; Leem,O^^H: ^V &S,L6JCCOreJ,ez,r6^H,JJ6:^6::&O e:L,zJrC^6LSJCRH&6:S6gC6L^z:rz^ HS ,-J&C:r6&:eJOe6,zztrO ^H&JLH JHS,OJeCLrz&,3^H,6^JMQ&OS^O:CLLSzSLOz:HC L>&JO:H66Cz6reJ,^zrrL ^_SJ,:J&:S&O&C(LHz rz^9HO eHL&LSSOSC6LJzC,r^&,r Hi6&z:O6OCzL:eJLL^Sr, JHHJr:J6eSHJ&ezLlzOrz :HLJ :S&,SJOCCrL&zC,H^6Hz ,w:&^S:6LC&Jz:C6SSS6zCLLCeOLr6CSvOOe^OHCSr  SH,J :C&rS&Oe=rL6zz,f^6H^J:mL& SS6,CJLSeL,&^erH  H,J+:O6^CC&O::J^e^6eSOO^J^j &HS6OzeSOS:J&&C^O9e:,C^H,  eHHJ:e6,6^zrZ^&:^&::L6 C:O,eJ,CeLrS eHrJ6:C&dSOO^SHO#z ,I^,H JC9r&&Se6&C6LeeX,&^^ri L.  L:,6JCCO,e&,ezHr6 zHjJO:z&uSLO eSL6z:rC^rH&J^rLz^V,^HH,J:er,L^ HS ,zS&C:r6&CCOHe6,zerL: ^p:JL:^6SS,OJeC&,z&re^HH&Jzt+&OS^O:CLL zS,L^JHC r_^J6:H66CzLSSS&L:XOSzLOOeC,6z6SLO&eeLHeJOO^2HOJ^y3&LS OSC,& zC,r^&HC H<6&z:+6OC^L:eO,:^Sr, JHBJ::&6eSHOLS J,iM6SC:LSzH,Jz^,, &H L^e,,H^6HzJSHCzS,H^6:LJre6LO^Crr &d^ ^,Lz,H6Jebz& CC&OCJLCezMD&^S&OeCHLLSr6^S&OSCJ,SeH:H6 CJLCer,Oe66rCLOLz^:J&&C:OLe ,ee O:C,OOeqLGzLve^Ou^JCy,,^^LH JSHO^rSC6rC&OHeH,6^zrIJe(^J<:L6 CSO,eJOC&Cr& CHHJ&:z&LSO&^CSLLz^rS^LHJJ:>r &:S6HC&LzeH,O^zH:^6rL&S:66JS,Ore&,ezHr^ zHHJO:C6:SOO SG Jz rS^rH^Je{H&6:CzOC6Lez:, ^ HS ,4Jz,:,6JCeO,e6,ezlrOez.:JL: 6:S,OJeCLrz&re^HH& rWD&OS^6rC L zS,,^66 eJLOeO:L&HCzObeO,Je^O^SHO&  LHz6HJJ:<eLLeHrz^7HOJJH:zrr^ ::eJ::z6JSJ6L Lae&z:Y6OCJ66tJ&C:66e ^JJ 6^Oz,erCjL:&:zJ,z :HLJ :eJCrz ,k JJ:6LeCe6,C Hze,,J ^HHJSe6,C^Crr &_^e^rez,rg6^e^,:zL,z:,HLJJ:C& S&OeCH66SS,H^OH^J:fL&^SS&O>:LCe,,&zHrH 6qzJuo,6^C:OLez,SzOrJ^,,^JJ:e&H:^OzCHLOz^r:^JOVJ:>,&JPH6rCJLeC,Jz^er( OHZ&::L6 SL&ze ,Czrr& eHrJ6:z&!S  HCRLLz rS^,H JCHLeeSC6HC6LSe4,O^^rOzeK^&S:,6JCCO,e&,ezHr^CrHHJO:^6:SLO^eSOO>CrS^rH&JS}H&6Sz6N  L^z:,L^^HS LbJJ:l66&CeOHeC,zz;rOz^H&JL: 6SS,OJeSLrz&,r^HH6JzBH&OSzO:S6OezS,,^JrH r%&&e:H&zCzOpeO,z^:rO  Hrz^: 6CSrO&eeLrz6rzCHHOJ^::&OS OSC,LJzC,r^&HezLI6&z:g6JSHL:eL, ^eLJeSOLze,^zOSLO:ezLazOrJzeOSez,Lz6re zdzL^Sx,H^6HzJS,Cz&,, CH&JJ76J<:rOJC L z:,C^ rr ,H&&CSS6eC6OferL6^^,H LqS m:S6eS&O_CCl&JHSS6,CJLzCe&^S66,CLLOeJ:O6^Sr6*e ,Sz,r6zLOeC/LOzOr 6HS J _6&r^&rJJSx,&JSz&CHOJ::^OHS 6&CCO, &,H^&H:JeezLHzrr& ep:^S, z SJ6re:LLz reeSOreOLzzz,,6JC OOe8,O^^HCeXLCeO,,zqrrJJ::&6zL,r zH%JO:JJzHS^rS6J=:66SCzOSe6LL& :L6{COL^zCL:S&66C}H:eHrJzRC:OJe6,zzvr,zrr^ezr:zDHCOzCHLrz&re :O eOLe&J:OO:CLL zeL:Sr66z^LHe,,e^LH,J^eJLe^:rL  ne zrSzrrz^HH,&zeS6:S,OSCHL,zOr^ JH^LzeL,r^&HeJ:rH ,Hr&z:O&&e&L_^Sr, J1z :,H^rrr :_JLrzOr^ :HLJ :S:JrJ6KC L&ze,H^L,SCLHCzzrC^ CeO:e,,J^CrTzrL^e ,,6N:J eILJz^ LzCJOOz:,&z S^6rCHL6zzrSC-O_CaLSz,:I6,CJLCer,&^erH 6WSJJ:O6^C:Or:rJrCe&LC&Lee^::&OS6OzC-L,:s6CS6He JD,&JSC63S:J :&&CSHOJCSLLe6:&&OCSO,eJ,zCC6HC L:zS,e^^uC LsOJCze,^^,HJJC45^rr^^JH: O:6&6CL6&eSO<JH: 6JCCOreOJHS&6LSrOJJJ::6:SLO eeJeSS&OSrH^ H3H&6SzOSHHJ1-H6S^er, ,2J&C:Xz,HrJ:b:,CzNrO ^c:JL:  r^,OzCJLrz&re :rS^6L&^zre  :H ,QH&e^^HC r/&&e:H666: <LH,^^:rL^z6,JL:J6CQTO&eeLHC6OS^HHOJ^::&LQ OSC,J zC,r^&HC H9J&z:6JCCzL:eLzL^SrL JVCJr:z^,SrO6ezzzzOrz :r6CS::&,SJ6SCrL&ze,&eSHe jMO&^S:6OC LSe,,eSLr, &teJH:66eSk6&H:L-zLr zCH,JJ:C rrSOCCHL6zz,TzLH^^H,z& :_6,SrLCer,&^eJ6 6UzJi:&6^SHOLS 6ez,rJ CHrJ&kQ&Hi6OeC_LOz^r:^LrBJSHOJ SC6LC&OJeH,6^zrt^&s^&::L6zCSOOeJL,zzr& eHHJ6:z&HSOO^e:LJ:Ir:^,HJJCQr&JSe&,rzLee%,Oe H: L;  S,^6 CCOre&,ee_r6^CL&JO:e6:SSO eSL,zJ r^rH&JeI,&6SC6(:O&Jz:,L^ HS ,he&CHr6 CeOHe6,zz=re ^rHJe: &ES,6CeCLrz&rezCH6JzcY&&S^6HCLL:C&,,^JHC rG&&C:H66CzOL:e,z^:rL  0SJL:J6CC O&eeLHz6rz^sHO^^,r&OS OSC,LJC&,re&L: r-6&z:T6OCeL:SL6e^:r, JaCJr::6eS&z{ezLFzOLC :HOJ ::&,Se LC,L&zeOL^6He */ zH:76LC &Oe,, ^CrrJSYeJH:66zStOOe^O:S&r^ SH,JJ:CJeS&&edLL&zz,/^OH^ HbL^ :L6,CJLCe^,&zHrH^J6<JH:O6^:eOLe ,Sz,6O CH,J&:C&HS6Oz:ROHz^,Y^LH^JS_S&JSC&6C&LCeH,J^zrZ OF^J^:L6 CSO,eJ,:zrrz^SHHJ6:zSJSOOze:6L}4r:^JHJ HAr&SSe&,qCLze&,OeOH: L( &SOJ6JSrOreS,ez,r6^H6^JO::6:H&O e:L,z rC^6LSJCBH&6HS6*C6L^e,6z^^HS ,J_&C:,6&SS^6e&LvzxL, ^9:JLH ^HSLOCeCL&z&Le^HH6Szf#&^S^6uCLL^zSLO: HC &}& L:H66Cz&Pe ,^zOrL CVS S:JJCS O&CrLHzerz^CHO eHL&L:ROSS+LJzC,re&rz HUC&z:&6OSJL:C6,:^Srz JrLJr:&6e:,6eezL zOLz :HLJ Hm^^SJ6&CrOSze,H^6Hz:O_OJHS:6SC Oae,,Je6r, CjeJ&:6&rS/OO&S,:z r ^YH,J :CJL::OeC6L6C^,_^OH^^:Lz&^:,6,CCLCCH,&zSOJ 6HrJbHH6^C:OLe ^,z,rC CH J&:S&Hd6^rCHL^z^,L^Lr JSd,reSC6&C&LSeH,&^z,r e>^JL:LJJCSO,eJOCCHrJ^HHHJz:z&:SO6eC LLeDrSz:HJJC-r&&::6HCzLze&,O^eH:zLH&&S:J6JSrOreC,ee,re zH&JO.,6:SLO SSLOzJ,L^rHSJe8:&6:C&zCOOrz:O&^ HS ,H^&S:r&hCe6Le6,zzprO^6x:Jz: &&S,OJeCLrzJre^6H6JzYo&6S^O:J^L e,,,^ HC rN&JSHz66S1OvCS,^^:rLz LHJL:C6CS6O&S&LHC6OS^HH^J^NL&L:6OSSO&rzC,&^&,S Hv6&z:(HzC^OLeL,^^Sr, JH:^e:&&HSHO ezLczOr^OOHLJS:S&LSJOCCrO S6,H^zHz^LDO&^S:JLReL:eJ,JzHrr JxeJ&HS6eSOOO,e,:zOr  SH,Je,L&,S&OeL,L6ze,/eOLC 2< & :r6,S^LCSr6^^Cr6 6H9Jttz6^VOe&e L,z, ^ CH,J&H,&HS^ rCHLOz^^H^LH^JSx,6:SC6&C&LCeH,6^zLgCehzJL:L6SCSO^eJL:S r&^,HH r:z&<SOO^,LLLzSrS^^HJJ:Qr&CL66HCzLzr:,O^zH: OY Jrr^6 CCOr,6,ezrr6 z4&JO::6:SOO eSL,CJ&L^,HeJeb6&6:r6ES&JHz:,z^ ,, ,mJ&C:reeCeO6e6Lrz<r& ^HOCS: &,S,e&eCL,z&rC^HH^er5H&OS^eSCLL^zS,&C:HS rF&SS:H6&Cz6rH^,zzLrL^^sSJ,:J&,,eO&CHLHS rz^HHOJz::&JrgO:C,LJ:.,r^JHe Hze&z:O6OC^L:eL, ePLC JHrJr:^6eSHO6ez:6zOr: :HLJ :S&,:^J&CrLezeLO^6Hz /nO,dS:6 C LSe,,J^C,LeHAeJ6:6JLS-OOe^LOzer^ SH,zO:C&,S&OSCHL^:r,H^OH^ze.L&^SS6&q:LSer,&^erH &9zJ{r66^C:OLe^,Sz,rJ CHrJ&:e&H:rOzC>LOzCLT^LH JS{H O,&^LXCJ:?O&LSLL&C LSeJH  :rO eezL&zrr& e/:^&,:^JHz^,>CJJ:e&6^6HeJCKr&&S^J,HLJSe,,^^^H: L_&^Hr ^^H&OOCH,ezHr6  ,rzz,6zrrr^rHJ&e:r,4^^H&JepH&Lk ^JH6JkEr6C SrH  sJ&C:r6OrHJ&hLJr:JrJ^,}:JL: 6ecJ eHOJnU-6^SOO JS2^&OS^O:Cr6H:z6 S:O,e^ORz6,J6JCzO4eO,^^:zJL^LSJ6cL6CSrO&e^OC:h&LzJOreJLM^C,/ JH6Lzee,r^&HeJ:rHz ,, S:OJC2zJH:&,zCOLze,,EzLSHO6ezLf^er^^tHLJ :S&,SJ&C(OLJzC,H^&Hz rYO ^,66OC^LSeL,Jz rr^ L,JH: 6zS6OOe^,:zLzP SH&JJ:C&rS&OeCHLzzz,,^OHCJ:YJ& SSeJCJLSer,^^er, 6HHC^:O6zC:OSe ,:z,r  CH6zS:C&HS66OCRL6z^,,CzH^JS/,z:SC6,C&OS:J,6^erV :w^&::L&z6^O,e ,CzOr& eHH J9C&2S6O^C6LLz rS^,LCJCEL&&Se6HC6LzSlL&^^rH LMz&S:O6J:C6fe&,SzHrJ zHzJO:^JJSLOzeSL6zJrC^rH&^ UH&&Sz6#COLCz:,Jz&HS ,;J^J:r6JCe&H: ,ez6rO :a:JJ: J<H^OJCLLrzCre^HH6JzJ&&O:rO:CLL zS,,^Jrr rKS&e:J66S,OVez^HzIr^  , J,: 6CS O&C3&Jz&rz^{L1J^_j&LQ  HCLLSzC,&^&rL H56&r:96eC^OUeL, ^SL,ezaSJ :&&,SHO:ez6_SJrz^6HL 4:S&LSJ&CbOLJe,,H^CHz JNO&^rS6OC:LSe ,JzLrrz&,:Jr:e6zS6OOe:,:e6&S :H^JJ}%&rS&OeC&eSze,6^OLOJ:!O& :O6,CeJLe,,&^eLe 67eJBHO CShO^e L,z,,b CHr:(:C&JS6OeCYLOz^L:^SH  Ok,&:SC6zC&6eCf,6zrr5 e_^J+:LJ SJO,e:,Cz r&^LHHJ6::&(SzO^COLLeXrSe,,,JCTJ&&:r6HCzLzCrLM^^rO LWe&S:,6JS,O^eJ,CzH,  zHHJO:e6:SJ je:L,zJLE^rHJJeH,ezSe6HCOOHz:,L^ HSeJZJ&::r6&CeOHe6Oze&rO eR:J6: &AS,&JeSLrz re^,H6 6Yp&O:eO:C6L eH,,^JHC rH,&e:r66CzO4eJ,^z,,L  ;SJ,,C6CS,O&Se&Lz&,H^WH^J^9,&L:z OC,L:zC,J^&He HE6Xr:*6CC^L:eL, ^Sr, C(CJ :&&,SHOSezL6Herz^OHLeS:S&LSJ6LCrLz:,,r^6HzCO2O&zS:JLyeL:e ,Jzrrr :PeJHSC6zS&OOez,:zLr zSL6J -L&rSSOeC^L6Cz6,^6rHJ:-z& S:6,:JJve,,S^erJ 6H,Jw:O^ SiO^e LLz,r: C,rz^:C&&S66HCxL^z^LH: H^ O?,&zSC6rC&OrCO,6zHrUC^i^JB:L&hCSO&::,Szrr&SHHHJ&:z&heLO^CLLLzzrS^,HJ ,-^&JSC6H(^LzeH,O^eH: JL0&::,6JHHOreJ,ezHO& zHKJO:z6:SLO eSL,zJrC^,HJJewH&6SS6^COL^z:,rCH6&C&LC^6,S^HH6 Le ,zzprO^e6LJO: 6SSLOJeCLrz&Je^HH6JzlH&OSzO:CL&^zS,,^JHS rh&&e:H66CzOqeOLH^:rL  HHJ&:J6CSrOOSe&z: rS^OHOJ^::&r,O LHH HeI,e^&He HWL O,, zHH p:SO SJ66 zH,Jr:&6eC:6Sb:Jr:&LL^rH:J :S&,S6&JHsJS:6O Sb6rCz,:eH:r6eC LSe,,6CLOeC O?e^,Dz,SrS:6,CJLCer,&eee&yS&rS&OeS, zze,}^OHeJ:?L& Z7 ^CJLSer,S^erH 6AzJS:O6^C:O6e L=z,rSeOH,J&:eJHS6OeC5LOz^,,CzH^JS9,JJSC6,C&OSH6,&^zrj Jj^&::L6:_6OLeJ,Czrr& CHHJ6:z&LHeOze:LLz rS^LHJJC: &&Se6HC6Lze7,Oe^:J Lf &S:,6JS,OrS&O zHr6 zHTJO:S6:!L6,eSL,zJrC^rHeJeH,JLSz6rCOLzz:,L^ HS^CBJJG:r6JCeOHe6,zz:rO ^j:J&: 6:S,OeCrLrz&re^HH6JeE7&OHzO:CLL z:,,^JHC r_&&e:H66SLOKeO,^zrrz  +SJ,:6JJr6 ,S6JLS:rS^6HOJ^::&rrS LHHJ:-O,O^:He Hn6& f  :rr Jvz&C:er6^HtCJr:&6^Nr L=&&C:S6JSrO<Je0,&,SJOCC}J,:r&,S2HC %YO&^S:6LL,L6F,,zzerr &!e&:Hr^Or 6SuLJ&Se6,SHLezSLwzzr:O:COL6zz,T^,,JC&H^&e: 6,CJLCe1LC:O6,C^O,eO,r^Lr6JSCe,Sz,rJ^:6&JJ:e&HSzOzC>LOC^6r^OH JS<,&J:H6rU&OreH,6^zrH OH2&:p6zSC:OLeJ,:zrr& e,HeC:e&rSOO^e:Lzz rSe H J:<r&^Se6HC6Lzrr,O^zH: LQ JH:,6eHLO,e&,eeHr6 eHB^OLH&_S^O C,L,eqrCzLLSJej &6:L6UCOL^z:  ^ rL ,Hb&C:L6&Sr^ze6LHzf,, ^H<JL:^6SS&J:eSLrz&,^^HH&Jz!L^eSzO:CLO zS,L^J,CC AJJr:H6zCzO,eO,^SOrO :dSJO:J6SSrOCCLLrz&rz^JHOJz::&6S 6rm^L zC,r^:He r}6&zrH6OC^L:eO, ^Sr, JvCJr:&6eSJO6ezLbzJr: :HLJ :e 6HS :feL^eO,H^6HzJSrreL,H ^He rMH&HzurS &jeJH:LJ&H^ SSr&e:r6^C&O^erLN&O:6OeCHL6z LzS,OCeJH:z&,O^zrH6O::&OSCO^  HrJl:O6^CC&H5,&L:L&HC^HLJ&:e&HS6OzC(LOz^,r^^H JS7,&6,r JHO ,d &P^zrM OD^&6:L6^CSO,eJ,CzrL&S,HrJ&:z&HSOOSe:LLL/rS^6HJJCdr&&Se6H,zLzeH,O^CH: 6v JLLC6JCSOreS,ezrr6 eH5J ,H&nSLO COL,z rC^6LSJCBH&60J68C6L^CHJ ^^H: ,(:&C:r6&CeJSe6,CzMrO ^a:JLH 6:S,O^eCLLz&r:^HH6^HFW&&S^6rCLL zS,,z^HC ,I&&e:H6 CzOLe&,^^:rLzL=SJL:JJCHOOJCrLHzzrz^HHO 966&OS:OSSSLJzS,r^&He O,C&e:_6O:OL:eO, eS6^  H,Jr:e6eSOO6CC&&zO,r :H6J :S&,SJerCrLCze, ^6HC BGzCLS:6^C 6Le,, ^Cr, &HFzJ:&6zSY6ze^LDzLrCCOHLJJ:CJCS&OCCH66SS,H^zH^ L%L&zSSJ,=zLSeJ,&zrrH z>zJSrS6^SOOLSL,SzLrJ^,HrJz,,&rS6OzSzLOzzr:^L:JJSlJ&JS:6rC&Lee&,S^erH OH&&::O6 SoO,ee&Lz,r& eHSJ6:e&DSOOHe:LOz r:^,HJJCrrzSSC6rC6Lee}, ^^H:Hz2 JH:,6JCCOre&,eH6r6 eH#JJ:^&HSLO:rJL,z rCe6H&JC.H&&Sz6LXeLzz:,LeCHS LXJJHr 6JCeOH::,zzHrO^e6LJO:^6SS^OJeCLrz&6 ^HHJJzwH&OS^O::L66zS,O^JH: rm^&e:H6zCzOreO,C^:rL  lSJ6:J6SSrO&eeLLz6r:z,HOJ^::^zS O:C,6J:l,,^CHe 616&e:u6zLHOce^, SOr,  gCJr:&&EHJO&ezL0Ser^^(HL^ LO&LSSOCC&L&eZ,HzJOr pXC&^:H6LC LSe, C^CrJ &HLJH:J6zS6&CezLOzL6p SHLJJ:C&rSz ,CrL6zz6&^OHzJ:rL^eS:6 CJOrer, ^eLHe NeJ6:O&pC:O e LeSerJ^,HrzS:e&rS66HCFL :H,<^LH eO9,& SC6rz6Lee6,6^Cr8 Oy^JO:e6^C:O,:r,Cz,r& SHHJ^,r&HSOO^: LLz^rS^,L JCTr&&SC6HC6LzeU,O^^H: Oq:&S:,6JSu6Ee&,ezHrLeLOez:,LzrrC CSeJz: 6,SOOxJ:i6&6Sz6+C, 6:O&r:rrH ^+J&C:r6O:: OCS&eSS6^ CH JL: 6SSHJcH6J6:eOOSCO#eOL,&J:JO:CLL zeLeSe6&eSLL er:^ H&&%b,&z:cr&^L_SJ,:J6zG^^XbrJJ::L6C6OeeeL&JeS OSC,O^Hr,,^&He ,o6&z:o6OHzL:eL, ^:r, ^wCJJH:6CSHO6SrL%z6r^ :HLJC,O&LSJOCS L&zC,HzJ&1 HhO&^:O6LC LSe  r^Crr &HzJH:&6zSHOOeS&6zOr  SrrJJ:S&r: zHCrL6zz,O^OH^J:1^^HS:6,CJOJer,J^erH 6Y:z&:66^C:O:e ,:z,reCLH,J&:eJcS6OeCuO&+:,f^LH J:0,&JSC6J,HLeeH,6z^rI 6P^J<:L6CHOOLeJ,CeHr& CHHJ^,r&HSOO^SHLLz^rS^,eSJC{r&&SC6HC6LzCrO:^^H: LBe&S:,6JSHJ eJ,ezHr6 zHHJO:^rOSLO eSL,zJrC^rr HJ9H&6Sz6,COL^z:L6zLHS ,(JJH:r6&CeOHr6,zzVrO z0:JO: &rH^O eCLrz&re^rH6Jz,H&OS^O:COL zS,,^JHC r8&&e:C66CzOVeJL6^:rL  oe zrS^CHeLe:HJJ:L6SCJL:JCnL&LS OSCH L:,&N:nH: 6k6&z:(6,HOJC=&&rzHrS JFCJr:O LHz &#O&J:SLOCOOzezYH&CSJOCCrLOSL&6Ce6&C,HCz*r: SCe6-e,,J^Cr2^:LreH,N Tr& ,(C&&SSOHS,L CLLt^erSO:CSL6zz,<^,,JCrL:zCrS C.1J&; JrS66J  r:JW:O6^CC6CxC,,xH6eS&o&C,,rzLr:OmH J ^:&,S O,CH:JeHr^ eee HWO&C:LO6C6::er,JzO:rO6e:,Czrr& ^r e^,CzrtEJSCrL:z rS^,H6zOLz^C,,^^:HJH=&&&:rrr eN &S:,66oLJe9 Jm:^6KS,H,Je:^6:SLO&H6Je::6zSOO,zPIH&6Sz&rr^Lzz:,L^zHS ,PJ&C,,6&CeOHe&,zzrrO^k6 JL: 6SSJOJeSLrzJre^OLCJeId&OS:O:COL er6^^ HC rr^&e:r66SC^Oe6,^^:r   tSJ,:S OS,O&eeLHz6re^xHOJ^Q,^zS^OSC,LJzC,,^&rSS6Z&&z:V6:C^L:eL,:{Jr, JiCJS:&6CSHO&ezLLSerz :HL O:S&LSJ6Hy LJze,H^6Hz HjOJeLL6OC LSe&,J^CrrzCCrJH:66z:ZOOez,:zOr ^rL^J :C&r:&OeCrL6z:6&^6H^J:ML& S:6,S^^re,,&^erC 61zJ7HO CSBOLe ,Sz,rz CHr&S:e&rS6OzCMLOz^L:C&H^J:4,& SC6CC&6e:L,&^ers 6i^JJ:LJ rOOLe ,Cz,r&^,HH J,r&%SJO^COLLz rS^,&CJCa,&&S:6HCJLzCr6e^^rH LHH&S:,6JCCz&e&,ezHrJ zHrJOVq &SOO eSL,zJrS^rH&Je7O^CSe6/COL^z:,O^ HSJ^ZJ&C:r6&CeOHe6OzO&rO ^?:JL: & S,&JCzLrz&re^HH6 LPq OSCO:CLL zS,,^:HC^LHJ&e:,66SHO>eO,^^:,J  jSJ,:^6CS,O&CPLzz6rz^VHOJ^bV&LS J:C,LJzC,,^&He H/6&z:86OC^6zeL, ^Sr6^H}CJr:&6^:S^BYC&6:J6SCCLCJeTO&,SJOCCk6e:r&JS.OSC iJJ S:6LC LeCS&6:uOzzrL^eJ,SzL:J r.JJiSCre^^H,JJ:C&1_, 6H^OS:J6SS6O,C6,Sze:H6JCJLCer,O:JO&CLOLJ=:O6CS^OLe ,SzHLTC,OO :Lozrr&  x &:zCLm^LH JSiH O,&^LDCJ:2O&LSLL&C LSeJH  :rO eezLHzrr& eh:e ,OzeSJ6ze:LLz reezO6e:LezJrr^^HLJ:A,OeS;OJCrO,e6:O6JCCOre&,ezHr6 zH,Je:^6:SLO&S6OS::6,SLOHJ:{6&6Sz6sC,Je:O&CS6rH  5J&C:r6Op0 J::&O:&r& ^5:JL: 6SS,Je2CLOz:re^HH6J r z H,^zKSJ,cH,O^JHC r-&&e:H^LHzO,ee,^^:rL &rzzCrS^Srz Le:L&z6rz^DH,^LH6zS,H^rCOLJzC,r^&He Hw6zz:,6CC^L:eL,&eJL:CrL,e&,z^:SLOCezLDzOrJz ree^,e^zrJ6ZC&L&ze,H^L,Se6L&zL:r6eC LSe,,6eSOJS,r,eO,Sz,S,Oze^,:zLr&S,L e6LLz^S^6SCHL6zzrSSCOLCJLHz&r& eHr j8&&S:N66C#Ore L,6CSLOLe ,SzH6OS&LSeH::&6S6OzC*L,(,6OSeO :6Q,&JSC&LreLCeH,6zMr/ Oj^&:,O6 CSO,e ,CzLr&^r, J&:z&bLeO^C3LLz rS^&L:JSir&&O,6HC&LzCrJ^^zH: LrH&S:,6JS,&^eJ,ezHr6 zHHJO:^6:SJ le:L,zJrC^rHJJeoH6CSz64COL^z:,L^ ,SC^+ &C:r6&CeOLe6LCS&rO e%: r: 6SS,OJ,rLrz&re^,H6JCkB&zHr6GCLL yS,,^ HC ry&J_rJ6&CzOuHO,^z9rL^z6,JL:J6C:zO&eeLHz66J^>H6J^::&LS OS:,OOzC,,^&HC HG^&z:D&eC^O-eL,z^Sr, JiCJJ:&6eSHO6ezLrzOrSz HLJ :SeaSJOSCr6&S:,r^zHz LPO HS:J^LzLSeJ,J:^rr JBeJ::66:H&O6e^,:tHr  :H,^JLL&,SeOeCOL6zS,8z&OHJ:}z& S:6,CJLCer e^er6 6HrJ7:&6^SO^Se L,z,LL CH,J&:C&HS^ rCHLOz^Lz^LH^JSc&^:SS6rC&  eH,&^zL%CeYzJL:L6CCSO6eJL:S r&^,HHJS:z&ySOO^,LLLzSrS^^HJJ:Tr&CHL6rCzLz+C,O^zH: L% Jrr^6 CCOrHL,ezrr6zzL,J6::6:SJO e:L,CJ6>^,HeJe-6&6:C6+S,J,z:,:^ 6z ,x &C:&6&SdJJe&,zz5&r ^H/JL*ze,SLOCeCOSz&re^H,6CH{H&^S^6LCLLSzS,,zzHC &3&&C:H6&Cz6ree,^zLrL^e8SJ,:J6C: O&CHLHz&rz^HHO e{.&LSSOSSJLJzC,r^&,J HMz&z:H6OCzL:SLOO^SrJ JHHJr::6eHHOeezLOzO,H :H^J H!eLSJ6rCrO&ze,H^6,z H*OJ=S:6JC O6e,OJz,rr C8eJ&:6&&S>6&C5,:zzr ^^H,JJ:C r:,OeCJL6er,4^SH^^HW&& :66,S,LCer,&zSrr 6HLJE566^C:OLCz&Oz,,r CHCJ&:e&HS6e8CwLez^, ^LHzJSV, HSS6JC&OreH,C^zrbL m^JL:L6zCSOLeJL:zOr&^HHH e:z&ySOO^r:LLzSrS^LHJJSnrJ LH6rCzLzC^,O^^H: LAx&S: 6JCSOre&,ee,OC zH&JO#L6:SLO Sl Jz ,O^rrLJelH&6wz ,C6Orz:,e^ ,  ,oJCL:r6eCeO e6,ezh,&S:H+J : J6S,OJeCLJHHre^6H6CxWA&6S^6ACLLC:O,L^JHCC&4&&C:H6^HrOHeO,^:erL ^yS^,rz6SS&O&C#LHzJrz^6,CJzaL&L,6OSCLLJzC,r^zO, rF6&z,C6OCzL:SL6e^:rJ JHHJr:J6e}HJ eeLOzOr: :r6J rLS6SJ6rCr Lze,r^6r6 X4 zH:P6LC  ze,, ^Cr6eSNCJH:6 _SWO6e^LOzer^ SH, z:C&,S&OSCHL^:r,H^OH^^rxL&^SS6&N:LSer,&^erH &kzJuSe6^C:OLez,Sz,rJzCO JJ:e&HS6OzC,LOee66^LHzJSHH&JSC6rC&zHeH,6^zrr Oce&::^e,CSO,eJ LzrrJ eHrJ6::^&S6O^e: zz r:^,HeeLv,&&Se6HC6LeenL&::r_ LF JS:,6JCCOrS&,Czrr6 CHQJO:^J::OO e:L,z rC^OH& SYz&6SS62S,L^z:,L^ rE ,Y &C:O6&CSOHS6,:z_r6 ^HDJL/H6Sw,6CeCL,z&rC^HrrJzHrJ:S^6HCLOOzS,,^J,C&OV&&S:H6JCzO eOLee,rL ePS &:J6CSr6 SHLHz^rz^:HOJ^::J6/HOSCJLJCH,r^&He H(C&z:r6OC:L:e6, ^S,C J0SJr:J6eS,O6ezOCzOr^ :H6J ::&,Se LC,L&ze,H^6He #iO^zS:6LC L:e,,J^Crr &deJH:66eS%OOe^LreOr  SH,J6H6zUr: rRJJ&:OOJS^OaCHrez re^LH O4er,&^e,,SzZeJu:O6zC:OLe ,SH,rJ CHrJJ:e&rS6Oz?HLOz^r:^OH JS_,&JSC6rC&LeeO,6^zrn JHL&::L6 Ce&e>:&,:C6HCCL7e^LO&,SeO^e:LLz&L6S&O^e:HC^zS:6SC6Lzev,,eJ6rC:LCzSrC .H&  Hr&6:Jr ^,H3JO:^6C}z ,H2J&GH6&S^HSJeDH&6Sz6OC6L^z:,L^ HS ,rJ O:r6&CeOHe6,:z}LO^z-:JL: 6SS,O^eC6rCrre^HH6Jz7t&JS^&HSHL e3,,^ HC rl&&en666CzO1e&,^ztrL  HOJ,:J6CS,O&eeLHz6rz^AHOJ^HU&LS OSC6OOzC,r^&H^^:L e6,L^OHL&&:SJB: OCC:HdJ :&6eSHOLS,JL:&6ez^LJJz:S&,SJOCCrL&S^&H^ rr ;3O&^SCJHH,JLGLJHS^rL &*eJH:66zSpLOk Lrzzr  SH,J6HOJCrS rH,JczC,-^OH^J:=Lz JC^,CzO6er,&^eH:z,OOerrz^Cr, rNrLHzzrJ CHrJOr,^zrJ :H &:Xr,H^LH JSg,&JSCJLH&LSeH,6^zrX OM^&::L6eS:O,eJ,CzMLLS6O,ze,SzLr, ,:6JJ:C&&eJLSCLLz&^:66HC6LzzSLCS&OOCz,:z6,e^rrLOOCO,ezHr6  ,Jz:L, &r J:H^J6CC&HSNO^COYLJrSz6}COLJC&&HC:6He:Lr^O,z CrOJze LLz%rO ^vC^ ,Cz6rH^HhzJ6:^r:^CH6JzhQ&,N6  HC6r:e&z:HO,CO,:z6Hr66CzOxC&J:zQrO  H:J,:J6C9rJ^eCL,z6rz^DrOJ^::JrS O:C,L^zC,L^&r^z^D&Jr:1JOC^O9eL,^^Sr&e:gSJr:&JeSHO&ezLN^er^^GHLJ :S&,SJ&C8OLJzC,H^&Hz CsO ^rr6OC^LSeL,JzOrrz&,:Jr:&6zSHOOeS,:er6r SHSJJHC&rSJOeCrL6z:6&^6H^J:rL& S:6,CJLLer,J^erH 6azJwHO,OC:OOe ,:z,,O C,r C:e&rS6OeCXLCz^L:zJH J:!,& SC&HC&OSCr,6^Sro J?^&::L6 :,O,e ,CzOr& CHH J,r&4S6O^CLLLz rSzOL:JCwL&&:66HC6LzCr6e^^rr LbS&S:,6JSHOze&,CzHL6 zHHJO:^66SLOSeSL,zJrC^r,&z:_r&zSz6OCOO&z:OLCeH: JaJJr:r&,Ce6HHr,ezOrO^RV:JL: 6SC^OJCrLrzJre^HH6^zez&OS:O:C L e&,,eJrO rhe&e:666CCODSOLH^:r   H,J,: 6C:L&reeLJz6, ^MHOJ^::&JS 6,C,L:zC,,^&r_eCh6&e:3&^C^OVeL, C:r, JKCJ,:&6eSHO6ezL*zOrz^6HLJ :S&6:LOCCrL&z^LCSR6L^JLrzJ,! CrqJJ_6,zzLrr &le&:H,^OH6 6H,&ez&,r SH,JJ:zJ:,H S(&J ::6SCSHeJ:KL& SS6,CJLCer,^zzrH 6az&SHP^JrrJCSL&e:^&4S6r^eL,^zrH:OSCOLOz^r:^r,eeLLOzr:F6JC&LeeH,L:cO6C,OHe&,H6 CSO,eJ,LzrrJ eHHJ6:z&axO^HCpLOz r:^,HCJC1r:SSe6LC6Lzeu,O^^H:: Y &::,6zCCOLe&Lrpzr6 eHgJe:^&hSLO^eSL&S:rS^rH& ,TH&&Sz6L7eLzz:,Le6HS LGJJ:L&6JCCOHeC,zz>rO ^LeJL:z6SS,OJeCLrC&Lr^HHJJzdr&OSzO:CLOJzS,O^Jrx rx&&e:H6JCzOHeO,^^:r&  Hr r:J6CSr&reeLrz6LzC,H6 I::& S 6LC,LS6e,r^CHe^rb6&e:I6OC^O,:z,^^Sr,^ vCJ,:&&?HJO&ezLWCAr^^*HL^ LO&LSSOCC&L&eH,HzJOr DQC&^:r6LC LSe, C^CrJ &HLJH:J6zS6&CezLOzLLL SHLJJ:C&rSz ,CrL6zzLz^OHzJ:rL^eS:6 CJOrer,^^eLHe ReJ6:O&oC:O6e LeSerJ^HHr^r:e&rS66HCUL :H,3^LH ^ j,& SC6rz6Lee6,6^Crg O*^JO:e6^C:O,CO,Cz,r& SHHJ^,r&HSOO^CeLLz^rS^,g:JC#,&&SC6HC6LzSl&e^zrR LN^&S:J6JCCC e&,:zHr6 zH8JO:^CLSLO^eSL6zJr:^rHCzLTr&&Sz ^COLzz:,L^ rre^m &C:r^HCeOre6LChOr6 zK:Jz: 6SS,OJ;^Lrz re^rH6JzVY O%}O:C6L em,,^ HC rHL&e:,66CSOoeO,^^:r^  +:J,:J6CSOO&CwOLz6rz^RLCJ^oD&L*  HCLLSzC,&^&rr HMer^:s6zC^&eeL,^^Sr, JHHz :J6eSHJ,ezLHzOrSC6HOJ :S^zSJOSCr6&c,,r^eHz ONO&:S:&6H1LSez,Jz1rr &_eJHOz6zS6OOCr,:z6r ^L6CJJl,&rH^OeCrL6ze,l^ OH +NL& rH6,C LCe66S^CrH 6L,JA:66^::J&e^LLz,rC CHOJ&He^LS&6HCvLzz^,H^Lr&e&q,&eSC ^C&LCeH,e^zrLee_z&::L^HCSOLeJ,C Hr&^HHHJJ:z&(SO6fC&LOz^rSeeHJJS3r& Se6O<CLeeQ,OC,H: O- &S^ 6JCSOre&,ezHr6 zS:JO:z6:S6O eSL,zJOS^rH&JeAr&6Sz6iCOL^z:,L^^rr ,8J&C:L6&CeOHe6,zzZrOC^HrJ : 6SS,O6H6&J::6e^LHeJzK!&OSJ^Lde&:::&L^zrr rl&&eS:zrHHJS9SLz^:rL  r%CJ: 6CSrO eeLHz6LzC,H6J^::&LS 6rC,LJ:S,r^&He rX6&C:X6z3rOTeL, zSr,  tCJr:&&fHJO&ezLxeOr^^EHL zO,&LSJOCCOL&ze,H^e&& nU6&^S:6LC^LSe6,J^C,& &seJH:66zS_OOe^OLzLr  SHLJJ:C&rS&&HCHL6zz,r^OH^J:*LrCSS6,CJL:er,J^e,, J%zJw:O6eC:OLe OSS6r  CHrJ&:e&OS66CR&LOzzr:^OH JSf,&Jr,6,C&Lee,,6^ers  LHJ<:L6 CSO,e ,CzrOJ eHHJ6:e&(SOO^CmLLz rSzHHJJClr&^:^6HC6LzzSOCSL66C:L,eOSJ HHz LtHLz^6r ^,H0JO:^6C5  ^wL H:r&LS^H^^h4H&6SzOSSzJr:C6SSe6&JJreebreOepL ^:eJL:^6C^ vLJ&;r6SS,OJezJz:z&LS^OCe L,zHSC6,CLL zS,HC9O&Cz;^ H:H66CzLSCC&&S OeC rLzz,6^&rO^3:.JL:sO,S LzC,L zeSe6 C,LJzC,Ge OrCSrzzer6z,HL 6Be,ezJr, JRCJ#,rz6rLJSHL&S: 6C^^H&Jz:S&,SJOzC6L^eH,H^6HzJSLHzI,H SCeOze,,J^CrTzeLCz&LL^Or& CSrJ,:S6eS&H6Je:C&rS&O^e6 &z{,,zLH^J:YL&&H,^L}S z:e&S^H, C^OOe,,S& CLO&C,,Sz,rJ zLCCH,:^ r:  HLJJe6LS^LH JSg,6:SC6rC&LeeH,6^zLhCeRz&::L6 CSOJeJL:S r& SHH ,:z&7SO6erLLOzerS^SHJJCmr&&rC6HC LzeH,O^eH:^6L.&S:&6JS6Ore&,ee,&z eHOJOhL6:SLO SS&6z ,r^rHeJej,&6sz ,C6L:z:, ^ rO ,bJJr:r6 CeO,e6LRz2rO:Hn:JL: &0S,O eCLr^Sre^HH6Je2f&OS^&:HzL^zS,,^JHC &4&JSrJ66CCOue6,^^:rL^z6,JL:z6CS^O&eeLHz66e^qHJJ^sF&LSzOSSO&:zC,6^&rJ H}6&z?rz^CzOLeLL&^Sr, JyCe,:&&HSHO&ezLrzOr^^LHLJz:S&OSJ6rCrL&H,,H^6Hz rwO&zS:6LCBLSe,,J^:rr &De^H,C6eSmOOe^,:z r z}L^JJ::&rS^OeCHL6eCJO^6HCJ:*J& SS6,S^^re,,z^er& 6MzJl:O&SSWOJe ,:z,rJ CHrJO:e&LS6OzCyL&z^r:^ H  =;,&^SC6OC&LeHJ,6^zrU &d^J!:L6 n:O,eJ,Cz,r& eHHJ6:z&BSOO^e:L6z rS^,Hz 6(r&&SeO:Se OD & CJOOC6,:JHDQ6JCCOreOOOS:6SCHL&e6,L J,f ,yJJ6zCrC^rH& S:H&6Sz6BC6L^z:,LzzH: ,Q &C:L6&CeOHCJLHzGr& ^HEJL: 6SS,6JeCL,z&rS^HH&Jzf!JHS^O:CLL^zS,,^JHC ry&&e:r&OCzOjeO,CzerL  cSJHrHz He HY:6 :d&rSzO,er, &&:LOSC,LJzzLSSH6Oz L#er,z^,HrJ e&,C^Sr, J_zeO,HzJSLOCezLszOrJz&r:C=,LzOrrO:CrL&ze,H^6:zxOLO&C:66LC LSeHO Sz6OCHLreJ: &HSmOOe^,C:C&OCJLCezXk&eS&OeCHLLCC66SHOCeCLCe,r& CCzOrer,&^eH:zILSe^,&6CS OLe ,SzHOHS LeeH,:J:r  6HLLJz:r:^LH Je,:^Sr: eC^OHeH,6^zHSz^LzzOLr6eS^O,eJ,CzkLHCrO eL,S^etC^,HCJO:,,H^eHJJC3r&OHH^OHSJ ! &,SS6r &HM&S:,6JCz6^bS&6S&6:COrSJO:^6:S^JHe:LOzJ,B^rHJJeAH&6S: &C6L^z:,&^ H: ,!ezL:,6&CeOOe6,ezk,&CHq:J6: &,S,OJeCOLBerC^LH6 6(Y&OS^&:HzL^eH,,^zHC L#&JSrJ66S.Ohe6,^^:rL  &,J,:z6CS&O&eSLHeJJv^HH J^v &LS OS:,&zzS,6^&rQ Hh &zH* JCzOLeL, ^S,H JrCzO:J&rSHO&ezLSzOr^CSHOJS:S&JSJ6,Cr6&S:,r^zHz OmOJrS:6LerLSeJ,Jzrrr  me ,Lz6eS6OOC,,:zLr zSL6J i,&rSCOeCSL6Cz6,^6rcJ:2^& :L6,CJzrer,z^er& 65CJ=HOzHSmO e LHz,,& CHryS:e&JS6OeC>LOz^r:rzH  6i,&eSC6rC&LeC&,&zLr? O{^JY:L& r^OLCH,Cz6r& eHHJ66b&/S^O^CJLLzzrSzO^LJC?&&&:,6HC6LzCr,^^^rL LH}&S:,6J:C  eJLHzHrz zHeJO:^^OSOOSeSLOzJrS^rH&zC5H&6Sz6HCOL^z:,L^ HS ,Tz&S:r6&CeOLee,zzErO JOLzer:^:rLOCeCLrz&,S:6H&Jz9v&6S^O:CLL:H^,,^ HC rF&&C:H6&CzO8C^,^^:rL  oSJ,:J6CHJOJeeLHzJrz^HHOJ^,v&LS OSCLLJzC,r^JHe H_6 r:76OC^OrCO, ^Sr, 6r^ee, ^rrL ^3 & Ce6SS,OC^S,Lz^,H6jCOL&ze,H^LL:^e+JJHS:6LC LeSk&rS,6,SaL JLBK6zSPOOeJJ6:r6SCrOHez,6z HCO:CCL6zz,d^,,6e LC Hrz^HH J6x &HS:r, 6FzJ+:O6^C:OLe LHzJrJ CHrJOH:^&rJ OC,L z^r:^LH&CH,CeL:f&HC&LeeH,Le6OSCJL, ^,rz5r6 eSy&^:R6JCOHLJ^:z&4SOOJSCJee:,H^zHJJCFr&OHO^O:: &:^6:SCrr Cc &S:,66:^ eI &r:L6^C L JJQ&6:SLO ee6^:6&reAO^eOLJ^eEz SH6Jzer, ^ HS ,c6e rJ^OrOOLeC,zz?rO Jr& :Lv^LrO rCfL&z&re^HHLCL,6zCr^6rC^L zS,,^66reJLOe,, 6 S:O3eO,^^C6zC&O,z&,6zPHz Shr,6C:&rS^L:&:H^zJ,/^XC6LSzC,r^&H^z,L^zLr^^6CeL:eL, rS:O&JeHLr: ^SSHO6;zaL,L^LC:H&J::S&,SJOzH&&::r&rS&HCO qL& JS ,r,:,J, r^Crr &HSC6:&6zSZ6,e^,:zLr C:H,JJ:C&,S&OSCHLeS,,H^OH^SJvL&^SS6,CJOH: ,J^erHS:RzJH:O&e,LOOe ,SzOrJ CHr^&r:&rS6OzCILOe&r:^^&,JS/,&J:66rCJLeer,6^:O& 6/^&::C6 C:O,ee&Lz,r& eHHJ6:e&lSOOHe:LLz rS^,HJJCrrzSSC6HC6Lzeb,S^^,HezY Jm:,&^CCOre&,eH6r6 zHMJ&:^&HSLO::6LLzJrCzrH&JCtH&6Sz6L3eLzz:,Lz HS LoJJHr 6JCeOHCe,zzHrO ^96JL: 6SS,OJeCLrC&&,^rH6Jz2G&O:,O:S6J0zS,O^JrH rg&&e:HezCzODeO,e^:r6  HL^z: 6CSr^&eeLrz6rz^vH eH!c&LS ^SC,L zCLL:eHC HE6Je:>6OC^L:xH, ^:r, JUCJr:&JeS6O6eeL;z6r^^LHLJ Hz&,S OCCLL&ze,H^6HC 3IO&^S:6LCzLSe&L&^Crr &O JH:&6z>%JJezLLzLrC SH^JJ<:^ S&6rCHOJzz,>^OrTz&7O&:SSJLCJLSer,&^erOeCIeJ3:OJzC:OOe LrS^r  CHr^C:e&rS6&zP,L6eMr:^JH  Oi, Sz,6rCCLeS6,6^ero  <^J,rz6^CSO,SC,Cz,r& ee J6>H&2SOO^e:LLz SL^,HSJCp,&&Se6HCe:^ej,^^^LJ L/^&S: 6JSHJ eJ,ezHL: zHHJO:S^6SOO eSJ:zJrS^r,&z:mr&zSz6LCOO6z:OLCeH: JlJJr:r6^CeO:::,zz6rOS6o:JO: &,S,OeZLL,z&reSCH6JeXM O,H6NC L er,,zrHC^L,S&e:J66SSO-eO,^^:J   H,J,::6CSLO&Cr6 z&,1^06HJ^Gn&LS OSC&&:zS,r^&6J Hk&&zHk^eCzOLeL,C^Sre JH:z :&&,SH6rezLxzOr^.LHLJS:S&^SJO:CrLCH6,H^zHzeJRO&zS:6OC Or:^, ^Crre:{eJr:66:H&O6e^,:i7r  :H,^JLL&,SeOeCOL6eL,Bz&OHJ:2z& S:6,CJLCer e^er6 6HrJQ:&6^SO&ee^L,z,&L CH,J&:e&HS^ rCHLOz^&z^LH^JSHOeCSS6&C&OeeH,6^zLUeJnzJL:L6SCS6HeJ,CHrr&^HHHJ&:z&HSO6erLLOzSrSz HJJCPr&CLJ6HCeLzeb,O^zH: Oy &SO66JCCOrez,ezHr6 zeLJO::6:S6O e:L,e^L ^rHeJe/,&6Sz6m:O&Cem, ^ r, ,HO&C:JJ:CCO6e6J&zNr6 ^8:JL:C^OSLOJeCJSz&rC^H,6zSMH&^S^6,CLOOzSO,CzHS &Y&JH:H6 Cz&6Oz,^zLrLC6+SJL:J&,SrOzd,Lrz6rzCCHOJz::&L,CO:C6LJzC,r^&He &jS&e:q6O:6L:eO, zpr, eLLJ,:&6e:CO6eeLoz 6H^DHLJ :S&,S OCSL ezC,H^6r6 5UO&^mHzCC L:e,L&^Crr &re ^:66eSqO6e^L&zL,zz,H,J^:CJ6S&OeCHOJz:,Q^JH^^L>L& SS&OSrLCe6,&e,rH 6=zJ;nO6^S9OLeC,Sz,rJ Cr2J&:e&HS6OzCHLOzS66^OH JSu,&JSS6rC&&CeH,6^zrH O8^&::O6 CSO,C:,Czrr& eHHJ b+&XSOO^eC6e:&&CCCHz Jor&&SeO::rJO8 OCSL66C:L&z6rC6^CCOre&,ezHr6r:OgJJY66:SLO ee6S:6&LSz6HerLr^4,, ^HeLCe&,L^ HS H,,z&r^zIrI JeS,Cz*rO ^d:JL: 6SS,OzC Lrz&re :rCCOL zSrS^rC^6rYr&:SzrN eK&&e:H6Lr& LDe&^:&6 e:L6zC:z&SSrO&ee,:C,&OSrLzeCL,zrrrJOH&Jeo6O&CC6,C^! Jr:<6OC^LCCeOL:OO C^L&JL:&6eSHO6ez,_, 6^^rHeJ :S&,S6J6H6&5<J6zS{OS ,H7&^S:6LC&66: &zeO66CJLCz:r:^OS,6,e^,:zLr&z6OCe:LL^er^^OS &e:C6^SeOg r8e& SS6,C6&J:e6::O6OCCHrJr:O6^C:OLe ,S:e6J^WH6J&:e&HSL Sd^ HzC,&^LH JS(H rH  e1C HdO& ^SrO OX^&::r^OHL O{rLFeLr& eHHJLH,^6r^^,H Jz:,L6S&OzC6L zzrC^rH9 rer,O^^H: L; &S,H^JSZOJe&,ezHrLzOr&e:Lrz,HOO eSL,e^ ,^rH&JeHJ&6Sz63COO&z:,L^ H: ,2 &C{L6SCeOHe6LSzXrO ^P:JO: 6SS,O eCL,z&rez,H6JzR;&OS^O:CL6 :H,L^JHC rI&J6:H 6SHO+eO,^zCrL ^#SJ,S:6CSrO&eeLHz6rzeo,&Jz::&LS OSCCLJe:L:^&HC Hke&z:s6O:^OCeL,^^SrL JH:Jri J SHOJezOHzOr^ :r6J::S&6SJ6SCrL&zeL,z Hz LdOJzS:6LC LSeC,J^Srr z4eJ,:6&zreO6e^,:z6r  :H, ^Or&,S&OeCSL6zz,f^OHHJ:2O& SS6,CJLCSr,z^err 6meJ-::6^::6ee ,:z,r  CHCJ&PS&zS6OCC{O;z^r:^L,  L(,&^SC6LC&OSeHLJzOri Jo^J6:L6 CS6OC:,Cz6r&zrHHJ6:zJrS O^CLLLeUrS^,HJJC6&&&SS6HCzLzer,O^^,J Oo^&S:L6JC:Ore&:izHr6 zHrJO:z6::6&6eSL,zJLH^rH&JerHzCSe6bCOL^z:,&^ ,{e^GJ&::r6eCeOHe6,zHOrO ^K:J6: &.S,&JHLL,z&re^HH6^y_3&O SO:CLL ey,,^ HC^LHH&e:H66S:OEeO,^e:6z ^mSJ,:J6CSOO&CS&Jz6rC^{H^J^::&LS e,C,LJzC,L^&HS Hr6er:H6OC^L:eLLH^S,OSCYSJL:&&eSHO6ez6RSJrz^HHLJz:SJOSJ6:y L&z:,H^^Hz k5OJer66LCCLSe:,J^Crr &&HJH:J6zSLOOee,:e6&S :H6JJW6&rS&Oe:H& ze,,^OHCJ:H,& %S 6C O;er,^^ere 6GzC&:O6^C:O&e ,:z,rJeSHrJ&:e&rS6OzCGLOz^r:^LH JSP,&:SC6rC&L:e^,6^zrZ ,rHzOre^ r,J 95&CzO,H eHHJ6: J^rz^L9CJ Sr&rS&O  2HH&&Se6HCL66:S&JS,,^CrO5e6,eJWH^ s<J&OzL,, zH?JO:J zH^ &H&OS:e&Lz^OLe^Lr^:SS6 COL^z:,r:r6rCzOHeL,s^^HJOLe:,zzxrO JreeS,z^Lr6 e0z&zz^,6^HH6Jz:SJCr& OHz&::6&eSr6L^CG&&e:H&JS OHe6,^zLrL  ZSJ,x66CSLO&eeLHz6rz^2rzJ^K0&LSzOSCOLJzC,6^&HS Hq6&z:U6O:^6^eL,z^SrO J;SJrH&J,SHOJezLrzOrC :HL C:S&&SJOSCrL&ze,H^^Hz r>O&SS:66C LSCe,Jz2rr &beJH:6Jz:CO6eC,:z&r ^OH,^J/O&rS^OeCLL6zS,Pz&r J:9 & :L6,CJLCerOM^erL 6HMJp:&6^SOO:e LHz,,e CH,J&:C&HS^ rCHLOz^L,^LH^JSG,6:SC6OC&LeeH,6^zL/eJdzJr:L6eCSO^eJOC: rJ :HHJ :z&LSO6e>6LLzSrS^ HJJCQr&&OH6HC LzeO,O^eH: ^6,&S:O6J:LOreJ,ezrr6 :L&J6:^6::zO e:L,ze6L^,H&JeHz&6Se6*:O He3,J^ rH ,B^&C:rSSCeO&e6,Cz<rO ^B:Cz: &rS,OSeCL,z&reCrH6JzwE&6S^O:CLL zS,,^JHS Lw&&e:H6 SOOueO,^^C,^S,O&e&Hq^SrtJ:AeLLz rz^vHOJJ,, 8SeOSC,LJe:J&^JHC H?J&z:v6OS^ zeO,^^SrL JKCJr:& CSHO6ezLHzOr^ :HLJ :S&,S O:CrL&ze,L^ Hz W2O&Jr,JZCeOze,,J^Crtz:L6er,2^,r &,HrJBS^6eC&H6JJ:C&r: zHCrL&zz,H^OH^J:HLeOS:6LCJL:er,&^erHe&ozJR:O6zC:OLe ,Sz,rJ CH,JS:e&HS6OSCzLOz^r:^r,OeJLe^ar&^ rrJ^: &G^zro JHO&::L6 Ce&^HrJYC^6HS,OeeL,,^^SJ66e:LLz ree:OOezLzzHHL  HCJO:^&J^C,O L_ &S:H UH& ze:&OCJ6XCSL z:LH^Cr& OSJJ6SS6LS,OHeOZL&zSz6iCOLJ:z6^SzOJ ,W  O:r6&Ce6,Or,zz;rO S-:JL: J3S^OJeSLrzzre^HH6zH&r&OSzO:SbL z:,,^:HC 6,S&C:H66S&Oce6,^eH&  ^R:J,:S6CSrO&SeJJz&re^%H6J^=h&L:z OC,LzzC,O^&He HA6S{:B66C^OreL,z^SL,C:DSJ,:&6CSHOzezL<6zr^^rHLJ :S&,SJOCr L&zC,H^ Hz H/O&Sr66OC LSC^,J^Srr^ 6HJr:&6zSLOOe^,:C^S: SHLJJ0C&rSJOeC,L6z:6&^6H^J:HL& S:6,CeJLe,,&^e,J 6seJhj&z:ShOOe LLz,rJ C,reS:C&rS6OeC=L6z^LHCzH  Hd,&zSC6rC&Ler6,6^erE JQ^JH:LJ rOOLe ,Cz,r&^HHHJ6zH&dSJO^CYLLz rS^,6:JCk,&&S:6HC&LzeG66^^H: Lm^&S:,6JCCOre&,ezr,e zHPJO:C&JSLO eSLHe:6,CzEe^SLOz^rS6,CzL^z:,L^&6;C&Leei:e6^F&OHe6,z^S6rS,OJe !J&rS&^LH JSz^&,SOLCeeLLerSC &HJJzer6 :T6OeeOUJ3DO^LHL6rC,L6zL,r :H6 Hwr&zSSO^C^LHz6rz S,&eSL,z&Hr Jra Hu&& SH,^e^b ^6:I6OC^LCKHJr:&6J^&HHJ6L,zJrCO HrJLSe6zS,6HJe,6z&r^6HAJJ:.L6zS:H:^LL,z,kH&rSOO,CH,Sz6,N^MHLJ&:  6SiOOe^,C:H&rS&OJ &xH&6,,^JHCL cr&LCeOzC,OH&er6^&H^OH:J&::LOzC:}: L,,^,:H6rCOL,eHrS^OHe LD^&zS &ACcLOz^rCCeOCe LCz rS^LHz P7L&6S:6 CrL_er,l^uHJ &ez6Jzrr& ev:e,LLz r^6 C,LJBO&^S:HzCLL6^SrC^Or,LS:J& Ser,e^OHe6rCzHSH66tO&Oe,,L^&HO ,#E&J:r6LCzLJzz,,^rH&Je::zJr:^LHJO0er,^^ HS ,y6z:,6^zH:OSe L6zhrO ^mC^&,,zzreLC:gJZ:,6 S^H z69#&OS^OCHH rZ&&Jz&rH 6O,eJ,C6 rr L:e&z:,&H eL6e&,^&HHJ :HL&z::r:zLO,e,HHJr:O6,SHLSe6,^z,rL  { JH:{6OC^LC-6&C:r66^,HXJJ:&6eSHOLUCJL: 6C^6H&J::S&,SJOzHLJz0*&L^:HS  BO&^S:6rHz ra&&z:LOeeCLCJL8K6zSgOOeJO^:S6^C:;J^^LHz6r^O:C&L6zz,q^,OeC,LJze:666q,LCer,&^^OSC:OLeO<L6SS,^>HOJ^z66:SHL eJL?zSS  ,HLJ&zS6OSe6HeJLe&e}H^tH!OSe:LrzBrS zHLJL: &6S O6:,,Czrr& ^LSe:LLzO:LOSC, vAO&^^6O:CH, zJ,w^SC J,.L&&^SOOCeOHzJ,e6e:H 5bhLSz:,r^}HSJzNL&LSCOSCLL6zSrC^rH&J^L,z^r:^,SHLCS^,L^ HS HLOe6,z^eSzOOe^J&:e&H CO6eJ,k^:r&^OC.&^:z6S^OLeC,LJ^:,,6,SJJ&:&LOz6r  &HOJr:^&LS<O^ee6 ^:rL  rNz^:J6CSr6zeeLHz6,Ce^HOJ^::&SS OSC,O^:L,r^&He^LW6&z:B&&vLL:eL, e,r, JfC LrS6eSHO6C,LlzOr^zH,SJ :S&,:OOCCrL&eS6J^6Hz gV^&^S:6LSz&Je,,J^CrL &seJH4J^rSdOOe^OOzLr  SrOzr:C&rS&6zCHL6zzLrCeH^J:uLJOSS6,CJO:Se,&^erH^J0zJ2:O&eH6OLe ,Sz6rJ CHr  r6&HS6OzCSLOz^r:z6OwJSW,&J:,6rC&LeC,er^zrs OH,&::L6 :*OCeJ,Czrrz eHHJ6:zzHSOO^e:LOz ,i^,r^z&?r&&Se&HC6Lze-L&SHH: Li &::,6JCC6LO,,ezHr6^rHTJO:^JH:OO eSL,eJrC^rH& SO6&&Se6oC&L^z:,L^:eC ,YJ&CHI6&CCOHe&,zzLOe z{:JLH&6SSLOJC: &zJre^Hr6JzQb&O:ezLCOL^zSLr^JHC rQCrz:H66Cz6SeO,z^:rO  Hrz^: 6CSr&OeeLrz6r:C&H6J^::^cS O:C,O^Hr,,^&He^Hd6&z:f&&r:O1eO, zvr, JZCJJOS6CSHO6:kLUz6r^^nHLJC,O&LSJOC:&L&zC,HzJOr Z=O&^5a6LC LSCO6r^Crr &H,JH:66zSLJeez,:zLOO SHLJJd:e&SJOeCHO6zz,g^OreSL<O&^SS&rCJLCer,COzrH 6.z^^:O6zC:OOe LrS^r  CHrzH:e&rS6O:2&L6z^r:CkH J:%,J^rL6rC&Leee,6^zrU^&,L&::L6 SOO,eJ,CeL&e CHHJ6/r&3SOO^e:r,z rS^,H^JCir&&Se rC6Lze7,6^^H: LT &S:,6JCCO&e&,ezHr ^OH>JO:^6CHe 6EJ&z:J6LS6LCCO-L&CSz6?COLJC&L::fOLCOLrJ=:S6&CeOHeL66S^6rCJL&eO,, 6HCJSH6LOeJre^HH6J HCz:re OH&JC:e6ee:6HC6Oj^Hr&^CrLO,e:,^^:rL &r6e-rSzLHJJ:HO&z:C,L^ZHOJ^HH CS OSC,L zC,r^&He^&06&z:-66C^OHeLO z r, J;CJr:&6:SHO6CLLFz6r^ :HLJ :S ,S:OCC,L&zC,H^zHzzEH6&^:o6LC^LSe&,JeC,& &+CJH:&6zSrOOC^OJzLr  SHOJJ:S&rS&&&CHL6zz,H^OH^J:mL& SS6,CJLSer,&^erL :UzJ{:O6J+6 JH,&^:=OyC&LJJ :e&HS66C:^LOz^r:^OH JS},&JHS6rC&Leer,6^zrI OK^&::L6^S6O,eJ,CzOr: eHHJ6:  zH: rHJJJ*u,6^6HCJCGr&&S^^,}e L:C,J^SH: LI &e,^ SH6OLe&,ezHr6 zHjJO:^&rSJO eSL,z6&OS8O^J:#O&6Sz6*C,JrB,&e^err ,?J&C:X^^H6 CeJ,zzXrO ^s:JL;C^S::OJeCLrz&CL^HH&Jz%W&OS^O::LOzzS,L^JHS rX:&e:H6^CzOHeO,^^:rL  rgJ::J6SSrOJeeLHz6LzzOHOJz::&OS 6OC,O^z:,r^ He ,76&z:;JOCSL:e6, zvr, C!C LHP6eSLO6eCL_zOr^z: zJ^xH&,SzOCCOL&zeLe^6H: RhO&^S:6LC 66e,,z^Cr6 &heJH:6&,SXO&e^,:zLrz SH, r:C&OS&OCCHL6zz,!zJH^ HPL&zSS66CJO:Ce,&^:rH ^gzJy:O&e,LOOeC,SzOrJ CHr^&r:&rS^OzCLLOenr:z66SJ:ZJ&JS:6rC&LeSH6 ^erO OZ:&::&6 CSL^eJL,zrr& eHHJ6:z 6S6O:e:L^z rS^,HJJz.r&zSe6HC6LCe8,O^HH:  N &::,6JCCOrS?,CzOr6 :H3J^:^6:L O e:L,zerC^LH&JerC&6Se6MCOL^e+,L^ :C ,m &C:L6&CeOHe66ez9rO ^H?JL: 6SS,OJeCLrzJ,,^HH6Jzi,&OS^O:CLLzzS,,^JHC r{&6e,;6 CeOaeO,^^Cr& SRSJ,:JSHL,z ,J^6zJrz^GHOJ^::&LS  SC6LSzC,r^&J:WO&JSLOSeeCeL:eL, ^Sr, J&Cerrz6eSHO6ez,&zOrz :HLJ :S&,SJSLCrL ze,H^6Hz KWOJJS:6OC Ove,,^^CLJ1 weJr:6&&SyO6e^L,zLrCCOHLJJ:C&SS&OCCHL6zr,!^6H^ %DL& SS6,O:LCeL,&^erH 6ozJ6OH6^SrOLe ,SzLrJ :HrJ&O:&HS6OzC{LOz^r:^LrSJSu,&JS:6rC&LeeHJC^zrH OaC&::O6 SrJ^e ,CzrO  eHrJ6:z6&SOOze:LLz rS^,HJHLRr& Se6HC6Lze},OzJH: Of Jq:,6^CC&JJC,ezrr6^CHEJ6:^&OSLOCIOLLzJrCzLH&JCKH&^rr6HCOL^:H,L^^HS ,H,&C:,6&CeOHe6,zzSOS ^HHJLrz6SSLOJeSLrzz6,^rH6Jz,r&OSzO:CLLfzS,L^Jr# rX&&e:HSCCzOreO,^^:rL  r;z^:J&qSrO eeLHz6,CC&HOJS::&6S OSC,LJrr,r^JHe OD6&C:GJz^hL:eO, ezr,  xCJO:&&gHJO&ezLgCrr^^jHLJC,O&LSJOC.LL&zC,HzJOr /P6&^:>6LC LSCO6:^CrL &HHJH:66zSl6Ae^LrzLr  SH,JJ/:^ S&6#CHLJzz,#^OHS J>L&zSS LCJLSer,&,,rH ebzJH:O6^C:OLeT,Sz^rJ^HHrJ&:e&HCCOzCJLOzSr:^LH JS:^&J:66rC^LeeH,6^z^& OHL&::L6 CSO,eJeLzr,r eH6J6:z&_SOSHe:Okz ,,^,HJJC_rCeSe6^C6O&ek,&^^H:zJh J6:,&KCCOze&,e^Jr6^LH=J^:^6:SLO :^L,e_rC^^H& O#H 6O06HCCL^e&,LztHS ,re&C: 6&S,OHeS,zzZr^ ^H%JL::6SS^OJCH&Sz&rS^H,JJzbH&OS^,SCLL^zS,O^JHC r*&Oz:H66CzOreO,^^:rLe^TSJ,:J6SSrO&eeLrz6rz^PHOJ^::&LS:OSC,LJzCr ^&HS HW6&z:n6OC^L6eL,e^SrL JfCJr:&:,SHO^ezLHzOr^ :HL &:S&6SJO:CrL ze,Hz}He rDO&^S:6&C LS:L,J^Crr JieJH:66zSUOOe^LHzO,6 SH,JJ:C&rS^6,CHL6zzrSz:OCezLrzerJ66SrLCer,&^^, C,LHe&rz^rrJJSH{LHz rJ CHrJOLH^&rL^rHJLJe^r:^LH JeHzzOr& ^H&&H::&CSH6 e:rHe,r^zrSH6reJ,CzrrOz&L:e ,LJzr,^HH&JCCH6zSHO e6>O&eSe6HC6L 4 6z:rO: &Hr&S:,6JCz6:HH&SS&6 C:LSzS:C&OSLO eSLH:C6OCJOJeCELJrSz6XCOLJCz6S:r,6CDL6zSrz^SH6 Le LZzxrO ^RCCwr:^ereOzCHLrz&re :,Se L &J:OO:CLL zeL:SO6HC^O9^LrS^Lr_ J:r,^^:rL^z6,JL:J6CS O&eeLHC6OS^HHOJ^::&L:LOSC,J zC,r^&HC H-J&z:6JCCzL:eL6O^SrL JdCJr:z^,SrO6ez6ezOrz :r6CS::&,SJ6^CrL&ze,&0!Hz QmOJ,S:6OC L:e,,eSLr, &deJ^:66eS<O ZHL}zLr  SH,J :CJL,eOCCHL6ew,(^OH^J:LO& SS6,C LCeL,&zr&z 6_zJgs,6^SmOLe^,Sz&O: SHrJ&R^&HS&OzCL&ezzr:^LH JS8L&JSCO C&LeeH,6^zrG Or^zr:O6 CSO,eJLozrL&e:HrJ6:z&3SO6re:6LSer:^,HJJCirJ,Se6&,dLzed,Oz:H: OT &::,6eHLO,e&,ee6r6 eHaJ ,H&uSLO S&L,z rC^rgSJesH&6Sz6!COL^C:6&^^HS ,tJ&C:O6&:eJLe&,zzArO ^H&JLr &LS,OJeCLSz&rC^HrJSg2H&OS^6,CLL zS,,SOHC ,A&&C:H66Cz&pe ,^zWrL ^ASJC:J6C:,O&eCLHzJrz^_HOJ^Q,&LS OSC,LJz:,r^zrH Hg6&zH 6OCzL:SLJp^:rJ JHHJr:C6e:,JCezL&zOre :HLJ :SCJSJ6rCrLSze,,^6rHzJ-6&:S:JeC L:e,,J^Cr6eS1CJH:6 ,S%O6e^OHp r^^,H, H:C&rS&6rrCL6eH,M^OH^ ajL&^SS6,,zLCer,&zirH 6_zJcrz6zSLOLez,SzLrJ C66JJ::&HS6OzCYLOe*,&^OH JSrr&JSS6rC LeeO6C^er% Or &::O6 SrJ^e ,Czrr& eHrJ6:z^HSOO^e:LOz rS^,H JCZr&&:C6HC6Lze,,e^^H: L;& J,6^LHz OZH,:z6r6 zHkJ,L,^Ore  CHL^zJrC^rHO^LHezCrH^r7:LCe6,L^ HS HrCz,, ^HH: ^e LrzlrO ^1C^&,CJ6rL 6HrLOzere^HH6J Le^zrJ^JC&OHzS,,^JHzzzLz^O,C^FHO ,eJLO^:rL  *e zH,zLHJ  _6OSRT6SS HJJS::&LS OeH6JrB ,L^&He HA6&z:9   ^OrSJ, ^Sr, 6LOz:,z^OH: <=SJJ:^6lSHOHe&LOzHr^ zH:JO:6&LCSOJe^LSzr,  eH6 Jw6&LS:OJSO{: H:66zS/O,Sr&eSS6HCS,Je6LL^J,d 6SJJ^:H& ^JrOJ:fL& Se&:HO HY^JjCLOSCLOFeJ:J6SC:OLe ,eS 66C:HOJS:e&HS6O SC&::/&2SCO6 q{,&JSC6rC&LeeH,6^Sr6 O?^&::r LHL LHr&&S r& eHH JO8&HSOO^CHLLz rSe,LzJSvr&&Se6HCeLzeo O^^H: L;^&S:L6JS:^&eJ,ezHrC zHpJO:^66SLO^eSL,zJrC^r,& %cH&&Sz6HCOLzz:OLzJHS L?J&S:r6^Ce6,Cr,zzrrO Ci:JL: JSSLOJe:Lrz re^^H6 CjL&OSCO:SLL zS,,z^r  rFz&e:z66CzO;C&Lz^:r   HSJ,:J6CSrzeeeL,z6,j^hH&J^::JCS^O:C,L zC,L^&Hee&N&&z:16&C^OBeL, 6Lr, JtCJ,:&6eSH6J:OLlzOr^^CHLJ :S&,C:OCCrL&ze,H^6Hzz0,J&zS:6LC LSeL,JeCOO JweJH:66zS,OOCe6 zLr  SHzJJ:C&rS&HrCHL6zz,H^OH^J:H6^,SS6,CJOJer,&^erHLeczJ.:O6zC:OLe O;CCrJ CHrJe:e&HS6Oze&LOz^r:^LH JSf,&SL&6rC&LeCS,6^erX 6q^J,rz6^CSO,SO,Cz,r&^.LJJ&:z&WHOO^CbLLz rO^,HJJC;r&&Se6H:6&SeH,O^^H: LEC&S: erCCOre&OSzHr& zHHJO:S^6SOO eS6OzJrS^rHze,<r&6Sz .COLzz:,L^cHS ,8J&C:r6&Ce&H: ,ezWrO ^Z: ,: JSH6O eCLrz&rezrH6zH 6&OS^O::eL z:,,zJHC 6,S&C:H66-,Ote6,^z,Oz ^QSJ,rJ6CS,O&CS 6z&rz^WrHJ^::&LS  :C,LJzC,,^&HS H>eCO:D6OC^&eeL,^^SrL JHHz :J6eSHJ,ezLHzOrSC6HOJ :S^,SJOSCrO HH,r^6Hz CuO&^S:6^,,LSe,,J^Crr JseJr:66:H&O6e^,:zLr  :H,JJz,&rS&OeCHL6zz,3z&LLJ:pL& : 6,CJLCerSC^erH 6IzJK:O6^:H&Se ,Sz,rC CHrJ&:er&S6OzC8LOz^r:^LrzzJ-,&JSC&*C&LeeH,6Cer} OG^JN:L6 CSO,eJ,Czrr& ereJ6:z&nSJ6He:LLz reeJOeCOrLzzr:6LCCLzep,O^JLLe^OZzJ,6zHC:Ore&,ezHr6Cz^:eO:C&,SLO eSLH:z6&SSH^ JIH&6SzOS:HJLXJLeS6OeCLLHeLre^^CSOHe6,zzvrO ^LCeL:e&OS,OJeCLhe:L&SJLeeC,^&J:zO:CLL zeO!:rO:eJL^ejr: :9r L1 J,CLO^ShO&J6}G6CSrO&e^6^:^OLSeL:eLLr&&:YOSC,LJzzLez:OCe:,Szz:36OCCOSeL, ^SrHz,LzeO,jJ&H: CH,J eC6&CCOOer5H& SJOCCrLOC6LJ:U6,CLXJJnS:6LC LedJ6SSz6 C:+:J :66zS.O,SeJ,Sz,:SOOCzSF*&&S&OeCHLLCS66S&OL rb:& SS6,C6&O-z6C:,6^^COrzS,J^6SrOze ,Sz,r6efO6 :,C^:rzOSCzLOz^r:^r,HeLL6 9,H^,HJJ^:^&G^SrJ O4^&::rJ,a^JC:SJr:66^ :H^J6:z&XS,&:H,Je:&&&SHOeCXlL&&Se6HC6Lze;,O^^rr  g &S:,66r6JJE:&ezLr: zH3JO:JJerS zuLJ6:e6zCzH^ HtH&6SzOSrHJa:C&C^erO ,5J&C:fJLH6J&_&JLSCrJ^6d:JL: 6e:: rH6Oz:O&LS^LeeS,J^:,zO:CLL C>JJ^ HC rHS&e:H66:zJ,e6,^^:rL  r&J,:J^SSrO&eeLrz6rC^3HzSL::&LS 6LC,L zC,,^&r4eJK&&z:%6zC^OaeL,CSOrL J#CCr:&6CSH6JrjLHzOr^^SHLJ :S& H8OSCrL&ze,H^&Hz mVO&Sr66OC LSe,,J^Srr^ 6HJr:66zSSOOe^,:zL66 SHLJJ:C&rS&Oe:HOJzz,H^OHzJ:# & SS6:CJLSer, ^erH 6!z ^:O6^C:OLe L;z,re^rHrJ&:ezSS6OeCv6OSC,Q^ H  rt,JJSC6J,HLee6,6zSrT 6>^J#:L6CHOOLeJ,CeOr& CHHJ^,r&HSOO^HeLLz^rSe,O:JSo&&&:#6HSrLzCr6e^^r6 LrH&S:,6JCCz&e&LHzHrC zHrJOh3 &SOOSeS <zJrS^rH&JeKO^CSe6ECO &z:,O^ ,WSJk Jr:rJrCeOHe6OzS,r6^.N:JJ: &6S,&JA-L,zCre^&H6^IQ(&O:JO:C L el,,^^HCzJ6O&e:666rJOYe6,^zrrL CLOJL:J6Cr:O&eCLHC6OS^HH^J^+,&LBHOS:,&zzS,&^&rH Hrb&z:S SC^6OeLJ6^SrL JHrJr:z^,SrO6ezJCzOrz :r6CS::&JSJ&6CrL&ze,Hc6Hz OIO&zS:6OC 6+HJ, zrrr^zgeJH:66zLxOOe:,:zOr  :H, ^Or&,SeOeCSL6zz,N^O&^J:4 & S:6,C LCCLJJ^er6 6HLJ+:O6^::OJe LLz,re CH^J&HeJ&S66HCBLzz^,6^Lrz^Hu,&:SC6 C&LeeHO6^erU ea^J6:L6CCS6OC%,Cz^r&zrHHJ6:zJrS:O^CJLLz:rS^,HJ :, &&:66HSeLze8,O^^JL LH1&S:C6JC:Ore&OOzrre zH6JO_H6:SLJ:e:LJzJr:^rHJJerH^ Se6OCOLSz:,e^ LS  1JJr:r&^CeOee6LCFOr6 :o:JS: 6SS,OJrCLrzere^rH6Je_Q OHC60C L er,,zqHCzr,^&C:666SMO2ee,^eHLS  H,J,: 6CSrO&ee:&z6,4^iH6J^::&L:zJJC,LCzCLL^&He HT6,H:I6^C^OieL, ^S,OrLDCJ&:&&CSHO6ezOrzCr^^LHL J:S&,SJ6,:^LJeH,HS:Hz HMO&^S:6JHlL:e,,J:6rr JTe^Hr 6eSOOOeS,:z6r ^L,zJ /r&r,aOeCrL6zz,E^ OH MKL& ,&6,C LCSr6^^Cr6 6-:JnVC6^::J&e^L,z,rC CreJ&rrSLS66IC!JSz^,t^Lr:JSj&^:SS6rC& OeH,&^zrLee4z&::LJzCSOLeJ,C6Jr&^HHHJ6:z&mSO6e: LLzSrSzOHJJCmr&&^r6HCzLze5,O^^H:^6,,&S:J6JSSOre&,ez&rS eHpJO} 6:SOO CPL,ze6L^,H&JeH(&6Se6>C JHec,L^ HS ,n &C:r JCeOHe6,ez4rO ^j:JL: 6SS,O eCLrz&r:^JH6JzgR&,YC^,SeJ^:e&J^zHC ro&&e^&66CzOEeO,^^:rL^z,JJ,:J6CS,O&eeLHz6Oe^IHOJ^/9&LS OSC,LJzC,r^&rH Hh6&z:,6zC^L:eL,&e^OCCCOre6:^&LSHO6ez,SCe6LSHOJCr,JzzSz6^CrL&zer:eLOSCzL z^r JeH, OhS&r:LrO SAeJH:66 :J  leJHe:OC^HHzJJ:C&rSO&,Hz LCJ66SOOJ &jL& SS6,HrLCer,&^erH 62z^d:J6^C:OLe ,SzOrJzCHSJ&:e&HS6OzCLLOC^,O^LH JSn,&J:!6rS 6,eH,J^zrO Om^&:s6&JCSO6eJ,Szrr& eHH ,:z&ISOOCe:LOz rS^zHJJC_r&JSe6HC6Lze0,O^^H:^z? &S:,6zSHOre&,e^:6JC O,JJ::6:SLO ee&:SS6:CeH^ H4H&6SzOSH&JW.J&H^erJ ,NJ&C:w&:H J&bC&HSJ6SCLO6J&In6SS,OJezO^:L66S O: ,#,&eS^O:CLL&:e&6:nO&C OQ&::666CzOhe,&&: 6xC,HH r:J6CSrOOS&&:: 6LzzO,CHL&zC*H zHHJ :6,O^eHe HQ6& rz^,HCJJe&L,^Sr, J4z^S,zz,rH SHi&6SC6L^rH J :S&,S6JstJJ :6,L^eHz ?tO&J%&^HH, 6(e,zzLrr &>e&:,SzLr& ,-C&zz&r: SH,JJ:zzzHC ,HrJpzS,&^OH^J:crzHrz Cry 6#^,^z,rH 65z&SEC^&H  eHrLOz6,L CHrJ&:^JCrT^LSJJr:J&gCC6MeJL6&z:S6rC&Lez:O,:O6rezLCe,,r^rQO &MeJ6C&OCS,O^J TO&(SOO^eC66S:6^S6O6C6LezZr66LCCLzeV,O^J,&CHL,e6,e6SSMO e&,ezHrLz,rzee,=zHHSOeCLL,zJrC^NOeer,:zC,,6,CSL^z:,L^&L,C&O/zz,z^Or/ LrM,zz<rO ^S:JL: 6SS,OJeCLrC&,r^HH6JzUg&O:rO:S66,zS,O^J,H rx&&e:H&CCzOqeO,e^:r6  HL i:J6CSr6eeeLrz6re^PH eHpG&LS &,C,L zC,r SHe Hk6&z:A6OC^6:1z,^^Sr, J=CJ^:&&SHJO6eCL{eOr^ :HLJ 6,&,SJOCCLL&zS,H^eL, H2O&^:e6LC^LSe,,JzHO  JxeJHE,6zSHOOeS&6zOr  SrJJJ:S&rS&O,CHL6zz,=^OH^J:rLe#S:6,CJLCer,:^e,,eC#zJr:O6:C:OLe ,SHJrJ CHrJ :e&,S66Hr^LOz^r:z H J:.,& SC66DSLCeH,6ebrN 6U^&:H,6 CSO,eJ,Czrr& e:aJ6:z&VS&O^e:LLezJ,^LHJJCWO&&Se6H:6&SeH,O^^H: LH2&SgO rCCOre&,CzHr6 zH7 z:z6:SLO eSL,zJ,:rSH&Je0HJOSz6qCOOee6,L^ HS^ qJ&C:r& :JOre&,zzrrO ^j:^L::6SSLOJeSLreHreeHr=Jz-H&OSzO:SOL zSL6^JHS rI &e:H66CzOreO,^^:rL  H>J,:e&6SrO&ee6Sz6re^hr&C:>5& S 6zC,LJzCOrH,He 6q6Ji:76SC^6:CJ, zLr, eECJC:&&SSrO6CrL;eHr^ :HLJ ::&,SCOCC L&zS,H^erz MZ^&^He6LC^LSe,,JzHO  JaeJHr,6zSHOOCe LzOrS SrHJJ:C&rs&J:CrLzzz,O^Or_J:H6eSS:6 CJOeer,&^eLHe *eJ&:O6SC:6 e ,S*^rJ^rHrJS:e&rS66HCJL6z^r:eOH J:?,&^SC66fSLCeH,6eer9 6K^ HL 6^CSO,CS,Czrr&^S66J&:e&/:LO^e:LLz Ce^,HJJC!L&&SS6HC^JreH,O^^6L LT^&SH, zCSO&e&L8zH,C zHi&e:^&OSLO^eSL,zJLCCOHJ rhH&eSz6LCO6^:r,O^:HS  tJJ::rJ&A:Oree,zz6rOzH*:JL,J6:SJOJCrLrzCreeHL JeBO&OS:O:S&L CDJJ^ r, ruJ&e:H66SHCJe6,:^:6   R:J,:S6CS6JSeCLHz6&#^}H6J^H:^&S^6,C,LezCL ^&He:^A&JH:.66C^L:eLO e&r, S}CJJ:&&RSH&6C^Lozzr^^OHL z:S ,S:OCCJL&er,HzCHz DHH&^:L6LCSLSe ,JeC,z &HHJH:z6z:,OOCeL&zLrS SHLJJ:C&rSC6LCrL6zz6,^OHzJ:46& :r ^C LCer6^^err 6HCCO:66^C:6^e ,Sz,,^:rH,JJ:eJxS6OzC>LO6Jr:^LH  /Z,&^SC66>SLCeH,6orr9 6p^ :r&6^S,O,ee,Ce r& exJJ6>H&NS6O^e:LLC 6H^LHSJCjJ&&:_6H:6&SeH,z^^rO LHz&SH, zCSOJe&LrzH,C zHyeL:z&LSLOSeSL zJLCCOHJ H!H&zSz&,COOeHL,O^:HS L=J&C:r6C6&OHez,z_6rO z(:J^: &rH^O eCLr2Cre^rH6J:,&&6S^O:rzL z:,,^J:e rnz&e:,66CzOKezLrzjrL  O J,: 6CSLO&C8&Jz&rz^W6=J^b<&LS J:C,LJzC,,^&He Hp6&z:}6OC^O6eL, ^Sr6 :_CJr:&6^/J }HrJL:66z^rHeJ :S&,S6JL>eJ ?c&^SI6, ,je&^S:6LC&66Y&&^S:,Cezs:J,:66zS>O,CHLreHr  SH,J6HzzO,r^THHJAS,6^Se6Oe Lz&e::6,CJLCedLSSCO&eSLzz&r:^Xr6JC:Q&J::OSSLLzJ^:S&HS6OzeSLzezr:^LH JS:^&JSC6rC&LeeH,6ezO, 6o^&::L6 SuO,SJ&Mz,r& eHHJ6:S&-qO^HC2LLz rS^,HCJCHL^SSe6,C6OHeZ,O^^,Hezy JH:,6 CCOre&LSOur6 :HQJe:^6:SLO CHL,zJrC^6H&JC8H&6=66sCOL^z:,L^ HSz,rO&C:r6&CeOHeJ,zC%,r ^T:JL: 6SS6OJSCO,z&re^HH6JzkO&O:e&,CLLzzS, ^JHC rH z,:H6 CzOHeO,^^:,6C-dSJ&:J&HSrO&eeLHTCrz^qHOJS::&OS OS%LLJzC,r^JHe Hd6&z:.6OC^L:e6, ^Sr, zHOJr:&6eC: r!OJ :H6LSrO:Jei6&,SJOCCI6O::6eeSO:C&L:&SS:6LC 6dHJ, ^Srr JEeJH:66zrHOOez,:zOr ^7H, JL &,SJOeC,L6zz,{^OLzJ:#L& S:6,CJLCer,&^erH &HSJ#:O6^Sr6,e ,Sz,r6zJObe^,OJerL^rHJJSCr6eSrO^e&06&eSC6rC&L^z66HzHr, zD^&::L6&p J p J&Ser^^6HHJ6:z6S:C &aOJzS:66SeOrCL?O&eSe6HC6L S&6zSrO  &/S&S:,6JCz6z:CJOS&r ^rHtJO:^6C:e CHNJOC,6H^Or,Je_H&6S Jeh:JChB&JSHOSCeLez,rz6^S6OHe6,z^S,zCzL&eH,,z#rH^NH6LOz re^HH6J /6&JSSO:CLL zerJC,rO OV:&e:H66C &&::&e:,6CC,O6J6A^6CSrO&e^6J:f&/SHO,er,OzCr, &:z HUH& CCOJezZ JJ:*6OC^LCSr&e: 6&CJL&^^,Hz,re iHrL,eOr^ :HLJ&rO^ r> &:zJS:r&LSSO6CLLezer  CCeOre,,J^CrZJe,&J^:J6zSPOOe^,:zLr OSH6Je:C&rS&O^e6&Her,,^^H^J:BL&&r^  H^J&:z,&^erH^J,JJH:O6^:rOLe ,SC,,& CHrJ&:e&H:,Oz:tL:z^r:^LH JS7:&JjC6 C&LeeH,6^zr& Or^ ,:L6 CSO,eJLzzr, z HHJJ:z&JSOO^e:O6eJrS^6HJ &Yr&&Se6H,zLzet,O^CH: 6n  dry6 CSOrC^,ezHr6zzreJO:z6:SOO CzL,CJ,,^rHJJehr&6:&61:O6Rz:,O^ H: ,I:&CHr6 CeOre6,ezV,, ^rHJ&: &HS,6HeCLrz&,S^CH6J:<5&:S^O:CLL r,,,^ HC 6P&&S:H66CrOVe&,^^:rL  ES^,HO6SSLO&eSLHz^rzeEr:J^FH&LSzOSCLLJe:LO^&rG HHO&z:X6OC^OveL,z^Sr& Jk:Jr:C& SHOJezOJzOrz :HOJ Fr^^S OCCrO:ze,r^6H:e&86&^S:J,C L:e,,J^Lrr  _eJH:66zSs&OzH,:z6r ^_H,JS:C r:2OeC,L6zC,j^^H^^:BC& :u6,C^LCeO,&zSrr 69SJ;DO6^C:OLe Lzz,r^ CHLJ&::&HS6OSCWL&z^,H^LH JSr S^SC6rC&&LeH,&^z,H O?Sz6:O6 CS&zeJ,Szrr& ,HHJJ:z&qSOO^e:6L^jrS^OHJJ:Kr&CSeJHSHLzer,O^eH:  U  S:L6JC:Ore ,ezLr6^CreJO:C6:S:O eSL,zJ, ^rH JeY,&6SS6ZCO66z:,6^ rq ,_J&CHJC CeOre66ezqr6 ^rPJL:C^OSLOJeC&,z&rC^HH6JrPg&&S^O:CLL zSO,J:HC LR&&S:H6eCz&QSr,^zHrL ztSJJ:JJCS&O&eSLHzJrz^,HO e>,&LSeOSSOLJzC,r^&rH H7J&z:r6OCCL:eLOH^SrO JE:Jr:&6eSHLCezLrzOr^ :HLJ HSO^SJO:CrL ze,&^6,z^,VO&eS:66C O,e,OJzHrr  0eJ,:66SS}6&C,,:z&r ^3H,JJ:C&r:&OeC,L6zC,I^JH^J:;^& :n6,C^LCer,&^eOr 6lzJM:66^C:OLe ,Sz,rJ C,%J&:e&HS 6JCxLOz^rCzC6PeL,:ze,.O&m7Jr#r&^SSr,^&a^&::L6&:O CH66OS:OCS,OHeJ,Hz,oO 1H6&^3r6J^6rLJCwr&&S^&JrM  C&&6SqO&CLr^zJr:6zSzOre&,e^:L-CeL^zCL,z6rr He,Oz: 6,SSH^  .H&6SzOSSe LjCLCS,OLCeLO^O,z^HrHOLCH,zz?rO J,&eS,S^Jr^&OH&JLSC6:^LHSJznY&OSJJ6/SJzYr&eSr6O OH6&e:H66C 6zp,JrSe66e:OH&JHJ^,r JCHO&zz rC^1HOJ^:C&^Se6:C,LJzC,EzSOCe&,Szzr& :H# 6:C6QSJ6:eSOLzz:^&OSHO6ez,See&LSC,6e,,:^Crr6=S,L&ze,H^L,rC^O, OrC^eH6 5: &zeCOJCSLre^,B6SSeOOe^,:zrLrSOL eLLHzOCe&LHr&eG&,,z9H^J:jL&&{&^^dSJ x6&^eL6reeO&J,I,6^C:OLe&OO:C&6eOOeee,6zJr,^OHr&z:C,r^:H JSG,&69L^erO66or&IS,6 CeLSJr::6 CSO,e6O6SeOCSOLS&zr,z H: :CrO,z rS^,H6^LLeeOHL &H J&8^&,SCO ^^O>e&:6&OCCOre&,^e:6 S6OLeO,L &HS^{H &C::,3zHH&JesH&L>r^^r,6,-66^SO6rC6,Hz,,,^zH:OLC2,zz5rO JrJz^Lj^SCJJpH6&e:er:^CH6Jz;N&,Hr  H{ ,:e&6SrHr^JLSeO:L&rCzOkeO,Je66SS&r^e&,H^^re  qrJLz ,r^UHOJ^:CJerC^EHO6,:H,Oz&He HR6& HJ^rHD 67LOzSL66JCrCzJ,S^rr^ jeSL^zOr^ :Hr^OLr^eCC&^HeJ :r&L^ HC RbO&^SC6zCeOSe,,J^Cr#^SO6e:H_^eH^JCH,J6:r6Hz6OLzSL &OS^OeCHL6z 6LeHHC &%L& SS6H:rJS:e6::O6JC^ zJ+:O6^:H^ e^,Sz,LO CHrJ&He^LS&OzCRLOz^,^^L,:OLb,&JSC6&C&LCeHLz^zrLeeXz&::L6SCSOLeJLHS rJ eHH r:z&HSOO^e6LLz rS^,HJJCDr & ,6HC6Lzeo,OzHH:zLrL&S:,6JCCOrC:,eCHL, zH<JO:^6::&O SBLzzJr:^rH^JeKH&6Sz&&COL^z:,6^ H: ,feJH:r6&CeS.e6,ezw,&S:H;JL: JzS,OJeC6rS^rC^HH6JzP/J;S^JOL6L zS,,z:HC ,n& ^:H6^HrOHeO,^e6rL ^xSJ,S:6CSrO&eeLHz6rze9zeJ^::&LS OSC^LJCCLe^&He HI6&z0J6O:^6reL, ^Sr, Jr4Jrp JOSHOJezO0zOr^ :HL^r:S&,SJO:CrLJze,Oz,Hz 8FOP S:6OC 6WHJ, ^CrrzL/eJH:6JzH,O6e^,:zLr ^ H,^Se,&rS&OeSCL6ze,n^CH^ ,,z&^SS6,:LLCe,,&zROJ &9zJWHJ6^SqOLe ,Oz,rJ CHrJ&:e&H76YrCZLOz^r:^LrGJSr,J:SC6rC&LeeHLS^zLK^6!^&::L6 CS66eJL:eJr& SHH r:z&_SOO^SHLLz rS^OHJJSir&z:X6HC6LzL:,O^zH:^6OS&::,6J:^Ore&,eCHO  eH/JO:^6:S:O :LP zJrC^r,:Jedr&6:J6TC JHe3,L^ L6 ,j &C:6 SCCOHe6&Lzjr6 ^5:&z: 6SS,OJeCLrz&LeCLH&Jz3%&OS^66CL6 :H,L^JHC rg& L:HJ6rrOHeO,^^:rL^e%S Or:6CSLO&C6LHz6rzzrLeJ^Mr&L:&OSC,LJe:CH^&rk Hv:&z:I6OC^OLeL, ^Sr& J1SJr:&JHSHO6ezLDzOr^ :,L ,:S&,SJOCCrLSzeOH^JHz E-O&^S:&eC 6SeJ,J^Crr &we L:6&C:rOOee,:zSr  SH, ^,L&rS^OeC:L6zz,/z&OHJ:_J& X 6,CJLCerJS^erH 6=:JE:66^S,Jze^,Sz,z& CH,J&jSe6S&OzCd6rz^r:^L, eH/L&JSC6rC&O&eHOe&Hr! Os^zC:L6^CSO eJLHS rJ eHHeL:z&HSOOS%6LOz rSSJHJJS+r&&S,6HC6Lzec,O^^H:zLzb&S:,6JCCOreS,eCHL, zHbJO:^6::eO SSO&zJrC^rH&JeHL&6:C6&COLez:L,^ HS ,!J&::r6&CeO,e6,ez7r ^,T:JL: :CS,O eCOLierC^HH6^JUa&OS^&:m&L^zS,,^JHC Cg&^rz&66CzOtd:,^zsrL^^kSJ&r:6SSrO&H6LHz&rz^LLeJz::&L,^OSCLLJzCr ^&He Hl6&z:26O:^:6eL, ^Sr, JHLJrH&&&SHO6ezLIzOLr :,L^q:S&,SJOCCrO^zeL,zrHz rlO&:S:6LC LSC^,J^Crr  deJr:66::zOOe^,:L,r  :H, ^Or&,S&OeSSL6zz,TeOLC 0NL& SS6,S,LCSJ^ ^erH 66&JZ:66^S,OLeC&OzLrJ C6SJ&:C&HS6OrCXLOz^r:^LH JSr,H:SC6rC&LeeH,C^zLI^:;^&::L6 CS6zeJOCeLr& eHHJ6:zJ,SO6eCeLLzzrSz:HJJC#r&&:&6HC6Lzer,O^zH: JHH&S:,6J6eOreJ,ee,&z eHlJOH&6:SLO SS&6z rC^rH&Jeke&6HHCrCOL^z:^r^ H: ,rH&C:6 SCCOHe6^ zmr6 ^E:&z: 6SS,OJeCLrz&LeCLH&Jz1d&OS^66CL6 :H,L^JHC r=& L:HJ6rrOHeO,^^:rL^e.S Or:6CSLO&eSLHz6rz^+ezJ^#r&LS^OSC,LJzCJ ^&He H9 &z:H6OC^L6eL, ^Sr, JhCJrH&H,SHO6ezLdzO,H :,LJ::S&,SJOCCrO:zeOH^zHz !aO&^S:&&C 6UCC,J^:rr  ReJH:66zS^OOe^,:z6r  :H,JeHO&rS&Oe6RL6ze,qz&6: 07L& +z6,CJLCSr6^^CrH 6ozJiIQ6^-OH^e ,Sz, z CH,J&:C&HS^ rCHLOz^^r^LH^JSb&^:SS6rC&e6eH,&^zrBJe8^&::L6 CSO,eJOCO r& eHHJ6:z&&SO&^CeLLz rS^,HJ^Ovr &<J6HC6Lzei,OzCH:^6GS&S:O6J:HOre&,ezH,S zH9JO:e6:SOO CrOOzJrC^r^6Jeyr&6:CzOC6L^z:OH^ HS ,rJz_:,6&CeOHe6L6zXLzge1:JL: :,S,O eCOez&,bCJH&Jzkp:^S^6FCLL zO,,^JHC r1&&e:HJ6JrO<eO,^^:rL^;MS^,Hr6CSrO&eeLHeSrzeDrCJ^::&LS OSS6LJe:LO^&HS HHC&z:y6OC^O^eL, ^SrO JtSJr:z&tSHO6eze:zOrz :r6CS::&,SJ&^CrL&zeOHC He b.O&^S:6:C &L,O,J^Crrr6=eJr:6JHSQO 3HLpzLr rCH,J :C&rCSOeCHL6zz,#^OH^^:e:& SS6,CJLCe ,&eer^ 6IzJQ:O6^:&OLS OJz,rJ CHrJ&n:&H:J&,CjL&z^LH^LH JSV,JLSC6rC&LSeH,&^zrTe6w^&::L6^CSO,eJ,Czrr& eHH 7:z&MSOOCSZLLz rS^H,OC&LL^Cr:^OHLJLS&& SS6Jz ,:eO,e6zS Ore&,e^:LrCOO  C,&^CrO rHO&C:z,yzHH&JeXH&L/6 SHJJ,C^&r:u66Cer9z^,K^JHOOLe:,zz/rO JreeS,z^Lr6 eUz&zz^,r^HH6Jz:Sz^rK CHz HeH, ^JHC ruOeOr& CHeJ^eJ,:^:rL  Ke^6rS^:HeO^C,LHz6rz S,reL,OzO,r zCOLJzC,r^&He HQ6&z:,6^C^L:eL,&S 6HCzL6er:&6eSH6JrqLHzOr^^LHLJ :S&,rOOCC,L&ze,H^6Hzz!H&&^:Y6LC^LSeO,J^C,6 &>CJH:J6zSlOOe^L,zLr  SH,JJ::&rSz&6CHL6zzLC^OHzJ:H6eSS:6JCJO,er,&^eLHSJYeJO:O6:C:OSe ,Se&rJ^,HrJJ:e&HS6&zCCLOeHr:^JH  Oo,&J_L6rCeLeeJ,6^CrA zH&&:: 6 :zO,e ,Czrr&^qLJJ&:z&F_rO^C_LLC &O^LHCJCU6&&S:6HSJJre;,e^^r, L; &S:,eCCCO&e&L,zHrJ zH6C::^&LSL6eeSLLzJrS^rHze,Ur&6Sz&,COLzz:,JS8H: ,_J ^:r6JCe&H-C,ezOrO Sl:J&: J4H^OJCLLrzJre^HH6Jz6O&OS:O:CzL em,,^SLO ,Ee&edS66CeO<eO,^z,Oz ^gSJ,HO6CS,O&Se&Lz&,c^1H J^{,&Lm  HCLLCzC,&^&rL HHLzL:36SC^6eeL,^^SrJ JHHz :J6eSH&,ezLHzOr^&SHLJC:S&OSJOCCrLCeL,r^6Hz 6dO&zS:66C Or:^, ^Crr C7eJr:6&C,OO6e^,:z r  SH,JJ,^&rSJOeC,L6zz,deO,,J:AO& S:6,C^LCerL^^err 6_CJM:O6^C:6ze ,Sz,rJ CHLJ&jF&CS6OzC_Jrz^,.^LrzS,1L&CSC6JC&LeeHO6CSrH ^3^JL:L&,CSO,z:,CzJr& CHHJ6:z 4HJOzC6LLzCrS^^HJJC6&&&:H6HCCLzer,Oz5&  LmS&SrP6JCSOreJ,ezOOC eHKJOr&6:SOO Cr&^z rC^rOLJe(r&6;z^&C6L:z:,J^ rH ,H^zL:r6SCeOOe6,zzErO::f:J : &OS,O^eCLJC:rC^6H6eJNo&6S^O:CLLC:O,L^JHCe:4&&C:HJ6rrOHe^,^z,rL efS Or:6CS O&eCLHz6rz^2&^J^FL&L:jOSCOLJe,Je^&rH H,S&z:H6OCzL:eJ&p^:r, JLOJr:J6eSOJCeeL/zO6& :HOJ HS^6S 6rCrLzze,O^6,ze,N6&:S:6 C O6e,L6S6rr^MVezS:66eSPO^e^L,Szr^ SH,eO:C&,S&OezvL6z:,Z^&H^J:oL&::66LCJLCS&,&^CrH JdzJLre6zC:OLSS,SzLrJ CL,J&:e&HS&OzCpLOz^r:^LH JS%L&JSC6rC^O&eH,6^zHSzCLLe/rS^Hr& eleJH:,r  eHHJ60C ^SOO^e:LOz rS^,HJzSjr&&Se6rC6Lze3,O^^H: Lv^J&:,6JCCOOeS,ezHr6  LSeJLr^ rz^rCHL zJrC^rHOCO,&^Cre ^CJLSz:,L^ HezHOn ,:O6eCeOHe6, C,OzCeL J&::6SS,OJezJ&SC6^SJOSJSl&&OS^O:Cr6HC &^CSO:eeT^JJ:H66CzLSSH&L:J,eC6LeeL,HzLHe ^e:L6z6rz^NH,^:,Ozz,r6HSrLJzC,r^O,&e:L zL%z^,rH &uCOHSz6HC L6^r:&6eSHO6^HL{z6r^ :HLJ :S&,>,OCCLL&ze,H^6HzzMHJ&^:H6LCzLSee,J^C,J &HFJH:66zS-OOe^LOzLrz SH&JJ::&rSC&6CHLJzz,J^OHzJ:kO& :r ^C LCer,:^err 6f:z&:66^C:&re ,:z,,^:rH,J :e&6S6OzCBLO:&r:^&H JS9,&JSCJrC^LeeL,6^Sr0 ec^&::O6 SHO,ee,Czrr& er&J6:C&2SOO^C,LLzCLO^,HJJCHS&&SC6H:6 reH,e^^rO Lke&SjO :CCOze&LLzHr6 zHsS^:^&6SL6reSLOzJ,,e^HJ ,EH rSz6HCOL^z:,JSXH: ,!J  :r6JCe&H: ,ez&rO^al:JJ: &L rOJCLLreSre^rH6JzKy& rH6ZCLL CO,,^ HC 6,S&C:H66:&O4e6,^eH&  ^HOJ,:^6CSrO&Se&Lz&,r^BHeJ^#1&LS SOC,O{zC,,^&He Hr6^S:H6SC^OOeL,:^Sr,S:GCJ :&&OSHO&ezL6zCrz^HHL &:S&LSJO:CrLz:,,r^6Hz SaO&zS:6LzJLSeL,J^:rr &_eJHr&6zSROOez,:zLr  SH,JJ:C&,:HOeCHL6zS,C^OH^J:1r &,H^SHeJC:eO:S66JSHLOe&:J&^C:OLe ,eC6Lee6Y&^rr/ z_ &LeOOCCSO=eJL+ H+z&JSC6rCO&,:z&JS:6 e:OrJr>H6 CSO,e66 SJ6OSOree^LrJJrr JH0&Cze,T^,HJJCV/&CS:66C6Lze_,,:6OOCrOrJH:^6JCCOreOOL:O6JCCrzz :C&,SLO eSLHS.6&SzH^  1H&6SzOSSCJS?3&J:>66^eLrz,,,^Hr,OLCP,zzMrO Jr&eJ,^zrr^&Oa,Jr:OLJ^HH6JzHre^SzO:CLL:zS,,^JHCC,U&&e:H6&CzOreOLKC&rO  MS S:J6SSrO&eeLOSCre^jHO^O::&OS OSe^LJzC,r^&He HZ6 z,&66C^L:eL, zrr,^^LCJ,: 6eSLO6ezL}zOre :HLJ #p&,S^OC:rL:ze,H^6Hz v8 &^?H6CC Ole,,:^Crr &-e 0:66zSNO&e^LHzLL ^,H,JJ:C&rS&OCCHOJeO,Q^&H^ JGL& SS&OD:LCeO,&zHrH 6-zJ;O^6^C:OLee,SzOrJ^,,^JJ:e&H:eOzCHLOz^r:^JOvJ:p,&J5,6rCJLeC,Jz^erE OHL&::L6 :S ^e ,Czrr& eH J6:z6&SOOee:LOz rS^,HJSL=r&&Se6,C6Leei, SHrM L{ &S:,6 CC6LHe,CzHr6^OHlJO:^J:rzO^eSL,zJrC^^H& S,J&6SC6-C&L^z:,L^ &O ,ZJ&C:L6&CCOHe^&rzHrO ^+:JL:^6SS,J eCLrz&rC^HH6Jz0q&OS^O:CLL:zS,,^JrW ^>&&e:H6L56JSQC&JS66OC,HHJJ:J6CSrOOSS&&:L6S^,HzJ^::&LS&J&HHJ^:&& ^^r& Hy6&zSSJJHL e*CO&:66LeSO_zz:&6CSLOCezLNzOrJzCOee^,Lz6rH&rCrL&ze,H CHz GbO&^S:6LC 6S:6, ^Crr &{eJ,:6JzH,O6e^,:zLr ^HH,^J,P&,S&OeCHL6ze,.ezS<J:hL& :O6,C LCe&,&zgOJ &nzJg:e6^SVOLe :6z,rJ CHrJ&:e&HS6HHC_LOz^,<^LH JSHOgLSC6rC&L:eH,6^z,r  T^&::L6CCSO,eJ,C:,r& eHHJ&:z&rSO6eOzLLz rS^ HJJClrJ :C6HC6Lze,,O^^H: ^6,&S:,6JSCOreJ,ezrr6 :L&J6:^6::LO e:L,ze6L^,H&JeH,&6Se6nS& :em,L^ rH ,tJ&C:rL6CeOHe6,Cz0rO ^rHC :^6SS,OSeCLrz&reJ.H6JzYm&&S^O:CLL S:,,^JHC ,.&&e:H66CzOpeO,^errL  _SJ6T&6CSrO&e^Oe:L6SC ,!eJL6ze,r&6HxJ6:S6z^ He Hw6&z:m6O,JJ:e6, ^Sr, J;CqrOO^eSLOzezLVzOrJ^L6H LDJ&OSJOCCrL&ze,H^6Oz ,HA&^S:6LC&&6:CJHeCOeSOrOeOLr^SS,O:e^,:zLr&e6Lze:,&^er^&JHzJLzS,C^OH^J:Ir^HrJ^6HH6C:eJOe66eCkLSe :J&OC:OLe ,ee:6rS6,^eHL,zerL ,o^LJz:r:^LH JeL:^Srz^zC^OSeH,6^zHS^CL?eL,Cz,rOJCSDJH:O&>S,OOe&,e^^reOCS,LLz rS^HL,ezL en,6 &H&6 s,&^:L6Jz6,:eHr ^LH&  e^LOzHr6 z7S^C,LzJkL ,He6C:Cr:^rH&JeyH&6^zzJHOLCe ,L^ HS H,yerrJ^ bL H(L&e:HrJ^O1:JL: 6eMH ^N,&S:HLCC&LCeOLH&JS:O:CLL ze&eCS6OCr=^Je:H66CzLSC:&CSOOzC^LJ ^Lrz6rz zM:6H:56S^,H^J^::&LS& ^. J^:&^>^&He HHJCd:H6OC^6peL, ^SL,eznSJr:&6eSH6TezL{:6r^ :HLJ^:S&OSJ6,:^LJze,HH,Hz HhO&^S:6JH=L:e,,JH^rr JBe ,Lz6eSFOOC ,:zLr ^L,zJ :C&rrzOeCrL6zz,j^ OH Z_L& ,r6,C LCCLJe^CrH 6HSJX:O6^:: ze^,Sz,rJ CHzJ&tS^JS6OCCpOHz^r:^LH :,v,&JSC6LC&LSeHO6:rrH Ox^&::L&HCSO,&S,CzLr& CHHJ6:zJrHeO^CrLLzerS^,HJJCzJ&&:26HC6Lze7,Oze&L O7S&S-66JCCOre&J^zrr6 zHOJO:z6::6&LeSL,zJL.^rH&JerHJrSz6ICOL^z:,C^ ,s^&sJ&::r&,CeOHe6,zeerO ^U:J6: &9S,&JCeLrz&re^HH6 ,Nj&O:6O:C6L zS,,^JHC^L,S&e:L66CSOjeO,^^:C^  HrJ,:J6CSrO&CS 6z&,>^IrJJ^::&LS ^eCLLJzC,&^&HC HHJJz:X6OC^6reL, ^SL,^OGCJr:&6eSHO:ezOrzJr^^HHL O:S&,SJOCSLL&ze,H^JHz r{O ^.66LC LSe,,JzOrr &HdJH:J6zSHOOe^,:e669 SH6JJ::&rS&OeCH:ezz,L^OH^J:2L& qRzJC OrerL^^erH 6czeS:66^C:O e ,:z,,^z^HrJ&:eJLS6OzCD6OCrr:^LH JS*,JHSC&LSHLee,,6z&rR OI^&::O6 CSO,e^,CzLr&zeHJJ6:z&tSOO^C&LLz ,r^,H^JC=r&&Se6HSJJreR,J^^rH Lf &S:,HSCCO6e&,ezHr6 zrrC^:z&LSL6eeSL,zJrC:WHJJeBH&zSz6HCOOeeC,L^ HS^6.J&C:rJ&CSOHe6,zz-rO^,5: 6aJ6SSOOJC Lrz&re^H,rJzZ7&OSeO:C6L CSLC^JHC rt&&e: 66Cz6LeO,e^:rO  aSJ,y^^LSrO^eeL:z6rz^9HOLn::&JS OSC,LJzCLL:eHC 6d6JS:f6OC^L:Hr,^^Sr, C8CJ,:&&S:LO6ezLyeJr^ :HL^ Hz&,SJOCCrL&eO,HzJr4 ll&&^:z6LC LSe,L,^Crr &4SJH:J6zk;6Ce^,:zLr  SHzJJ:C&JS&OSCHL6zz,<^Oree6KL&eSS&HCJLCer,&6rrH ^EzJs:O6^C:66HS,:zJrJzXHrJ&:e&H,COzC(LOz:r:^OH ^+OJ& SC6rS LeeH,6zHLJ 6c^&::L6 C:O,eJ,Cz6OS CHHJ6:z&kS6O^SH  z^rS^,r JCor&&>e LC&Lze%,O^^r  Ll CS:,6JCCO,e&,CzHr6 rHPJO:^6:SLO eS6,S6rC^rH&Je%H&CSzJYSOL^z:,L^ HS LIJJ:gL6&CSOHC6,zzprO ^HrJL: 6SSOOJe:LrzC,:^HH6JzOr&OSzO:CLL er6^^ HC rO &e:r66C:J&e6,^^:JL  >:J,:J6LSrO&eeLrz6rz^Z,OCH<x&LS OSC,O,zC,rCCHC H<6&C:h66C^L:zz, ^Sr,  PCJr:&JerJO&ezLczOr^^OHL z,O&,S^OCC6L&ze,H^6&r x7O&^:H6LC^LSCOJC^Srr &H6JH:66z:rJee^LGzLrS SH,JJ:C^JSJOeCHLJzz,H^OH^J6lL& SS6LCJLCerO&:,rr 6lzJi:O&&C:66B1,SzOrJ^HHrJ&:e&H,COzCjLOzer:^OH JS:^&JSC6rC&LeeH,6ezLS OK^&::L6 SOO,SJL zrr& eHHJ6:e&1:&6He:L6z ,S^,HJJC;r& Se6HC6LCel,&^^rO ex &S:,C.CCO,e&,ezHr^CrHHJO:^C&SLO^eSL&S:rS^rH&Je{H&&Sz&rr^Lzz:,LzzHS ,}JJ,H^6JCeOH,r,zzHrO ^W:JJ,Y6:S,OJ, LrzJre^OLCJe4Y&O,HO:COL er6^^ HC rx&&e:r66CzJHeO,^^:rO  YSJ,:J6CSrO&eeL,z6rz^VHJ #::&LS OeHzJC:,&SS^H: 6/6&z:g6,r,JOde& z,r, J;C LLe6CSHO6eCLozOr^z:L&J^:S&,SJOCC,L&zS,L^6He T3O&^S:6LC JLeL,J^CrL &7CJH:6 eSmOOe^LvzLr  SHLJJ:C&rS:OeCHL6zSLg^OH^J:Ar H,J^^r,J&CCJHSL6HerLOz6,^^SrrO&CL,Sz,rJ zrCeOL,^z<S OH& B:L&6^&rLJSK,&JSz&SHH OS &U:r6zC,Lrz :&6SCSO,eJ,zSSOCCSLzJ IJ&TSOO^eC #:,6LSJOeCYH^zLrr^LHrJOe,,S^^H: Lf&e&,&z;r6  PO&:SCr ^CHXJO:^6C3z ,H,JL:66OCJ6Qe6,^ S,L^LHeJW:z6S^e,H ,?J&C:RJSH^JCCS&::,6SSHO,eO,^^Jr^&rHJ&e:^&O^SH6Jz_0J&,:6UCLL er,,^JHCzrLS&C:H66CzO{eJ,^eHOz  HfJ,::6CSrO&ee^6z6rz^bH&J^}H&La  HCLLJzC,r^&rL Hr6er:H6OC^L:eL,z^S,Oe:1CJL:&&HSHO6ezOr4^rz^rHLJ::S&,SJ6:r&LJe4,H^&Hz <*O&^+,6OCCLSeL,J^Crr &^<JH: 6zSXOOe^,:zL C SH,JJ:C&rSJOeCH&&zz,k^OHzJ:#L& SS6,CJLCer,&C&rH 6!zJ,::6^C:OLe&OL:L6#C^Lee ,^z r:OC, z^J&6S& O6SRL,&z:O6rC&Lez:O:S:L SHLLz ,&6eSOO,eJ,Cz<6:SOOJeL,S^eS&,O=Jr^OJzz&C:CeeKO&:Se6HC6L Sz6:Sr6JCJOwJ6:6&6CCOre&,^Cz6zC&O&zz,,^ FzJ:(6&CM,,L^L&H:6HLO6Aee>ze_ er,J^ HS ,26ehrez,C:O,e6,zzKr,^HHHJL: 6SS,OJeCLr:&rSzC:L zJPz^HHCvHrLeeJ,,^JHC _H:z rz SHz&&:z&rS r& zMSJ,:J6zS^O OL:zeO6z^^AH,Oz:&&SSOSC,LJzzLzCC6Oe&j Je:V6OC^LCSHJ,:yO CzOHeY,Q ,rO ^HL6OSz&HSJH& -:S&,SJOzS^6rI,6&SJOO ,bz&^S:6LC& ,:z6SSS6,  ^r^& zuzJzGe6:::z&,, SH,JJ:z LHC JHLJL0L&^CSOL H!L& SS6,CJLCCr&&^:r6 6YzJB:,^OHC &/rLHzzrJ CHrJOr,^zrJ :H &:;r,r^6H JS*,&6:,6LC&LeeH,6^zrw O>^Jr:z6 CSO,e6OO:66 CSrez^:S&OSOO^e:Lr?O6LSH6HJ:e:L,zJrC^rH&zL&L^Cre LV &S:HJ6rK Cyz&eSzLSCOO&CN,Lz6S&6,eSL,zJrzz^OLerLJ^er,^ 4: Her, ^ HS ,g6^LrJ :H6O,^H&L 6eLr&S 6 zJ&H:1OJeCLrzOLLCSOXe,Lg^orL^6:z&::66C^zre rI&&eS:JHH  ,:SOOSC6zSHO& z,O^zr, {e:L^z6rz^YH,^:L,zer&^&HHJejE,LSHJCCel6e&L,eJHJOH,^^^H6S,OeCJCr,O6:S O6ezLdz,LLS^OJe^L ^CrHO:CrL&ze,H^6HzJnLL&eJ :C&rS&OeCH666H ^c:JH:66zCSJNCPLHuJO,^L&,C&JCC:rOe:CHL6zzLr:^HzJ:DL OSS6,CJO:: ,&^CrHz:9zJD:O6^SCOLe ,SzOrJ :HrJCrL&rS6OzLrLOzzr:^LH  r,^& SC6rL Leer,6zC&O 6y^&::z6 CSO,eS6Oz,r& eHHJ6:e&oSOO^C,&zz^rS^,HJJCd,&&:Sz6C&LzeQO&^^H: LK z::,6JCCO,e&,SzH,Jr&HVJO:^&eSLO eSOOelrC^rH& +<H&6SzJ<VJLzz:,L^ HS^^TJJ:L&6JCCOHC,,zzQrO^eL6JL:z6SWCOJeCLrz& H^HH6Jzwr&OSeO:C^&Hz:,,^JHC r=J&e:H66C:J&e6,^^:rL  *:J,:J6LSrO&eeLHz6rz^8,OzC.2&LS OSC,OJzCOrCOHe H56&z:lJOC^6:e^, ^Sr, JlC^O:&&S:LO6eCLoCer^ :HLJ HJ&,SJOCCLL&zS,H^e,O PZO&^Q^6LC^LSe,,JzHO  J_eJHHH6zSHOOeS&6zOr  SH,JJ:S&rS&O,CHL6zz,H^OH^J:rLJJSS6,CJLCerL:^eLH^zpzJy:O6^C:6:e OSe6rJ CHrJ&:eJ:S66CSELOzer:^OH JS>,J^3H6rC^LeC^,6^zr5 Or&&::L6 SHO,e^,CCJL, eHHJ6r*&7S6O^S LLzC6O^LHJJCr&&&SC6HC^JreH,O^^6S LV^&SoOzCCSOre&,:zHr6 zrrC^:z&NSL6zeSL,zJLCCOHJJCTH&&Sz6 COOeHr,L^zHS^&gJ&C:r& SOOHe ,zzrrO ^9: 6IS6SS&OJCeLrz&rez,HzJzfO&O:rO:CLL C+LO^Jr, rH,&e:H66SC6^eOLH^:LO  NSJ,_^J>SrO:ee66z6rz^lr&,^::&CS J6C,LJzCLLzrHe z_6^6:V6OC^6HCS, z r, C7CJr:&&SS:O6C&LACzr^ :HL zHr&,:OOCC^L&ze,H^6r, 5U6&^:e6LC LSe,Or^Crr &{eJH:&6z:rO&e^,:zLr: SH,JJHCJJS&OeCHL6zz, ^Ore r<L&^SS&&CJLCerL S,rH J8zJr:O6^C:66*{,Sz6rJ^eHrJ&:e&HLzOzCoLOzCr:^6H JS:^&JSS6rC&LeeH,6ezO, 6Ez&::O6 :CO,SJ&Iz,rJ eHrJ6!e&QMOJCCWLOz r:^,,eJCxrz6SC6HC6LzeP,6^^,:e&3^&S:,6JCC6&e&6rL&r6 zHtJO:^&ZSL6:eSL&S:rS^rH&JexH&&Sz&rr^Lzz:,LeOHS ,mJJ:ee6&CCOHS,,zzNrO ^HHJL: 6SSOOJeSLrz&,<^HH6JzXH&OS^O::L6rzS,,^JHC rH:&eHH&rCzO#eO,^^:,:  rS^b:J6CSrO&eeO:z6,CzOHOJe::&OS OSC,O^:L,r^^He z=6&z:%6O,HL:eL, zHr,  RCJ6rS6CSHO6ezLRz6r^ :xzJ :S&,S OCCrL&CeLE^6Hz vgO&^<&6L: Ore,,J^Crr &r&JHH6J6STOOe^,:zLL& SrOJS:C&LS&OCCHL6zzLrz&H^ r<L rSS6,CJLCCS,&^erH  qzJr:O PSCOLe ,SferJ SHr^::e&OHCOeC%LOH,r:^OH  r,^& SC6r,&Leer,6zC&O 6h^&:/&6 CSO,eS  zrrJ eHHJ6:e&ISJO^e:O z rS^,HJJC+r&&Se&6C6Lze_,&^^H: L4  ,:,6JCCOOe&,ezHr6CHHHJO:^&HSLO^eSL&S:rS^rH&JelH&&Sz6EeeL^z:,L^^HS ,xJ CuH6&CeOHe6,zeJrOz^H6JL: 6SS,OJSJLrC&L,^HH6JzV1&OBJO:S6OzzS,O^JHS ru&&ea,6eCzO,eOO,^:rL  KSJJ:J6CSrO^eeL,z6OH^zHOJ^::CSS O:C,O,zC,6CSHC Hp6SO:266C^O,:z,^^Sr, JVCJ,:&6eCJO6ezL2z6r^ :HL^ 66&,SJOCCrL&CL,He6r, 9NO&^S:6L:LLSS,L,^Crr &;eJHHL6z:rO&e^LHzLr^ SH,JJu:JOS&O:CHOLzz,h^OH^^r3L& SS66CJLSer,z^SrH 6nzJR:O6zC:OL:^,Sz,rJ SHrJ&:e&rS6OzC=66z^r:^LHe LG,&JSC6{:H6,Pz&SS:r, Cs^&::L6&:  LPeJ Se6S^,HL t:z&}SOOJS&JHS:&OC OvC6,ezSS:6&C6Lze*,,S:OOCrO4e6:66CCCOre&,^:COeC O JJa,6:SLO eeOS: &HSSOHC,:6&eSS6:COL^z:,reLOeC6LH J,G^SrL ^CS&JSS66C,Hr r: 6SS,O6:&J&:,&,C&L:eOr&^zrr  H:OgeH,S^JHC rqO Lr&^ :, Lf6&zSCOCC,HHJ^:J6CSrOOS &zSe6eS OrJe::&LS OSC,LJ:z&r^^rX HQ6&zSS^JHL ze&LO^Sr, JVz S,HzO:  ,8 JHSS&HC O&J :S&6SCOCCrL&z^OLCeOCe^G&6CSS6, Jer#MJ8SCrL &*eJH:66zShOOe^Lrzer  SH,J6HJz,rz^JVzJCeH,,^CH^J:PL&&/JJ:HrJ,a&&zS:rL :EzJ%:O6J:e SFz&L:66eCzLzJ ,,&HS6zzze&^&MS:^&r^JSD,&JSz&:rHJS:&& S:OSeS,He,,Jzr?,J j:J6zOrS eHHJ6:  :r  e86Jr:,,H^^HJJCXr&Oq:^OSSJe:S&^^CrJ L2 &S:HJ,HS 6H,&6:JHz^rH,J^:^6:SLO&H&& mu6C^OHSJesH&6S JO<z H: &&:rrH zfJ&C:r6OnO OS:J&S^O:CCHrJC: 6SS,O6SJJ,:z&JCzOCJ%PJ&J:,O:CLL zeL^CSOOCrLezrr ^6CSO&eO,^^:rrzHr e^rS^:HeO ^zLXzOT^JOzSHLz:&&:/OSC,LJzzLez:OCe:,Szz&,6OC^L:eL,s^Sr, JdCJr:&6e}HJLezL}zOr^ :,rJ HSJJSJOCCrL&ze,J^6rC^O-O&eS:6^C LSe,,JzSrr &/eJ,:66CSVOzSO,:zLr ^6H,J :C&rS&63-JL&zz,P^CH^ 52L&CrO6LCJLCC&,&^CrH 6crJk:O6^C:OLe ,SC,LO SHrJ&:e&HS Oz:_O z^r:^LH JS_^&J::& C&LSeH,e^zrZ Ox^ J:L6 CSOOeJ,:zrrC^,HHJ6:zJOSOOze:LOz ,rC^H JC2rJeSe6rC6OCHO,6^^H:zI! &S:,6JCLOreJ,ezrr6 zHI^OrC&5SOO e:L,e^rCerL^JCwr&6Se6_:LL^z:6^^^HS ,x^&C:,6&SqJJe&,zzI^& ^H_JL: 6OS,OJeCLrz&re^H,6z *;&OS^O:CL6&zSO,z&HC rw&&e:H6CCz6re6,^zHrLzr=SJ,:J6C:CO&eeLHzJrz^rHO ZmO&LS OS:hLJzS,r^&He O,C&e:(6O:&L:eO, zrO^  MCJrrr6eSrO6ez,&zOr^ :HLJ :S&,-JJzCrL&ze,H^6HS mrOJLS:6LC LSe,,:^C,L :beJ,:6JLSDOOe^,:e:r  SH,J^:C&LS&6rC&L6zz,le^H^ maL& SS6&w:LSer,&CHrH &>zJLre6zC:OL:L,SzLrJ^:6&JJ:e&HBrOzCPLOz^r6^LH^JSIL&JSC6r:&&:er,&^zrH Oqe&:HL eC:OLeJ,SzrL6 eHHze:e&iSOOee:LOz ,rC^H JCDr: Se6rC6Lzz&,O^^H: L> &S:,JJ:^O,e&,ezHr6z H3^O!z6:SLO eSL,z:rCzLreJek,&6_J6tCOL^z:,:^ HS ,E^&C:L6&SrOLe6,zzX^& ^H9JL:^6SS&J:eSLrz&^S^HH&Jzu;6eS^O:CLL zS,,^J,C^:KJ&e:H66CzO,eOO^zSrL  {SJ,:J&LSr6 SOLHzJrzzCHOJ^::&LSzOSC,LJz:,r^ He &rr&z:y6OOeL:eO, ^:r, eLLJ,:&6e6,O6eeLNzOrH :HLJ %m&,SJOC:rJSzC,H^6Hz 2#e&^EH zC OPe,L:^Crr &qeS6:66zSwO&e^LHzLr::JH,JJ:CzrS&OCCHL&zz,LCeHzJ:fLz SS6LCJOH: ,J^erHHF+zJH:O&e,LOOe ,Sz&rJ CHrJ&, &HS&OzCrLOz^r:eLrOJSKL&JSS6rSLLeeHLe^zrH One&::L6 CSOzeJ,Czrr& eH,J6::&,SOO^e:zzz r:^,,Jen;,&eSe6OC6O^ehOz&_H:  ! eJ:,6 CC6 e&LTSJr& zH}e::^&FSLOCZOLLzJrCH H&JC2HJJL56HC^L^C ,L^ HSz,&C&S:&6&SHOHez,zzI,H ^HLJL:^6SSLOJC:Lzz&,H^HH&Jzx!&OS^6CCLLSzS,L^JHS rH  O:H6zCz6,eO,^^:rL ^gSJJ:J6SSrOJeeO,e rz^OHO^6::&LS &SC&LJe,,r^zHe^&n6 zlL6OS_L:e^, eCr,^^rLJr:S6en.O6ezLoCOrS :HzJ *O&,:LOCSL6,ze, ^6re 9YO&^iH&OC O&e,L,^Crr &HSJS:6&OSN66e^,:zLr 3,H,J::C&eS&OSCHL6CL,H^zH^ O/LJ}SS6,QSLSe&,&^SrH &Dz^<rJ6zSLOLeC,Se rJeCHJJ&PH&HS:OzCSLOeeJL^OHSJSrL&JSC6rC&^eeH,z^zrH O4z&::LH:CSOJeJ,Szrr& er,zl:z&OSO&re:LLz rS ^HJ r9r&&Se6HC66zSS,O^:H:  *  e:,JJS^Oree,ez6r6^rHl &%O6:SzO SzL,zJrC^rH:Jev6&6:r6jC&L^eOOH^ r, ,&r&C:,6&CeOHe^&rzHrO ^& JL:^6SS&J:eSLrz&^H^HH&Jzr8^JSz6LCLLCzSLS^Jr,z^qJJH:HCzCzOHeO,^^:rJCb<:J,:JSrSrOJee6HS re^OHOJS::JJS &Sx6L er,r^eHe z86^H6,6OC:L:, , ^:r,^ %CJ6rS6CSHO6L(LBz6r^zH6 J^5,&,:_OCCrL&erJz^6rs G&^&^:o6LC^LSe&6:^Srr &JHJH:&6zSLJeez,:zL&, SHLJJ:CrJS&6HCHL6zz,U^Orez -L&SSS&zCJLCer,CzLrr 6_ze6:O6zC:O6e LrS^r  CHreC:e&rS6O:U&L6z^r:r6H J:4,J^Lr6,C&LeCC,6^zrQ^&6,&::O6 :CO,eJ,CCr,7 eHrJ6:e&N:HO^SHLOz ,i^,rCJCcr&&:S6eC6LSe9LO^^H: LHzJC:,6eCC&re&,ezHr6z6H.J6:^&,SLO eSL,eerC^rH&JefH&&Sz6Ty6L^z:,L^^HS ,YJ&C:r6&CeOHe6,ez;rO ^HrJC: 6SS,O6:OJ&SC6SzC64eSLJ&&S^O:CLOzSJ,,^JHC ,1&&e:H66VeO8eO,^z_rL  VSJ,:J6CSrOJC&LHz6rz^,HCJ^::&LS&JOPCJ^/H&zSH6L ,G6&z:p6OC^L:CL& zHr^ J.CJr:OJLHSJeuS&eS:rC^ HLJ :S&Hcr OHzJz*H&rCe6,CrGJJ&S:6LC LeSH&z:J66C&L6^ ,<zrrzJ:HHLHzLr  SH,JJ:C6rr6O:C^L6zz,=^,,HC Or Hrz CHBJCeL,&^erH 6lzJw:C^^SrOze ,Sz,r6zOO6e ,SJeH^OCCBLOz^r:^LH JSL,&z:L6rC&Lez:JMSS6OezLrz:#C6 CSO,eJO,z,r& eHHJ6:S&uHO6ce:LLz ,L^,HeJC,r:6SC6HC6OOe#,e^^L:  2 &S:,&=CCOLe&,ee r6 eHcJO:^6:SL& C L,z rC^,H&JC+H 6:O6jC6L^eZ,LzrHSz,Ht&C:,6&CCOHez,zer,^ ^HrJL5L6SS,OJeCLez&,X^HH6Jzf{&OS^6SCLLezS,&^JHC r8&JO:H6&CzO+eO,z^:rL^:y:JL:J6CSrO^ee&Hzerz^HHO y::&JS JSOrL zS,rzHHe LN6^z:z6OCzL:ee, zmr, JHrJr: 6eSHO6ezLpCO,C :H6J 8T&,S OC:rO&ze,,^6HC /RS&^R:6SC O0e,,^^Cr& &HSJ :66:SW6/e^,:zLr ^SH,JC:C&,S&OeCHL6C,,{^ H^ LcL& SS6,SSLCeL,&^erH &hzJfr66^C:OLe^,Sz,rJ CHrJ&:e&HSSOzC7LOzC,L^LH JSRH ^r,^NH^L:C/,6^zrZ ,rOzC,&^r:  HM:JO:z,:C L:e&,L&,:HO^e:LLz&L:S&Obe,L, erC &rLJO/&,JzLH: L> &eHJ^ H,^f2HJ,eC&gC H,J^:^6:SLO&i^& :^6&^OrrJejH&6S &e3: ,S&6S:_6 CHL}z&:O6:CeOHe6, CO66C5OCzSL<z6S6O:eCLrz&r^e O6e LHz6,r&.CLL zSLO:CHS ,h&JH:H66Cz&B&H,^z7rL ^_SJ :J&::LO&e:LHzCrz^9HOJ^T6&LS^OSC6LJz:,re&rS Hd&&z:H6OCCL:SLLS^SrL JxSJr:z6egH6^ezLHzOrz :HOJ HS&^SJOSCrLJze, ^6,zC&m6&zS:6OC OMe,,J,Lrr ^?eJH:66zS!OOr:,:zOr ^HH,J^:C&JLHOeCrL6e ,s^6H^ pvL&CrO6LCJLCCx,&^CrH ^LrJH:O6^S:OLe^,Sz,CS CH,J&:C&HS6OzC.rLz^,R^LHzJSm,&JSC ,C&LeeH,&^zrg OF^&::L6 C:OOeJ,Czrr^^HHHJ6:z6SrS jH&JLze,L^,HJJC+Ez:,H &rrJSeO,O^^H:^6OS&::,6JCSOre&,eCHO  eHRJO:^6:S6O ChL6zJrS^rH&JeoH&6Sz 6C6L^z:,6^ H: ,<J^S:r6&CeOre6,zzNr6 ^{:JL=H6SS,OJCnOOz&re^HHLzr,SzHfr^,H& r2O&&S OSeeLS 6,e^xHS  eJL,^:rL  beee,ezOrz S=^JL:rrS^zHOJ^::&rVO JHe&q:&& :rO^e Lc&S:S6OC^L:erJ,:HOCCSO&e2,e JHzJeHRJL:JrC^:HLJ :S&HEK^&H  r:6Le:kO,CY,HzLrO^ HC He6,C^Crr &=^zCre^CH^OJCO,:zLr  erSe6LL^e3: 6HJ H:O&&^JreJ:DL& SeJ^Hr ra,&OSLO&C:LOz HCz,r, z::&^SC,O CHrJ&{Se6S&OzCILzz^r:^L, CORL&JSC6rC&L:eHLJSrrX &Z^J&:L6 CSO,rC,Czrr& SHHJJ:z nHJOze:LLz rS^LHJ^CL &JSe6HC6Lze&,OzeO6 Lhz&S:&6JCCOrC  Hzrr  zHrJO:^6::6^Se:L&zJ,r^rH&JexHJ^Se6LCOLzz:,L^ HSr&GJJp:r6&CeOHe6,zrLrO ^8:JL: 6:S,OJ:SLrz&re^rH6JzbP&OS^O:CLL zS,,");local r=0;k.SFZddOU_(function()k.dMpFPrQm()r=r+1 end)local function e(z,e)if e then return r end;r=z+r;end local z,r,o=f(0,f,e,s,k.bwHXxXzj);local function l()local r,z=k.bwHXxXzj(s,e(1,3),e(5,6)+2);e(2);return(z*256)+r;end;local b=true;local b=0 local function _()local n=r();local e=r();local d=1;local n=(z(e,1,20)*(2^32))+n;local r=z(e,21,31);local e=((-1)^z(e,32));if(r==0)then if(n==b)then return e*0;else r=1;d=0;end;elseif(r==2047)then return(n==0)and(e*(1/0))or(e*(0/0));end;return k.rnGFdnmf(e,r-1023)*(d+(n/(2^52)));end;local c=r;local function p(r)local z;if(not r)then r=c();if(r==0)then return'';end;end;z=k.MXcMAWfZ(s,e(1,3),e(5,6)+r-1);e(r)local e=""for r=(1+b),#z do e=e..k.MXcMAWfZ(z,r,r)end return e;end;local c=#k.EbcoolPx(a('\49.\48'))~=1 local e=r;local function ne(...)return{...},k.yHKoQuvm('#',...)end local function ze()local s={};local e={};local a={};local b={s,a,nil,e};local e=r()local h={}for n=1,e do local z=o();local e;if(z==0)then e=(o()~=#{});elseif(z==2)then local r=_();if c and k.eTHczeSh(k.EbcoolPx(r),'.(\48+)$')then r=k.KhUPedye(r);end e=r;elseif(z==3)then e=p();end;h[n]=e;end;for a=1,r()do local e=o();if(z(e,1,1)==0)then local f=z(e,2,3);local o=z(e,4,6);local e={l(),l(),nil,nil};if(f==0)then e[d]=l();e[t]=l();elseif(f==#{1})then e[d]=r();elseif(f==u[2])then e[d]=r()-(2^16)elseif(f==u[3])then e[d]=r()-(2^16)e[t]=l();end;if(z(o,1,1)==1)then e[n]=h[e[n]]end if(z(o,2,2)==1)then e[d]=h[e[d]]end if(z(o,3,3)==1)then e[t]=h[e[t]]end s[a]=e;end end;for e=1,r()do a[e-(#{1})]=ze();end;b[3]=o();return b;end;local function re(z,e,r)local n=e;local n=r;return a(k.eTHczeSh(k.eTHczeSh(({k.SFZddOU_(z)})[2],e),r))end local function _(m,a,o)local function ze(...)local l,p,c,re,b,r,s,j,y,ee,u,z;local e=0;while-1<e do if 2>=e then if 0<e then if 2~=e then c=f(6,58,3,5,m);b=ne re=0;else r=-41;s=-1;end else l=f(6,12,1,25,m);p=f(6,30,2,59,m);end else if 5>e then if 4~=e then j={};y={...};else ee=k.yHKoQuvm('#',...)-1;u={};end else if 2<e then repeat if e>5 then e=-2;break;end;z=f(7);until true;else e=-2;end end end e=e+1;end;for e=0,ee do if(e>=c)then j[e-c]=y[e+1];else z[e]=y[e+1];end;end;local m=ee-c+1 local e;local f;local function c(...)while true do end end while true do if r<-40 then r=r+42 end e=l[r];f=e[g];if f<=199 then if 100>f then if 50>f then if 25>f then if f<=11 then if 6>f then if f<=2 then if 0<f then if f>=-2 then for s=27,56 do if 1~=f then local f;for t=0,6 do if 3<=t then if t<=4 then if t~=2 then repeat if t>3 then f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if t>1 then for f=41,81 do if t<6 then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z(e[n],e[d]);break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end else if 1<=t then if 1<t then z[e[n]]=o[e[d]];r=r+1;e=l[r];else f=e[n]z[f](z[f+1])r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end end break;end;local f,s;for o=0,4 do if o>1 then if o<3 then z(e[n],e[d]);r=r+1;e=l[r];else if 0<=o then repeat if o>3 then if z[e[n]]then r=r+1;else r=e[d];end;break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if-1<=o then for h=34,85 do if o<1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end break;end;else local f,s;for o=0,4 do if o>1 then if o<3 then z(e[n],e[d]);r=r+1;e=l[r];else if 0<=o then repeat if o>3 then if z[e[n]]then r=r+1;else r=e[d];end;break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if-1<=o then for h=34,85 do if o<1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else z[e[n]]=e[d]*z[e[t]];end else if f>=4 then if f>=1 then for h=11,68 do if f~=4 then local d=e[d];local r=z[d]for e=d+1,e[t]do r=r..z[e];end;z[e[n]]=r;break;end;local h,s,a,b,k,f;for f=0,6 do if f<3 then if f>0 then if f>=-2 then repeat if f~=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f>=5 then if 5<f then f=0;while f>-1 do if f>=3 then if f<=4 then if f>-1 then repeat if f>3 then k=h[s];break;end;b=h[a];until true;else b=h[a];end else if f>4 then for e=29,56 do if f~=5 then f=-2;break;end;z(k,b);break;end;else f=-2;end end else if 1>f then h=e;else if f>=0 then for e=21,58 do if 2~=f then s=n;break;end;a=d;break;end;else s=n;end end end f=f+1 end else f=0;while f>-1 do if 2<f then if 5<=f then if f>=4 then repeat if 5<f then f=-2;break;end;z(k,b);until true;else f=-2;end else if f>=-1 then repeat if 3~=f then k=h[s];break;end;b=h[a];until true;else k=h[s];end end else if f>=1 then if f>0 then repeat if f>1 then a=d;break;end;s=n;until true;else s=n;end else h=e;end end f=f+1 end r=r+1;e=l[r];end else if 1<=f then for h=16,69 do if 4>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end end break;end;else local d=e[d];local r=z[d]for e=d+1,e[t]do r=r..z[e];end;z[e[n]]=r;end else z[e[n]]=_(p[e[d]],nil,o);end end else if f<=8 then if f<7 then z[e[n]][e[d]]=e[t];else if 8==f then local f,s;for o=0,6 do if o>=3 then if o>=5 then if o==6 then z[e[n]][e[d]]=z[e[t]];else z(e[n],e[d]);r=r+1;e=l[r];end else if 3==o then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[z[e[t]]];r=r+1;e=l[r];else z[e[n]]={};r=r+1;e=l[r];end end else if o<=0 then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];else if o>0 then repeat if 2>o then f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end end end else local e=e[n];do return z[e](h(z,e+1,s))end;end end else if f>=10 then if 8~=f then for r=34,92 do if f<11 then a[e[d]]=z[e[n]];break;end;z[e[n]]=#z[e[d]];break;end;else z[e[n]]=#z[e[d]];end else local n=e[n];local l=z[n]local t=z[n+2];if(t>0)then if(l>z[n+1])then r=e[d];else z[n+3]=l;end elseif(l<z[n+1])then r=e[d];else z[n+3]=l;end end end end else if f<=17 then if f>14 then if 15>=f then local o,b,s,c,a,k,u,f;for f=0,6 do if f>=3 then if 4<f then if f~=3 then repeat if 5~=f then if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;break;end;o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];until true;else if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;end else if f~=1 then for t=12,87 do if f~=3 then f=0;while f>-1 do if 2<f then if f>=5 then if f~=4 then for e=34,87 do if 6>f then z(u,k);break;end;f=-2;break;end;else f=-2;end else if-1<=f then repeat if f>3 then u=s[c];break;end;k=s[a];until true;else k=s[a];end end else if 1<=f then if f~=-2 then repeat if f~=2 then c=n;break;end;a=d;until true;else a=d;end else s=e;end end f=f+1 end r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else f=0;while f>-1 do if 2<f then if f>=5 then if f~=4 then for e=34,87 do if 6>f then z(u,k);break;end;f=-2;break;end;else f=-2;end else if-1<=f then repeat if f>3 then u=s[c];break;end;k=s[a];until true;else k=s[a];end end else if 1<=f then if f~=-2 then repeat if f~=2 then c=n;break;end;a=d;until true;else a=d;end else s=e;end end f=f+1 end r=r+1;e=l[r];end end else if f<=0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=-1 then repeat if 2>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;o=e[n];b=z[e[d]];z[o+1]=b;z[o]=b[e[t]];r=r+1;e=l[r];until true;else o=e[n];b=z[e[d]];z[o+1]=b;z[o]=b[e[t]];r=r+1;e=l[r];end end end end else if 15<f then repeat if f~=16 then local f,a;for s=0,6 do if s<3 then if s<=0 then z[e[n]][e[d]]=e[t];r=r+1;e=l[r];else if-1~=s then for f=46,86 do if 2~=s then z[e[n]][e[d]]=e[t];r=r+1;e=l[r];break;end;z[e[n]][e[d]]=e[t];r=r+1;e=l[r];break;end;else z[e[n]][e[d]]=e[t];r=r+1;e=l[r];end end else if 5<=s then if 4<=s then repeat if 5~=s then f=e[n]z[f]=z[f](h(z,f+1,e[d]))break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if s>=2 then repeat if 3~=s then f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];end end end end break;end;z[e[n]][z[e[d]]]=e[t];until true;else z[e[n]][z[e[d]]]=e[t];end end else if 12<f then if f>10 then repeat if f~=13 then local e=e[n]z[e]=z[e](z[e+1])break;end;local f,u,_,c,o,k;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=k[o];end r=r+1;e=l[r];r=e[d];until true;else local e=e[n]z[e]=z[e](z[e+1])end else do return end;end end else if 20<f then if 22>=f then if 21==f then z[e[n]]=a[e[d]];else local f,s;for o=0,4 do if 1<o then if o>=3 then if o>=2 then repeat if o>3 then if z[e[n]]then r=r+1;else r=e[d];end;break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end else if o>=-3 then for h=19,73 do if o~=0 then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end end end end else if 24~=f then local s,a,b,c,k,u,_,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];s=e[n];a=z[e[d]];z[s+1]=a;z[s]=a[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=0;while f>-1 do if f<3 then if f<1 then b=e;else if f~=-3 then for e=40,76 do if f<2 then c=n;break;end;k=d;break;end;else k=d;end end else if f<=4 then if 4==f then _=b[c];else u=b[k];end else if 4<f then for e=31,95 do if f~=6 then z(_,u);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end r=r+1;e=l[r];s=e[n]z[s](z[s+1])else z[e[n]]=(e[d]~=0);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=(e[d]~=0);end end else if f<19 then z[e[n]]=e[d]*z[e[t]];else if 18~=f then for o=10,63 do if 20~=f then local o,s,a,c,k,b,u,f;for f=0,4 do if 1<f then if f<3 then f=0;while f>-1 do if 2<f then if 4<f then if 1~=f then repeat if 5~=f then f=-2;break;end;z(u,b);until true;else f=-2;end else if f>-1 then for e=48,77 do if f<4 then b=a[k];break;end;u=a[c];break;end;else b=a[k];end end else if f<1 then a=e;else if f~=1 then k=d;else c=n;end end end f=f+1 end r=r+1;e=l[r];else if 2~=f then repeat if f~=3 then z[e[n]]={};break;end;o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];until true;else o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];end end else if f>-4 then repeat if 0~=f then o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[z[e[t]]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[z[e[t]]];r=r+1;e=l[r];end end end break;end;if(z[e[n]]<=z[e[t]])then r=r+1;else r=e[d];end;break;end;else if(z[e[n]]<=z[e[t]])then r=r+1;else r=e[d];end;end end end end end else if 37<=f then if 42<f then if 45>=f then if 44>f then local f,u,_,p,c;for k=0,9 do if k<=4 then if k>=2 then if k<3 then z[e[n]]=a[e[d]];r=r+1;e=l[r];else if k>=1 then for f=32,98 do if 3~=k then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if 0==k then z[e[n]]={};r=r+1;e=l[r];else z[e[n]][e[d]]=e[t];r=r+1;e=l[r];end end else if 6<k then if 7<k then if k<9 then f=e[n]_,p=b(z[f](z[f+1]))s=p+f-1 c=0;for e=f,s do c=c+1;z[e]=_[c];end;r=r+1;e=l[r];else f=e[n]z[f](h(z,f+1,s))end else z[e[n]]=z[e[d]];r=r+1;e=l[r];end else if 3~=k then for h=36,68 do if 6~=k then f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];end end end end else if 44~=f then z[e[n]]=z[e[d]]-e[t];else z[e[n]]=z[e[d]]+z[e[t]];end end else if 47>=f then if 43~=f then for o=23,58 do if 47>f then local o,s,b,c,a,u,k,f;for f=0,4 do if 2>f then if f>=-1 then for h=45,61 do if 1~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 3>f then f=0;while f>-1 do if f<=2 then if 0<f then if-2<=f then repeat if f~=2 then c=n;break;end;a=d;until true;else a=d;end else b=e;end else if f>=5 then if 5==f then z(k,u);else f=-2;end else if 4>f then u=b[a];else k=b[c];end end end f=f+1 end r=r+1;e=l[r];else if-1<f then repeat if f~=4 then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;if z[e[n]]then r=r+1;else r=e[d];end;until true;else if z[e[n]]then r=r+1;else r=e[d];end;end end end end break;end;local o,c,s,k,a,b,u,f,_,p;for f=0,8 do if f>=4 then if 5>=f then if f~=0 then for t=42,76 do if 5~=f then o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;f=0;while f>-1 do if 2<f then if f<=4 then if f>0 then repeat if f~=4 then b=s[a];break;end;u=s[k];until true;else b=s[a];end else if f~=5 then f=-2;else z(u,b);end end else if f<=0 then s=e;else if 2~=f then k=n;else a=d;end end end f=f+1 end r=r+1;e=l[r];break;end;else f=0;while f>-1 do if 2<f then if f<=4 then if f>0 then repeat if f~=4 then b=s[a];break;end;u=s[k];until true;else b=s[a];end else if f~=5 then f=-2;else z(u,b);end end else if f<=0 then s=e;else if 2~=f then k=n;else a=d;end end end f=f+1 end r=r+1;e=l[r];end else if f>=7 then if 5<f then for t=24,61 do if f>7 then o=e[n];_=z[o]p=z[o+2];if(p>0)then if(_>z[o+1])then r=e[d];else z[o+3]=_;end elseif(_<z[o+1])then r=e[d];else z[o+3]=_;end break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end else if 2>f then if 1==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f~=-1 then repeat if 2<f then f=0;while f>-1 do if 3>f then if 0>=f then s=e;else if f>=-1 then for e=44,83 do if 2>f then k=n;break;end;a=d;break;end;else a=d;end end else if f<=4 then if f>0 then for e=11,60 do if f~=3 then u=s[k];break;end;b=s[a];break;end;else u=s[k];end else if 6~=f then z(u,b);else f=-2;end end end f=f+1 end r=r+1;e=l[r];break;end;o=e[n];c=z[e[d]];z[o+1]=c;z[o]=c[e[t]];r=r+1;e=l[r];until true;else o=e[n];c=z[e[d]];z[o+1]=c;z[o]=c[e[t]];r=r+1;e=l[r];end end end end break;end;else local o,c,s,k,a,b,u,f,_,p;for f=0,8 do if f>=4 then if 5>=f then if f~=0 then for t=42,76 do if 5~=f then o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;f=0;while f>-1 do if 2<f then if f<=4 then if f>0 then repeat if f~=4 then b=s[a];break;end;u=s[k];until true;else b=s[a];end else if f~=5 then f=-2;else z(u,b);end end else if f<=0 then s=e;else if 2~=f then k=n;else a=d;end end end f=f+1 end r=r+1;e=l[r];break;end;else f=0;while f>-1 do if 2<f then if f<=4 then if f>0 then repeat if f~=4 then b=s[a];break;end;u=s[k];until true;else b=s[a];end else if f~=5 then f=-2;else z(u,b);end end else if f<=0 then s=e;else if 2~=f then k=n;else a=d;end end end f=f+1 end r=r+1;e=l[r];end else if f>=7 then if 5<f then for t=24,61 do if f>7 then o=e[n];_=z[o]p=z[o+2];if(p>0)then if(_>z[o+1])then r=e[d];else z[o+3]=_;end elseif(_<z[o+1])then r=e[d];else z[o+3]=_;end break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end else if 2>f then if 1==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f~=-1 then repeat if 2<f then f=0;while f>-1 do if 3>f then if 0>=f then s=e;else if f>=-1 then for e=44,83 do if 2>f then k=n;break;end;a=d;break;end;else a=d;end end else if f<=4 then if f>0 then for e=11,60 do if f~=3 then u=s[k];break;end;b=s[a];break;end;else u=s[k];end else if 6~=f then z(u,b);else f=-2;end end end f=f+1 end r=r+1;e=l[r];break;end;o=e[n];c=z[e[d]];z[o+1]=c;z[o]=c[e[t]];r=r+1;e=l[r];until true;else o=e[n];c=z[e[d]];z[o+1]=c;z[o]=c[e[t]];r=r+1;e=l[r];end end end end end else if 46<=f then repeat if f~=49 then local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];do return z[f](h(z,f+1,e[d]))end;r=r+1;e=l[r];f=e[n];do return h(z,f,s)end;r=r+1;e=l[r];do return end;break;end;do return end;until true;else local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];do return z[f](h(z,f+1,e[d]))end;r=r+1;e=l[r];f=e[n];do return h(z,f,s)end;r=r+1;e=l[r];do return end;end end end else if f<40 then if 37>=f then local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];o[e[d]]=z[e[n]];r=r+1;e=l[r];r=e[d];else if 34<=f then for s=44,95 do if 38~=f then local r=e[n];do return z[r](h(z,r+1,e[d]))end;break;end;local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];break;end;else local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end end else if 40>=f then z[e[n]]=z[e[d]][z[e[t]]];else if 40~=f then repeat if f~=42 then local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];do return end;break;end;o[e[d]]=z[e[n]];until true;else o[e[d]]=z[e[n]];end end end end else if 31<=f then if 33<f then if f>=35 then if 36>f then local t,o,a,f;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];t=e[n]o,a=b(z[t](h(z,t+1,e[d])))s=a+t-1 f=0;for e=t,s do f=f+1;z[e]=o[f];end;r=r+1;e=l[r];t=e[n]z[t](h(z,t+1,s))r=r+1;e=l[r];r=e[d];else z[e[n]]=z[e[d]][z[e[t]]];end else for f=0,6 do if 2<f then if 4<f then if 4<=f then repeat if f>5 then z[e[n]]=z[e[d]][e[t]];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];end else if f~=0 then for h=25,60 do if 4>f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f<=0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 2~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end else if 31>=f then for e=e[n],e[d]do z[e]=nil;end;else if f>=29 then for a=22,96 do if 32~=f then local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];do return z[f](h(z,f+1,e[d]))end;r=r+1;e=l[r];f=e[n];do return h(z,f,s)end;break;end;local a,s,b,u,c,k,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];a=e[n]z[a]=z[a](h(z,a+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f<=2 then if 1>f then s=e;else if f~=2 then b=n;else u=d;end end else if 5<=f then if 4~=f then repeat if 6~=f then z(k,c);break;end;f=-2;until true;else f=-2;end else if 1~=f then for e=21,94 do if 3~=f then k=s[b];break;end;c=s[u];break;end;else k=s[b];end end end f=f+1 end break;end;else local s,a,b,u,c,k,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f<=2 then if 1>f then a=e;else if f~=2 then b=n;else u=d;end end else if 5<=f then if 4~=f then repeat if 6~=f then z(k,c);break;end;f=-2;until true;else f=-2;end else if 1~=f then for e=21,94 do if 3~=f then k=a[b];break;end;c=a[u];break;end;else k=a[b];end end end f=f+1 end end end end else if f<=27 then if f>=26 then if f~=25 then repeat if 26~=f then local o;for f=0,4 do if f>=2 then if 3<=f then if f>0 then for h=39,73 do if f~=3 then if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;end else z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];end else if-2<f then repeat if f>0 then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end end break;end;local e=e[n];s=e+m-1;for r=e,s do local e=j[r-e];z[r]=e;end;until true;else local o;for f=0,4 do if f>=2 then if 3<=f then if f>0 then for h=39,73 do if f~=3 then if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;end else z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];end else if-2<f then repeat if f>0 then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end end end else for f=0,4 do if 1>=f then if f<1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f<=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=3 then if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end else if f<=28 then local f,a;for s=0,6 do if 2<s then if s>4 then if s==5 then z[e[n]][e[d]]=e[t];r=r+1;e=l[r];else z[e[n]]=o[e[d]];end else if s~=1 then repeat if 4~=s then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if 1>s then f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];else if-3~=s then repeat if 2~=s then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end end end else if f>26 then for s=44,76 do if 30~=f then local f;for h=0,6 do if 2>=h then if 1<=h then if h>0 then for o=25,93 do if h~=2 then f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;z[e[n]][e[d]]=e[t];r=r+1;e=l[r];break;end;else f=e[n]z[f](z[f+1])r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end else if h>4 then if 5==h then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if z[e[n]]then r=r+1;else r=e[d];end;end else if h==3 then z[e[n]]=o[e[d]];r=r+1;e=l[r];else f=e[n]z[f]=z[f]()r=r+1;e=l[r];end end end end break;end;local f;for s=0,6 do if s>=3 then if 5<=s then if 4<=s then repeat if 5~=s then o[e[d]]=z[e[n]];break;end;z[e[n]]=(e[d]~=0);r=r+1;e=l[r];until true;else z[e[n]]=(e[d]~=0);r=r+1;e=l[r];end else if 1~=s then for h=22,65 do if s<4 then z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];break;end;f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];end end else if s<=0 then z(e[n],e[d]);r=r+1;e=l[r];else if s>=-1 then for t=14,75 do if s~=1 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end end end break;end;else local f;for h=0,6 do if 2>=h then if 1<=h then if h>0 then for o=25,93 do if h~=2 then f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;z[e[n]][e[d]]=e[t];r=r+1;e=l[r];break;end;else f=e[n]z[f](z[f+1])r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end else if h>4 then if 5==h then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if z[e[n]]then r=r+1;else r=e[d];end;end else if h==3 then z[e[n]]=o[e[d]];r=r+1;e=l[r];else f=e[n]z[f]=z[f]()r=r+1;e=l[r];end end end end end end end end end end else if 75>f then if 62<=f then if 68<=f then if 70<f then if f>72 then if f~=71 then for h=45,66 do if f<74 then if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;break;end;z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];break;end;else if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;end else if f>68 then repeat if 72>f then local h;for f=0,4 do if 1>=f then if f==0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end else if 3>f then h=e[n]z[h](z[h+1])r=r+1;e=l[r];else if 1<f then repeat if 4>f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]();until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end break;end;local r=e[n];local n=z[e[d]];z[r+1]=n;z[r]=n[e[t]];until true;else local n=e[n];local r=z[e[d]];z[n+1]=r;z[n]=r[e[t]];end end else if 69<=f then if 67~=f then repeat if 70>f then local f,s;for o=0,4 do if o<=1 then if o~=-1 then for h=45,77 do if o~=1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end else if o>=3 then if 2<=o then repeat if 3<o then if z[e[n]]then r=r+1;else r=e[d];end;break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end end break;end;local f,u,k,o;f=e[n]u,k=b(z[f](z[f+1]))s=k+f-1 o=0;for e=f,s do o=o+1;z[e]=u[o];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];until true;else local f,u,k,o;f=e[n]u,k=b(z[f](z[f+1]))s=k+f-1 o=0;for e=f,s do o=o+1;z[e]=u[o];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end else z[e[n]]=o[e[d]];end end else if f<=64 then if f>=63 then if f==63 then local f,c,k,_,o,u;for k=0,4 do if 2<=k then if k<3 then f=e[n]u,_=b(z[f](z[f+1]))s=_+f-1 o=0;for e=f,s do o=o+1;z[e]=u[o];end;r=r+1;e=l[r];else if 1<k then for a=21,61 do if 4>k then f=e[n]u={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=u[o];end r=r+1;e=l[r];break;end;r=e[d];break;end;else r=e[d];end end else if k~=0 then f=e[n];c=z[e[d]];z[f+1]=c;z[f]=c[e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end else local o;for f=0,4 do if 1<f then if 3>f then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];else if-1<=f then repeat if f~=3 then if(z[e[n]]<=e[t])then r=e[d];else r=r+1;end;break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else if(z[e[n]]<=e[t])then r=e[d];else r=r+1;end;end end else if 0<f then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end end end end else if(z[e[n]]==z[e[t]])then r=r+1;else r=e[d];end;end else if 65>=f then local e=e[n]z[e]=z[e]()else if 67~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];else local s;for f=0,3 do if f>=2 then if f>=-1 then repeat if f>2 then z[e[n]]=z[e[d]][e[t]];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f~=0 then s=e[n]z[s](h(z,s+1,e[d]))r=r+1;e=l[r];else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end end end end else if f>55 then if f>58 then if f>59 then if f~=58 then repeat if 61~=f then local n=e[n];local t=z[n+2];local l=z[n]+t;z[n]=l;if(t>0)then if(l<=z[n+1])then r=e[d];z[n+3]=l;end elseif(l>=z[n+1])then r=e[d];z[n+3]=l;end break;end;local f,c,k,_,o,u;for k=0,4 do if 1>=k then if k~=1 then z[e[n]]=a[e[d]];r=r+1;e=l[r];else f=e[n];c=z[e[d]];z[f+1]=c;z[f]=c[e[t]];r=r+1;e=l[r];end else if 2>=k then f=e[n]u,_=b(z[f](z[f+1]))s=_+f-1 o=0;for e=f,s do o=o+1;z[e]=u[o];end;r=r+1;e=l[r];else if k~=1 then repeat if 4>k then f=e[n]u={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=u[o];end r=r+1;e=l[r];break;end;r=e[d];until true;else r=e[d];end end end end until true;else local n=e[n];local t=z[n+2];local l=z[n]+t;z[n]=l;if(t>0)then if(l<=z[n+1])then r=e[d];z[n+3]=l;end elseif(l>=z[n+1])then r=e[d];z[n+3]=l;end end else local t,k,u,a;for f=0,6 do if 3>f then if f>=1 then if 1==f then t=e[n]z[t](h(z,t+1,s))r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else t=e[n]k,u=b(z[t](z[t+1]))s=u+t-1 a=0;for e=t,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];end else if 5>f then if f~=3 then z[e[n]]=(e[d]~=0);r=r+1;e=l[r];else z[e[n]]();r=r+1;e=l[r];end else if f>=2 then for t=35,96 do if 5<f then if not z[e[n]]then r=r+1;else r=e[d];end;break;end;o[e[d]]=z[e[n]];r=r+1;e=l[r];break;end;else if not z[e[n]]then r=r+1;else r=e[d];end;end end end end end else if f<=56 then local f;for s=0,7 do if s>3 then if s>=6 then if s==6 then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];else f=e[n]z[f]=z[f](h(z,f+1,e[d]))end else if 3<s then for t=34,71 do if s<5 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z[e[n]]={};r=r+1;e=l[r];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if 1<s then if 1<=s then for f=35,74 do if 3~=s then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if-4<s then for f=21,65 do if 0~=s then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]]/z[e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]]/z[e[t]];r=r+1;e=l[r];end end end end else if 57<f then local f,o;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];do return end;else if(e[n]<z[e[t]])then r=r+1;else r=e[d];end;end end end else if f<53 then if f>50 then if f>48 then for o=12,66 do if f~=52 then do return z[e[n]]end break;end;local f,s;for o=0,8 do if 3<o then if o<=5 then if 3<o then for t=47,69 do if o~=4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else if o>6 then if o~=5 then for t=15,57 do if o~=8 then f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;r=e[d];break;end;else f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end else if 1>=o then if o==1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if o>=1 then for h=31,68 do if o~=3 then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end end end end break;end;else do return z[e[n]]end end else z[e[n]]=(not z[e[d]]);end else if f<54 then local f,k,u,_,o,c;for u=0,5 do if 3<=u then if u>3 then if u>4 then r=e[d];else f=e[n]c={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=c[o];end r=r+1;e=l[r];end else f=e[n]c,_=b(z[f](z[f+1]))s=_+f-1 o=0;for e=f,s do o=o+1;z[e]=c[o];end;r=r+1;e=l[r];end else if 1>u then z[e[n]]=a[e[d]];r=r+1;e=l[r];else if 0<u then for h=17,92 do if 2>u then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];break;end;else f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];end end end end else if 52~=f then repeat if 55~=f then local o,h;for f=0,8 do if f<4 then if f>1 then if f~=3 then z(e[n],e[d]);r=r+1;e=l[r];else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end else if-4<=f then for s=28,90 do if 1~=f then o=e[n];h=z[e[d]];z[o+1]=h;z[o]=h[z[e[t]]];r=r+1;e=l[r];break;end;z[e[n]]={};r=r+1;e=l[r];break;end;else z[e[n]]={};r=r+1;e=l[r];end end else if 5>=f then if 1~=f then repeat if f~=5 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if f>6 then if f~=4 then for t=11,94 do if 8>f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]={};break;end;else z[e[n]]={};end else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end break;end;local l,f,t,o,h;local r=0;while r>-1 do if r<=2 then if 0>=r then l=e;else if-2<r then for e=24,83 do if 1<r then t=d;break;end;f=n;break;end;else t=d;end end else if r<=4 then if r~=-1 then repeat if r<4 then o=l[t];break;end;h=l[f];until true;else h=l[f];end else if r>=4 then repeat if r~=6 then z(h,o);break;end;r=-2;until true;else r=-2;end end end r=r+1 end until true;else local o,h;for f=0,8 do if f<4 then if f>1 then if f~=3 then z(e[n],e[d]);r=r+1;e=l[r];else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end else if-4<=f then for s=28,90 do if 1~=f then o=e[n];h=z[e[d]];z[o+1]=h;z[o]=h[z[e[t]]];r=r+1;e=l[r];break;end;z[e[n]]={};r=r+1;e=l[r];break;end;else z[e[n]]={};r=r+1;e=l[r];end end else if 5>=f then if 1~=f then repeat if f~=5 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if f>6 then if f~=4 then for t=11,94 do if 8>f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]={};break;end;else z[e[n]]={};end else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end end end end end end else if 86<f then if f<93 then if 90<=f then if f>90 then if 89<f then repeat if 92>f then local e=e[n];local r=z[e];for e=e+1,s do k.XeftVFam(r,z[e])end;break;end;local s=p[e[d]];local h;local f={};h=k.ZRrVMqDS({},{__index=function(r,e)local e=f[e];return e[1][e[2]];end,__newindex=function(z,e,r)local e=f[e]e[1][e[2]]=r;end;});for n=1,e[t]do r=r+1;local e=l[r];if e[g]==99 then f[n-1]={z,e[d]};else f[n-1]={a,e[d]};end;u[#u+1]=f;end;z[e[n]]=_(s,h,o);until true;else local e=e[n];local r=z[e];for e=e+1,s do k.XeftVFam(r,z[e])end;end else if not z[e[n]]then r=r+1;else r=e[d];end;end else if f<88 then local r=e[n]z[r](h(z,r+1,e[d]))else if 86~=f then repeat if f>88 then local f,u,c,a;for k=0,6 do if k>=3 then if 4<k then if k>4 then repeat if 5<k then f=e[n]z[f](h(z,f+1,s))break;end;f=e[n]u,c=b(z[f](h(z,f+1,e[d])))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];until true;else f=e[n]u,c=b(z[f](h(z,f+1,e[d])))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];end else if 1~=k then repeat if k~=4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end else if 0<k then if k==1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end break;end;local e=e[n]z[e](z[e+1])until true;else local e=e[n]z[e](z[e+1])end end end else if 95<f then if 98>f then if f<97 then z[e[n]]();else for f=0,7 do if f>=4 then if 5>=f then if f>1 then repeat if 4<f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if 3~=f then for h=38,53 do if 7>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if 2<=f then if 0~=f then repeat if f~=3 then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if-3<f then for h=40,64 do if 0~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end end else if f<99 then local n=e[n]local d={z[n](h(z,n+1,s))};local r=0;for e=n,e[t]do r=r+1;z[e]=d[r];end else z[e[n]]=z[e[d]];end end else if f<94 then z[e[n]]=z[e[d]]-z[e[t]];else if 93<=f then repeat if 94~=f then z[e[n]][e[d]]=e[t];break;end;if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;until true;else z[e[n]][e[d]]=e[t];end end end end else if f<=80 then if 78>f then if f>=76 then if f>74 then repeat if 76~=f then local f,u,_,c,a,k;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=k[a];end r=r+1;e=l[r];r=e[d];break;end;local h,k,s,o,u,f,b,c;f=0;while f>-1 do if 3<=f then if 4<f then if 3~=f then repeat if f<6 then z(u,o);break;end;f=-2;until true;else z(u,o);end else if f<4 then o=h[s];else u=h[k];end end else if f>0 then if-2<f then repeat if 1~=f then s=d;break;end;k=n;until true;else k=n;end else h=e;end end f=f+1 end r=r+1;e=l[r];b=e[n]z[b](z[b+1])r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];b=e[n];c=z[e[d]];z[b+1]=c;z[b]=c[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f<3 then if f<=0 then h=e;else if f>=0 then repeat if 1<f then s=d;break;end;k=n;until true;else s=d;end end else if 4>=f then if 0<f then for e=46,94 do if 3<f then u=h[k];break;end;o=h[s];break;end;else o=h[s];end else if f==6 then f=-2;else z(u,o);end end end f=f+1 end until true;else local f,u,_,c,a,k;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=k[a];end r=r+1;e=l[r];r=e[d];end else local o,b,s,u,k,c,a,f;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];o=e[n];b=z[e[d]];z[o+1]=b;z[o]=b[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];f=0;while f>-1 do if 3>f then if f>0 then if-3<f then repeat if 2~=f then u=n;break;end;k=d;until true;else k=d;end else s=e;end else if 4<f then if f>2 then repeat if f~=5 then f=-2;break;end;z(a,c);until true;else z(a,c);end else if f~=0 then for e=10,91 do if 3~=f then a=s[u];break;end;c=s[k];break;end;else a=s[u];end end end f=f+1 end r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];end else if 79>f then local e=e[n]z[e](h(z,e+1,s))else if 79<f then for f=0,6 do if 3<=f then if f>4 then if 3~=f then for t=43,52 do if f<6 then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;if z[e[n]]then r=r+1;else r=e[d];end;break;end;else if z[e[n]]then r=r+1;else r=e[d];end;end else if f~=2 then for h=34,92 do if 3~=f then o[e[d]]=z[e[n]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f>=1 then if f~=-3 then for h=38,52 do if 1~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else o[e[d]]=z[e[n]];r=r+1;e=l[r];end end end else for f=0,2 do if 0<f then if 1~=f then z(e[n],e[d]);else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end else z[e[n]]=(e[d]~=0);r=r+1;e=l[r];end end end end end else if 83<f then if f<85 then local k,u,h,o,b,a,s,f;for f=0,4 do if f>1 then if f<=2 then f=0;while f>-1 do if f>2 then if 4>=f then if 1~=f then for e=25,64 do if 3<f then s=h[o];break;end;a=h[b];break;end;else s=h[o];end else if 1~=f then for e=11,94 do if 5~=f then f=-2;break;end;z(s,a);break;end;else z(s,a);end end else if f>=1 then if f>=-3 then for e=41,84 do if 1~=f then b=d;break;end;o=n;break;end;else o=n;end else h=e;end end f=f+1 end r=r+1;e=l[r];else if f~=3 then f=0;while f>-1 do if f>=3 then if f>4 then if f>=4 then repeat if 6>f then z(s,a);break;end;f=-2;until true;else f=-2;end else if 0<=f then repeat if f~=3 then s=h[o];break;end;a=h[b];until true;else a=h[b];end end else if f<=0 then h=e;else if f~=-2 then for e=48,58 do if f~=1 then b=d;break;end;o=n;break;end;else o=n;end end end f=f+1 end else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end end else if f>-4 then for h=25,53 do if 0<f then z[e[n]]={};r=r+1;e=l[r];break;end;k=e[n];u=z[e[d]];z[k+1]=u;z[k]=u[z[e[t]]];r=r+1;e=l[r];break;end;else z[e[n]]={};r=r+1;e=l[r];end end end else if f>=84 then repeat if 86~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];break;end;local f,s;for a=0,4 do if 2>a then if a~=-3 then repeat if 1>a then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];until true;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end else if 2>=a then z[e[n]]=o[e[d]];r=r+1;e=l[r];else if a==3 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];else if z[e[n]]then r=r+1;else r=e[d];end;end end end end until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end end else if f>=82 then if 83==f then z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);else local o;for f=0,6 do if 2>=f then if 0>=f then z(e[n],e[d]);r=r+1;e=l[r];else if-1<=f then for t=46,53 do if f<2 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end else if 5<=f then if 2~=f then repeat if 5<f then z[e[n]]=(e[d]~=0);break;end;o=e[n]z[o](z[o+1])r=r+1;e=l[r];until true;else z[e[n]]=(e[d]~=0);end else if 1<=f then repeat if 4~=f then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];end end end end end else z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);end end end end end end else if f>149 then if 174>=f then if f<162 then if f>=156 then if 159<=f then if 160>f then local f,o;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);else if f>=157 then for h=15,57 do if f<161 then local h;for f=0,6 do if f>=3 then if 4>=f then if f>3 then h=e[n]z[h]=z[h](z[h+1])r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f>5 then z[e[n]]=z[e[d]][e[t]];else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end end else if f>=1 then if f>=-3 then repeat if 2~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end break;end;local f;o[e[d]]=z[e[n]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])break;end;else local h;for f=0,6 do if f>=3 then if 4>=f then if f>3 then h=e[n]z[h]=z[h](z[h+1])r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f>5 then z[e[n]]=z[e[d]][e[t]];else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end end else if f>=1 then if f>=-3 then repeat if 2~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end else if f<=156 then o[e[d]]=z[e[n]];else if f~=153 then repeat if f~=157 then local f,u,_,p,c;for k=0,9 do if 5>k then if 1<k then if 2<k then if k>0 then for f=44,92 do if 3~=k then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if k>0 then z[e[n]][e[d]]=e[t];r=r+1;e=l[r];else z[e[n]][e[d]]=e[t];r=r+1;e=l[r];end end else if k<=6 then if 1<k then for h=46,94 do if 6>k then f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];end else if 8<=k then if 9~=k then f=e[n]_,p=b(z[f](z[f+1]))s=p+f-1 c=0;for e=f,s do c=c+1;z[e]=_[c];end;r=r+1;e=l[r];else f=e[n]z[f](h(z,f+1,s))end else z[e[n]]=z[e[d]];r=r+1;e=l[r];end end end end break;end;local f,k,u,c,a;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]u,c=b(z[f]())s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))r=r+1;e=l[r];if z[e[n]]then r=r+1;else r=e[d];end;until true;else local f,k,c,u,a;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]c,u=b(z[f]())s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=c[a];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))r=r+1;e=l[r];if z[e[n]]then r=r+1;else r=e[d];end;end end end else if f<153 then if 151<=f then if f<152 then if(z[e[n]]<=z[e[t]])then r=r+1;else r=e[d];end;else local s=p[e[d]];local h;local f={};h=k.ZRrVMqDS({},{__index=function(r,e)local e=f[e];return e[1][e[2]];end,__newindex=function(z,e,r)local e=f[e]e[1][e[2]]=r;end;});for n=1,e[t]do r=r+1;local e=l[r];if e[g]==99 then f[n-1]={z,e[d]};else f[n-1]={a,e[d]};end;u[#u+1]=f;end;z[e[n]]=_(s,h,o);end else if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;end else if 153>=f then local f,s;for o=0,7 do if o>=4 then if 5>=o then if 4~=o then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 3<=o then for t=16,90 do if o~=6 then f=e[n]z[f](h(z,f+1,e[d]))break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else f=e[n]z[f](h(z,f+1,e[d]))end end else if 2<=o then if o==3 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else if o>=-1 then repeat if 1>o then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end end end else if f>=153 then repeat if f>154 then local f,s;for h=0,6 do if 3>h then if h>=1 then if 2==h then z[e[n]]=o[e[d]];r=r+1;e=l[r];else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if h<5 then if h~=3 then f=e[n]z[f](z[f+1])r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end else if 2<=h then repeat if h>5 then f=e[n]z[f](z[f+1])break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];until true;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end end end end break;end;local h;for f=0,4 do if 1>=f then if-4<=f then repeat if 1~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;h=e[n]z[h]=z[h]()r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if 3>f then z[e[n]]=a[e[d]];r=r+1;e=l[r];else if f>=0 then for h=33,93 do if 4~=f then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];break;end;if(e[n]<z[e[t]])then r=e[d];else r=r+1;end;break;end;else z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];end end end end until true;else local f,s;for h=0,6 do if 3>h then if h>=1 then if 2==h then z[e[n]]=o[e[d]];r=r+1;e=l[r];else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if h<5 then if h~=3 then f=e[n]z[f](z[f+1])r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end else if 2<=h then repeat if h>5 then f=e[n]z[f](z[f+1])break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];until true;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end end end end end end end end else if 168>f then if f>=165 then if f<=165 then for f=0,6 do if 3>f then if 1>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 1<f then z[e[n]]=a[e[d]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f>4 then if f>3 then for h=41,96 do if 6~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f>=0 then for h=24,68 do if f~=4 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else if 167==f then local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];r=e[d];else for f=0,2 do if 0<f then if-1<=f then for h=41,96 do if f>1 then z(e[n],e[d]);break;end;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];break;end;else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end else z[e[n]]=(e[d]~=0);r=r+1;e=l[r];end end end end else if f<=162 then if(e[n]<=z[e[t]])then r=e[d];else r=r+1;end;else if f>159 then repeat if 164>f then local h,o;for f=0,9 do if 5<=f then if f<=6 then if 2~=f then for h=17,96 do if f>5 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 7>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 4<f then for s=42,56 do if f>8 then h=e[n];o=z[e[d]];z[h+1]=o;z[h]=o[e[t]];break;end;z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];end end end else if f<2 then if f==1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if f<=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f<4 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end end end break;end;local h,f;for o=0,4 do if 1<o then if o<=2 then z(e[n],e[d]);r=r+1;e=l[r];else if o<4 then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];else z(e[n],e[d]);end end else if-4<=o then for s=48,61 do if o>0 then z[e[n]]={};r=r+1;e=l[r];break;end;h=e[n];f=z[e[d]];z[h+1]=f;z[h]=f[z[e[t]]];r=r+1;e=l[r];break;end;else h=e[n];f=z[e[d]];z[h+1]=f;z[h]=f[z[e[t]]];r=r+1;e=l[r];end end end until true;else local h,o;for f=0,9 do if 5<=f then if f<=6 then if 2~=f then for h=17,96 do if f>5 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 7>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 4<f then for s=42,56 do if f>8 then h=e[n];o=z[e[d]];z[h+1]=o;z[h]=o[e[t]];break;end;z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];end end end else if f<2 then if f==1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if f<=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f<4 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end end end end end end else if 170>=f then if 169<=f then if f>=167 then repeat if f<170 then z[e[n]][z[e[d]]]=e[t];break;end;local f,c,u,k;for a=0,9 do if 4>=a then if a<2 then if-3~=a then repeat if a~=1 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if a<=2 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];else if-1<=a then for t=29,97 do if 4>a then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end else if 7>a then if 5<a then z(e[n],e[d]);r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 8<=a then if 9>a then f=e[n]c,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 k=0;for e=f,s do k=k+1;z[e]=c[k];end;r=r+1;e=l[r];else f=e[n]z[f]=z[f](h(z,f+1,s))end else z(e[n],e[d]);r=r+1;e=l[r];end end end end until true;else z[e[n]][z[e[d]]]=e[t];end else for f=0,7 do if f<4 then if f<2 then if 0~=f then z[e[n]]=z[e[d]]+e[t];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if f~=1 then for t=25,79 do if 3~=f then a[e[d]]=z[e[n]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end else if f>5 then if f>4 then for h=25,93 do if f<7 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];break;end;else z[e[n]]=o[e[d]];end else if f>=2 then repeat if 4~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end end else if 172>=f then if f~=167 then for o=22,87 do if f<172 then if(e[n]<z[e[t]])then r=e[d];else r=r+1;end;break;end;local f,o;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];break;end;else local f,o;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end else if f~=174 then local n=e[n];local l=z[n]local t=z[n+2];if(t>0)then if(l>z[n+1])then r=e[d];else z[n+3]=l;end elseif(l<z[n+1])then r=e[d];else z[n+3]=l;end else local r=e[n]local d={z[r](z[r+1])};local n=0;for e=r,e[t]do n=n+1;z[e]=d[n];end end end end end end else if 186>=f then if f<=180 then if 178>f then if f>175 then if 172<f then repeat if 176<f then for f=0,8 do if f<4 then if 1<f then if 3==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if 1==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f<=5 then if f<5 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 6>=f then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];else if 3<=f then for h=47,87 do if f<8 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;break;end;else if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;end end end end end break;end;local f,k,u,a;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]k,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);until true;else local f,u,k,a;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);end else if(z[e[n]]~=z[e[t]])then r=r+1;else r=e[d];end;end else if f>178 then if f~=180 then z[e[n]]=z[e[d]]+z[e[t]];else local t;for f=0,1 do if 1~=f then t=e[n]z[t](z[t+1])r=r+1;e=l[r];else z[e[n]]=o[e[d]];end end end else local n=e[n]local d={z[n](h(z,n+1,e[d]))};local r=0;for e=n,e[t]do r=r+1;z[e]=d[r];end end end else if f<=183 then if 181>=f then local s;for f=0,8 do if f>3 then if 5<f then if f<=6 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f>7 then z[e[n]]=z[e[d]][e[t]];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end else if 2<f then repeat if 5>f then z(e[n],e[d]);r=r+1;e=l[r];break;end;s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];until true;else s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];end end else if 2<=f then if f>=0 then for t=49,63 do if 3~=f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else if f>=-2 then for h=42,77 do if 0<f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end else if 182~=f then local n=e[n];local t=z[n+2];local l=z[n]+t;z[n]=l;if(t>0)then if(l<=z[n+1])then r=e[d];z[n+3]=l;end elseif(l>=z[n+1])then r=e[d];z[n+3]=l;end else z[e[n]]=(e[d]~=0);end end else if f>=185 then if 186==f then local h,k,u,c,b,f,s;for f=0,6 do if 3<=f then if f>4 then if f>3 then for t=37,83 do if 5<f then z[e[n]]=a[e[d]];break;end;s=e[n]z[s](z[s+1])r=r+1;e=l[r];break;end;else z[e[n]]=a[e[d]];end else if f~=1 then for t=18,96 do if f~=3 then f=0;while f>-1 do if f>=3 then if f<5 then if 1<=f then repeat if 4~=f then c=h[u];break;end;b=h[k];until true;else b=h[k];end else if f~=2 then repeat if 6~=f then z(b,c);break;end;f=-2;until true;else f=-2;end end else if f>=1 then if f==1 then k=n;else u=d;end else h=e;end end f=f+1 end r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end else if f<1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 1<f then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else local f;for o=0,4 do if o<2 then if o~=-1 then repeat if o~=0 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if o<=2 then z(e[n],e[d]);r=r+1;e=l[r];else if o~=-1 then for t=42,84 do if o<4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))end end end end end else z[e[n]]=(e[d]~=0);r=r+1;end end end else if 192>=f then if f<190 then if f<=187 then local r=e[n]local d={z[r](h(z,r+1,e[d]))};local n=0;for e=r,e[t]do n=n+1;z[e]=d[n];end else if 189~=f then local h;for f=0,8 do if f>=4 then if f<6 then if 2~=f then repeat if 5>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f>6 then if f==7 then h=e[n]z[h](z[h+1])r=r+1;e=l[r];else r=e[d];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f<=1 then if 0~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if 2==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else if(z[e[n]]<e[t])then r=e[d];else r=r+1;end;end end else if f>190 then if f>=190 then repeat if 191~=f then for f=0,4 do if f>=2 then if f>2 then if f>=-1 then for h=46,73 do if f>3 then if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;end else o[e[d]]=z[e[n]];r=r+1;e=l[r];end else if f>0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end break;end;local s;for f=0,6 do if f<=2 then if 1>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 2~=f then z(e[n],e[d]);r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end end else if 4<f then if f>1 then for t=13,89 do if f~=6 then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;if z[e[n]]then r=r+1;else r=e[d];end;break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f>=-1 then repeat if f~=4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];until true;else s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];end end end end until true;else for f=0,4 do if f>=2 then if f>2 then if f>=-1 then for h=46,73 do if f>3 then if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;end else o[e[d]]=z[e[n]];r=r+1;e=l[r];end else if f>0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else local f,u,k,a;f=e[n]u,k=b(z[f](z[f+1]))s=k+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o[e[d]]=z[e[n]];end end else if f<=195 then if 194>f then local r=e[n]local n={z[r]()};local d=e[t];local e=0;for r=r,d do e=e+1;z[r]=n[e];end else if f>192 then for r=13,56 do if f<195 then local r=e[n];local n=z[r];for e=r+1,e[d]do k.XeftVFam(n,z[e])end;break;end;z[e[n]]=z[e[d]]+e[t];break;end;else local r=e[n];local n=z[r];for e=r+1,e[d]do k.XeftVFam(n,z[e])end;end end else if 198>f then if f>=192 then repeat if 197>f then for f=0,5 do if f>=3 then if 4<=f then if f~=0 then repeat if f>4 then z[e[n]]();break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else z[e[n]]();end else z[e[n]]();r=r+1;e=l[r];end else if f<1 then z[e[n]]();r=r+1;e=l[r];else if f>=-1 then repeat if 2>f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end break;end;local f,u,_,c,o,k;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=k[o];end r=r+1;e=l[r];r=e[d];until true;else for f=0,5 do if f>=3 then if 4<=f then if f~=0 then repeat if f>4 then z[e[n]]();break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else z[e[n]]();end else z[e[n]]();r=r+1;e=l[r];end else if f<1 then z[e[n]]();r=r+1;e=l[r];else if f>=-1 then repeat if 2>f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end else if f==198 then if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;else local f;for s=0,2 do if 1<=s then if-2<s then repeat if s~=2 then f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];until true;else f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end end end end end else if 124<f then if 136<f then if f<=142 then if f<=139 then if 137<f then if 138==f then for f=0,9 do if f>4 then if f<=6 then if f>3 then repeat if 6~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 7>=f then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];else if f>4 then for h=45,72 do if 8~=f then if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else if 1<f then if 2>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=4 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f~=1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end else if(z[e[n]]<=z[e[t]])then r=e[d];else r=r+1;end;end else local r=e[n];local n=z[r];for e=r+1,e[d]do k.XeftVFam(n,z[e])end;end else if 141<=f then if f~=137 then repeat if f~=141 then local k,_,u,j,p,t,f,c,m,a;t=0;while t>-1 do if t>=3 then if 4<t then if t~=4 then repeat if t~=6 then z(p,j);break;end;t=-2;until true;else t=-2;end else if 4==t then p=k[_];else j=k[u];end end else if 1<=t then if t==2 then u=d;else _=n;end else k=e;end end t=t+1 end r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]c,m=b(z[f]())s=m+f-1 a=0;for e=f,s do a=a+1;z[e]=c[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];break;end;z[e[n]]=(not z[e[d]]);until true;else local k,u,_,c,m,t,f,j,p,a;t=0;while t>-1 do if t>=3 then if 4<t then if t~=4 then repeat if t~=6 then z(m,c);break;end;t=-2;until true;else t=-2;end else if 4==t then m=k[u];else c=k[_];end end else if 1<=t then if t==2 then _=d;else u=n;end else k=e;end end t=t+1 end r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]j,p=b(z[f]())s=p+f-1 a=0;for e=f,s do a=a+1;z[e]=j[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];end else for t=0,1 do if-2<t then for f=30,67 do if t~=0 then z[e[n]]=o[e[d]];break;end;o[e[d]]=z[e[n]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];end end end end else if f>145 then if f<148 then if f~=147 then local f,s;for o=0,9 do if 5>o then if 1>=o then if 1==o then f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end else if 3>o then z[e[n]]=a[e[d]];r=r+1;e=l[r];else if 1<o then repeat if 3<o then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else if 7<=o then if o<8 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];else if o<9 then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];else r=e[d];end end else if o~=5 then z[e[n]]=z[e[d]]+z[e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else local o,s;for f=0,4 do if f<=1 then if f~=-3 then repeat if f~=0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f<3 then o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[e[t]];r=r+1;e=l[r];else if-1<=f then repeat if 3<f then o=e[n]z[o](h(z,o+1,e[d]))break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end end end end else if 145<f then for r=21,63 do if 149~=f then local e=e[n]local n,r=b(z[e](h(z,e+1,s)))s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;break;end;local r=e[n]local d={z[r](h(z,r+1,s))};local n=0;for e=r,e[t]do n=n+1;z[e]=d[n];end break;end;else local e=e[n]local n,r=b(z[e](h(z,e+1,s)))s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;end end else if 143>=f then local e=e[n];do return h(z,e,s)end;else if f==144 then z[e[n]]=e[d]-z[e[t]];else local e=e[n];do return z[e],z[e+1]end end end end end else if f>=131 then if f>=134 then if f<=134 then local h;for f=0,6 do if 2>=f then if f<1 then h=e[n]z[h]=z[h]()r=r+1;e=l[r];else if 2~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if 4>=f then if f>1 then for h=14,78 do if f>3 then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];end else if 1~=f then for h=17,98 do if 5<f then if(e[n]<z[e[t]])then r=r+1;else r=e[d];end;break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else if(e[n]<z[e[t]])then r=r+1;else r=e[d];end;end end end end else if f~=134 then for s=39,90 do if f~=136 then local t,l,s,o,h,f;local r=0;while r>-1 do if r<=3 then if 2>r then if-3<r then repeat if r<1 then t=e;break;end;l=n;until true;else l=n;end else if 2~=r then o=z;else s=d;end end else if 5>=r then if 5~=r then h=o[t[s]];else f=t[l];end else if 7~=r then z[f]=h;else r=-2;end end end r=r+1 end break;end;local s;for f=0,6 do if 2<f then if 4<f then if f~=1 then repeat if 5~=f then r=e[d];break;end;o[e[d]]=z[e[n]];r=r+1;e=l[r];until true;else o[e[d]]=z[e[n]];r=r+1;e=l[r];end else if 2~=f then repeat if 4~=f then z(e[n],e[d]);r=r+1;e=l[r];break;end;s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];until true;else s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];end end else if 0>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=0 then for t=35,75 do if f~=2 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end end break;end;else local l,t,s,o,f,h;local r=0;while r>-1 do if r<=3 then if 2>r then if-3<r then repeat if r<1 then l=e;break;end;t=n;until true;else t=n;end else if 2~=r then o=z;else s=d;end end else if 5>=r then if 5~=r then f=o[l[s]];else h=l[t];end else if 7~=r then z[h]=f;else r=-2;end end end r=r+1 end end end else if 132<=f then if f~=131 then repeat if f~=133 then local t;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];t=e[n]z[t](h(z,t+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];t=e[n]z[t](h(z,t+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];break;end;local s,u,a,k,p,c,_,b,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];s=e[n];u=z[e[d]];z[s+1]=u;z[s]=u[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f>=4 then if 5>=f then if 0<f then for e=42,68 do if 5>f then _=c[a[p]];break;end;b=a[k];break;end;else b=a[k];end else if 7==f then f=-2;else z[b]=_;end end else if f>1 then if f~=3 then p=d;else c=z;end else if-3~=f then repeat if 0<f then k=n;break;end;a=e;until true;else a=e;end end end f=f+1 end r=r+1;e=l[r];s=e[n]z[s](h(z,s+1,e[d]))r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o[e[d]]=z[e[n]];until true;else local s,u,a,b,c,p,_,k,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];s=e[n];u=z[e[d]];z[s+1]=u;z[s]=u[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f>=4 then if 5>=f then if 0<f then for e=42,68 do if 5>f then _=p[a[c]];break;end;k=a[b];break;end;else k=a[b];end else if 7==f then f=-2;else z[k]=_;end end else if f>1 then if f~=3 then c=d;else p=z;end else if-3~=f then repeat if 0<f then b=n;break;end;a=e;until true;else a=e;end end end f=f+1 end r=r+1;e=l[r];s=e[n]z[s](h(z,s+1,e[d]))r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o[e[d]]=z[e[n]];end else z[e[n]]();end end else if 128>f then if f<126 then local o,s,b,a,u,k,f,c;for f=0,6 do if f<3 then if 0>=f then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];else if f~=-3 then repeat if 2~=f then o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;f=0;while f>-1 do if f<3 then if 1<=f then if-2~=f then for e=18,56 do if 1<f then a=d;break;end;b=n;break;end;else b=n;end else s=e;end else if f<5 then if f~=-1 then for e=28,92 do if 4~=f then u=s[a];break;end;k=s[b];break;end;else u=s[a];end else if f<6 then z(k,u);else f=-2;end end end f=f+1 end r=r+1;e=l[r];until true;else o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];end end else if f>=5 then if 5~=f then z[e[n]][e[d]]=z[e[t]];else f=0;while f>-1 do if f<3 then if f>=1 then if f>-3 then repeat if 2~=f then b=n;break;end;a=d;until true;else a=d;end else s=e;end else if 4>=f then if f~=1 then for e=14,77 do if f~=3 then k=s[b];break;end;u=s[a];break;end;else k=s[b];end else if f~=4 then for e=30,69 do if f~=6 then z(k,u);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end r=r+1;e=l[r];end else if f==4 then z[e[n]]={};r=r+1;e=l[r];else o=e[n];c=z[e[d]];z[o+1]=c;z[o]=c[z[e[t]]];r=r+1;e=l[r];end end end end else if 125<=f then for h=11,73 do if f~=126 then for f=0,4 do if f<2 then if-1<=f then repeat if 0~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]();r=r+1;e=l[r];until true;else z[e[n]]();r=r+1;e=l[r];end else if 2>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=3 then z[e[n]]=z[e[d]][e[t]];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end end break;end;local f;for t=0,6 do if 3>t then if t<=0 then z[e[n]]=z[e[d]];r=r+1;e=l[r];else if-3~=t then for h=20,56 do if t~=2 then f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else f=e[n]z[f](z[f+1])r=r+1;e=l[r];end end else if t>=5 then if 2<t then for f=41,88 do if 6>t then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z(e[n],e[d]);break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if 0<=t then for h=31,74 do if t<4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end end break;end;else for f=0,4 do if f<2 then if-1<=f then repeat if 0~=f then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]();r=r+1;e=l[r];until true;else z[e[n]]();r=r+1;e=l[r];end else if 2>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=3 then z[e[n]]=z[e[d]][e[t]];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end end end end else if f<129 then local f,s;for o=0,4 do if o>=2 then if o<3 then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];else if 0<o then repeat if o~=4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;f=e[n]z[f](h(z,f+1,e[d]))until true;else f=e[n]z[f](h(z,f+1,e[d]))end end else if o>-4 then for f=16,56 do if o~=0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else if f>126 then repeat if 130>f then if(e[n]<z[e[t]])then r=r+1;else r=e[d];end;break;end;local e=e[n]z[e]=z[e](z[e+1])until true;else if(e[n]<z[e[t]])then r=r+1;else r=e[d];end;end end end end end else if f>=112 then if 117>=f then if f<115 then if 113<=f then if 110<=f then repeat if f>113 then if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;break;end;local e=e[n]z[e]=z[e]()until true;else if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;end else z[e[n]]=_(p[e[d]],nil,o);end else if 116<=f then if 116==f then local e=e[n]z[e](h(z,e+1,s))else local l=e[n];local d={};for e=1,#u do local e=u[e];for r=0,#e do local e=e[r];local n=e[1];local r=e[2];if n==z and r>=l then d[r]=n[r];e[1]=d;end;end;end;end else if(z[e[n]]<=e[t])then r=e[d];else r=r+1;end;end end else if 120>=f then if 118<f then if 119<f then local n=e[n];local r=z[e[d]];z[n+1]=r;z[n]=r[z[e[t]]];else local f,b,k,_,a,c,s;for o=0,5 do if 3<=o then if o>3 then if o>=0 then for d=42,67 do if o~=4 then f=e[n];k={};for e=1,#u do _=u[e];for e=0,#_ do a=_[e];c=a[1];s=a[2];if c==z and s>=f then k[s]=c[s];a[1]=k;end;end;end;break;end;f=e[n]z[f](z[f+1])r=r+1;e=l[r];break;end;else f=e[n]z[f](z[f+1])r=r+1;e=l[r];end else f=e[n];b=z[e[d]];z[f+1]=b;z[f]=b[z[e[t]]];r=r+1;e=l[r];end else if 0<o then if 1~=o then z(e[n],e[d]);r=r+1;e=l[r];else f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end else z[e[n]]=z[e[d]][e[t]];end else if f>=123 then if 121~=f then repeat if f>123 then if not z[e[n]]then r=r+1;else r=e[d];end;break;end;local r=e[n];do return z[r](h(z,r+1,e[d]))end;until true;else local r=e[n];do return z[r](h(z,r+1,e[d]))end;end else if f>=117 then for a=30,85 do if f<122 then local f,k,a,_,u,c;for a=0,9 do if a>4 then if a>6 then if 8<=a then if 4<=a then repeat if a~=9 then f=e[n]c={z[f](h(z,f+1,s))};u=0;for e=f,e[t]do u=u+1;z[e]=c[u];end r=r+1;e=l[r];break;end;r=e[d];until true;else r=e[d];end else f=e[n]c,_=b(z[f](z[f+1]))s=_+f-1 u=0;for e=f,s do u=u+1;z[e]=c[u];end;r=r+1;e=l[r];end else if 2<=a then repeat if a~=5 then f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];end end else if 1<a then if a>=3 then if a>=0 then for o=45,64 do if 3~=a then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end else if a>=-2 then for h=19,62 do if a>0 then f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end break;end;if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;break;end;else if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;end end end end else if f>105 then if 109>f then if f<=106 then local f,c,k,_,a,u;for k=0,7 do if 3>=k then if 2>k then if 0~=k then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if-1<k then for f=36,90 do if k~=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if k>=6 then if 5~=k then repeat if 7~=k then f=e[n]u={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=u[a];end r=r+1;e=l[r];break;end;r=e[d];until true;else f=e[n]u={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=u[a];end r=r+1;e=l[r];end else if k>3 then for h=11,87 do if 4<k then f=e[n]u,_=b(z[f](z[f+1]))s=_+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];break;end;f=e[n];c=z[e[d]];z[f+1]=c;z[f]=c[e[t]];r=r+1;e=l[r];break;end;else f=e[n];c=z[e[d]];z[f+1]=c;z[f]=c[e[t]];r=r+1;e=l[r];end end end end else if f==107 then local f,k,u,a;f=e[n]k,u=b(z[f](z[f+1]))s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o[e[d]]=z[e[n]];else local o;for f=0,4 do if f<=1 then if-1<=f then for h=11,57 do if f>0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f>=3 then if f==4 then if z[e[n]]then r=r+1;else r=e[d];end;else o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end end end end else if 110>f then for f=0,5 do if f<3 then if 1>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 0<=f then for h=12,75 do if 1<f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f>=4 then if f~=4 then if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else if 108~=f then for h=33,84 do if 111~=f then if(z[e[n]]~=z[e[t]])then r=r+1;else r=e[d];end;break;end;local o,h;for f=0,4 do if f<2 then if f~=-2 then for s=40,96 do if f~=0 then z[e[n]]={};r=r+1;e=l[r];break;end;o=e[n];h=z[e[d]];z[o+1]=h;z[o]=h[z[e[t]]];r=r+1;e=l[r];break;end;else z[e[n]]={};r=r+1;e=l[r];end else if 3>f then z(e[n],e[d]);r=r+1;e=l[r];else if f>1 then for h=33,95 do if f<4 then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);break;end;else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end end end end break;end;else if(z[e[n]]~=z[e[t]])then r=r+1;else r=e[d];end;end end end else if 102>=f then if f<101 then if(z[e[n]]<z[e[t]])then r=e[d];else r=r+1;end;else if f>101 then for t=0,4 do if t>1 then if t<=2 then z[e[n]]=o[e[d]];r=r+1;e=l[r];else if t>1 then repeat if t~=4 then z[e[n]]();r=r+1;e=l[r];break;end;z[e[n]]=a[e[d]];until true;else z[e[n]]=a[e[d]];end end else if t==1 then z[e[n]]();r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end else local r=e[n]z[r]=z[r](h(z,r+1,e[d]))end end else if f<104 then z[e[n]]=z[e[d]]^z[e[t]];else if f>103 then repeat if 105~=f then local o,a,s,k,b,u,c,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];o=e[n];a=z[e[d]];z[o+1]=a;z[o]=a[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=0;while f>-1 do if f<3 then if 0<f then if f>-3 then for e=26,98 do if 2~=f then k=n;break;end;b=d;break;end;else b=d;end else s=e;end else if f<=4 then if 3==f then u=s[b];else c=s[k];end else if 5==f then z(c,u);else f=-2;end end end f=f+1 end r=r+1;e=l[r];o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];r=e[d];break;end;for f=0,7 do if f<=3 then if f>=2 then if f>=1 then for h=25,92 do if 3~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if-3<=f then repeat if 1~=f then z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end else if 6<=f then if 7==f then z[e[n]]=z[e[d]][e[t]];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 2~=f then for h=34,58 do if 5>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end until true;else for f=0,7 do if f<=3 then if f>=2 then if f>=1 then for h=25,92 do if 3~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if-3<=f then repeat if 1~=f then z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end else if 6<=f then if 7==f then z[e[n]]=z[e[d]][e[t]];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 2~=f then for h=34,58 do if 5>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end end end end end end end end else if f<300 then if f<=249 then if 224<f then if f>=237 then if 242<f then if f>245 then if 248>f then if f==247 then z[e[n]]=a[e[d]];else local h,f;h=e[n];f=z[e[d]];z[h+1]=f;z[h]=f[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]={};end else if f~=248 then for f=0,6 do if f>2 then if 4<f then if 3<=f then for t=37,97 do if 5~=f then z[e[n]]=o[e[d]];break;end;z[e[n]]();r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];end else if 2~=f then for t=34,53 do if f<4 then z[e[n]]();r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end else if 0<f then if f~=-1 then repeat if f<2 then z[e[n]]();r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else local o;for f=0,4 do if f<2 then if f>=-3 then for h=49,93 do if f>0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 2>=f then z(e[n],e[d]);r=r+1;e=l[r];else if f~=-1 then for t=30,60 do if f<4 then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;if not z[e[n]]then r=r+1;else r=e[d];end;break;end;else if not z[e[n]]then r=r+1;else r=e[d];end;end end end end end end else if f<=243 then local f;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];else if f>=242 then for s=49,98 do if f>244 then local f,h;for t=0,6 do if t>2 then if t<=4 then if t<4 then z(e[n],e[d]);r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end else if 5~=t then f=e[n];h=z[f];for e=f+1,e[d]do k.XeftVFam(h,z[e])end;else z(e[n],e[d]);r=r+1;e=l[r];end end else if 0>=t then o[e[d]]=z[e[n]];r=r+1;e=l[r];else if-1~=t then repeat if t>1 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]={};r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end end end break;end;local f,s;for o=0,9 do if o>=5 then if o>6 then if o<8 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if o>5 then repeat if 8<o then z[e[n]]=z[e[d]][e[t]];break;end;z[e[n]]=a[e[d]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];end end else if o>=2 then for f=16,90 do if 6>o then z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end else if 2>o then if o>-1 then repeat if 1~=o then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if 2>=o then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];else if 1<=o then repeat if 3<o then f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];end end end end end break;end;else local f,s;for o=0,9 do if o>=5 then if o>6 then if o<8 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if o>5 then repeat if 8<o then z[e[n]]=z[e[d]][e[t]];break;end;z[e[n]]=a[e[d]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];end end else if o>=2 then for f=16,90 do if 6>o then z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end else if 2>o then if o>-1 then repeat if 1~=o then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if 2>=o then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];else if 1<=o then repeat if 3<o then f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];until true;else f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];end end end end end end end end else if f>239 then if f>240 then if f~=238 then for h=21,94 do if 242>f then local f,h;f=e[n]z[f](z[f+1])r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);break;end;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];if(z[e[n]]<e[t])then r=e[d];else r=r+1;end;break;end;else local f,h;f=e[n]z[f](z[f+1])r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);end else local t;o[e[d]]=z[e[n]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];t=e[n]z[t](z[t+1])r=r+1;e=l[r];do return end;end else if f>=238 then if f>=234 then repeat if f>238 then local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];break;end;z[e[n]]=(e[d]~=0);r=r+1;until true;else local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];end else local s;for f=0,8 do if f<4 then if f<2 then if f~=-1 then for h=49,54 do if 1~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f>-2 then for h=36,96 do if f~=3 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end else if 6>f then if f>3 then for t=42,76 do if 4<f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else if 7>f then z(e[n],e[d]);r=r+1;e=l[r];else if f>=3 then for o=39,52 do if 8~=f then s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];break;end;if(z[e[n]]~=z[e[t]])then r=r+1;else r=e[d];end;break;end;else s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];end end end end end end end end else if f>=231 then if f>233 then if 234<f then if 231<=f then repeat if 235<f then z[e[n]]=z[e[d]]/z[e[t]];break;end;z[e[n]]=z[e[d]]*e[t];until true;else z[e[n]]=z[e[d]]*e[t];end else local h,s,a,b,o,f;for f=0,4 do if f<=1 then if-4<=f then for t=22,76 do if f~=1 then z(e[n],e[d]);r=r+1;e=l[r];break;end;f=0;while f>-1 do if 2<f then if 5<=f then if 5<f then f=-2;else z(o,b);end else if-1<=f then for e=35,67 do if f<4 then b=h[a];break;end;o=h[s];break;end;else o=h[s];end end else if 0>=f then h=e;else if f==1 then s=n;else a=d;end end end f=f+1 end r=r+1;e=l[r];break;end;else f=0;while f>-1 do if 2<f then if 5<=f then if 5<f then f=-2;else z(o,b);end else if-1<=f then for e=35,67 do if f<4 then b=h[a];break;end;o=h[s];break;end;else o=h[s];end end else if 0>=f then h=e;else if f==1 then s=n;else a=d;end end end f=f+1 end r=r+1;e=l[r];end else if 2<f then if 3<f then z[e[n]]=(e[d]~=0);else f=0;while f>-1 do if 2>=f then if f<1 then h=e;else if-3<f then repeat if 2>f then s=n;break;end;a=d;until true;else a=d;end end else if 5<=f then if f>=1 then for e=22,61 do if 6>f then z(o,b);break;end;f=-2;break;end;else z(o,b);end else if f>3 then o=h[s];else b=h[a];end end end f=f+1 end r=r+1;e=l[r];end else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end else if f>=232 then if 231<f then repeat if 232<f then z[e[n]]=z[e[d]]/z[e[t]];break;end;local f,_,k,p,u,c;for k=0,6 do if k>=3 then if k<=4 then if k==4 then f=e[n]c,p=b(z[f](z[f+1]))s=p+f-1 u=0;for e=f,s do u=u+1;z[e]=c[u];end;r=r+1;e=l[r];else f=e[n];_=z[e[d]];z[f+1]=_;z[f]=_[e[t]];r=r+1;e=l[r];end else if k~=4 then repeat if 5<k then r=e[d];break;end;f=e[n]c={z[f](h(z,f+1,s))};u=0;for e=f,e[t]do u=u+1;z[e]=c[u];end r=r+1;e=l[r];until true;else r=e[d];end end else if 1>k then z[e[n]]=a[e[d]];r=r+1;e=l[r];else if-3<k then repeat if 1<k then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end until true;else local f,_,k,p,u,c;for k=0,6 do if k>=3 then if k<=4 then if k==4 then f=e[n]c,p=b(z[f](z[f+1]))s=p+f-1 u=0;for e=f,s do u=u+1;z[e]=c[u];end;r=r+1;e=l[r];else f=e[n];_=z[e[d]];z[f+1]=_;z[f]=_[e[t]];r=r+1;e=l[r];end else if k~=4 then repeat if 5<k then r=e[d];break;end;f=e[n]c={z[f](h(z,f+1,s))};u=0;for e=f,e[t]do u=u+1;z[e]=c[u];end r=r+1;e=l[r];until true;else r=e[d];end end else if 1>k then z[e[n]]=a[e[d]];r=r+1;e=l[r];else if-3<k then repeat if 1<k then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end end else local u,a,k,h,s,b,o,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=0;while f>-1 do if f>2 then if f>=5 then if 5<f then f=-2;else z[b]=o;end else if 3~=f then o=z[s];for e=1+s,h[k]do o=o..z[e];end;else b=h[u];end end else if f<1 then u=n;a=d;k=t;else if f>=0 then for r=44,58 do if 1<f then s=h[a];break;end;h=e;break;end;else h=e;end end end f=f+1 end r=r+1;e=l[r];do return z[e[n]]end end end else if f>=228 then if 229<=f then if f~=230 then z[e[n]]=z[e[d]]%e[t];else local k,a,h,s,u,c,b,f;z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o[e[d]]=z[e[n]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];k=e[n];a=z[e[d]];z[k+1]=a;z[k]=a[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f<3 then if 1>f then h=e;else if 0<=f then for e=16,83 do if f~=2 then s=n;break;end;u=d;break;end;else s=n;end end else if f>4 then if f>4 then repeat if f~=5 then f=-2;break;end;z(b,c);until true;else f=-2;end else if f>1 then repeat if f<4 then c=h[u];break;end;b=h[s];until true;else b=h[s];end end end f=f+1 end end else local f;for s=0,6 do if 3<=s then if s<=4 then if s==3 then z(e[n],e[d]);r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end else if s~=1 then repeat if 6~=s then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if s<1 then z[e[n]]=o[e[d]];r=r+1;e=l[r];else if s~=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end end end end end else if f>225 then if f>=223 then repeat if 227~=f then local h,b,s;for f=0,5 do if f<3 then if 1<=f then if-3<=f then for h=34,75 do if f<2 then z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f>3 then if 0<f then for o=22,70 do if 4~=f then r=e[d];break;end;h=e[n]b={z[h](z[h+1])};s=0;for e=h,e[t]do s=s+1;z[e]=b[s];end r=r+1;e=l[r];break;end;else r=e[d];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end break;end;local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])until true;else local s,b,h;for f=0,5 do if f<3 then if 1<=f then if-3<=f then for h=34,75 do if f<2 then z[e[n]]=a[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f>3 then if 0<f then for o=22,70 do if 4~=f then r=e[d];break;end;s=e[n]b={z[s](z[s+1])};h=0;for e=s,e[t]do h=h+1;z[e]=b[h];end r=r+1;e=l[r];break;end;else r=e[d];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else local e=e[n];do return z[e](h(z,e+1,s))end;end end end end else if 211>=f then if 205>=f then if 203<=f then if f<204 then local f,s;for o=0,4 do if 1<o then if 2<o then if o>2 then repeat if 4~=o then z(e[n],e[d]);r=r+1;e=l[r];break;end;f=e[n]z[f](h(z,f+1,e[d]))until true;else z(e[n],e[d]);r=r+1;e=l[r];end else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end else if o>-4 then for f=14,67 do if 0~=o then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else if 204~=f then local f,k,u,a;f=e[n]k,u=b(z[f](z[f+1]))s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o[e[d]]=z[e[n]];else local k,o,s,u,b,a,f,c;for f=0,9 do if 5<=f then if f<=6 then if f>2 then for h=44,82 do if 5<f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else if f>7 then if 6<f then repeat if f<9 then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);until true;else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end end else if f>=2 then if f>=3 then if 3<f then f=0;while f>-1 do if 2>=f then if 1<=f then if 0<f then repeat if 1<f then u=d;break;end;s=n;until true;else s=n;end else o=e;end else if 5<=f then if 1<=f then for e=26,62 do if 5~=f then f=-2;break;end;z(a,b);break;end;else z(a,b);end else if 0<f then repeat if f~=3 then a=o[s];break;end;b=o[u];until true;else a=o[s];end end end f=f+1 end r=r+1;e=l[r];else z[e[n]]={};r=r+1;e=l[r];end else k=e[n];c=z[e[d]];z[k+1]=c;z[k]=c[z[e[t]]];r=r+1;e=l[r];end else if f>-2 then for t=45,52 do if f<1 then k=e[n]z[k](h(z,k+1,e[d]))r=r+1;e=l[r];break;end;f=0;while f>-1 do if f>=3 then if f<=4 then if 2<=f then repeat if f<4 then b=o[u];break;end;a=o[s];until true;else a=o[s];end else if 5~=f then f=-2;else z(a,b);end end else if 1<=f then if-3<=f then for e=34,54 do if 1~=f then u=d;break;end;s=n;break;end;else s=n;end else o=e;end end f=f+1 end r=r+1;e=l[r];break;end;else f=0;while f>-1 do if f>=3 then if f<=4 then if 2<=f then repeat if f<4 then b=o[u];break;end;a=o[s];until true;else a=o[s];end else if 5~=f then f=-2;else z(a,b);end end else if 1<=f then if-3<=f then for e=34,54 do if 1~=f then u=d;break;end;s=n;break;end;else s=n;end else o=e;end end f=f+1 end r=r+1;e=l[r];end end end end end end else if 200<f then if 200<=f then for o=10,89 do if f~=201 then z[e[n]]=z[e[d]]+e[t];break;end;local f,o;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z(e[n],e[d]);break;end;else z[e[n]]=z[e[d]]+e[t];end else for f=0,2 do if f<=0 then z[e[n]]=(e[d]~=0);r=r+1;e=l[r];else if 2>f then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];else z(e[n],e[d]);end end end end end else if 208<f then if f<210 then z[e[n]]=z[e[d]]/e[t];else if 211~=f then if(e[n]<=z[e[t]])then r=e[d];else r=r+1;end;else local e=e[n];do return h(z,e,s)end;end end else if f>=207 then if 208~=f then for f=0,6 do if 3<=f then if 4>=f then if f~=4 then z[e[n]]=o[e[d]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f~=4 then for t=34,86 do if 6>f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end else if f>0 then if 2==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end else local f,s;for o=0,4 do if o>1 then if o<3 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 1<o then for t=17,80 do if o~=3 then if not z[e[n]]then r=r+1;else r=e[d];end;break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if o>-2 then repeat if 0~=o then f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end else local f,h,a;for s=0,4 do if 1<s then if s<3 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if s>3 then f=e[n];h=z[f]a=z[f+2];if(a>0)then if(h>z[f+1])then r=e[d];else z[f+3]=h;end elseif(h<z[f+1])then r=e[d];else z[f+3]=h;end else z(e[n],e[d]);r=r+1;e=l[r];end end else if s<1 then z(e[n],e[d]);r=r+1;e=l[r];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end end end end end end else if f>217 then if f<221 then if 219>f then local f,h;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[e[t]];r=r+1;e=l[r];z(e[n],e[d]);else if 220==f then local f,o;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];else local o,s;for f=0,6 do if 2>=f then if 0<f then if 1<f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f<=4 then if 3~=f then o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[e[t]];r=r+1;e=l[r];else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if f>2 then for t=23,70 do if 5<f then o=e[n]z[o](h(z,o+1,e[d]))break;end;z[e[n]]=z[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]];r=r+1;e=l[r];end end end end end end else if f>222 then if f>=222 then repeat if f~=224 then do return z[e[n]]end break;end;local f,s;for o=0,4 do if o<=1 then if o==0 then z[e[n]]=a[e[d]];r=r+1;e=l[r];else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end else if 3<=o then if 1<o then repeat if 4~=o then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;if not z[e[n]]then r=r+1;else r=e[d];end;until true;else if not z[e[n]]then r=r+1;else r=e[d];end;end else z(e[n],e[d]);r=r+1;e=l[r];end end end until true;else local f,s;for o=0,4 do if o<=1 then if o==0 then z[e[n]]=a[e[d]];r=r+1;e=l[r];else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];end else if 3<=o then if 1<o then repeat if 4~=o then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;if not z[e[n]]then r=r+1;else r=e[d];end;until true;else if not z[e[n]]then r=r+1;else r=e[d];end;end else z(e[n],e[d]);r=r+1;e=l[r];end end end end else if f>=219 then for s=27,87 do if 221~=f then local f,a;for s=0,4 do if 1<s then if 2>=s then f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];else if-1<=s then for t=14,70 do if 3~=s then f=e[n]z[f]=z[f](h(z,f+1,e[d]))break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))end end else if s>-1 then for f=30,79 do if s<1 then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end break;end;local e=e[n];do return z[e],z[e+1]end break;end;else local f,a;for s=0,4 do if 1<s then if 2>=s then f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];else if-1<=s then for t=14,70 do if 3~=s then f=e[n]z[f]=z[f](h(z,f+1,e[d]))break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))end end else if s>-1 then for f=30,79 do if s<1 then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end end else if 215<=f then if f<=215 then if(z[e[n]]<=z[e[t]])then r=e[d];else r=r+1;end;else if 215<=f then for o=13,80 do if 217>f then local f,s;for o=0,6 do if 2<o then if 4<o then if 2<=o then repeat if o>5 then z[e[n]][e[d]]=z[e[t]];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if 0<o then for h=38,77 do if 3<o then z[e[n]]={};r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[z[e[t]]];r=r+1;e=l[r];break;end;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[z[e[t]]];r=r+1;e=l[r];end end else if o<=0 then z(e[n],e[d]);r=r+1;e=l[r];else if o>-3 then repeat if 2>o then f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end end end break;end;local o,s,a,b,k,u,c,f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if 3<=f then if f>4 then if f>=3 then repeat if 5<f then f=-2;break;end;z(c,u);until true;else f=-2;end else if 4~=f then u=a[k];else c=a[b];end end else if 0>=f then a=e;else if 1~=f then k=d;else b=n;end end end f=f+1 end r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];r=e[d];break;end;else local f,s;for o=0,6 do if 2<o then if 4<o then if 2<=o then repeat if o>5 then z[e[n]][e[d]]=z[e[t]];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end else if 0<o then for h=38,77 do if 3<o then z[e[n]]={};r=r+1;e=l[r];break;end;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[z[e[t]]];r=r+1;e=l[r];break;end;else f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[z[e[t]]];r=r+1;e=l[r];end end else if o<=0 then z(e[n],e[d]);r=r+1;e=l[r];else if o>-3 then repeat if 2>o then f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end end end end end else if 212<f then if 210<f then repeat if 213<f then local f,o;z[e[n]]={};r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];if not z[e[n]]then r=r+1;else r=e[d];end;break;end;local r=e[n]local n,e=b(z[r](h(z,r+1,e[d])))s=e+r-1 local e=0;for r=r,s do e=e+1;z[r]=n[e];end;until true;else local f,o;z[e[n]]={};r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];if not z[e[n]]then r=r+1;else r=e[d];end;end else local a,s,b,l,f,o,h;local r=0;while r>-1 do if 3<=r then if 5>r then if-1~=r then repeat if r~=3 then h=z[f];for e=1+f,l[b]do h=h..z[e];end;break;end;o=l[a];until true;else o=l[a];end else if 3<r then repeat if r~=5 then r=-2;break;end;z[o]=h;until true;else r=-2;end end else if r>0 then if r>=-1 then repeat if r>1 then f=l[s];break;end;l=e;until true;else f=l[s];end else a=n;s=d;b=t;end end r=r+1 end end end end end end else if 275>f then if f>=262 then if 268<=f then if f<=270 then if 269>f then local s;for f=0,6 do if 3<=f then if f>=5 then if f>=1 then repeat if f~=6 then o[e[d]]=z[e[n]];r=r+1;e=l[r];break;end;r=e[d];until true;else o[e[d]]=z[e[n]];r=r+1;e=l[r];end else if 1~=f then repeat if 4~=f then z(e[n],e[d]);r=r+1;e=l[r];break;end;s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];until true;else z(e[n],e[d]);r=r+1;e=l[r];end end else if 0>=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if f~=0 then for t=19,72 do if 2~=f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end end else if f>265 then for s=47,75 do if f~=270 then local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];if(z[e[n]]==z[e[t]])then r=r+1;else r=e[d];end;break;end;local f,b;for s=0,8 do if 3<s then if 6>s then if 1~=s then repeat if 5~=s then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;f=e[n];b=z[e[d]];z[f+1]=b;z[f]=b[e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if 7<=s then if 5<=s then for t=28,84 do if s<8 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;z[e[n]]=a[e[d]];break;end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z[e[n]]=z[e[d]];r=r+1;e=l[r];end end else if 2>s then if-3<=s then for t=28,59 do if 1>s then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]];r=r+1;e=l[r];end else if 3>s then f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end end break;end;else local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];if(z[e[n]]==z[e[t]])then r=r+1;else r=e[d];end;end end else if f<273 then if f~=270 then repeat if f<272 then local s;for f=0,6 do if 3>f then if 1>f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 2>f then z(e[n],e[d]);r=r+1;e=l[r];else z(e[n],e[d]);r=r+1;e=l[r];end end else if 5<=f then if f~=5 then z[e[n]]=z[e[d]][e[t]];else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if f~=3 then z(e[n],e[d]);r=r+1;e=l[r];else s=e[n]z[s]=z[s](h(z,s+1,e[d]))r=r+1;e=l[r];end end end end break;end;local a,k,c,f,u;for k=0,4 do if k<2 then if-1<=k then for t=11,69 do if 0<k then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if k<3 then a=e[n]u,c=b(z[a]())s=c+a-1 f=0;for e=a,s do f=f+1;z[e]=u[f];end;r=r+1;e=l[r];else if k>=2 then repeat if k~=3 then r=e[d];break;end;a=e[n]u={z[a](h(z,a+1,s))};f=0;for e=a,e[t]do f=f+1;z[e]=u[f];end r=r+1;e=l[r];until true;else r=e[d];end end end end until true;else local a,k,c,f,u;for k=0,4 do if k<2 then if-1<=k then for t=11,69 do if 0<k then z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;z[e[n]]=o[e[d]];r=r+1;e=l[r];break;end;else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if k<3 then a=e[n]u,c=b(z[a]())s=c+a-1 f=0;for e=a,s do f=f+1;z[e]=u[f];end;r=r+1;e=l[r];else if k>=2 then repeat if k~=3 then r=e[d];break;end;a=e[n]u={z[a](h(z,a+1,s))};f=0;for e=a,e[t]do f=f+1;z[e]=u[f];end r=r+1;e=l[r];until true;else r=e[d];end end end end end else if f==273 then local o,h;for f=0,4 do if 1<f then if 3<=f then if f>-1 then for h=12,97 do if 3~=f then z(e[n],e[d]);break;end;z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];break;end;else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end else z(e[n],e[d]);r=r+1;e=l[r];end else if-4<f then repeat if 0<f then z[e[n]]={};r=r+1;e=l[r];break;end;o=e[n];h=z[e[d]];z[o+1]=h;z[o]=h[z[e[t]]];r=r+1;e=l[r];until true;else z[e[n]]={};r=r+1;e=l[r];end end end else local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))end end end else if 264<f then if f<=265 then local f,o;f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);else if f~=264 then repeat if f~=267 then z[e[n]][z[e[d]]]=z[e[t]];break;end;if(z[e[n]]<e[t])then r=e[d];else r=r+1;end;until true;else if(z[e[n]]<e[t])then r=e[d];else r=r+1;end;end end else if f>=263 then if f>=261 then repeat if f<264 then for f=0,2 do if f<=0 then z[e[n]]=(e[d]~=0);r=r+1;e=l[r];else if f~=-3 then repeat if f<2 then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);until true;else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end break;end;local n=e[n];local t=e[t];local l=n+2 local n={z[n](z[n+1],z[l])};for e=1,t do z[l+e]=n[e];end;local n=n[1]if n then z[l]=n r=e[d];else r=r+1;end;until true;else for f=0,2 do if f<=0 then z[e[n]]=(e[d]~=0);r=r+1;e=l[r];else if f~=-3 then repeat if f<2 then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);until true;else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];end end end end else local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))end end end else if f<256 then if f>=253 then if f<=253 then local h;for f=0,4 do if f<=1 then if-4<f then repeat if f~=1 then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];end else if f<=2 then z(e[n],e[d]);r=r+1;e=l[r];else if 1<=f then repeat if f~=4 then z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];break;end;h=e[n]z[h]=z[h](z[h+1])until true;else z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];end end end end else if f~=252 then repeat if f~=254 then local f,u,_,c,o,k;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=k[o];end r=r+1;e=l[r];r=e[d];break;end;local e=e[n]z[e]=z[e](h(z,e+1,s))until true;else local f,u,_,c,o,k;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=k[o];end r=r+1;e=l[r];r=e[d];end end else if 251>f then local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;else if f~=252 then local t;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];t=e[n]z[t](z[t+1])r=r+1;e=l[r];do return end;else local r=e[n]z[r](h(z,r+1,e[d]))end end end else if f>258 then if f<=259 then z(e[n],e[d]);else if 258<=f then repeat if f>260 then local o,s,b,k,u,c,_,f;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];o=e[n];s=z[e[d]];z[o+1]=s;z[o]=s[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if 3<=f then if 5<=f then if 1<f then for e=36,61 do if 5~=f then f=-2;break;end;z(_,c);break;end;else f=-2;end else if f>3 then _=b[k];else c=b[u];end end else if f>0 then if-1<=f then repeat if f~=2 then k=n;break;end;u=d;until true;else k=n;end else b=e;end end f=f+1 end r=r+1;e=l[r];o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];do return end;break;end;local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];until true;else local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];end end else if 257>f then if(z[e[n]]<z[e[t]])then r=e[d];else r=r+1;end;else if f~=253 then for h=27,64 do if f~=257 then z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);break;end;for e=e[n],e[d]do z[e]=nil;end;break;end;else for e=e[n],e[d]do z[e]=nil;end;end end end end end else if f>=287 then if f<293 then if f>289 then if 291>f then local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))else if 289~=f then for o=41,71 do if f<292 then z[e[n]]=z[e[d]]*e[t];break;end;local f,o;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];do return end;break;end;else local f,o;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];do return end;end end else if 287>=f then local f,a,c,u,k;f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];a=z[e[d]];z[f+1]=a;z[f]=a[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]c,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 k=0;for e=f,s do k=k+1;z[e]=c[k];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))else if 284<f then repeat if f<289 then local f,s;z[e[n]]=a[e[d]];r=r+1;e=l[r];f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];break;end;local r=e[n]local d={z[r](z[r+1])};local n=0;for e=r,e[t]do n=n+1;z[e]=d[n];end until true;else local n=e[n]local d={z[n](z[n+1])};local r=0;for e=n,e[t]do r=r+1;z[e]=d[r];end end end end else if f<=295 then if 293>=f then local r=e[n]local d={z[r]()};local n=e[t];local e=0;for r=r,n do e=e+1;z[r]=d[e];end else if 293~=f then for o=44,90 do if 295>f then local e=e[n]local n,r=b(z[e](z[e+1]))s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;break;end;local f,k,u,c,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,c=b(z[f](h(z,f+1,e[d])))s=c+f-1 o=0;for e=f,s do o=o+1;z[e]=u[o];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))r=r+1;e=l[r];if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;break;end;else local e=e[n]local n,r=b(z[e](z[e+1]))s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;end end else if 297<f then if 298==f then local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];else z[e[n]]=z[e[d]]*z[e[t]];end else if 297>f then if z[e[n]]then r=r+1;else r=e[d];end;else if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;end end end end else if f<281 then if f>277 then if 279>f then z[e[n]]={};else if f~=279 then local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])else local f,s,a,h;f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]a={z[f](z[f+1])};h=0;for e=f,e[t]do h=h+1;z[e]=a[h];end r=r+1;e=l[r];r=e[d];end end else if 276<=f then if f>274 then repeat if 277>f then local r=e[n]local n,e=b(z[r]())s=e+r-1 local e=0;for r=r,s do e=e+1;z[r]=n[e];end;break;end;local f;for o=0,4 do if 2>o then if o==0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end else if 3<=o then if o>=-1 then repeat if o~=4 then f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;if z[e[n]]then r=r+1;else r=e[d];end;until true;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end until true;else local r=e[n]local n,e=b(z[r]())s=e+r-1 local e=0;for r=r,s do e=e+1;z[r]=n[e];end;end else for f=0,4 do if f>=2 then if 2<f then if f~=0 then repeat if f~=4 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else if-3<f then for h=17,97 do if f~=0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end else if f<=283 then if 282<=f then if 279~=f then repeat if 283>f then r=e[d];break;end;local e=e[n];s=e+m-1;for r=e,s do local e=j[r-e];z[r]=e;end;until true;else r=e[d];end else z[e[n]]=z[e[d]]*z[e[t]];end else if 284>=f then local f,u,_,c,a,k;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=k[a];end r=r+1;e=l[r];r=e[d];else if f>=283 then for s=30,80 do if 286>f then local f,o;for s=0,4 do if s>1 then if s<=2 then z(e[n],e[d]);r=r+1;e=l[r];else if s==4 then if not z[e[n]]then r=r+1;else r=e[d];end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if s>=-2 then for h=42,88 do if 0<s then f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];end end end break;end;local f,s;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];z(e[n],e[d]);break;end;else local f,o;for s=0,4 do if s>1 then if s<=2 then z(e[n],e[d]);r=r+1;e=l[r];else if s==4 then if not z[e[n]]then r=r+1;else r=e[d];end;else f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];end end else if s>=-2 then for h=42,88 do if 0<s then f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];end end end end end end end end end end else if f<=349 then if 324>=f then if 311>=f then if f<306 then if f>302 then if 304>f then local f;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];else if f>301 then for h=31,53 do if f>304 then local f,h;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[e[t]];r=r+1;e=l[r];z(e[n],e[d]);break;end;local f;z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];break;end;else local f;z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end end else if f>=301 then if f~=302 then local f,h;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);else local f,o;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];do return end;end else local o,c,y,g,p,_,y,f,s,u,m,k,j,b;z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];o=e[n];c=z[e[d]];z[o+1]=c;z[o]=c[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=0;while f>-1 do if 3>f then if f>=1 then if f<2 then g=n;else p=d;end else s=e;end else if 5<=f then if 2<=f then repeat if f>5 then f=-2;break;end;z(b,_);until true;else f=-2;end else if f~=1 then repeat if f>3 then b=s[g];break;end;_=s[p];until true;else _=s[p];end end end f=f+1 end r=r+1;e=l[r];o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];f=0;while f>-1 do if f>=4 then if 6<=f then if f==6 then z[b]=j;else f=-2;end else if 5~=f then j=k[s[m]];else b=s[u];end end else if 2>f then if f~=-3 then for r=17,94 do if 1~=f then s=e;break;end;u=n;break;end;else u=n;end else if-2<=f then repeat if 3>f then m=d;break;end;k=z;until true;else k=z;end end end f=f+1 end r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];o=e[n]z[o](z[o+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];end end else if 309>f then if 306<f then if 306<=f then for o=47,75 do if f<308 then z[e[n]]=z[e[d]][e[t]];break;end;local t,o,a,f;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];t=e[n]o,a=b(z[t](h(z,t+1,e[d])))s=a+t-1 f=0;for e=t,s do f=f+1;z[e]=o[f];end;r=r+1;e=l[r];t=e[n]z[t](h(z,t+1,s))r=r+1;e=l[r];r=e[d];break;end;else z[e[n]]=z[e[d]][e[t]];end else local f,u,_,c,o,k;z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};o=0;for e=f,e[t]do o=o+1;z[e]=k[o];end r=r+1;e=l[r];r=e[d];end else if f>309 then if 306<=f then repeat if 310<f then r=e[d];break;end;local e=e[n]z[e](z[e+1])until true;else local e=e[n]z[e](z[e+1])end else if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;end end end else if 318<=f then if f>320 then if f>322 then if 320<=f then for o=28,52 do if 323~=f then local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;break;end;local f,h;z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[e[t]];break;end;else local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;end else if 318<f then repeat if 322>f then local o,k,s,c,b,u,_,f;z(e[n],e[d]);r=r+1;e=l[r];o=e[n]z[o](h(z,o+1,e[d]))r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];o=e[n];k=z[e[d]];z[o+1]=k;z[o]=k[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f<=2 then if f<=0 then s=e;else if f~=-2 then for e=28,91 do if f~=2 then c=n;break;end;b=d;break;end;else b=d;end end else if f<=4 then if 1<f then for e=20,82 do if f~=3 then _=s[c];break;end;u=s[b];break;end;else u=s[b];end else if 6~=f then z(_,u);else f=-2;end end end f=f+1 end break;end;local f,u,_,c,a,k;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=k[a];end r=r+1;e=l[r];r=e[d];until true;else local f,u,_,c,a,k;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];f=e[n]k,c=b(z[f](z[f+1]))s=c+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]k={z[f](h(z,f+1,s))};a=0;for e=f,e[t]do a=a+1;z[e]=k[a];end r=r+1;e=l[r];r=e[d];end end else if f>318 then if 318~=f then repeat if 319~=f then local f,o;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);break;end;z[e[n]]=z[e[d]]-z[e[t]];until true;else local f,o;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);end else local f;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end end else if f>314 then if f>=316 then if 314~=f then repeat if f>316 then local f;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];break;end;local h,a,s,b,o,f;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if 3<=f then if 4<f then if f~=5 then f=-2;else z(o,b);end else if-1<=f then repeat if 3~=f then o=h[a];break;end;b=h[s];until true;else o=h[a];end end else if 0<f then if f>-1 then repeat if f~=1 then s=d;break;end;a=n;until true;else s=d;end else h=e;end end f=f+1 end r=r+1;e=l[r];f=0;while f>-1 do if 2>=f then if 0<f then if-2<=f then for e=40,56 do if f>1 then s=d;break;end;a=n;break;end;else s=d;end else h=e;end else if 5>f then if 3<f then o=h[a];else b=h[s];end else if 6>f then z(o,b);else f=-2;end end end f=f+1 end r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=0;while f>-1 do if f<3 then if 1<=f then if f>=-1 then for e=21,57 do if 1<f then s=d;break;end;a=n;break;end;else s=d;end else h=e;end else if 4>=f then if 0<=f then for e=25,84 do if 3<f then o=h[a];break;end;b=h[s];break;end;else o=h[a];end else if 2<=f then for e=46,57 do if 6>f then z(o,b);break;end;f=-2;break;end;else z(o,b);end end end f=f+1 end r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];until true;else local f;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end else local f;z[e[n]]=a[e[d]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];do return end;end else if 312<f then if 312<f then repeat if f~=314 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;break;end;local e=e[n]z[e]=z[e](h(z,e+1,s))until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];if(z[e[n]]<e[t])then r=r+1;else r=e[d];end;end else local r=e[n]z[r]=z[r](h(z,r+1,e[d]))end end end end else if f<=336 then if f<331 then if 327>=f then if f>=326 then if f>323 then for h=13,98 do if f>326 then local n=e[n];local r=z[e[d]];z[n+1]=r;z[n]=r[e[t]];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];break;end;else local r=e[n];local n=z[e[d]];z[r+1]=n;z[r]=n[e[t]];end else local f,a,k,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]a,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 o=0;for e=f,s do o=o+1;z[e]=a[o];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))end else if f<329 then local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;else if 327<=f then repeat if f~=329 then z[e[n]][z[e[d]]]=z[e[t]];break;end;a[e[d]]=z[e[n]];until true;else z[e[n]][z[e[d]]]=z[e[t]];end end end else if f<334 then if f>=332 then if f~=333 then z[e[n]][e[d]]=z[e[t]];else local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];do return end;end else local f,k,c,u,a;z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n];k=z[e[d]];z[f+1]=k;z[f]=k[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]c,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=c[a];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=z[e[d]];end else if 335>f then local f,s;f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];z[e[n]]=(e[d]~=0);else if 333<f then for a=23,70 do if 336>f then local f,u,k,a;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);end end end end else if 343<=f then if f<346 then if f<344 then local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])else if f>=340 then repeat if 345~=f then local l=e[n];local t=e[t];local n=l+2 local l={z[l](z[l+1],z[n])};for e=1,t do z[n+e]=l[e];end;local l=l[1]if l then z[n]=l r=e[d];else r=r+1;end;break;end;local f,u,k,a;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))until true;else local f,k,u,a;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]k,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))end end else if 347<f then if 348==f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];do return end;else local f,s;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];s=z[e[d]];z[f+1]=s;z[f]=s[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];r=e[d];end else if 344<f then for o=28,56 do if 347~=f then local o;for f=0,4 do if f>1 then if f<=2 then z[e[n]]=z[e[d]];r=r+1;e=l[r];else if 0~=f then for t=40,96 do if f~=4 then o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;if not z[e[n]]then r=r+1;else r=e[d];end;break;end;else if not z[e[n]]then r=r+1;else r=e[d];end;end end else if f<1 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end break;end;local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))break;end;else local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))end end end else if 340>f then if 337>=f then local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];else if f>=335 then repeat if f~=338 then local f,k,u,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]k,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=a[e[d]];break;end;local o;for f=0,4 do if f>=2 then if f<=2 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else if 2<=f then for t=44,80 do if f~=3 then if z[e[n]]then r=r+1;else r=e[d];end;break;end;o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;else if z[e[n]]then r=r+1;else r=e[d];end;end end else if 1~=f then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];else z[e[n]]=a[e[d]];r=r+1;e=l[r];end end end until true;else local f,u,k,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 o=0;for e=f,s do o=o+1;z[e]=u[o];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=a[e[d]];end end else if 341<=f then if f~=338 then for a=24,53 do if f~=342 then z[e[n]]=o[e[d]];break;end;local f,k,u,a;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]k,u=b(z[f](h(z,f+1,e[d])))s=u+f-1 a=0;for e=f,s do a=a+1;z[e]=k[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))break;end;else local f,u,k,a;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))end else local l=e[n];local d={};for e=1,#u do local e=u[e];for r=0,#e do local e=e[r];local n=e[1];local r=e[2];if n==z and r>=l then d[r]=n[r];e[1]=d;end;end;end;end end end end end else if 375<=f then if 386<f then if 393<=f then if 395<f then if 397<f then if 399==f then local f,o;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;else z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=(e[d]~=0);r=r+1;e=l[r];z[e[n]][z[e[d]]]=z[e[t]];end else if f>396 then local r=e[n];local n=z[e[d]];z[r+1]=n;z[r]=n[z[e[t]]];else z[e[n]]=z[e[d]]^z[e[t]];end end else if 394>f then local f,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))else if f>391 then repeat if f~=395 then local e=e[n]local n,r=b(z[e](h(z,e+1,s)))s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;break;end;z[e[n]]=z[e[d]]-e[t];until true;else local e=e[n]local n,r=b(z[e](h(z,e+1,s)))s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;end end end else if 390<=f then if 391<=f then if f>=387 then repeat if 392~=f then local f,k,u,o;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];f=e[n]k,u=b(z[f](z[f+1]))s=u+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];z(e[n],e[d]);break;end;if(z[e[n]]<z[e[t]])then r=r+1;else r=e[d];end;until true;else if(z[e[n]]<z[e[t]])then r=r+1;else r=e[d];end;end else local t,k,a,f;t=e[n]k,a=b(z[t](z[t+1]))s=a+t-1 f=0;for e=t,s do f=f+1;z[e]=k[f];end;r=r+1;e=l[r];t=e[n]z[t](h(z,t+1,s))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];if z[e[n]]then r=r+1;else r=e[d];end;end else if f>387 then if f>=385 then for a=27,87 do if f~=388 then local e=e[n];local r=z[e];for e=e+1,s do k.XeftVFam(r,z[e])end;break;end;local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];r=e[d];break;end;else local e=e[n];local r=z[e];for e=e+1,s do k.XeftVFam(r,z[e])end;end else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];end end end else if f>380 then if f<384 then if f<382 then local f,k,a,o;z(e[n],e[d]);r=r+1;e=l[r];f=e[n]k,a=b(z[f](h(z,f+1,e[d])))s=a+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,s))r=r+1;e=l[r];z[e[n]]=z[e[d]]+z[e[t]];r=r+1;e=l[r];f=e[n]k,a=b(z[f](z[f+1]))s=a+f-1 o=0;for e=f,s do o=o+1;z[e]=k[o];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))r=r+1;e=l[r];r=e[d];else if f>=379 then for k=12,84 do if f>382 then local f,u,c,_,k;z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]c,_=b(z[f](z[f+1]))s=_+f-1 k=0;for e=f,s do k=k+1;z[e]=c[k];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))break;end;local f,o;z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);break;end;else local f,u,c,_,k;z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n];u=z[e[d]];z[f+1]=u;z[f]=u[e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]c,_=b(z[f](z[f+1]))s=_+f-1 k=0;for e=f,s do k=k+1;z[e]=c[k];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))end end else if 384>=f then z[e[n]]=#z[e[d]];else if 385<f then local f,h;f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];else if(z[e[n]]~=e[t])then r=r+1;else r=e[d];end;end end end else if f<=377 then if f>=376 then if f>375 then repeat if f<377 then local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];r=e[d];break;end;local t;for f=0,4 do if f<2 then if-3<f then repeat if 0~=f then t=e[n]z[t]=z[t](z[t+1])r=r+1;e=l[r];break;end;z(e[n],e[d]);r=r+1;e=l[r];until true;else t=e[n]z[t]=z[t](z[t+1])r=r+1;e=l[r];end else if f<3 then z(e[n],e[d]);r=r+1;e=l[r];else if 0<f then for o=20,73 do if f~=4 then z(e[n],e[d]);r=r+1;e=l[r];break;end;t=e[n]z[t](h(z,t+1,e[d]))break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end end until true;else local f;z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];r=e[d];end else local h,s,b,f,a,t,o,u;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];t=0;while t>-1 do if 2<t then if 5<=t then if 4<t then repeat if 6>t then z(a,f);break;end;t=-2;until true;else z(a,f);end else if t>-1 then repeat if t~=3 then a=h[s];break;end;f=h[b];until true;else f=h[b];end end else if 0<t then if t>0 then for e=46,52 do if 2~=t then s=n;break;end;b=d;break;end;else s=n;end else h=e;end end t=t+1 end r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];o=e[n];u=z[o];for e=o+1,e[d]do k.XeftVFam(u,z[e])end;end else if 379>f then local f,h;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[e[t]];else if 378<=f then for h=19,92 do if 379~=f then for f=0,4 do if f>=2 then if f<=2 then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];else if f==4 then if(z[e[n]]<=e[t])then r=e[d];else r=r+1;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f>-3 then for h=22,86 do if f>0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end break;end;if(z[e[n]]<z[e[t]])then r=r+1;else r=e[d];end;break;end;else for f=0,4 do if f>=2 then if f<=2 then z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];else if f==4 then if(z[e[n]]<=e[t])then r=e[d];else r=r+1;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end else if f>-3 then for h=22,86 do if f>0 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];break;end;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end end end end end end end end else if f<362 then if 356>f then if f<353 then if 350>=f then local f;for s=0,4 do if s>=2 then if 3<=s then if s~=-1 then for t=12,52 do if s<4 then z[e[n]]=z[e[d]];r=r+1;e=l[r];break;end;f=e[n]z[f](h(z,f+1,e[d]))break;end;else f=e[n]z[f](h(z,f+1,e[d]))end else z[e[n]]=o[e[d]];r=r+1;e=l[r];end else if s==0 then z(e[n],e[d]);r=r+1;e=l[r];else z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];end end end else if f>351 then if z[e[n]]then r=r+1;else r=e[d];end;else z[e[n]]=(e[d]~=0);end end else if f>=354 then if 351<=f then repeat if f~=355 then local f,h;for o=0,4 do if o<=1 then if-3<o then repeat if 1>o then f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[z[e[t]]];r=r+1;e=l[r];break;end;z[e[n]]={};r=r+1;e=l[r];until true;else f=e[n];h=z[e[d]];z[f+1]=h;z[f]=h[z[e[t]]];r=r+1;e=l[r];end else if o<3 then z(e[n],e[d]);r=r+1;e=l[r];else if o>=1 then repeat if 4>o then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);until true;else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end end end end break;end;local f,o,s;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];o=e[d];s=z[o]for e=o+1,e[t]do s=s..z[e];end;z[e[n]]=s;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];r=e[d];until true;else local h,o;for f=0,4 do if f<=1 then if-3<f then repeat if 1>f then h=e[n];o=z[e[d]];z[h+1]=o;z[h]=o[z[e[t]]];r=r+1;e=l[r];break;end;z[e[n]]={};r=r+1;e=l[r];until true;else h=e[n];o=z[e[d]];z[h+1]=o;z[h]=o[z[e[t]]];r=r+1;e=l[r];end else if f<3 then z(e[n],e[d]);r=r+1;e=l[r];else if f>=1 then repeat if 4>f then z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];break;end;z(e[n],e[d]);until true;else z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];end end end end end else local f,o;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))end end else if f>358 then if 360>f then if(z[e[n]]==z[e[t]])then r=r+1;else r=e[d];end;else if f>360 then z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];o[e[d]]=z[e[n]];else local f;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f]()r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];if(e[n]<=z[e[t]])then r=r+1;else r=e[d];end;end end else if f>=357 then if f~=355 then repeat if 357~=f then z[e[n]]=e[d]-z[e[t]];break;end;z[e[n]]=z[e[d]]%e[t];until true;else z[e[n]]=z[e[d]]%e[t];end else local f;f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]z[f](z[f+1])r=r+1;e=l[r];z[e[n]]=a[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];end end end else if 368>f then if f<365 then if 362<f then if f>=361 then for h=46,58 do if 363<f then z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]=o[e[d]];break;end;local e=e[n]local n,r=b(z[e]())s=r+e-1 local r=0;for e=e,s do r=r+1;z[e]=n[r];end;break;end;else local r=e[n]local n,e=b(z[r]())s=e+r-1 local e=0;for r=r,s do e=e+1;z[r]=n[e];end;end else z[e[n]][e[d]]=z[e[t]];end else if f>=366 then if 367>f then local f;z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][z[e[t]]];r=r+1;e=l[r];f=e[n]z[f]=z[f](z[f+1])else local h,s,b,a,o,f;for f=0,4 do if f>1 then if 2>=f then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];else if 1<f then repeat if 4~=f then z(e[n],e[d]);r=r+1;e=l[r];break;end;z[e[n]]=(e[d]~=0);until true;else z(e[n],e[d]);r=r+1;e=l[r];end end else if f>=-2 then repeat if 0~=f then f=0;while f>-1 do if 3>f then if f>0 then if f>=-2 then repeat if 1~=f then b=d;break;end;s=n;until true;else s=n;end else h=e;end else if f<5 then if 1<=f then repeat if 4>f then a=h[b];break;end;o=h[s];until true;else o=h[s];end else if f>1 then for e=47,68 do if f<6 then z(o,a);break;end;f=-2;break;end;else z(o,a);end end end f=f+1 end r=r+1;e=l[r];break;end;f=0;while f>-1 do if f>=3 then if f<=4 then if f~=0 then repeat if f>3 then o=h[s];break;end;a=h[b];until true;else a=h[b];end else if 1<=f then for e=21,68 do if f>5 then f=-2;break;end;z(o,a);break;end;else f=-2;end end else if 0<f then if-2<=f then for e=27,68 do if 1~=f then b=d;break;end;s=n;break;end;else b=d;end else h=e;end end f=f+1 end r=r+1;e=l[r];until true;else f=0;while f>-1 do if 3>f then if f>0 then if f>=-2 then repeat if 1~=f then b=d;break;end;s=n;until true;else s=n;end else h=e;end else if f<5 then if 1<=f then repeat if 4>f then a=h[b];break;end;o=h[s];until true;else o=h[s];end else if f>1 then for e=47,68 do if f<6 then z(o,a);break;end;f=-2;break;end;else z(o,a);end end end f=f+1 end r=r+1;e=l[r];end end end end else local f,o;z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[z[e[t]]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];end end else if f>370 then if f>=373 then if f<374 then z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]();r=r+1;e=l[r];z[e[n]]=o[e[d]];else local o;for f=0,4 do if 1>=f then if-1~=f then for t=41,70 do if f<1 then z(e[n],e[d]);r=r+1;e=l[r];break;end;o=e[n]z[o]=z[o](h(z,o+1,e[d]))r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end else if 2<f then if 0~=f then repeat if 3~=f then if(z[e[n]]<=e[t])then r=r+1;else r=e[d];end;break;end;z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];until true;else z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];end else z[e[n]]=z[e[d]]-z[e[t]];r=r+1;e=l[r];end end end end else if f>=370 then for o=13,64 do if 372>f then local f;for o=0,4 do if o>=2 then if 2>=o then z[e[n]]=z[e[d]]*z[e[t]];r=r+1;e=l[r];else if 4~=o then f=e[n]z[f](z[f+1])r=r+1;e=l[r];else if z[e[n]]then r=r+1;else r=e[d];end;end end else if-3~=o then for t=38,97 do if o~=1 then z(e[n],e[d]);r=r+1;e=l[r];break;end;f=e[n]z[f]=z[f](h(z,f+1,e[d]))r=r+1;e=l[r];break;end;else z(e[n],e[d]);r=r+1;e=l[r];end end end break;end;local f,o;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))break;end;else local f,o;f=e[n];o=z[e[d]];z[f+1]=o;z[f]=o[e[t]];r=r+1;e=l[r];z[e[n]]={};r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];z[e[n]][e[d]]=e[t];r=r+1;e=l[r];z[e[n]][e[d]]=z[e[t]];r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,e[d]))end end else if f<369 then local f,u,k,a;z[e[n]]=o[e[d]];r=r+1;e=l[r];z[e[n]]=z[e[d]][e[t]];r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];z(e[n],e[d]);r=r+1;e=l[r];f=e[n]u,k=b(z[f](h(z,f+1,e[d])))s=k+f-1 a=0;for e=f,s do a=a+1;z[e]=u[a];end;r=r+1;e=l[r];f=e[n]z[f](h(z,f+1,s))else if f>=368 then repeat if f~=370 then if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;break;end;local f;for o=0,1 do if-3~=o then for s=12,98 do if 1~=o then z[e[n]][z[e[d]]]=z[e[t]];r=r+1;e=l[r];break;end;f=e[n]z[f](h(z,f+1,e[d]))break;end;else f=e[n]z[f](h(z,f+1,e[d]))end end until true;else if(z[e[n]]==e[t])then r=r+1;else r=e[d];end;end end end end end end end end end r=1+r;end;end;return ze end;local d=0xff;local t={};local f=(1);local n='';(function(r)local z=r local l=0x00 local e=0x00 z={(function(n)if l>0x1f then return n end l=l+1 e=(e+0xb7d-n)%0x2c return(e%0x03==0x2 and(function(z)if not r[z]then e=e+0x01 r[z]=(0x4a);end return true end)'ZiHlg'and z[0x2](0x15a+n))or(e%0x03==0x0 and(function(z)if not r[z]then e=e+0x01 r[z]=(0xc3);end return true end)'aHDA_'and z[0x3](n+0xa4))or(e%0x03==0x1 and(function(z)if not r[z]then e=e+0x01 r[z]=(0x80);end return true end)'giVbP'and z[0x1](n+0x25e))or n end),(function(t)if l>0x26 then return t end l=l+1 e=(e+0xc7a-t)%0x49 return(e%0x03==0x1 and(function(z)if not r[z]then e=e+0x01 r[z]=(0xcc);end return true end)'CPbZV'and z[0x2](0x3c8+t))or(e%0x03==0x2 and(function(z)if not r[z]then e=e+0x01 r[z]=(0xb9);n='\37';d={function()d()end};n=n..'\100\43';end return true end)'eoCEX'and z[0x3](t+0x182))or(e%0x03==0x0 and(function(z)if not r[z]then e=e+0x01 r[z]=(0x25);end return true end)'VYWzH'and z[0x1](t+0x1d1))or t end),(function(o)if l>0x30 then return o end l=l+1 e=(e+0xf70-o)%0x33 return(e%0x03==0x0 and(function(z)if not r[z]then e=e+0x01 r[z]=(0x6d);t[f]=de();f=f+d;end return true end)'mcfqW'and z[0x1](0x1f9+o))or(e%0x03==0x2 and(function(z)if not r[z]then e=e+0x01 r[z]=(0xe6);n={n..'\58 a',n};t[f]=ze();f=f+((not k.HajAUTCm)and 1 or 0);n[1]='\58'..n[1];d[2]=0xff;end return true end)'QQSWS'and z[0x2](o+0x115))or(e%0x03==0x1 and(function(z)if not r[z]then e=e+0x01 r[z]=(0xf7);d[2]=(d[2]*(re(function()t()end,h(n))-re(d[1],h(n))))+1;t[f]={};d=d[2];f=f+d;end return true end)'hmpHI'and z[0x3](o+0x1ed))or o end)}z[0x2](0x183f)end){};local e=_(h(t));t[2]={};t[1]=e(t[1])rWYSUgkLhuZMXt_=nil;e=_(h(t))return e(...);end return ne((function()local r={}local e=0x01;local z;if k.HajAUTCm then z=k.HajAUTCm(ne)else z=''end if k.eTHczeSh(z,k.KcaenhkH)then e=e+0;else e=e+1;end r[e]=0x02;r[r[e]+0x01]=0x03;return r;end)(),...)end)((function(e,z,r,n,d,l)local l;if e<=3 then if e<=1 then if-1<=e then for l=43,57 do if e~=1 then do return z(1),z(4,d,n,r,z),z(5,d,n,r)end;break;end;do return function(r,e,z)if z then local e=(r/2^(e-1))%2^((z-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(r%(e+e)>=e)and 1 or 0;end;end;end;break;end;else do return function(z,e,r)if r then local e=(z/2^(e-1))%2^((r-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(z%(e+e)>=e)and 1 or 0;end;end;end;end else if e~=-1 then for l=29,61 do if 3~=e then do return 16777216,65536,256 end;break;end;do return z(1),z(4,d,n,r,z),z(5,d,n,r)end;break;end;else do return 16777216,65536,256 end;end end else if e<6 then if 2<e then repeat if e<5 then local e=n;local l,d,n=d(2);do return function()local r,z,t,f=z(r,e(e,e),e(e,e)+3);e(4);return(f*l)+(t*d)+(z*n)+r;end;end;break;end;local e=n;do return function()local r=z(r,e(e,e),e(e,e));e(1);return r;end;end;until true;else local e=n;local f,t,d=d(2);do return function()local l,z,r,n=z(r,e(e,e),e(e,e)+3);e(4);return(n*f)+(r*t)+(z*d)+l;end;end;end else if 6>=e then do return d[r]end;else if e~=4 then for z=13,60 do if 7~=e then do return r(e,nil,r);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,n,z,d,r)if r then return e[r]elseif d then return e else e[n]=z end end})end break;end;else do return r(e,nil,r);end end end end end end),...)
+--Memories Hub Hyper - Rewrite Fixed & Update #30.3
+notis = require(game.ReplicatedStorage:WaitForChild("Notification"))
+notis.new("<Color=White>MEMORIES HUB<Color=/>"):Display()
+notis.new("<Color=Blue>Founder: deforehirimx<Color=/>"):Display() 
+notis.new("<Color=Red>Discord: https://discord.gg/RtWeughmYp<Color=/>"):Display() 
+notis.new("<Color=Yellow>Exploit Use:<Color=/> ".. identifyexecutor()):Display() 
+local memaythangskidocnguloz = "\104\116\116\112\115://\114\97\119.\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116.\99\111\109/\72\105\114\105\109\105\105/\102\52\99\107\121\111\117/\109\97\105\110\47\99\99\108\117\97"
+local OrionLib = loadstring(game:HttpGet((memaythangskidocnguloz)))()
+local Mouse = game.Players.LocalPlayer:GetMouse()
+local Toggle = Instance.new("ScreenGui")
+local LoadF = Instance.new("ImageButton")
+local LoadF2 = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local MainStroke = Instance.new("UIStroke")
+local P = game:GetService("Players")
+local LP = P.LocalPlayer
+local PG = LP.PlayerGui
+local RS = game:GetService("ReplicatedStorage")
+local Remotes = RS:WaitForChild("Remotes")
+local Remote = Remotes:WaitForChild("CommF_")
+local RunS = game:GetService("RunService")
+local Loop = RunS.RenderStepped
+local Data = LP.Data
+local WS = game:GetService("Workspace")
+local WO = WS["_WorldOrigin"]
+local VU = game:GetService("VirtualUser")
+local EnemySpawns = WO.EnemySpawns
+local Enemies = WS.Enemies
+local CameraShaker = require(RS.Util.CameraShaker)
+local GuideModule = require(RS.GuideModule)
+local Quests = require(RS.Quests)
+local VIM = game:service("VirtualInputManager")
+CameraShaker:Stop()
+Toggle.Name = "Toggle"
+Toggle.Parent = LP:WaitForChild("PlayerGui")
+Toggle.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+LoadF.Name = "LoadF"
+LoadF.Parent = Toggle
+LoadF.Active = true
+LoadF.AnchorPoint = Vector2.new(0.5, 0.5)
+LoadF.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LoadF.BorderColor3 = Color3.fromRGB(0, 0, 0)
+LoadF.BorderSizePixel = 0
+LoadF.Position = UDim2.new(0.1005885479, 0, 0.135341364, 0)
+LoadF.Selectable = false
+LoadF.Size = UDim2.new(0, 30, 0, 30)
+LoadF.Image = "rbxassetid://16147783761"
+LoadF.MouseButton1Click:Connect(function()
+	game:GetService("VirtualInputManager"):SendKeyEvent(true,"RightShift",false,game)
+end)
+MainStroke.Name = "MainStroke"
+MainStroke.Parent = LoadF
+MainStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+MainStroke.Color = Color3.fromRGB(255, 255, 255)
+MainStroke.LineJoinMode = Enum.LineJoinMode.Round
+MainStroke.Thickness = 1
+MainStroke.Transparency = 0
+MainStroke.Enabled = true
+MainStroke.Archivable = true  
+UICorner.CornerRadius = UDim.new(0, 3)
+UICorner.Parent = LoadF
+if game.PlaceId == 2753915549 then
+    Main = true
+elseif game.PlaceId == 4442272183 then
+    Dressora = true
+elseif game.PlaceId == 7449423635 then
+    Zou = true
+end
+function GetDistance(q)
+    if typeof(q) == "CFrame" then
+        return LP:DistanceFromCharacter(q.Position)
+    elseif typeof(q) == "Vector3" then
+        return LP:DistanceFromCharacter(q)
+    end
+end
+function TeleportSeaIfWrongSea(world)
+    if world == 1 then
+        if not game.PlaceId == 2753915549 then
+            RS.Remotes.CommF_:InvokeServer("TravelMain")
+            wait()
+        end
+    elseif world == 2 then
+        if not game.PlaceId == 4442272183 then
+            RS.Remotes.CommF_:InvokeServer("TravelDressrosa")
+        end
+    elseif world == 3 then
+        if not game.PlaceId == 7449423635 then
+            RS.Remotes.CommF_:InvokeServer("TravelZou")
+        end
+    end
+end
+function Notify(G, H, I)
+    if G == nil or G == "" then
+        G = "Not Titled"
+    end
+    if H == nil or H == "" then
+        H = "No Any Descriptions"
+    end
+    if type(I) ~= "number" then
+        I = 10
+    end
+    OrionLib:MakeNotification({Name = G, Content = H, Image = "rbxassetid://16161703575", Time = I})
+end
+function CheckNearestTeleporter(P)
+    local min = math.huge
+    local min2 = math.huge
+    local choose 
+    if Zou then
+        TableLocations = {
+            ["1"] = Vector3.new(-5058.77490234375, 314.5155029296875, -3155.88330078125),
+            ["2"] = Vector3.new(5756.83740234375, 610.4240112304688, -253.9253692626953),
+            ["3"] = Vector3.new(-12463.8740234375, 374.9144592285156, -7523.77392578125),
+            ["4"] = Vector3.new(28282.5703125, 14896.8505859375, 105.1042709350586),
+            ["5"] = Vector3.new(-11993.580078125, 334.7812805175781, -8844.1826171875),
+            ["6"] = Vector3.new(5314.58203125, 25.419387817382812, -125.94227600097656)
+        }
+    elseif Dressora then
+        TableLocations = {
+            ["1"] = Vector3.new(-288.46246337890625, 306.130615234375, 597.9988403320312),
+            ["2"] = Vector3.new(2284.912109375, 15.152046203613281, 905.48291015625),
+            ["3"] = Vector3.new(923.21252441406, 126.9760055542, 32852.83203125),
+            ["4"] = Vector3.new(-6508.5581054688, 89.034996032715, -132.83953857422)
+        }
+    elseif Main then
+        TableLocations = {
+            ["1"] = Vector3.new(-7894.6201171875, 5545.49169921875, -380.2467346191406),
+            ["2"] = Vector3.new(-4607.82275390625, 872.5422973632812, -1667.556884765625),
+            ["3"] = Vector3.new(61163.8515625, 11.759522438049316, 1819.7841796875),
+            ["4"] = Vector3.new(3876.280517578125, 35.10614013671875, -1939.3201904296875)
+        }
+    end
+    TableLocations2 = {}
+    for r, v in pairs(TableLocations) do
+        TableLocations2[r] = (v - P.Position).Magnitude
+    end
+    for r, v in pairs(TableLocations2) do
+        if v < min then
+            min = v
+            min2 = v
+        end
+    end    
+    for r, v in pairs(TableLocations2) do
+        if v <= min then
+            choose = TableLocations[r]
+        end
+    end
+    if min2 <= GetDistance(P) then
+        return choose
+    end
+end
+function TpEntrance(P)
+    Remote:InvokeServer("requestEntrance", P)
+    LP.Character.PrimaryPart.CFrame = CFrame.new(LP.Character.PrimaryPart.CFrame.X, LP.Character.PrimaryPart.CFrame.Y + 50, LP.Character.PrimaryPart.CFrame.Z)
+    wait(0.5)
+end
+function ToTween(Pos)
+    Distance = (Pos.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+    if Distance < 25 then
+        Speed = 325
+        LP.Character.PrimaryPart.CFrame = Pos
+    elseif Distance < 50 then
+        Speed = 325
+        LP.Character.PrimaryPart.CFrame = Pos
+    elseif Distance < 150 then
+        Speed = 325
+        LP.Character.PrimaryPart.CFrame = Pos
+    elseif Distance < 250 then
+        Speed = 325
+        LP.Character.PrimaryPart.CFrame = Pos
+    elseif Distance < 500 then
+        Speed = 325
+    elseif Distance < 750 then
+        Speed = 325
+    elseif Distance >= 1000 then
+        Speed = 325
+    end
+    tween = game:GetService("TweenService"):Create(
+        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
+        TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear),
+        {CFrame = Pos}
+    )
+    tween:Play()
+end
+function ToTweenWithEntrace(Positions)
+    if LP.Character and LP.Character:FindFirstChild("Humanoid") and LP.Character.Humanoid.Health > 0 then
+        if not Speed or typeof(Speed) ~= "number" then
+            Speed = 325
+        end
+        Dis = GetDistance(Positions)       
+        if Dis <= 300 then
+            LP.Character.PrimaryPart.CFrame = Positions
+        end
+        tween = game:GetService("TweenService"):Create(LP.Character.PrimaryPart,TweenInfo.new(Dis/Speed, Enum.EasingStyle.Linear),{CFrame = Positions})
+        local ac = CheckNearestTeleporter(Positions)
+        if ac then
+            pcall(function()
+                tween:Cancel()
+            end)
+            TpEntrance(ac)
+        end
+        tween:Play()
+    end
+end
+function RemoveLvTitle(mob)
+    mob = mob:gsub(" %pLv. %d+%p", "")
+    return mob
+end
+function CheckQuest()
+    local Lvl = Data.Level.Value
+    local IgnoreQuests = {"BartiloQuest", "Trainees", "MarineQuest", "CitizenQuest"}
+    local Quest = {}
+    local LevelReq = 0
+	if Lvl >= 700 and Main then
+        Quest["MobName"] = "Galley Captain"
+        Quest["QuestName"] = "FountainQuest"
+        Quest["ID"] = 2
+    elseif Lvl >= 1450 and Dressora then
+        Quest["MobName"] = "Water Fighter"
+        Quest["QuestName"] = "ForgottenQuest"
+        Quest["ID"] = 2
+    else
+        for i,v in pairs(Quests) do
+            for a,b in pairs(v) do
+                for j, k in pairs(b["Task"]) do
+                    if b["LevelReq"] <= Lvl and b["LevelReq"] >= LevelReq and not table.find(IgnoreQuests, i) and k > 1 then		            
+                        Quest["QuestName"] = i
+                        Quest["ID"] = a
+                        Quest["MobName"] = j
+                        LevelReq = b["LevelReq"]
+                    end
+                end	
+            end
+        end
+    end
+	return Quest
+end
+for i, v in pairs(CheckQuest()) do
+    if typeof(v) ~= "table" then
+        print(i, v)
+    else
+        print(i, #v)
+    end
+end
+function GetMob()
+    local ae = {}
+    for r, v in pairs(game.Workspace.MobSpawns:GetChildren()) do
+        if not table.find(ae, v.Name) then
+            table.insert(ae, v.Name)
+        end
+    end
+    if string.find(WO.EnemySpawns:GetChildren()[1].Name, "Lv.") then
+        for r, v in pairs(ae) do
+            local ab = v
+            v = tostring(v:gsub(" %pLv. %d+%p", ""))
+            if v == CheckQuest()["MobName"] then
+                return ab
+            end
+        end
+    else
+        return CheckQuest()["MobName"]
+    end
+end
+function GetPosMob(Mob)
+    local CFrameTab = {}
+	if EnemySpawns:FindFirstChild(Mob) then
+    	for i, v in pairs(EnemySpawns:GetChildren()) do
+    	    if v:IsA("Part") and v.Name == Mob then
+	            table.insert(CFrameTab, v.CFrame)
+	        end
+	    end
+	end
+	return CFrameTab
+end
+function NPCPos()
+    for i,v in pairs(GuideModule["Data"]["NPCList"]) do
+		if v["NPCName"] == GuideModule["Data"]["LastClosestNPC"] then
+			return i["CFrame"]
+		end
+	end
+end
+function GetQuest()
+    local Distance = GetDistance(NPCPos())
+    local questname, id = CheckQuest()["QuestName"], CheckQuest()["ID"]
+    if Distance <= 20 and LP.Character.Humanoid.Health > 0 then
+        Remote:InvokeServer("StartQuest", questname, id)
+    else
+        if Distance > 2000 then
+            BypassTele(NPCPos())
+        else
+            ToTween(NPCPos())
+        end
+    end
+    Remote:InvokeServer("SetSpawnPoint")
+end
+
+function HopServer(bO)
+    if not bO then
+        bO = 10
+    end
+    ticklon = tick()
+    repeat
+        task.wait()
+    until tick() - ticklon >= 1
+    local function Hop()
+        for r = 1, math.huge do
+            if ChooseRegion == nil or ChooseRegion == "" then
+                ChooseRegion = "Singapore"
+            else
+                LP.PlayerGui.ServerBrowser.Frame.Filters.SearchRegion.TextBox.Text =
+                    ChooseRegion
+            end
+            local bP = RS.__ServerBrowser:InvokeServer(r)
+            for k, v in pairs(bP) do
+                if k ~= game.JobId and v["Count"] < bO then
+                   RS.__ServerBrowser:InvokeServer("teleport", k)
+                end
+            end
+        end
+        return false
+    end 
+    if not getgenv().Loaded then
+        local function bQ(v)
+            if v.Name == "ErrorPrompt" then
+                if v.Visible then
+                    if v.TitleFrame.ErrorTitle.Text == "Teleport Failed" then
+                        HopServer()
+                        v.Visible = false
+                    end
+                end
+                v:GetPropertyChangedSignal("Visible"):Connect(
+                    function()
+                        if v.Visible then
+                            if v.TitleFrame.ErrorTitle.Text == "Teleport Failed" then
+                                HopServer()
+                                v.Visible = false
+                            end
+                        end
+                    end
+                )
+            end
+        end
+        for k, v in pairs(game.CoreGui.RobloxPromptGui.promptOverlay:GetChildren()) do
+            bQ(v)
+        end
+        game.CoreGui.RobloxPromptGui.promptOverlay.ChildAdded:Connect(bQ)
+        getgenv().Loaded = true
+    end
+    while not Hop() do
+        wait()
+    end
+end
+local x2Code = {
+    "KITTGAMING",
+    "ENYU_IS_PRO",
+    "FUDD10",
+    "BIGNEWS",
+    "THEGREATACE",
+    "SUB2GAMERROBOT_EXP1",
+    "STRAWHATMAIME",
+    "SUB2OFFICIALNOOBIE",
+    "SUB2NOOBMASTER123",
+    "SUB2DAIGROCK",
+    "AXIORE",
+    "TANTAIGAMIMG",
+    "STRAWHATMAINE",
+    "JCWK",
+    "FUDD10_V2",
+    "SUB2FER999",
+    "MAGICBIS",
+    "TY_FOR_WATCHING",
+    "STARCODEHEO",
+    "STAFFBATTLE",
+    "ADMIN_STRENGTH",
+    "DRAGONABUSE",
+}
+function EClick()
+    game:GetService("VirtualUser"):CaptureController()
+    game:GetService("VirtualUser"):Button1Down(Vector2.new(0, 1, 0, 1))
+end
+function CheckColorRipIndra()
+    conchodonand = {}
+    for r, v in next, game:GetService("Workspace").Map["Boat Castle"].Summoner.Circle:GetChildren() do
+        if v:IsA("Part") and v:FindFirstChild("Part") and v.Part.BrickColor.Name == "Dark stone grey" then
+            conchodonand[v.BrickColor.Name] = v
+        end
+    end
+    return conchodonand
+end
+function ActivateColor(cw)
+    concho = {["Hot pink"] = "Winter Sky", ["Really red"] = "Pure Red", ["Oyster"] = "Snow White"}
+    conchogg = concho[cw]
+    if conchogg then
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("activateColor", conchogg)
+    end
+end
+function AutoActiveColorRip_Indra()
+    for r, v in pairs(CheckColorRipIndra()) do
+        ActivateColor(r)
+        Tweento(v.CFrame)
+        firetouchinterest(v.TouchInterest)
+    end
+end
+function GetWeapon(bh)
+    s = ""
+    for r, v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+        if v:IsA("Tool") and v.ToolTip == bh then
+            s = v.Name
+        end
+    end
+    for r, v in pairs(game.Players.LocalPlayer.Character:GetChildren()) do
+        if v:IsA("Tool") and v.ToolTip == bh then
+            s = v.Name
+        end
+    end
+    return s
+end
+function EWeapon(ToolSe)
+    if va then
+        return
+    end
+    if Selecttool == "" or Selecttool == nil then
+        Selecttool = "Melee"
+    end
+    ToolSe = GetWeapon(Selecttool)
+    if LP.Backpack:FindFirstChild(ToolSe) then
+        NoClip = true
+        local bi = LP.Backpack:FindFirstChild(ToolSe)
+        wait(.4)
+        LP.Character.Humanoid:EquipTool(bi)
+        NoClip = false
+    end
+end
+function EBuso()
+    if not LP.Character:FindFirstChild("HasBuso") then
+        RS.Remotes.CommF_:InvokeServer("Buso")
+    end
+end
+function CheckVerRace()
+    local v0011 = game.ReplicatedStorage.Remotes.CommF_:InvokeServer("Wenlocktoad", "1")
+    local v0022 = game.ReplicatedStorage.Remotes.CommF_:InvokeServer("Alchemist", "1")
+    if LP.Character:FindFirstChild("RaceTransformed") then
+        return LP.Data.Race.Value .. " V4"
+    end
+    if v0011 == -2 then
+        return LP.Data.Race.Value .. " V3"
+    end
+    if v0022 == -2 then
+        return LP.Data.Race.Value .. " V2"
+    end
+    return LP.Data.Race.Value .. " V1"
+end
+local radius = 25
+local angle = 0
+function getNextPosition(center)
+    angle = angle + 5
+    return center + Vector3.new(math.sin(math.rad(angle)) * radius, 0, math.cos(math.rad(angle)) * radius)
+end
+local radius2 = 120
+function getNextPosition2(center)
+    angle = angle + 5
+    return center + Vector3.new(math.sin(math.rad(angle)) * radius2, 0, math.cos(math.rad(angle)) * radius2)
+end
+spawn(function()
+    game:GetService("RunService").Stepped:Connect(function()
+        if NoClip and LP.Character and LP.Character:FindFirstChild("Humanoid") then
+            setfflag("HumanoidParallelRemoveNoPhysics", "False")
+            setfflag("HumanoidParallelRemoveNoPhysicsNoSimulate2", "False")
+            if not game.Players.LocalPlayer.Character.Head:FindFirstChild("BodyVelocity") then
+                local ag = Instance.new("BodyVelocity")
+                ag.Velocity = Vector3.new(0, 0, 0)
+                ag.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+                ag.P = 9000
+                ag.Parent = game.Players.LocalPlayer.Character.Head
+                for r, v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+                    if v:IsA("BasePart") then
+                        v.CanCollide = false
+                    end
+                end
+            end
+            for _, v in pairs(game:GetService("Players").LocalPlayer.Character:GetDescendants()) do
+                if v:IsA("BasePart") then
+                    v.CanCollide = false    
+                end
+            end
+        elseif not NoClip and game.Players.LocalPlayer.Character.Head:FindFirstChild("BodyVelocity") then
+            game.Players.LocalPlayer.Character.Head:FindFirstChild("BodyVelocity"):Destroy()
+        end
+    end)
+end)
+function GetPlayerLevelList(cb)
+    namel = {}
+    for i,v in pairs(game.Players:GetChildren()) do
+        pcall(function()
+            if v.Name ~= LP.Name and v:FindFirstChild("Data") and v.Data.Level and (cb and not cb[v.Name]) and v.Character and (LP.Character.HumanoidRootPart.Position - v.Character.HumanoidRootPart.Position).Magnitude <= 15000 then
+                namel[v.Name] = v.Data.Level.Value
+            end
+        end)
+    end
+    return namel
+end
+cc2 = {}
+function getLowestLevelPlayer()
+    if TargetedPlayer then
+        return TargetedPlayer
+    end
+    cc = GetPlayerLevelList(cc2)
+    min = 2450
+    for r, v in pairs(cc) do
+        if v < min then
+            min = v
+        end
+    end
+    for r, v in pairs(cc) do
+        if v <= min then
+            return r
+        end
+    end
+end
+function ChestNearF()
+    if not WS:FindFirstChild("Chest1") and not WS:FindFirstChild("Chest2") and not WS:FindFirstChild("Chest3") then
+        return nil
+    end
+    min = math.huge
+    chests = {}
+    for r, v in pairs(game.Workspace:GetChildren()) do
+        if string.find(v.Name, "Chest") then
+            table.insert(chests, v.CFrame)
+        end
+    end
+    for r, v in pairs(chests) do
+        if (v.Position - LP.Character.HumanoidRootPart.Position).Magnitude < min then
+            min = (v.Position - LP.Character.HumanoidRootPart.Position).Magnitude
+        end
+    end
+    for r, v in pairs(chests) do
+        if (v.Position - LP.Character.HumanoidRootPart.Position).Magnitude <= min then
+            return v
+        end
+    end
+end
+function TempleTime()
+    RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(28282.5703125, 14896.8505859375, 105.1042709350586))
+end
+local bonemobs = {
+    "Reborn Skeleton",
+    "Living Zombie",
+    "Demonic Soul",
+    "Posessed Mummy"
+}
+function CheckBoneMob()
+    for i,v in next, Enemies:GetChildren() do
+        if v:IsA("Model") and table.find(bonemobs, v.Name) and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+            return v
+        end
+    end
+end
+local cakemobs = {
+    "Cookie Crafter",
+    "Cake Guard",
+    "Baking Staff",
+    "Head Baker"
+}
+function CheckCakeMob()
+    for i,v in next, Enemies:GetChildren() do
+        if v:IsA("Model") and table.find(cakemobs, v.Name) and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+            return v
+        end
+    end
+end
+local Bosscake = {
+    "Dough King",
+    "Cake Prince"
+}
+function CheckBossCake()
+    for i,v in pairs(Enemies:GetChildren()) do
+        if table.find(Bosscake, v.Name) and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+            return v
+        end
+    end
+    for i,v in pairs(RS:GetChildren()) do
+        if table.find(Bosscake, v.Name) and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+            return v
+        end
+    end
+end
+local elitemob = {
+    "Deandre",
+    "Urban",
+    "Diablo"
+}
+function CheckElite()
+    return MobGet(elitemob, true)
+end
+spawn(function()
+    while wait() do
+        if StartFarms or DoughKingKill or TweentoIsland then
+            NoClip = true
+        else
+            NoClip = false
+            StopTween()
+        end
+    end
+end)
+function DisableTween(v0)
+    if not v0 then
+        NoClip = false
+        ToTween(LP.Character.HumanoidRootPart.CFrame)
+        StopTween()
+    end
+end
+function StopTween()
+    pcall(function()
+        tween:Cancel()
+    end)
+end
+function CheckSeaBeastTrial()
+    if not WS.Map:FindFirstChild("FishmanTrial") then
+        chodienspamhirimixienchetcuchungmay = true
+        return nil
+    end
+    if WO.Locations:FindFirstChild("Trial of Water") then
+        FishmanTrial = WO.Locations:FindFirstChild("Trial of Water")
+    end
+    if FishmanTrial then
+        for r, v in next, WS.SeaBeasts:GetChildren() do
+            if string.find(v.Name, "SeaBeast") and v:FindFirstChild("HumanoidRootPart") and (v.HumanoidRootPart.Position - FishmanTrial.Position).Magnitude <= 1500 then
+                if v.Health.Value > 0 then
+                    return v
+                end
+            end
+        end
+    end
+end
+function CheckMasSkill()
+    if not SelectTypeMas then
+        return
+    end
+    if SelectTypeMas == "Devil Fruits" then
+        SMasWeapon = LP.Data.DevilFruit.Value
+    elseif SelectTypeMas == "Gun" then
+        SMasWeapon = ""
+        BPCH = {LP.Backpack, LP.Character}
+        for hi,ri in pairs(BPCH) do
+            for r, v in pairs(ri:GetChildren()) do
+                if v:IsA("Tool") and v.ToolTip == "Gun" then
+                    SMasWeapon = v.Name
+                end
+            end
+        end
+    end
+    if SMasWeapon and SMasWeapon ~= "" then
+        if LP.Backpack:FindFirstChild(SMasWeapon) or LP.Character:FindFirstChild(SMasWeapon) then
+            if LP.PlayerGui.Main.Skills:FindFirstChild(SMasWeapon) then
+                for r, v in next, LP.PlayerGui.Main.Skills[SMasWeapon]:GetChildren() do
+                    if v:IsA("Frame") then
+                        if table.find(RealSkillSelected, v.Name) and v.Name ~= "Template" and v.Title.TextColor3 == Color3.new(1, 1, 1) and v.Cooldown.Size == UDim2.new(0, 0, 1, -1) or v.Cooldown.Size == UDim2.new(1, 0, 1, -1) then
+                            return SMasWeapon, v.Name
+                        end
+                    end
+                end
+            else
+                EquipWeaponName(SMasWeapon)
+            end
+        end
+    end
+    if SelectTypeMas == "Gun" then
+        return SMasWeapon, nil
+    end
+end
+spawn(function()
+    local gg = getrawmetatable(game)
+    local old = gg.__namecall
+    setreadonly(gg,false)
+    gg.__namecall = newcclosure(function(...)
+        local method = getnamecallmethod()
+        local args = {...}
+        if tostring(method) == "FireServer" then
+            if tostring(args[1]) == "RemoteEvent" then
+                if tostring(args[2]) ~= "true" and tostring(args[2]) ~= "false" then
+                    if aim and CFrameHunt ~= nil then
+                        args[2] = CFrameHunt.Position
+                        return old(unpack(args))
+                    end
+                end
+            end
+        end
+        return old(...)
+    end)
+end)
+local old;
+old = hookmetamethod(game, "__index", function(self, ...) 
+    local a0 = {...} 
+    local a1 = getnamecallmethod() 
+    if aim and CFrameHunt ~= nil and tostring(getcallingscript()) == "Mouse" and tostring(self) == "InputObject" and tostring(a0[1]) == "Position" then
+        local a2 = game.Workspace.CurrentCamera:WorldToScreenPoint((CFrameHunt*CFrame.new(0,-2,-2)).Position)
+        return Vector2.new(a2.X, a2.Y)
+    end
+    return old(self, unpack({...}))
+end)
+function getDirection(Origin, Position)
+    return (Position - Origin).Unit * 1000
+end
+--- Hook aim
+local oldNamecall
+oldNamecall = hookmetamethod(game, "__namecall", newcclosure(function(...)
+    local Method = getnamecallmethod()
+    local Arguments = {...}
+    local self = Arguments[1]
+    if tostring(getcallingscript()) == "Mouse" and self == game.Workspace and not checkcaller() then
+        if Method == "FindPartOnRayWithIgnoreList" then
+            if aim and CFrameHunt ~= nil then
+                Origin = Arguments[2].Origin
+                Direction = getDirection(Origin, (CFrameHunt*CFrame.new(0,-2,-2)).Position)
+                Arguments[2] = Ray.new(Origin, Direction) 
+            end
+        end 
+    end 
+    return oldNamecall(unpack(Arguments)) 
+end))
+local h = {
+    ["CDAAT"] = 80,
+    ["TimeWait"] = 1
+}
+local Aaaaaaaaa = "memaybeohub/Function-Scripts/main/test2.lua"
+FastAttackConnector = loadstring(game:HttpGet("https://raw.githubusercontent.com/" .. Aaaaaaaaa))()
+spawn(function()
+    while wait() do
+        if UseAttack or NoCD then
+            FastAttackConnector:InputSetting(h)
+            FastAttackConnector:InputValue(h["CDAAT"], h["TimeWait"])
+            FastAttackConnector:Attack(true)
+        else
+            FastAttackConnector:Attack(false)
+        end
+    end
+end)
+function CheckSwan()
+    for r, v in pairs(Enemies:GetChildren()) do
+        if v.Name == "Swan Pirate" and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+            return true
+        end
+    end
+end
+function CheckBoss(vl)
+    if RS:FindFirstChild(vl) then
+        for r, v in pairs(RS:GetChildren()) do
+            if v.Name == vl and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+    if Enemies:FindFirstChild(vl) then
+        for r, v in pairs(Enemies:GetChildren()) do
+            if v.Name == vl and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+end
+function ReturnB(vl)
+    if RS:FindFirstChild(vl) then
+        for r, v in pairs(RS:GetChildren()) do
+            if v.Name == vl and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+    if Enemies:FindFirstChild(vl) then
+        for r, v in pairs(Enemies:GetChildren()) do
+            if v.Name == vl and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+    return false
+end
+function UpV3NoTween()
+    Arowe = CFrame.new(-1988.55322,124.841248,-70.4718018,0.173624337,0,0.984811902,0,1,0,-0.984811902,0,0.173624337) * CFrame.new(0, 3, 0)
+    local args = {[1] = "Wenlocktoad", [2] = "3"}
+    RS.Remotes.CommF_:InvokeServer(unpack(args))
+end
+function SendKeyEvents(c9, ca)
+    if ca == nil then
+        game:service("VirtualInputManager"):SendKeyEvent(true, c9, false, game)
+        task.wait()
+        game:service("VirtualInputManager"):SendKeyEvent(false, c9, false, game)
+    else
+        game:service("VirtualInputManager"):SendKeyEvent(true, c9, false, game)
+        task.wait(ca)
+        game:service("VirtualInputManager"):SendKeyEvent(false, c9, false, game)
+    end
+end
+function CheckIslandRaid(v6)
+    if WO.Locations:FindFirstChild("Island " .. v6) then
+        Min = 4500
+        for r,v in pairs(WO.Locations:GetChildren()) do
+            if v.Name == "Island " .. v6 and (v.Position - LP.Character.HumanoidRootPart.Position).Magnitude < Min then
+                Min = (v.Position - LP.Character.HumanoidRootPart.Position).Magnitude
+            end
+        end
+        for r,v in pairs(WO.Locations:GetChildren()) do
+            if v.Name == "Island " .. v6 and (v.Position - LP.Character.HumanoidRootPart.Position).Magnitude <= Min then
+                return v
+            end
+        end
+    end
+end
+function NextIsland()
+    TableIslandsRaid = {5, 4, 3, 2, 1}
+    for r,v in pairs(TableIslandsRaid) do
+        if CheckIslandRaid(v) and (CheckIslandRaid(v).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 4500 then
+            return CheckIslandRaid(v)
+        end
+    end
+end
+function CheckIsRaiding()
+    Timer = PG.Main.Timer.Visible == true
+    Island = NextIsland()
+    if Timer then
+        return Timer
+    end
+    return Island
+end
+function TTemplateT()
+    local CFrameTempleOfTime = CFrame.new(28282.5703125, 14896.8505859375, 105.1042709350586)
+    local DisTemple = GetDistance(CFrameTempleOfTime.Position)
+    if DisTemple > 3000 then
+        TempleTime()
+        local args = {[1] = "RaceV4Progress", [2] = "Check"}
+        RS.Remotes.CommF_:InvokeServer(unpack(args))
+        local args = {[1] = "RaceV4Progress", [2] = "Teleport"}
+        RS.Remotes.CommF_:InvokeServer(unpack(args))
+    end
+end
+function FindAdvancedDealer()
+    repeat wait()
+    until WS.Map:FindFirstChild("MysticIsland")
+    if WS.Map:FindFirstChild("MysticIsland") then
+        AllNPCS = getnilinstances()
+        for r, v in pairs(WS.NPCs:GetChildren()) do
+            table.insert(AllNPCS, v)
+        end
+        for r, v in pairs(AllNPCS) do
+            if v.Name == "Advanced Fruit Dealer" then
+                ToTween(v.HumanoidRootPart.CFrame)
+            end
+        end
+    end
+end
+
+function fireremotechoosegear(bH)
+    v = bH
+    if v == "Gear1" then
+        print("Gear3")
+        local args = {[1] = "TempleClock", [2] = "SpendPoint"}
+        RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+            unpack(args)
+        )
+    elseif v == "Gear2" then
+        print("Gear2")
+        local args = {[1] = "TempleClock", [2] = "SpendPoint", [3] = "Gear2", [4] = "Omega"}
+        RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+            unpack(args)
+        )
+    elseif v == "Gear4" then
+        print("Gear4")
+        if condimemeaymeci.B == 2 then
+            print("Gear 4 Omega")
+            local args = {[1] = "TempleClock", [2] = "SpendPoint", [3] = "Gear4", [4] = "Omega"}
+            RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+                unpack(args)
+            )
+        elseif condimemeaymeci.A == 2 then
+            print("Gear 4 Alpha")
+            local args = {[1] = "TempleClock", [2] = "SpendPoint", [3] = "Gear4", [4] = "Alpha"}
+            RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+                unpack(args)
+            )
+        elseif condimemeaymeci.A < 2 then
+            v14 = game.ReplicatedStorage.Remotes.CommF_:InvokeServer("TempleClock", "Check")
+            condimemeaymeci = v14.RaceDetails
+            print("Gear 4 Alpha")
+            local args = {[1] = "TempleClock", [2] = "SpendPoint", [3] = "Gear4", [4] = "Alpha"}
+            RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+                unpack(args)
+            )
+        end
+    elseif v == "Gear3" then
+        print("Gear3")
+        local args = {[1] = "TempleClock", [2] = "SpendPoint", [3] = "Gear3", [4] = "Alpha"}
+        RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+            unpack(args)
+        )
+    elseif v == "Gear5" then
+        print("Gear5")
+        local args = {[1] = "TempleClock", [2] = "SpendPoint", [3] = "Gear5", [4] = "Default"}
+        RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer(
+            unpack(args)
+        )
+    end
+    game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Select Gear", Text = v, Duration = 30})
+end
+function InstantChooseGear()
+    v14 = game.ReplicatedStorage.Remotes.CommF_:InvokeServer("TempleClock", "Check")
+    if v14 and v14.HadPoint then
+        condimemeaymeci = v14.RaceDetails
+        CheckAndTweenTemple()
+        Tweento(WS.Map["Temple of Time"].Prompt.CFrame)
+        if (WS.Map["Temple of Time"].Prompt.Position - LP.Character.HumanoidRootPart.Position).Magnitude < 3 then
+            wait(1)
+            fireproximityprompt(WS.Map["Temple of Time"].Prompt.ProximityPrompt)
+            wait(5)
+            for r, v in pairs(WS.Map["Temple of Time"].InnerClock:GetChildren()) do
+                if v:FindFirstChild("Highlight") and v.Highlight.Enabled then
+                    print(v.Name)
+                    spawn(function()
+                        fireremotechoosegear(v.Name)
+                    end)
+                end
+            end
+        end
+        task.wait(300)
+    else
+        game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Memories Hub", Text = "You Hadn't Gear", Duration = 30})
+        task.wait(30)
+    end
+end
+function FindPosBring(positionList)
+    local totalPosition = Vector3.new()
+    local validCount = 0
+    for i = 1, #positionList do
+        local position = positionList[i]
+        local isFarEnough = true
+        for j = 1, #positionList do
+            if i ~= j then
+                local distance = (position - positionList[j]).Magnitude
+                if distance >= (350 * j) then
+                    isFarEnough = false
+                    break
+                end
+            end
+        end
+        if isFarEnough then
+            totalPosition = totalPosition + position
+            validCount = validCount + 1
+        end
+    end
+    local averagePosition = totalPosition / validCount
+    return averagePosition
+end
+function checkfunc(a)
+    if a and a.Parent then
+        if a:FindFirstChild("Humanoid") and a:FindFirstChild("HumanoidRootPart") and a.Humanoid.Health > 0 and a.HumanoidRootPart.CFrame then
+            return true
+        else
+            return false
+        end
+    else
+        return false
+    end
+end 
+spawn(function()
+    while wait() do
+        for i,v in pairs(Enemies:GetChildren()) do
+            if ((StartFarms and SelectFarm == "Level" and StartBring and v.Name == CheckQuest()["MobName"]) or (FarmSkip and StartBring and v.Name == "Shanda") or (StartFarms and SelectFarm == "Bone" and StartBring and CheckBoneMob()) or (StartFarms and SelectFarm == "Cake Prince" and StartBring and CheckCakeMob()) or (MobArua and StartBring)) and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 and GetDistance(v.HumanoidRootPart.Position) <= 350 then
+                BringList = {}
+                BringPos = nil
+                for j, k in pairs(Enemies:GetChildren()) do
+                    if checkfunc(k) and v.Name == k.Name then
+                        table.insert(BringList, k.HumanoidRootPart.Position)
+                    end
+                end
+                BringPos = FindPosBring(BringList)
+                if BringPos == nil then return end
+                for j, k in pairs(Enemies:GetChildren()) do
+                    if checkfunc(k) and v.Name == k.Name and (k.HumanoidRootPart.Position - BringPos).Magnitude <= 380 then
+                        k.PrimaryPart.Position = BringPos
+                        k.PrimaryPart.CFrame = CFrame.new(BringPos)
+                        k.HumanoidRootPart.CFrame = CFrame.new(BringPos)
+                        k.Humanoid.JumpPower = 0
+                        k.Humanoid.WalkSpeed = 0
+                        k.HumanoidRootPart.CanCollide = false
+                        sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+                        k.Humanoid:ChangeState(14)
+                    end
+                end
+            end
+        end
+    end
+end)
+function StoreFruit()
+    for i,v in pairs(LP.Backpack:GetChildren()) do
+        if v:IsA("Tool") and string.find(v.Name, "Fruit") then
+            RS.Remotes.CommF_:InvokeServer("StoreFruit",v:GetAttribute("OriginalName"),v)
+        end
+    end
+    for i, v in pairs(LP.Character:GetChildren()) do
+        if v:IsA("Tool") and string.find(v.Name, "Fruit") then
+            RS.Remotes.CommF_:InvokeServer("StoreFruit",v:GetAttribute("OriginalName"),v)
+        end
+    end
+end
+function DFinBP()
+    for r, v in pairs(LP.Backpack:GetChildren()) do
+        if string.find(v.Name, "Fruit") then
+            return true
+        end
+    end
+    for r, v in pairs(LP.Character:GetChildren()) do
+        if string.find(v.Name, "Fruit") then
+            return true
+        end
+    end
+end
+function LoadFruit(vvvv)
+    RS.Remotes.CommF_:InvokeServer("LoadFruit", vvvv)
+end
+FruitAbout1M = {}
+for r,v in next, RS.Remotes.CommF_:InvokeServer("GetFruits", PG.Main.FruitShop:GetAttribute("Shop2")) do
+    if v.Price >= 1000000 then
+        FruitAbout1M[v.Price] = v.Name
+    end
+end
+function EWeaponSelect(ToolSe2)
+    if game.Players.LocalPlayer.Backpack:FindFirstChild(ToolSe2) then
+        Tool = game.Players.LocalPlayer.Backpack:FindFirstChild(ToolSe2)
+        wait(.1)
+        game.Players.LocalPlayer.Character.Humanoid:EquipTool(Tool)
+    end
+end
+function GetFruitBelow1M()
+    local ab
+    local cf = {}
+    for r,v in pairs(FruitAbout1M) do
+        table.insert(cf, v)
+    end
+    for i,v in next, RS.Remotes.CommF_:InvokeServer("getInventory") do
+        if v.Type == "Blox Fruit" then
+            if not table.find(cf, v.Name) then
+                ab = v.Name
+            end
+        end
+    end
+    return ab
+end
+function NameMelee()
+    for r, v in next, LP.Backpack:GetChildren() do
+        if v:IsA("Tool") and v.ToolTip == "Melee" then
+            return v.Name
+        end
+    end
+    for r, v in next, LP.Character:GetChildren() do
+        if v:IsA("Tool") and v.ToolTip == "Melee" then
+            return v.Name
+        end
+    end
+end
+function NameSword()
+    for r, v in next, LP.Backpack:GetChildren() do
+        if v:IsA("Tool") and v.ToolTip == "Sword" then
+            return v.Name
+        end
+    end
+    for r, v in next, LP.Character:GetChildren() do
+        if v:IsA("Tool") and v.ToolTip == "Sword" then
+            return v.Name
+        end
+    end
+end
+function checkskillDF()
+    if not LP.PlayerGui.Main.Skills:FindFirstChild(LP.Data.DevilFruit.Value) then
+        equipweapon(LP.Data.DevilFruit.Value)
+        return false
+    end
+    for r, v in next, LP.PlayerGui.Main.Skills[LP.Data.DevilFruit.Value]:GetChildren() do
+        if v:IsA("Frame") then
+            if v.Name ~= "Template" and v.Title.TextColor3 == Color3.new(1, 1, 1) and v.Cooldown.Size == UDim2.new(0, 0, 1, -1) or v.Cooldown.Size == UDim2.new(1, 0, 1, -1)then
+                return v.Name
+            end
+        end
+    end
+end
+function checkskillSword()
+    if not NameSword() then
+        return
+    end
+    if not LP.PlayerGui.Main.Skills:FindFirstChild(NameSword()) then
+        equipweapon(NameSword())
+        return false
+    end
+    for r, v in next, LP.PlayerGui.Main.Skills[NameSword()]:GetChildren() do
+        if v:IsA("Frame") then
+            if v.Name ~= "Template" and v.Title.TextColor3 == Color3.new(1, 1, 1) and v.Cooldown.Size == UDim2.new(0, 0, 1, -1) or v.Cooldown.Size == UDim2.new(1, 0, 1, -1) then
+                return v.Name
+            end
+        end
+    end
+end
+function NameGun()
+    dick = LP.Backpack or LP.Character
+    for r, v in pairs(dick:GetChildren()) do
+        if v:IsA("Tool") and v.ToolTip == "Gun" then
+            return v.Name
+        end
+    end
+end
+function checkskillGun()
+    if not NameGun() then
+        return nil
+    end
+    if not LP.PlayerGui.Main.Skills:FindFirstChild(NameGun()) then
+        equipweapon(NameGun())
+        return false
+    end
+    for r, v in next, LP.PlayerGui.Main.Skills[NameGun()]:GetChildren() do
+        if v:IsA("Frame") then
+            if v.Name ~= "Template" and v.Title.TextColor3 == Color3.new(1, 1, 1) and v.Cooldown.Size == UDim2.new(0, 0, 1, -1) or v.Cooldown.Size == UDim2.new(1, 0, 1, -1) then
+                return v.Name
+            end
+        end
+    end
+end
+function equipweapon(aq)
+    local c6 = tostring(aq)
+    local c7 = LP.Backpack:FindFirstChild(c6)
+    local c8 = LP.Character:FindFirstChild("Humanoid") or LP.Character:WaitForChild("Humanoid")
+    if c7 then
+        c8:EquipTool(c7)
+    end
+end
+function checkskillMelee()
+    if not LP.PlayerGui.Main.Skills:FindFirstChild(NameMelee()) then
+        equipweapon(NameMelee())
+        return false
+    end
+    for r, v in next, LP.PlayerGui.Main.Skills[NameMelee()]:GetChildren() do
+        if v:IsA("Frame") then
+            if v.Name ~= "Template" and v.Title.TextColor3 == Color3.new(1, 1, 1) and v.Cooldown.Size == UDim2.new(0, 0, 1, -1) or v.Cooldown.Size == UDim2.new(1, 0, 1, -1) then
+                return v.Name
+            end
+        end
+    end
+end
+function EquipWeaponName(m)
+    if not m then
+        return
+    end
+    NoClip = true
+    ToolSe = m
+    if LP.Backpack:FindFirstChild(ToolSe) then
+        local bi = LP.Backpack:FindFirstChild(ToolSe)
+        wait(.4)
+        LP.Character.Humanoid:EquipTool(bi)
+    end
+end
+function CheckPirateBoat()
+    local boat = {"PirateBrigade", "PirateGrandBrigade"}
+    for i, v in pairs(Enemies:GetChildren()) do
+        if table.find(boat, v.Name) then
+            return v
+        end
+    end
+end
+function CheckSeaBeast()
+    for r, v in next, WS.SeaBeasts:GetChildren() do
+        if v.Name == "SeaBeast1" then
+            local s = v.HealthBBG.Frame.TextLabel.Text
+            local c5 = s:gsub("/%d+,%d+", "")
+            local a = v.HealthBBG.Frame.TextLabel.Text
+            local ab
+            if string.find(c5, ",") then
+                ab = a:gsub("%d+,%d+/", "")
+            else
+                ab = a:gsub("%d+/", "")
+            end
+            local c = ab:gsub(",", "")
+            if tonumber(c) >= 34500 then
+                return v
+            end
+        end
+    end
+    return false
+end
+function checkboat()
+    for r, v in next, WS.Boats:GetChildren() do
+        if v:IsA("Model") then
+            if v:FindFirstChild("Owner") and tostring(v.Owner.Value) == LP.Name and v.Humanoid.Value > 0 then
+                return v
+            end
+        end
+    end
+    return false
+end
+function TeleportSeabeast(c5)
+    NoClip = true
+    local a = Vector3.new(0, c5:FindFirstChild("HumanoidRootPart").Position.Y, 0)
+    local ab = Vector3.new(0, WS.Map["WaterBase-Plane"].Position.Y, 0)
+    if (a - ab).Magnitude <= 175 then
+        ToTween(c5.HumanoidRootPart.CFrame * CFrame.new(0, 400, 50))
+    else
+        ToTween(CFrame.new(c5.HumanoidRootPart.Position.X, WS.Map["WaterBase-Plane"].Position.Y + 200, c5.HumanoidRootPart.Position.Z))
+    end
+    if not CheckSeaBeast() then
+        NoClip = false
+    end
+end
+function GetWeapon(bh)
+    s = ""
+    for r, v in pairs(LP.Backpack:GetChildren()) do
+        if v:IsA("Tool") and v.ToolTip == bh then
+            s = v.Name
+        end
+    end
+    for r, v in pairs(LP.Character:GetChildren()) do
+        if v:IsA("Tool") and v.ToolTip == bh then
+            s = v.Name
+        end
+    end
+    return s
+end
+function IsWpSKillLoaded(bW)
+    if game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Skills:FindFirstChild(bW) then
+        return true
+    end
+end
+function EquipAllWeapon()
+    u3 = {"Melee", "Blox Fruit", "Sword", "Gun"}
+    u3_2 = {}
+    for r, v in pairs(u3) do
+        u3_3 = GetWeapon(v)
+        table.insert(u3_2, u3_3)
+    end
+    for r, v in pairs(u3_2) do
+        if not IsWpSKillLoaded(v) then
+            print(v)
+            EquipWeaponName(v)
+        end
+    end
+end
+function TweenObject(TweenCFrame,obj,ts)
+    if not ts then ts = 350 end
+    local tween_s = game:GetService("TweenService")
+    local info =
+        TweenInfo.new(
+        (TweenCFrame.Position -
+            obj.Position).Magnitude /
+            ts,
+        Enum.EasingStyle.Linear
+    )
+    tween =
+        tween_s:Create(
+            obj,
+        info,
+        {CFrame = TweenCFrame}
+    )
+    tween:Play() 
+end
+function MobGet(tablemob, valuebb)
+    for r, v in pairs(Enemies:GetChildren()) do
+        if table.find(tablemob, v.Name) and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+            return v
+        end
+    end
+    if valuebb then
+        for r, v in pairs(RS:GetChildren()) do
+            if table.find(tablemob, v.Name) and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+end
+function function7()
+    GameTime = "Error"
+    local c = game.Lighting
+    local ao = c.ClockTime
+    if ao >= 18 or ao < 5 then
+        GameTime = "Night"
+    else
+        GameTime = "Day"
+    end
+    return GameTime
+end
+function function6()
+    return math.floor(game.Lighting.ClockTime)
+end
+function CheckAcientOneStatus()
+    if not LP.Character:FindFirstChild("RaceTransformed") then
+        return "You have yet to achieve greatness"
+    end
+    local v227 = nil
+    local v228 = nil
+    local v229 = nil
+    v229, v228, v227 = game.ReplicatedStorage.Remotes.CommF_:InvokeServer("UpgradeRace", "Check")
+    if v229 == 1 then
+        return "Required Train More"
+    elseif v229 == 2 or v229 == 4 or v229 == 7 then
+        return "Can Buy Gear With " .. v227 .. " Fragments"
+    elseif v229 == 3 then
+        return "Required Train More"
+    elseif v229 == 5 then
+        return "You Are Done Your Race."
+    elseif v229 == 6 then
+        return "Upgrades completed: " .. v228 - 2 .. "/3, Need Trains More"
+    end
+    if v229 ~= 8 then
+        if v229 == 0 then
+            return "Ready For Trial"
+        else
+            return "You have yet to achieve greatness"
+        end
+    end
+    return "Remaining " .. 10 - v228 .. " training sessions."
+end
+function PlayersCount()
+    return #game.Players:GetChildren()
+end
+spawn(function()
+    while wait() do
+        if KillStart then
+            if PG.Main.PvpDisabled.Visible then
+                RS.Remotes.CommF_:InvokeServer("EnablePvp")
+                wait(5)
+            end
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if chodienspamhirimixienchetcuchungmay then
+            sword = checkskillSword()
+            meele = checkskillMelee()
+            df = checkskillDF()
+            gun = checkskillGun()
+            if df and SpamDFs and not string.find(game:GetService("Players").LocalPlayer.Data.DevilFruit.Value, "Portal") and df ~= "F" then
+                print("Spam Status: Devil Fruit")
+                EquipWeaponName(game:GetService("Players").LocalPlayer.Data.DevilFruit.Value)
+                local condimebeo = checkskillDF()
+                if condimebeo then
+                    SendKeyEvents(condimebeo)
+                end
+            elseif checkskillMelee() and SpamMelees then
+                print("Spam Status: Melee")
+                EquipWeaponName(NameMelee())
+                local condimebeo = checkskillMelee()
+                if condimebeo then
+                    SendKeyEvents(condimebeo)
+                end
+            elseif checkskillSword() and SpamSwords then
+                print("Spam Status: Sword")
+                EquipWeaponName(NameSword())
+                local condimebeo = checkskillSword()
+                if condimebeo then
+                    SendKeyEvents(condimebeo)
+                end
+            elseif checkskillGun() and SpamGuns then
+                print("Spam Status: Gun")
+                local condimebeo = checkskillGun()
+                EquipWeaponName(NameGun())
+                if condimebeo then
+                    SendKeyEvents(condimebeo)
+                end
+            else
+                EquipAllWeapon()
+            end
+        end
+    end
+end)
+function NoFog()
+    local c = game.Lighting
+    c.FogEnd = 100000
+    for r, v in pairs(c:GetDescendants()) do
+        if v:IsA("Atmosphere") then
+            v:Destroy()
+        end
+    end
+end
+function CheckMasSelect(weapon)
+    local v00121 = LP.Backpack
+    for i,v in pairs(v00121:GetChildren()) do
+        if v.ToolTip == weapon then
+            return v.Level.Value
+        end
+    end
+end
+function GetQuestV3()
+    local v33000 = RS.Remotes.CommF_:InvokeServer("Wenlocktoad", "1")
+    if v33000 == 0 then
+        RS.Remotes.CommF_:InvokeServer("Wenlocktoad", "2")
+        wait(.1)
+        Notify("Memories Hub", "Claimed Quest V3", 10)
+    elseif v33000 == -1 then
+        Notify("Memories Hub", "You Not Have V2")
+    end
+end
+function BypassTele(PosSelect)
+    if GetDistance(PosSelect.Position) >= 2000 and LP.Character.Humanoid.Health > 0 then
+        LP.Character.Humanoid:ChangeState(15)
+        for i = 1,9 do
+            LP.Character.HumanoidRootPart.CFrame = PosSelect
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        end
+    end
+end
+local Window = OrionLib:MakeWindow({Name = "Memories Hub", HidePremium = false, SaveConfig = true, ConfigFolder = "Memories Hub"})
+local SettingsTab = Window:MakeTab({Name = "About", Icon = "rbxassetid://16161703575", PremiumOnly = false})
+local MainTab = Window:MakeTab({Name = "Main", Icon = "rbxassetid://4483345998", PremiumOnly = false})
+local SettingTab = Window:MakeTab({Name = "Setting", Icon = "rbxassetid://11446835336", PremiumOnly = false})
+local ItemTab = Window:MakeTab({Name = "Item", Icon = "rbxassetid://9606626859", PremiumOnly = false})
+local StatusTab = Window:MakeTab({Name = "Status", Icon = "rbxassetid://11156061121", PremiumOnly = false})
+local TeleTab = Window:MakeTab({Name = "Teleport", Icon = "rbxassetid://11155851001", PremiumOnly = false})
+local SeaTab = Window:MakeTab({Name = "Sea Event", Icon = "rbxassetid://7040410130", PremiumOnly = false})
+local V4Tab = Window:MakeTab({Name = "Race V4", Icon = "rbxassetid://11162889532", PremiumOnly = false})
+local RaidTab = Window:MakeTab({Name = "Raid", Icon = "rbxassetid://11155986081", PremiumOnly = false})
+local DFTab = Window:MakeTab({Name = "Devil Fruit", Icon = "rbxassetid://7044233235", PremiumOnly = false}) 
+local SHTab = Window:MakeTab({Name = "Shop", Icon = "rbxassetid://6031265976", PremiumOnly = false}) 
+local STTab = Window:MakeTab({Name = "Stats", Icon = "rbxassetid://7040410130", PremiumOnly = false}) 
+local MiscTab = Window:MakeTab({Name = "Miscellaneous", Icon = "rbxassetid://7044233235", PremiumOnly = false}) 
+SettingsTab:AddLabel("Memories Hub")
+SettingsTab:AddLabel("Youtube Channels") 
+SettingsTab:AddLabel("https://www.youtube.com/@Memo09011") 
+SettingsTab:AddButton({
+	Name = "Copy Link Youtube",
+	Callback = function()
+        setclipboard("https://www.youtube.com/@Memo09011")
+        OrionLib:MakeNotification({Name = "Memories Hub", Content = "Copied!", Image = "rbxassetid://16161703575",Time = 5})
+  	end    
+})
+SettingsTab:AddLabel("Join For Discord") 
+SettingsTab:AddLabel("https://discord.gg/RtWeughmYp") 
+SettingsTab:AddButton({
+	Name = "Copy Link Invite Discord",
+	Callback = function()
+        setclipboard("https://discord.gg/RtWeughmYp")
+        OrionLib:MakeNotification({Name = "Memories Hub", Content = "Copied!", Image = "rbxassetid://16161703575",Time = 5})
+  	end    
+})
+SettingsTab:AddLabel("I From VIETNAM") 
+local x2Code = {
+    "KITTGAMING",
+    "ENYU_IS_PRO",
+    "FUDD10",
+    "BIGNEWS",
+    "THEGREATACE",
+    "SUB2GAMERROBOT_EXP1",
+    "STRAWHATMAIME",
+    "SUB2OFFICIALNOOBIE",
+    "SUB2NOOBMASTER123",
+    "SUB2DAIGROCK",
+    "AXIORE",
+    "TANTAIGAMIMG",
+    "STRAWHATMAINE",
+    "JCWK",
+    "FUDD10_V2",
+    "SUB2FER999",
+    "MAGICBIS",
+    "TY_FOR_WATCHING",
+    "STARCODEHEO",
+    "STAFFBATTLE",
+    "ADMIN_STRENGTH",
+    "DRAGONABUSE",
+}
+MainTab:AddButton({
+	Name = "Redeem All Code x2",
+	Callback = function()
+        function RedeemCode(value)
+            RS.Remotes.Redeem:InvokeServer(value)
+        end
+        for i,v in pairs(x2Code) do
+            RedeemCode(v)
+        end
+  	end    
+})
+MainTab:AddButton({Name = "Stop Tween", Callback = function()
+    StopTween()
+end    
+})
+MiscTab:AddButton({Name = "Disable No Clip", Callback = function()
+    NoClip = false
+end    
+})
+MainTab:AddSection({Name = "Select Mode"})
+local selecttool = MainTab:AddDropdown({Name = "Select Tool", Default = "", Options = {"Melee","Sword"},Callback = function(vSelecttool)
+		Selecttool = vSelecttool
+	end    
+})
+MainTab:AddSection({Name = "Fast Attack"})
+local FastAttackD = MainTab:AddDropdown({Name = "Delay Attack", Default = "0.175", Options = {"0.1","0.15","0.175","0.2"},Callback = function(vFastDelay)
+    FastDelay = vFastDelay
+end    
+})
+Loop:Connect(function()
+    if FastDelay == nil then
+        if MasteryOption then
+            FastDelay = 3
+        else
+            FastDelay = 0.3
+        end
+    elseif FastDelay == "0.1" then
+        if MasteryOption then
+            FastDelay = 3
+        else
+            FastDelay = 0.11
+        end
+    elseif FastDelay == "0.15" then
+        if MasteryOption then
+            FastDelay = 3
+        else
+            FastDelay = 0.18
+        end
+    elseif FastDelay == "0.175" then
+        if MasteryOption then
+            FastDelay = 3
+        else
+            FastDelay = 0.3
+        end
+    elseif FastDelay == "0.2" then
+        if MasteryOption then
+            FastDelay = 3
+        else
+            FastDelay = 0.5
+        end
+    end
+end)
+local CurveFrame = debug.getupvalues(require(game:GetService("Players").LocalPlayer.PlayerScripts:WaitForChild("CombatFramework")))[2]
+local VirtualUser = game:GetService("VirtualUser")
+local RigControllerR = debug.getupvalues(require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework.RigController))[2]
+local Client = game:GetService("Players").LocalPlayer
+local DMG = require(Client.PlayerScripts.CombatFramework.Particle.Damage)
+function CurveFuckWeapon()
+    local p13 = CurveFrame.activeController
+    if not p13 then
+        return nil
+    end
+    
+    local wea = p13.blades[1]
+    if not wea then
+        return nil
+    end
+    
+    while wea.Parent ~= game.Players.LocalPlayer.Character do
+        wea = wea.Parent
+    end
+    
+    return wea
+end
+
+function getHits(Size)
+    local Hits = {}
+    
+    local function processHumanoid(Human)
+        if Human and Human.RootPart and Human.Health > 0 and game.Players.LocalPlayer:DistanceFromCharacter(Human.RootPart.Position) < Size + 5 then
+            table.insert(Hits, Human.RootPart)
+        end
+    end
+
+    for _, v in pairs(workspace.Enemies:GetChildren()) do
+        processHumanoid(v:FindFirstChildOfClass("Humanoid"))
+    end
+
+    for _, v in pairs(workspace.Characters:GetChildren()) do
+        if v ~= game.Players.LocalPlayer.Character then
+            processHumanoid(v:FindFirstChildOfClass("Humanoid"))
+        end
+    end
+    return Hits
+end
+function Boost()
+    task.spawn(function()
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange", tostring(CurveFuckWeapon()))
+    end)
+end
+function Unboost()
+    task.spawn(function()
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("unequipWeapon", tostring(CurveFuckWeapon()))
+    end)
+end
+local cdnormal = 0
+local Animation = Instance.new("Animation")
+local CooldownFastAttack = 0
+FastAttack = function()
+    local ac = CurveFrame.activeController
+    if ac and ac.equipped then
+        task.spawn(function()
+            if tick() - cdnormal > 0.5 then
+                ac:attack()
+                cdnormal = tick()
+            else
+                Animation.AnimationId = ac.anims.basic[2]
+                ac.humanoid:LoadAnimation(Animation):Play(1, 1)
+                game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", getHits(120), 2, "")
+            end
+        end)
+    end
+end
+
+bs = tick()
+task.spawn(function()
+    while task.wait(FastDelay) do
+        if EnableFastAttack then
+            FastI = true
+            if bs - tick() > 0.75 then
+                task.wait()
+                bs = tick()
+            end
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if not MasteryOption and v.Humanoid.Health > 0 then
+                        if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+                            FastAttack()
+                            task.wait()
+                            Boost()
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+k = tick()
+task.spawn(function()
+    if FastI then
+        while task.wait(.2) do
+            if k - tick() > 0.75 then
+                task.wait()
+                k = tick()
+            end
+            pcall(function()
+                for i, v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if not MasteryOption and v.Humanoid.Health > 0 then
+                        if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+                            task.wait(.000025)
+                            Unboost()
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+task.spawn(function()
+    while task.wait() do
+        if FastI then
+            pcall(function()
+                CurveFrame.activeController.timeToNextAttack = -1
+                CurveFrame.activeController.focusStart = 0
+                CurveFrame.activeController.hitboxMagnitude = 40
+                CurveFrame.activeController.humanoid.AutoRotate = true
+                CurveFrame.activeController.increment = 1 + 1 / 1
+            end)
+        end
+    end
+end)
+EnableCurv = true
+task.spawn(function()
+    local a = game.Players.LocalPlayer
+    local b = require(a.PlayerScripts.CombatFramework.Particle)
+    local c = require(game:GetService("ReplicatedStorage").CombatFramework.RigLib)
+    if not shared.orl then
+        shared.orl = c.wrapAttackAnimationAsync
+    end
+    if not shared.cpc then
+        shared.cpc = b.play
+    end
+    if EnableCurv then
+        pcall(function()
+            c.wrapAttackAnimationAsync = function(d, e, f, g, h)
+                local i = c.getBladeHits(e, f, g)
+                if i then
+                    b.play = function()
+                    end
+                    d:Play(0.25, 0.25, 0.25)
+                    h(i)
+                    b.play = shared.cpc
+                    wait(.5)
+                    d:Stop()
+                end
+            end
+        end)
+    end
+end)
+MainTab:AddToggle({Name = "Enable Fast Attack", Default = true, Flag = "FastAttack", Save = true, Callback = function(vfastchange)
+	EnableFastAttack = vfastchange
+end    
+})
+CombatFrameworkR = require(LP.PlayerScripts.CombatFramework)
+y = debug.getupvalues(CombatFrameworkR)[2]
+spawn(function()
+    Loop:Connect(function()
+        if EnableFastAttack then
+            if typeof(y) == "table" then
+                pcall(function()
+                    CameraShaker:Stop()
+                    y.activeController.timeToNextAttack = (math.huge^math.huge^math.huge)
+                    y.activeController.timeToNextAttack = -1
+                    y.activeController.hitboxMagnitude = 60
+                    y.activeController.active = false
+                    y.activeController.timeToNextBlock = 0
+                    y.activeController.focusStart = 1655503339.0980349
+                    y.activeController.increment = 3
+                    y.activeController.blocking = false
+                    y.activeController.attacking = false
+                    y.activeController.humanoid.AutoRotate = true
+                end)
+            end
+        end
+        if EnableFastAttack == true then
+            if LP.Character:FindFirstChild("Stun") then
+                LP.Character.Stun.Value = 0
+                LP.Character.Busy.Value = false        
+            end
+        end
+    end)
+end)
+MainTab:AddSection({Name = "More Options"})
+MainTab:AddToggle({
+	Name = "Bypass TP",
+	Default = true,
+	Callback = function(vBTP)
+		BypassTP = vBTP
+	end    
+}) 
+local ToggleRaceV4 = MainTab:AddToggle({
+	Name = "Turn On Race V4",
+	Default = false,
+	Flag = "TurnOnV4",
+	Save = true,
+	Callback = function(vturnr4)
+		AwkV4 = vturnr4
+	end    
+})
+task.spawn(function()
+    while task.wait() do
+        task.wait()
+        if AwkV4 then
+            if LP.Character:FindFirstChild("RaceEnergy") and LP.Character.RaceEnergy.Value >= 1 and not LP.Character.RaceTransformed.Value then
+                local be = game:service("VirtualInputManager")
+                be:SendKeyEvent(true, "Y", false, game)
+                task.wait()
+                be:SendKeyEvent(false, "Y", false, game)
+            end
+        end
+    end
+end)
+MainTab:AddToggle({
+	Name = "Turn On Race V3",
+	Default = false,
+	Flag = "TurnV3",
+	Save = true,
+	Callback = function(vturnr3)
+		_G.TurnRace3 = vturnr3
+	end    
+})
+spawn(function()
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if _G.TurnRace3 then
+            RS.Remotes.CommE:FireServer("ActivateAbility")
+        end
+    end)
+end)
+MainTab:AddToggle({
+	Name = "Quest Cake + Bone [Option]",
+	Default = false,
+	Flag = "QuestCake+Bone",
+	Save = true,
+	Callback = function(vClaimQuest)
+		ClaimQuest = vClaimQuest
+	end    
+})
+MainTab:AddToggle({
+	Name = "Spawn Cake Prince [Option]",
+	Default = false,
+	Flag = "Spawn Cake Prince",
+	Save = true,
+	Callback = function(vSpawnCake)
+		SpawnCake = vSpawnCake
+	end    
+})
+spawn(function()
+    while wait() do
+        if SpawnCake and StartFarms and SelectFarm == "Cake Prince" then
+            if string.find(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner"),"Do you want to open the portal now?") then
+                RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner")
+            end
+        end
+    end
+end)
+MainTab:AddSection({Name = "Hop Until"})
+MainTab:AddToggle({
+	Name = "Hop Near FM or FM",
+	Default = false,
+    Flag = "HopSaveFM",
+    Save = true,
+	Callback = function(funchop)
+		_G.HopNFMaM = funchop
+        if _G.HopNFMaM == false then
+            DisableTween(_G.HopNFMaM)
+        end
+	end    
+})
+function MoonTextureId()
+    if Main then
+        return game:GetService("Lighting").FantasySky.MoonTextureId
+    elseif Dressora then
+        return game:GetService("Lighting").FantasySky.MoonTextureId
+    elseif Zou then
+        return game:GetService("Lighting").Sky.MoonTextureId
+    end
+end  
+function CheckMSTss()
+    moon8 = "http://www.roblox.com/asset/?id=9709150401"
+    moon7 = "http://www.roblox.com/asset/?id=9709150086"
+    moon6 = "http://www.roblox.com/asset/?id=9709149680"
+    moon5 = "http://www.roblox.com/asset/?id=9709149431"
+    moon4 = "http://www.roblox.com/asset/?id=9709149052"
+    moon3 = "http://www.roblox.com/asset/?id=9709143733"
+    moon2 = "http://www.roblox.com/asset/?id=9709139597"
+    moon1 = "http://www.roblox.com/asset/?id=9709135895"
+    moonreal = MoonTextureId()
+    cofullmoonkothangbeo = "Bad Moon"
+    if moonreal == moon5 or moonreal == moon4 then
+        if moonreal == moon5 then
+            cofullmoonkothangbeo = "Full Moon"
+        elseif moonreal == moon4 then
+            cofullmoonkothangbeo = "Next Night"
+        end
+    end
+    return cofullmoonkothangbeo
+end
+task.spawn(function()
+    while task.wait() do
+        if _G.HopNFMaM then
+            moonst = CheckMSTss()
+            OrionLib:MakeNotification({Name = "Memories Hub", Content = moonst, Image = "rbxassetid://14161592006", Time = 30})
+            if moonst == "Full Moon" and (game.Lighting.ClockTime < 5 or game.Lighting.ClockTime > 12) or moonst == "Next Night" then
+                OrionLib:MakeNotification({
+                    Name = "Memories Hub",
+                    Content = "Found Moon",
+                    Image = "rbxassetid://14161592006",
+                    Time = 30
+                })
+                task.wait(30)
+            else
+                OrionLib:MakeNotification({
+                    Name = "Memories Hub",
+                    Content = "Not Found Moon, Start Hop",
+                    Image = "rbxassetid://14161592006",
+                    Time = 5
+                })
+                HopServer()
+            end
+        end
+    end
+end)
+MainTab:AddSection({Name = "Farm Mode"})
+local Selectmodef = MainTab:AddDropdown({Name = "Select Mode Farm", Default = "", Options = {"Level", "Bone", "Cake Prince"}, Callback = function(vSFarm)
+    SelectFarm = vSFarm
+end    
+})
+local Farmop = MainTab:AddToggle({Name = "Start Auto Mode Farm", Default = false, Callback = function(StartFarmsv)
+    StartFarms = StartFarmsv
+    DisableTween(StartFarms)
+end    
+})
+spawn(function()
+    while task.wait() do
+        pcall(function()
+            if StartFarms and SelectFarm == "Level" then         
+                local Quest = game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest
+                local QuestTitle = PG.Main.Quest.Container.QuestTitle.Title.Text
+                if not string.find(QuestTitle, CheckQuest()["MobName"]) then
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+                end
+                if Quest.Visible == true then    
+                    if game.Workspace.Enemies:FindFirstChild(CheckQuest()["MobName"]) then     
+                        for i,v in pairs(game.Workspace.Enemies:GetChildren()) do
+                            if v.Name == CheckQuest()["MobName"] and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                                repeat task.wait()
+                                    EWeapon()                                                                                                                    
+                                    EBuso()
+                                    ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                                    if MasteryOption and HealthStop and v.Humanoid.MaxHealth < 200000 then
+                                        HealthM = v.Humanoid.Health <= v.Humanoid.MaxHealth * HealthStop / 100
+                                        if HealthM then
+                                            repeat task.wait()
+                                                local va,ve = CheckMasSkill()
+                                                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                                                if va and ve then
+                                                    EquipWeaponName(va)
+                                                    SendKeyEvents(ve)
+                                                    NoClip = true
+                                                    task.wait(.2)
+                                                end
+                                                aim = true
+                                                CFrameHunt = v.HumanoidRootPart.CFrame
+                                            until not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                                            aim = false
+                                        elseif HealthM and (LP.Backpack:FindFirstChild("Soul Guitar") or LP.Character:FindFirstChild("Soul Guitar")) then
+                                            repeat task.wait()
+                                                local va = CheckMasSkill()
+                                                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                                                if va then
+                                                    EquipWeaponName(va)
+                                                    SendKeyEvents("Z")
+                                                    SendKeyEvents("X")
+                                                    NoClip = true
+                                                    task.wait(.2)
+                                                end
+                                                aim = true
+                                                CFrameHunt = v.HumanoidRootPart.CFrame
+                                            until not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                                            aim = false
+                                        else
+                                            EClick()
+                                        end
+                                    else
+                                        EClick()
+                                    end
+                                    v.HumanoidRootPart.Size = Vector3.new(50,50,50)  
+                                    v.HumanoidRootPart.CanCollide = false
+                                    BringPos = v.HumanoidRootPart.CFrame
+                                    NoClip = true
+                                    StartBring = true
+                                until not StartFarms or not SelectFarm == "Level" or v.Humanoid.Health <= 0 or not v:FindFirstChild("HumanoidRootPart")
+                                StartBring = false
+                            end
+                        end
+                    else
+                        if EnemySpawns:FindFirstChild(CheckQuest()["MobName"]) then
+                            for i,v in pairs(EnemySpawns:GetChildren()) do
+                                if v.Name == RemoveLvTitle(CheckQuest()["MobName"]) then
+                                    ToTween(getNextPosition2(v.CFrame * CFrame.new(0,15,0)))
+                                end
+                            end
+                        end
+                    end  
+                else
+                    GetQuest()
+                end
+            elseif StartFarms and SelectFarm == "Bone" then
+                if not Zou then
+                    RS.Remotes.CommF_:InvokeServer("TravelZou")
+                end
+                if CheckBoneMob() then
+                    v = CheckBoneMob()
+                    if v then
+                        repeat task.wait()
+                            EWeapon()                                                                                                        
+                            EBuso()
+                            if ClaimQuest then
+                                questte = game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text
+                                if not string.find(questte, "Demonic Soul") then
+                                    StartBring = false
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+                                end
+                                if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                                    ToTween(CFrame.new(-9516.99316, 172.017181, 6078.46533, 0, 0, -1, 0, 1, 0, 1, 0, 0))
+                                    if (LP.Character.HumanoidRootPart.Position - CFrame.new(-9516.99316, 172.017181, 6078.46533, 0, 0, -1, 0, 1, 0, 1, 0, 0).Position).Magnitude <= 5 then
+                                        local args = {[1] = "StartQuest", [2] = "HauntedQuest2", [3] = 1}
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+                                    end
+                                elseif ClaimQuest and game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                                    ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                                end
+                            else
+                                ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            end
+                            if MasteryOption and HealthStop and v.Humanoid.MaxHealth < 200000 then
+                                HealthM = v.Humanoid.Health <= v.Humanoid.MaxHealth * HealthStop / 100
+                                if HealthM then
+                                    repeat task.wait()
+                                        local va,ve = CheckMasSkill()
+                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                                        if va and ve then
+                                            EquipWeaponName(va)
+                                            SendKeyEvents(ve)
+                                            NoClip = true
+                                            task.wait(.2)
+                                        end
+                                        aim = true
+                                        CFrameHunt = v.HumanoidRootPart.CFrame
+                                    until not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                                    aim = false
+                                elseif HealthM and (LP.Backpack:FindFirstChild("Soul Guitar") or LP.Character:FindFirstChild("Soul Guitar")) then
+                                    repeat task.wait()
+                                        local va = CheckMasSkill()
+                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                                        if va then
+                                            EquipWeaponName(va)
+                                            SendKeyEvents("Z")
+                                            SendKeyEvents("X")
+                                            NoClip = true
+                                            task.wait(.2)
+                                        end
+                                        aim = true
+                                        CFrameHunt = v.HumanoidRootPart.CFrame
+                                    until not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                                    aim = false
+                                else
+                                    EClick()
+                                end
+                            else
+                                EClick()
+                            end
+                            v.HumanoidRootPart.Size = Vector3.new(50,50,50)  
+                            v.HumanoidRootPart.CanCollide = false
+                            BringPos = v.HumanoidRootPart.CFrame
+                            NoClip = true
+                            StartBring = true
+                        until not StartFarms or not SelectFarm == "Bone" or not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                        StartBring = false
+                    end
+                else
+                    local CFrameHun = CFrame.new(-9368.34765625, 222.10060119628906, 6239.904296875)
+                    if BypassTP then
+                        if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - CFrameHun.Position).Magnitude > 2000 then
+                            BypassTele(CFrameHun)
+                        elseif (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - CFrameHun.Position).Magnitude < 2000 then
+                            ToTween(CFrameHun)
+                        end
+                    else
+                        ToTween(CFrameHun)
+                    end
+                end
+            elseif StartFarms and SelectFarm == "Cake Prince" then
+                if not Zou then
+                    RS.Remotes.CommF_:InvokeServer("TravelZou")
+                end
+                if CheckCakeMob() then
+                    v = CheckCakeMob()
+                    if v then
+                        repeat task.wait()
+                            EWeapon()                                                                                                                    
+                            EBuso()
+                            if not ClaimQuest then
+                                ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            else
+                                questt = game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text
+                                if not string.find(questt, "Cookie Crafter") then
+                                    StartBring = false
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest")
+                                end
+                                if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                                    ToTween(CFrame.new(-2020.6177978515625, 37.793975830078125, -12029.17578125))
+                                    if (LP.Character.HumanoidRootPart.Position - CFrame.new(-2020.6177978515625, 37.793975830078125, -12029.17578125).Position).Magnitude <= 5 then
+                                        local args = {[1] = "StartQuest", [2] = "CakeQuest1", [3] = 1}
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+                                    end
+                                elseif game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                                    ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                                end
+                            end
+                            if MasteryOption and HealthStop and v.Humanoid.MaxHealth < 200000 then
+                                HealthM = v.Humanoid.Health <= v.Humanoid.MaxHealth * HealthStop / 100
+                                if HealthM then
+                                    repeat task.wait()
+                                        local va,ve = CheckMasSkill()
+                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                                        if va and ve then
+                                            EquipWeaponName(va)
+                                            SendKeyEvents(ve)
+                                            NoClip = true
+                                            task.wait(.2)
+                                        end
+                                        aim = true
+                                        CFrameHunt = v.HumanoidRootPart.CFrame
+                                    until not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                                    aim = false
+                                elseif HealthM and (LP.Backpack:FindFirstChild("Soul Guitar") or LP.Character:FindFirstChild("Soul Guitar")) then
+                                    repeat task.wait()
+                                        local va = CheckMasSkill()
+                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                                        if va then
+                                            EquipWeaponName(va)
+                                            SendKeyEvents("Z")
+                                            SendKeyEvents("X")
+                                            NoClip = true
+                                            task.wait(.2)
+                                        end
+                                        aim = true
+                                        CFrameHunt = v.HumanoidRootPart.CFrame
+                                    until not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                                    aim = false
+                                else
+                                    EClick()
+                                end
+                            else
+                                EClick()
+                            end
+                            v.HumanoidRootPart.Size = Vector3.new(50,50,50)  
+                            v.HumanoidRootPart.CanCollide = false
+                            BringPos = v.HumanoidRootPart.CFrame
+                            StartBring = true
+                        until not StartFarms or not SelectFarm == "Cake Prince" or not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                        StartBring = false
+                    end
+                elseif CheckBossCake() then
+                    v = CheckBossCake()
+                    repeat task.wait()
+                        EWeapon()                                                                                                                    
+                        EBuso()
+                        ToTween(getNextPosition(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0)))
+                        v.HumanoidRootPart.Size = Vector3.new(50,50,50)  
+                        v.HumanoidRootPart.CanCollide = false
+                        PosMon = v.HumanoidRootPart.CFrame
+                        EClick()
+                    until not StartFarms or not SelectFarm == "Cake Prince" or not v or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                else
+                    local CFrameCI = (CFrame.new(-2091.911865234375, 70.00884246826172, -12142.8359375))
+                    if BypassTP then
+                        if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - CFrameCI.Position).Magnitude > 2000 then
+                            BypassTele(CFrameCI)
+                        elseif (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - CFrameCI.Position).Magnitude < 2000 then
+                            ToTween(CFrameCI)
+                        end
+                    else
+                        ToTween(CFrameCI)
+                    end
+                end
+            end
+        end)
+    end
+end)
+MainTab:AddToggle({Name = "Auto Skips [Lv.1 -> Lv.300]", Default = false, Callback = function(vFarmSkip)
+    FarmSkip = vFarmSkip
+    DisableTween(FarmSkip)
+end    
+})
+spawn(function()
+    while wait() do
+        if FarmSkip then
+            LvCount = Data.Level.Value
+            if LvCount >= 1 and LvCount < 60 then
+                local cframefarm = CFrame.new(-7894.6176757813, 5547.1416015625, -380.29119873047)
+                if GetDistance(cframefarm.Position) > 1500 then
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance", Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+                end
+                if Enemies:FindFirstChild("Shanda") then     
+                    for i,v in pairs(Enemies:GetChildren()) do
+                        if v.Name == "Shanda" and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                            repeat task.wait()
+                                EWeapon()                                                                                                                    
+                                EBuso()
+                                ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))               
+                                PosMon = v.HumanoidRootPart.CFrame                                                                       
+                                v.HumanoidRootPart.Size = Vector3.new(1, 1, 1)
+                                v.HumanoidRootPart.CanCollide = false
+                                v.Humanoid.WalkSpeed = 0
+                                sethiddenproperty(LP, "SimulationRadius",  math.huge)
+                                EClick()
+                                StartBring = true
+                                NoClip = true                                                            
+                            until not FarmSkip or not v:FindFirstChild("HumanoidRootPart") or v.Humanoid.Health <= 0
+                            StartBring = false
+                        end 
+                    end
+                end 
+            elseif LvCount >= 60 and LvCount < 300 then
+                CheckPlayer = 0
+                local Players = game:GetService("Players"):GetPlayers()
+                local Quest = PG.Main.Quest
+                local mylevel = Data.Level.Value
+                local QuestTitle = Quest.Container.QuestTitle.Title.Text
+                if Quest.Visible == true then
+                    if string.find(QuestTitle, "Defeat") then
+                        getgenv().Ply = string.split(QuestTitle," ")[2]
+                        for i,v in pairs(Players) do
+                            if v.Name == getgenv().Ply and v.Character.Humanoid.Health > 0 then
+                                repeat task.wait()
+                                    if v.Data.Level.Value < 20 or v.Data.Level.Value > mylevel * 5 then
+                                        Remote:InvokeServer("PlayerHunter")
+                                    end
+                                    if PG.Main.PvpDisabled.Visible == true then
+                                        Remote:InvokeServer("EnablePvp")                   
+                                    end
+                                    EWeapon()
+                                    EBuso()	   
+                                    NoClip = true         
+                                    ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                                    EClick()
+                                until not FarmSkip or not v:FindFirstChild("HumanoidRootPart") or v.Character.Humanoid.Health <= 0
+                            end
+                        end
+                    else
+                        Remote:InvokeServer("PlayerHunter")
+                    end
+                else                
+                    if Remote:InvokeServer("PlayerHunter") == "I don't have anything for you right now. Come back later." then
+                        CheckPlayer = CheckPlayer + 1
+                    end
+                end
+                if CheckPlayer >= 12 and Quest.Visible == false and not string.find(QuestTitle, "Defeat") then
+                    HopServer()
+                end 
+            else
+                Selectmodef:Set("Level")
+                Farmop:Set(true)
+            end
+            if game.Players.localPlayer.Data.Points.Value >= 1 then
+                local args = {[1] = "AddPoint", [2] = "Melee", [3] = 1}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end
+        end
+    end
+end)
+MainTab:AddToggle({
+	Name = "Mob Arua",
+	Default = false,
+	Flag = "Mob Arua",
+	Save = true,
+	Callback = function(vMobArua)
+		MobArua = vMobArua
+		DisableTween(MobArua)
+	end    
+})
+spawn(function()
+	while task.wait() do
+		if MobArua then
+			for i,v in pairs(Enemies:GetChildren()) do
+                if v.Name and v:FindFirstChild("Humanoid") and GetDistance(v.HumanoidRootPart.Position) < 2000 then
+			        if v.Humanoid.Health > 0 then
+			            repeat wait()
+			                EWeapon()
+			                EBuso()
+			                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+			                v.HumanoidRootPart.CanCollide = false
+						    EClick()
+				       	    PosMon = v.HumanoidRootPart.CFrame
+                            NoClip = true
+                            StartBring = true
+			            until not MobArua or not v.Parent or v.Humanoid.Health <= 0 
+                        NoClip = false
+                        StartBring = false
+			        end
+			    end
+			end
+		end
+	end
+end)
+MainTab:AddSection({Name = "Farm Mas 600 Weapon"})
+local sword600 = MainTab:AddToggle({
+	Name = "Auto All Sword Mastery 600 [Option]",
+	Default = false,
+	Flag = "FarmAll600",
+	Save = true,
+	Callback = function(v600)
+		FarmMastery600 = v600
+	end    
+})
+function changesword()
+    for i,v in pairs(RS.Remotes.CommF_:InvokeServer("getInventory")) do
+        if type(v) == "table" then
+            if v.Type == "Sword" and v.Mastery >= 600 then
+                if not (LP.Backpack:FindFirstChild(v.Name) or LP.Character:FindFirstChild(v.Name)) then
+                    repeat RS.Remotes.CommF_:InvokeServer("LoadItem",v.Name) wait(2) until CheckMasSelect("Sword") < 600 or not FarmMastery600
+                end
+            end
+        end
+    end
+end
+spawn(function()
+    while task.wait() do
+        if FarmMastery600 then
+            local v09 = CheckMasSelect("Sword")
+            if v09 >= 600 then
+                changesword()
+            elseif v09 < 600 then
+                repeat wait()
+                    if SelectFarm == nil then
+                        Selectmodef:Set("Bone")
+                    else
+                        Farmop:Set(true)
+                        selecttool:Set("Sword")
+                    end
+                until not FarmMastery600 or CheckMasSelect("Sword") >= 600
+            end
+        end
+    end
+end)
+MainTab:AddSection({Name = "Mastery Option"})
+MainTab:AddDropdown({Name = "Select Type Mastery Farm", Default = "", Options = {"Devil Fruits", "Gun"}, Callback = function(vSelectTypeMas)
+    SelectTypeMas = vSelectTypeMas
+end    
+})
+MainTab:AddToggle({Name = "Enable Mastery Option", Default = false, Callback = function(vMasteryOption)
+    MasteryOption = vMasteryOption
+end    
+})
+local skill = {"Z", "X", "C", "V", "F"}
+SkillSelected = {}
+RealSkillSelected = {}
+for r, v in pairs(SkillSelected) do
+    if v then
+        table.insert(RealSkillSelected, r)
+    end
+end
+MainTab:AddDropdown({Name = "Select Skill [Click Skill Enable]", Default = "", Options = skill, Callback = function(vSelectSkills)
+    SkillSelected[vSelectSkills] = not SkillSelected[vSelectSkills]
+    RealSkillSelected = {}
+    for r, v in pairs(SkillSelected) do
+        if v then
+            table.insert(RealSkillSelected, r)
+        end
+    end
+    Notify("Memories Hub", "Skill " .. tostring(vSelectSkills) .. ": " .. tostring(SkillSelected[vSelectSkills]) .. "")
+end    
+})
+ItemTab:AddSection({Name = "Misc Farm"})
+StatusTab:AddSection({Name = "Status Mirage & Moon"})
+local FM = StatusTab:AddLabel("Travel Zou")
+task.spawn(function()
+    while task.wait() do
+        pcall(function()
+            if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
+                FM:Set("Moon: 5/5")
+            elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" then
+                FM:Set("Moon: 4/5")
+            elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
+                FM:Set("Moon: 3/5")
+            elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
+                FM:Set("Moon: 2/5")
+            elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
+                FM:Set("Moon: 1/5")
+            else
+                FM:Set("Moon: 0/5")
+            end
+        end)
+    end
+end)
+if Dressora then
+    ItemTab:AddToggle({
+        Name = "Auto Factory",
+        Default = false,
+        Flag = "Factory",
+        Save = true,
+        Callback = function(vFarmFactory)
+            FarmFactory = vFarmFactory
+            DisableTween(FarmFactory)
+        end    
+    })
+    spawn(function()
+        while wait() do
+            if FarmFactory then
+                if Enemies:FindFirstChild("Core") then
+                    for i,v in pairs(Enemies:GetChildren()) do
+                        if v.Name == "Core" and v.Humanoid.Health > 0 then
+                            repeat task.wait()
+                                EBuso()         
+                                EWeapon()           
+                                ToTween(CFrame.new(448.46756, 199.356781, -441.389252))                                  
+                                EClick()
+                                NoClip = true
+                            until v.Humanoid.Health <= 0 or not FarmFactory
+                            NoClip = false
+                        end
+                    end
+                else
+                    ToTween(CFrame.new(448.46756, 199.356781, -441.389252))
+                end
+            end
+        end
+    end)
+elseif Zou then
+    Loop:Connect(function()
+        if game.Workspace._WorldOrigin.Locations:FindFirstChild('Mirage Island') then
+            Mirragecheck:Set('🏝️: Mystic Island Spawning')
+        else
+            Mirragecheck:Set('❌: Mystic Island Not Found' )
+        end
+    end)
+    Mirragecheck = StatusTab:AddLabel("Zou")
+    ItemTab:AddToggle({
+        Name = "Tween Mystic Island",
+        Default = false,
+        Flag = "Tomystic",
+        Save = true,
+        Callback = function(vTMysticIsland)
+            TMysticIsland = vTMysticIsland
+            DisableTween(TMysticIsland)
+        end    
+    })
+    spawn(function()
+        while task.wait() do
+            if TMysticIsland then
+                if WS.Map:FindFirstChild("MysticIsland") then
+                    ToTween(CFrame.new(WS.Map.MysticIsland.Center.Position.X,500,WS.Map.MysticIsland.Center.Position.Z))
+                    NoClip = true
+                end
+            end
+        end
+    end)
+    ItemTab:AddToggle({
+        Name = "Cam To Moon",
+        Default = false,
+        Callback = function(vCamtomoon)
+            Camtomoon = vCamtomoon
+        end    
+    }) 
+    spawn(function()
+        while wait() do
+            if Camtomoon then
+                WS.CurrentCamera.CFrame = CFrame.new(WS.CurrentCamera.CFrame.Position,game:GetService("Lighting"):GetMoonDirection() + WS.CurrentCamera.CFrame.Position)
+            end
+        end
+    end)
+    ItemTab:AddButton({
+        Name = "Find NPC Advanced Dealer",
+        Callback = function()
+            FindAdvancedDealer()
+        end    
+    }) 
+    ItemTab:AddToggle({
+        Name = "Auto Find Blue Gear",
+        Default = false,
+        Callback = function(vFindBlueGear)
+            FindBlueGear = vFindBlueGear
+        end    
+    }) 
+    spawn(function()
+        while task.wait() do
+            if FindBlueGear then
+                if WS.Map:FindFirstChild("MysticIsland") then
+                    for i, v in pairs(WS.Map.MysticIsland:GetChildren()) do
+                        if v:IsA("MeshPart") then
+                            if v.Material == Enum.Material.Neon then
+                                ToTween(v.CFrame)
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end)
+end
+function DisableSpamSkill()
+    if not KillTrials then
+        chodienspamhirimixienchetcuchungmay = false
+        SpamSkill = false
+    end
+end
+local tablelistmeterial = {"Magma Ore", "Mystic Droplet", "Radioactive Material", "Angel Wing", "Conjured Cocoa", "Dragon Scale", "Scrap Metal", "Fish Tail"}
+ItemTab:AddSection({Name = "Meterial Farm"})
+local MeterialD = ItemTab:AddDropdown({Name = "Select Meterial", Default = "", Options = tablelistmeterial,Callback = function(vSelectMeterial)
+    SelectMeterial = vSelectMeterial
+end    
+})
+local UpgradeRaceToggle2 = ItemTab:AddToggle({Name = "Auto Meterial", Default = false, Callback = function(vMeterialAuto)
+    MeterialAuto = vMeterialAuto
+    DisableTween(MeterialAuto)
+end    
+})
+spawn(function()
+    while task.wait() do
+        if MeterialAuto and SelectMeterial == "Magma Ore" then
+            if Main then
+                MagOreMon = "Military Spy"
+                RepliPosMag = CFrame.new(-5850.2802734375, 77.28675079345703, 8848.6748046875)
+            elseif Dressora then
+                MagOreMon = "Lava Pirate"
+                RepliPosMag = CFrame.new(-5234.60595703125, 51.953372955322266, -4732.27880859375)
+            end
+            if not Dressora or not Main then
+                RS.Remotes.CommF_:InvokeServer("TravelDressrosa")
+            end
+            if Enemies:FindFirstChild(MagOreMon) then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == MagOreMon and v:FindFirstChild(MagOreMon) and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild(MagOreMon) or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Magma Ore"
+                    end
+                end
+            else
+                ToTweenWithEntrace(RepliPosMag)
+            end
+        elseif MeterialAuto and SelectMeterial == "Mystic Droplet" then
+            if not Dressora then
+                RS.Remotes.CommF_:InvokeServer("TravelDressrosa")
+            end
+            if Enemies:FindFirstChild("Water Fighter") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Water Fighter" and v:FindFirstChild("Water Fighter") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild("Water Fighter") or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Mystic Droplet"
+                    end
+                end
+            else
+                ToTweenWithEntrace(CFrame.new(-3352.9013671875, 285.01556396484375, -10534.841796875))
+            end
+        elseif MeterialAuto and SelectMeterial == "Radioactive Material" then
+            if not Dressora then
+                RS.Remotes.CommF_:InvokeServer("TravelDressrosa")
+            end
+            if Enemies:FindFirstChild("Factory Staff") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Factory Staff" and v:FindFirstChild("Factory Staff") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild("Factory Staff") or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Radioactive Material"
+                    end
+                end
+            else
+                ToTweenWithEntrace(CFrame.new(-507.7895202636719, 72.99479675292969, -126.45632934570312))
+            end
+        elseif MeterialAuto and SelectMeterial == "Angel Wing" then
+            if not Main then
+                RS.Remotes.CommF_:InvokeServer("TravelMain")
+            end
+            if Enemies:FindFirstChild("Royal Soldier") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Royal Soldier" and v:FindFirstChild("Royal Soldier") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild("Royal Soldier") or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Angel Wing"
+                    end
+                end
+            else
+                ToTweenWithEntrace(CFrame.new(-7827.15625, 5606.912109375, -1705.5833740234375))
+            end
+        elseif MeterialAuto and SelectMeterial == "Conjured Cocoa" then
+            if not Zou then
+                RS.Remotes.CommF_:InvokeServer("TravelZou")
+            end
+            if Enemies:FindFirstChild("Chocolate Bar Battler") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Chocolate Bar Battler" and v:FindFirstChild("Chocolate Bar Battler") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild("Chocolate Bar Battler") or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Conjured Cocoa"
+                    end
+                end
+            else
+                ToTweenWithEntrace(CFrame.new(744.7930908203125, 24.76934242248535, -12637.7255859375))
+            end
+        elseif MeterialAuto and SelectMeterial == "Dragon Scale" then
+            if not Zou then
+                RS.Remotes.CommF_:InvokeServer("TravelZou")
+            end
+            if Enemies:FindFirstChild("Dragon Crew Warrior") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Dragon Crew Warrior" and v:FindFirstChild("Dragon Crew Warrior") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild("Dragon Crew Warrior") or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Dragon Scale"
+                    end
+                end
+            else
+                ToTweenWithEntrace(CFrame.new(5824.06982421875, 51.38640213012695, -1106.694580078125))
+            end
+        elseif MeterialAuto and SelectMeterial == "Scrap Metal" then
+            if Main then
+                MobScrap = "Brute"
+                RepScrap = CFrame.new(-1132.4202880859375, 14.844913482666016, 4293.30517578125)
+            elseif Dressora then
+                MobScrap = "Mercenary"
+                RepScrap = CFrame.new(-972.307373046875, 73.04473876953125, 1419.2901611328125)
+            elseif Zou then
+                MobScrap = "Pirate Millionaire"
+                RepScrap = CFrame.new(-289.6311950683594, 43.8282470703125, 5583.66357421875)
+            end
+            if Enemies:FindFirstChild(MobScrap) then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == MobScrap and v:FindFirstChild(MobScrap) and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild(MobScrap) or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Scrap Metal"
+                    end
+                end
+            else
+                ToTweenWithEntrace(RepScrap)
+            end
+        elseif MeterialAuto and SelectMeterial == "Fish Tail" then
+            if not Main or not Zou then
+                RS.Remotes.CommF_:InvokeServer("TravelMain")
+            end
+            if Main then
+                MobFishT = "Fishman Warrior"
+                RepFishT = CFrame.new(61122.65234375, 18.497442245483, 1569.3997802734)
+            elseif Zou then
+                MobFishT = "Fishman Captain"
+                RepFishT = CFrame.new(-10961.0126953125, 331.7977600097656, -8914.29296875)
+            end
+            if Enemies:FindFirstChild(MobFishT) then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == MobFishT and v:FindFirstChild(MobFishT) and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                            EClick()
+                            v.HumanoidRootPart.CanCollide = false
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not v:FindFirstChild(MobFishT) or v.Humanoid.Health <= 0 or not MeterialAuto or not SelectMeterial == "Fish Tail"
+                    end
+                end
+            else
+                ToTweenWithEntrace(RepFishT)
+            end
+        end
+    end
+end)
+ItemTab:AddSection({Name = "EVO Race"})
+local UpgradeRaceToggle2 = ItemTab:AddToggle({Name = "Auto Evo Race", Default = false, Flag = "EvoV2", Save = true, Callback = function(vV2Up)
+	    UpgradeRacev2 = vV2Up
+        DisableTween(UpgradeRacev2)
+	end    
+}) 
+spawn(function()
+    while wait(.1) do
+        if UpgradeRacev2 then
+            CheckRace = CheckVerRace()
+            if string.find(CheckRace, "V1") then
+                if not LP.Data.Race:FindFirstChild("Evolved") then
+                    if RS.Remotes.CommF_:InvokeServer("Alchemist","1") == 0 then
+                        ToTween(CFrame.new(-2779.83521, 72.9661407, -3574.02002, -0.730484903, 6.39014104e-08, -0.68292886, 3.59963224e-08, 1, 5.50667032e-08, 0.68292886, 1.56424669e-08, -0.730484903))
+                        if (Vector3.new(-2779.83521, 72.9661407, -3574.02002) - LP.Character.HumanoidRootPart.Position).Magnitude <= 4 then
+                            wait(1.3)
+                            RS.Remotes.CommF_:InvokeServer("Alchemist","2")
+                        end
+                    elseif RS.Remotes.CommF_:InvokeServer("Alchemist","1") == 1 then
+                        pcall(function()
+                            if not LP.Backpack:FindFirstChild("Flower 1") and not LP.Character:FindFirstChild("Flower 1") then
+                                ToTween(WS.Flower1.CFrame)
+                            elseif not LP.Backpack:FindFirstChild("Flower 2") and not LP.Character:FindFirstChild("Flower 2") then
+                                ToTween(WS.Flower2.CFrame)
+                            elseif not LP.Backpack:FindFirstChild("Flower 3") and not LP.Character:FindFirstChild("Flower 3") then
+                                if Enemies:FindFirstChild("Zombie") then
+                                    for i,v in pairs(Enemies:GetChildren()) do
+                                        if v.Name == "Zombie" then
+                                            repeat task.wait()
+                                                EBuso()
+                                                EWeapon()
+                                                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                                v.HumanoidRootPart.CanCollide = false
+                                                EClick()
+                                                NoClip = true
+                                            until LP.Backpack:FindFirstChild("Flower 3") or not v.Parent or v.Humanoid.Health <= 0 or UpgradeRacev2
+                                            NoClip = false
+                                        end
+                                    end
+                                else
+                                    ToTween(CFrame.new(-5685.9233398438, 48.480125427246, -853.23724365234))
+                                end
+                            end
+                        end)
+                    elseif RS.Remotes.CommF_:InvokeServer("Alchemist","1") == 2 then
+                        RS.Remotes.CommF_:InvokeServer("Alchemist","3")
+                    end
+                end
+            end
+        end
+    end
+end)
+ItemTab:AddSection({Name = "Dough King"})
+ItemTab:AddToggle({
+	Name = "Auto Dough King",
+	Default = false,
+	Flag = "HopDoughKing",
+	Save = true,
+	Callback = function(vDoughKingKill)
+		DoughKingKill = vDoughKingKill
+        DisableTween(DoughKingKill)
+	end    
+}) 
+spawn(function()
+    while wait() do
+        if DoughKingKill and Zou then
+            pcall(function()
+                if LP.Backpack:FindFirstChild("God's Chalice") or LP.Character:FindFirstChild("God's Chalice") then
+                    if string.find(RS.Remotes.CommF_:InvokeServer("SweetChaliceNpc"),"Where") then
+                        Notify("Memories Hub", "Not Enough Meterial", 10)
+                    else
+                        RS.Remotes.CommF_:InvokeServer("SweetChaliceNpc")
+                    end
+                elseif LP.Backpack:FindFirstChild("Sweet Chalice") or LP.Character:FindFirstChild("Sweet Chalice") then
+                    if string.find(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner"),"Do you want to open the portal now?") then
+                        RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner")
+                    else
+                        if Enemies:FindFirstChild("Cookie Crafter") or Enemies:FindFirstChild("Cake Guard") or Enemies:FindFirstChild("Baking Staff") or Enemies:FindFirstChild("Head Baker") then
+                            for i,v in pairs(Enemies:GetChildren()) do
+                                if (v.Name == "Baking Staff" or v.Name == "Head Baker" or v.Name == "Cake Guard" or v.Name == "Cookie Crafter") and v.Humanoid.Health > 0 then
+                                    repeat task.wait()
+                                        EBuso()
+                                        EWeapon()
+                                        v.HumanoidRootPart.CanCollide = false
+                                        v.Head.CanCollide = false 
+                                        PosMon = v.HumanoidRootPart.CFrame
+                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                        EClick()
+                                        NoClip = true
+                                    until not DoughKingKill or RS:FindFirstChild("Dough King") or v.Humanoid.Health <= 0
+                                    NoClip = false
+                                end
+                            end
+                        else
+                            StartBring = false
+                            NoClip = true
+                            ToTween(CFrame.new(-2091.911865234375, 70.00884246826172, -12142.8359375))
+                            if RS:FindFirstChild("Cookie Crafter") then
+                                ToTween(RS:FindFirstChild("Cookie Crafter").HumanoidRootPart.CFrame * CFrame.new(2,20,2)) 
+                            else
+                                if RS:FindFirstChild("Cake Guard") then
+                                    ToTween(RS:FindFirstChild("Cake Guard").HumanoidRootPart.CFrame * CFrame.new(2,20,2)) 
+                                else
+                                    if RS:FindFirstChild("Baking Staff") then
+                                        ToTween(RS:FindFirstChild("Baking Staff").HumanoidRootPart.CFrame * CFrame.new(2,20,2))
+                                    else
+                                        if RS:FindFirstChild("Head Baker") then
+                                            ToTween(RS:FindFirstChild("Head Baker").HumanoidRootPart.CFrame * CFrame.new(2,20,2))
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                elseif Enemies:FindFirstChild("Dough King") then
+                    for i,v in pairs(Enemies:GetChildren()) do
+                        if v.Name == "Dough King" then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                                repeat task.wait()
+                                    EBuso()
+                                    EWeapon()
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.Humanoid.WalkSpeed = 0
+                                    v.HumanoidRootPart.Size = Vector3.new(50,50,50)
+                                    ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                    EClick()
+                                    sethiddenproperty(LP,"SimulationRadius",math.huge)
+                                    NoClip = true
+                                until not DoughKingKill or not v.Parent or v.Humanoid.Health <= 0
+                                NoClip = false
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+ItemTab:AddSection({Name = "Elite Hunter"})
+local EliteToggle = ItemTab:AddToggle({
+	Name = "Auto Elite",
+	Default = false,
+	Flag = "KillElite",
+	Save = true,
+	Callback = function(vElite)
+		Elite = vElite
+        RS.Remotes.CommF_:InvokeServer("AbandonQuest")
+		DisableTween(Elite)
+	end    
+}) 
+spawn(function()
+    while task.wait() do
+        if Elite then
+            if not string.find(PG.Main.Quest.Container.QuestTitle.Title.Text, CheckElite().Name) or not PG.Main.Quest.Visible then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("EliteHunter")
+            end
+            local v = CheckElite()
+            if Enemies:FindFirstChild(v.Name) then
+                if v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                    repeat task.wait()
+                        EBuso()
+                        EWeapon()
+                        ToTween(CFrame.new(v.HumanoidRootPart.Position + Vector3.new(math.random(-15,15), 20, math.random(-15,15))))
+                        EClick()
+                        NoClip = true
+                    until not v or not v:FindFirstChild("HumanoidRootPart") or not v:FindFirstChild("Humanoid") and v.Humanoid.Health <= 0 or not Elite
+                    NoClip = false
+                end
+            else
+                ToTweenWithEntrace(v.HumanoidRootPart.CFrame * CFrame.new(0, 30, 0))
+                NoClip = true
+            end
+        end
+    end
+end)
+ItemTab:AddSection({Name = "Legendary Sword"})
+ItemTab:AddToggle({
+	Name = "Auto Buy Legendary Sword",
+	Default = false,
+	Callback = function(vBuyLS)
+		BuyLS = vBuyLS
+	end    
+}) 
+
+spawn(function()
+    while wait() do
+        if _G.AutoBuyLegendarySword then
+            local args = { [1] = "LegendarySwordDealer", [2] = "1"}
+            RS.Remotes.CommF_:InvokeServer(unpack(args))
+            local args = {[1] = "LegendarySwordDealer", [2] = "2"}
+            RS.Remotes.CommF_:InvokeServer(unpack(args))
+            local args = {[1] = "LegendarySwordDealer", [2] = "3"}
+            RS.Remotes.CommF_:InvokeServer(unpack(args))
+        end 
+    end
+end)
+
+SeaTab:AddSection({Name = "Sea Event"})
+local BoatDropDown = SeaTab:AddDropdown({
+	Name = "Select Boat",
+	Default = "",
+	Options = {"PirateBrigade", "PirateGrandBrigade"},
+	Callback = function(vsboatc)
+		BoatSelect = vsboatc
+	end    
+})
+spawn(function()
+    while wait() do
+        if BoatSelect == "PirateBrigade" then
+            BoatNameBuy = "PirateBrigade"
+        elseif BoatSelect == "PirateGrandBrigade" then
+            BoatNameBuy = "PirateGrandBrigade"
+        end
+    end
+end)
+
+SeaTab:AddDropdown({
+	Name = "Select Zone",
+	Default = "",
+	Options = {"Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6"},
+	Callback = function(Value)
+		ZoneSelect = Value
+	end    
+})
+
+spawn(function()
+    while wait() do 
+        if ZoneSelect == "Zone 1" then
+            if BoatSelect == "PirateBrigade" then
+                ZoneCFrame = CFrame.new(-21313.607421875, 12.560698509216309, 1330.6165771484375)
+            elseif BoatSelect == "PirateGrandBrigade" then
+                ZoneCFrame = CFrame.new(-21313.607421875, 45.95185470581055, 1330.6165771484375)
+            end
+        elseif ZoneSelect == "Zone 2" then
+            if BoatSelect == "PirateBrigade" then
+                ZoneCFrame = CFrame.new(-24815.267578125, 12.560657501220703, 5262.62060546875)
+            elseif BoatSelect == "PirateGrandBrigade" then
+                ZoneCFrame = CFrame.new(-24815.267578125, 45.90665817260742, 5262.62060546875)
+            end
+        elseif ZoneSelect == "Zone 3" then
+            if BoatSelect == "PirateBrigade" then
+                ZoneCFrame = CFrame.new(-28464.876953125, 12.553319931030273, 6896.8076171875)
+            elseif BoatSelect == "PirateGrandBrigade" then
+                ZoneCFrame = CFrame.new(-28464.876953125, 45.90665817260742, 6896.8076171875)
+            end
+        elseif ZoneSelect == "Zone 4" then
+            if BoatSelect == "PirateBrigade" then
+                ZoneCFrame = CFrame.new(-30294.8515625, 12.554117202758789, 10409.8564453125)
+            elseif BoatSelect == "PirateGrandBrigade" then
+                ZoneCFrame = CFrame.new(-30294.8515625, 45.95185470581055, 10409.8564453125)
+            end
+        elseif ZoneSelect == "Zone 5" then
+            if BoatSelect == "PirateBrigade" then
+                ZoneCFrame = CFrame.new(-37704.828125, 12.561018943786621, 6750.69873046875)
+            elseif BoatSelect == "PirateGrandBrigade" then
+                ZoneCFrame = CFrame.new(-37704.828125, 45.90665817260742, 6750.69873046875)
+            end
+        elseif ZoneSelect == "Zone 6" or ZoneSelect == nil then
+            if BoatSelect == "PirateBrigade" then
+                ZoneCFrame = CFrame.new(-32704.103515625, 12.557344436645508, 24089.923828125)
+            elseif BoatSelect == "PirateGrandBrigade" then
+                ZoneCFrame = CFrame.new(-32704.103515625, 45.90665817260742, 24089.923828125)
+            end
+        end
+    end
+end)
+if Dressora then
+    CFrameBoat = CFrame.new(-13.488054275512695, 10.311711311340332, 2927.69287109375)
+    Vector3Boat = Vector3.new(-13.488054275512695, 10.311711311340332, 2927.69287109375)
+elseif Zou then
+    CFrameBoat = CFrame.new(-16927.17578125, 9.056343078613281, 435.248779296875)
+    Vector3Boat = Vector3.new(-16927.17578125, 9.056343078613281, 435.248779296875)
+end
+local SeaEventToggle = SeaTab:AddToggle({
+    Name = "Auto Sail Boats",
+    Default = false,
+    Flag = "SailBoat",
+    Save = false,
+    Callback = function(vSailBoat)
+        SailBoat = vSailBoat
+        DisableTween(SailBoat)
+    end    
+}) 
+task.spawn(function()
+    while task.wait() do
+        if SailBoat then
+            pcall(function()
+                if not CheckSeaBeast() and not CheckPirateBoat() and not game:GetService("Workspace").Enemies:FindFirstChild("Shark") and not game:GetService("Workspace").Enemies:FindFirstChild("Piranha") and not game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") and not game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") and not game:GetService("Workspace").Enemies:FindFirstChild("FishBoat") and not WO.Locations:FindFirstChild("Rough Sea") then
+                    if not checkboat() then
+                        if (Vector3Boat - LP.Character.HumanoidRootPart.Position).Magnitude >= 2000 then
+                            BypassTele(CFrameBoat)
+                        else
+                            ToTween(CFrameBoat)
+                            NoClip = true
+                            if (Vector3Boat - LP.Character.HumanoidRootPart.Position).Magnitude < 20 then
+                                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyBoat", BoatNameBuy)
+                            end
+                        end
+                    elseif checkboat() then
+                        if not LP.Character.Humanoid.Sit then
+                            ToTween(checkboat().VehicleSeat.CFrame)
+                            NoClip = true
+                            task.spawn(function()
+                                local v1 = tick()
+                                repeat task.wait() until game:GetService("Players").LocalPlayer.Character.Humanoid.Sit or tick()-v1 > 5 
+                                if game:GetService("Players").LocalPlayer.Character.Humanoid.Sit then  
+                                    local Nigga = {}
+                                    for i,v in pairs(checkboat():GetDescendants()) do 
+                                        pcall(function() 
+                                            v.CanCollide = false
+                                            table.insert(Nigga,v) 
+                                        end)
+                                    end
+                                    repeat task.wait() until not game:GetService("Players").LocalPlayer.Character.Humanoid.Sit 
+                                    for i,v in pairs(Nigga) do 
+                                        v.CanCollide = true 
+                                    end
+                                end
+                            end)
+                        elseif LP.Character.Humanoid.Sit and (checkboat().VehicleSeat.Position - ZoneCFrame.Position).Magnitude >= 50 then
+                            TweenObject(ZoneCFrame,checkboat().VehicleSeat,350)
+                        end
+                    end
+                elseif CheckPirateBoat() or CheckSeaBeast() or Enemies:FindFirstChild("Shark") or Enemies:FindFirstChild("Piranha") or Enemies:FindFirstChild("Terrorshark") or Enemies:FindFirstChild("FishBoat") or Enemies:FindFirstChild("Fish Crew Member") or WO.Locations:FindFirstChild("Rough Sea") then
+                end
+            end)
+        end
+    end
+end)
+SeaTab:AddSection({Name = "Feature Sea Event"})
+SeaTab:AddToggle({Name = "Auto Kill Sea Beasts",Default = false, Callback = function(vSeaBeasts)
+    SeaBeasts = vSeaBeasts
+end    
+}) 
+SeaTab:AddToggle({Name = "Auto Kill Ghost Ships",Default = false, Callback = function(vGhostShips)
+    GhostShips = vGhostShips
+end    
+}) 
+SeaTab:AddToggle({Name = "Auto Kill All Sharks",Default = false, Callback = function(vAllSharkKill)
+    AllSharkKill = vAllSharkKill
+end    
+}) 
+SeaTab:AddToggle({Name = "Auto Kill Fish Crew + Ship",Default = false, Callback = function(vFCMAFS)
+    FCMAFS = vFCMAFS
+end    
+}) 
+SeaTab:AddToggle({Name = "Auto Kill Terror Shark",Default = false, Callback = function(vTerrorShark)
+    TerrorShark = vTerrorShark
+end    
+}) 
+SeaTab:AddToggle({Name = "Auto Dodge Rough Sea",Default = false, Callback = function(vRoughSea)
+    RoughSea = vRoughSea
+end    
+}) 
+task.spawn(function()
+    while task.wait() do
+        if FCMAFS then
+            if game:GetService("Workspace").Enemies:FindFirstChild("FishBoat") and game:GetService("Workspace").Enemies:FindFirstChild("Fish Crew Member") then
+                if LP.Character.Humanoid.Sit then
+                    LP.Character.Humanoid.Sit = false
+                end
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v:FindFirstChild("VehicleSeat") then
+                        repeat task.wait()
+                            ToTween(v.VehicleSeat.CFrame * CFrame.new(0, -10, 0))
+                            game:GetService("VirtualUser"):CaptureController()
+                            game:GetService("VirtualUser"):Button1Down(Vector2.new(1280,672))
+                            aim = true 
+                            CFrameHunt = v.VehicleSeat.CFrame 
+                            chodienspamhirimixienchetcuchungmay = true
+                            NoClip = true
+                        until not v.Parent or v.Health.Value <= 0 or (not Enemies:FindFirstChild("FishBoat") and not Enemies:FindFirstChild("Fish Crew Member")) or not FCMAFS
+                        chodienspamhirimixienchetcuchungmay = false
+                        NoClip = false
+                        aim = false
+                    end
+                end
+            end
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if RoughSea then
+            if WO.Locations:FindFirstChild("Rough Sea") then
+                if not LP.Character.Humanoid.Sit then
+                    ToTween(checkboat().VehicleSeat.CFrame)
+                elseif LP.Character.Humanoid.Sit and (checkboat().VehicleSeat.Position - CFrame.new(-28464.876953125, 45.90665817260742, 6896.8076171875).Position).Magnitude >= 50 then
+                    TweenObject(CFrame.new(-28464.876953125, 45.90665817260742, 6896.8076171875),checkboat().VehicleSeat,350)
+                end
+            end
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if AllSharkKill then
+            if game:GetService("Workspace").Enemies:FindFirstChild("Shark") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Piranha" and v:FindFirstChild("Piranha") and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                        if LP.Character.Humanoid.Sit then
+                            LP.Character.Humanoid.Sit = false
+                        end
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                            EClick()
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not AllSharkKill or not v:FindFirstChild("Piranha") or not v:FindFirstChild("HumanoidRootPart") or not v:FindFirstChild("Humanoid") or v.Humanoid.Health <= 0
+                        NoClip = false
+                    end
+                end
+            end
+            if game:GetService("Workspace").Enemies:FindFirstChild("Piranha") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Shark" and v:FindFirstChild("Shark") and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                        if LP.Character.Humanoid.Sit then
+                            LP.Character.Humanoid.Sit = false
+                        end
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                            EClick()
+                            v.Humanoid.WalkSpeed = 0
+                            NoClip = true
+                        until not AllSharkKill or not v:FindFirstChild("Shark") or not v:FindFirstChild("HumanoidRootPart") or not v:FindFirstChild("Humanoid") or v.Humanoid.Health <= 0
+                        NoClip = false
+                    end
+                end
+            end
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if TerrorShark then
+            if game:GetService("Workspace").Enemies:FindFirstChild("Terrorshark") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Terrorshark" and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                        if LP.Character.Humanoid.Sit then
+                            LP.Character.Humanoid.Sit = false
+                        end
+                        repeat task.wait()
+                            EBuso()
+                            EWeapon()
+                            ToTween(getNextPosition(CFrame.new(v.HumanoidRootPart.CFrame + Vector3.new(math.random(-15,15), 20, math.random(-15,15)))))
+                            EClick()
+                            v.Humanoid.WalkSpeed = 0
+                            v.Humanoid.JumpPower = 0
+                            NoClip = true
+                        until not TerrorShark or not v:FindFirstChild("Terrorshark") or not v:FindFirstChild("HumanoidRootPart") or not v:FindFirstChild("Humanoid") or v.Humanoid.Health <= 0
+                        NoClip = false
+                    end
+                end
+            end
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if SeaBeasts then
+            if CheckSeaBeast() then
+                for i,v in pairs(WS.SeaBeasts:GetChildren()) do
+                    if v:FindFirstChild("HumanoidRootPart") and GetDistance(v.HumanoidRootPart.Position) <= 1200 then
+                        if LP.Character.Humanoid.Sit then
+                            LP.Character.Humanoid.Sit = false
+                        end
+                        repeat task.wait()
+                            if game.Players.LocalPlayer.Character.Humanoid.Health > 8000 then
+                                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,300,0))
+                                NoClip = true
+                            elseif game.Players.LocalPlayer.Character.Humanoid.Health <= healthlow then
+                                if YTween then
+                                    ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,600,0))
+                                    NoClip = true
+                                else
+                                    ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,300,0))
+                                    NoClip = true
+                                end
+                            end
+                            aim = true 
+                            CFrameHunt = v.HumanoidRootPart.CFrame 
+                            chodienspamhirimixienchetcuchungmay = true
+                        until not v or not v.Parent or v.Health.Value <= 0 or not CheckSeaBeast() or not SeaBeasts
+                        chodienspamhirimixienchetcuchungmay = false
+                        NoClip = false
+                        aim = false
+                    end
+                end
+            end
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if GhostShips then
+            if CheckPirateBoat() then
+                if LP.Character.Humanoid.Sit then
+                    LP.Character.Humanoid.Sit = false
+                end
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v:FindFirstChild("Engine") then
+                        pcall(function()
+                            repeat task.wait()
+                                ToTween(v.Engine.CFrame * CFrame.new(0, -20, 0))
+                                aim = true 
+                                CFrameHunt = v.Engine.CFrame
+                                chodienspamhirimixienchetcuchungmay = true
+                                NoClip = true
+                            until not v or not v.Parent or v.Health.Value <= 0 or not CheckPirateBoat() or not GhostShips
+                            chodienspamhirimixienchetcuchungmay = false
+                            NoClip = false
+                            aim = false
+                        end)
+                    end
+                end
+            end
+        end
+    end
+end)
+SeaTab:AddButton({Name = "Teleport Ship To Player", Callback = function()
+    checkboat().VehicleSeat.CFrame = LP.Character.HumanoidRootPart.CFrame
+end    
+})
+SeaTab:AddSection({Name = "Low Health"})
+SeaTab:AddSlider({Name = "Set Low Health", Min = 0, Max = 13095, Default = 4000, Color = Color3.fromRGB(255,255,255), Increment = 1, ValueName = "Health", Callback = function(vhealthlow)
+    healthlow = vhealthlow
+	end    
+})
+SeaTab:AddToggle({Name = "Low Health Y Tween", Default = true, Callback = function(vYTween)
+	YTween = vYTween
+end    
+}) 
+SeaTab:AddSection({Name = "Speed Boat"})
+SeaTab:AddSlider({Name = "Set Speed", Min = 0, Max = 600, Default = 250, Color = Color3.fromRGB(255,255,255), Increment = 1, ValueName = "Health", Callback = function(vsetspeedboat)
+    setspeedboat = vsetspeedboat
+	end    
+})
+SeaTab:AddToggle({Name = "Change Speed Boat", Default = false, Callback = function(vSpeedBoat)
+	SpeedBoat = vSpeedBoat
+end    
+}) 
+game:GetService("RunService").RenderStepped:Connect(function()
+    if SpeedBoat then
+        for i, v in pairs(game:GetService("Workspace").Boats:GetChildren()) do
+            if game:GetService("Players").LocalPlayer.Character.Humanoid.Sit then
+                v:FindFirstChild("VehicleSeat").MaxSpeed = setspeedboat
+            end
+        end
+    end
+end)
+SeaTab:AddSection({Name = "Spam Skill"})
+SeaTab:AddToggle({Name = "Spam Melee", Default = true, Callback = function(vSpamMelees)
+	SpamMelees = vSpamMelees
+end    
+}) 
+SeaTab:AddToggle({Name = "Spam Sword", Default = true, Callback = function(vSpamSwords)
+	SpamSwords = vSpamSwords
+end    
+}) 
+SeaTab:AddToggle({Name = "Spam Gun", Default = true, Callback = function(vSpamGuns)
+	SpamGuns = vSpamGuns
+end    
+}) 
+SeaTab:AddToggle({Name = "Spam Devil Fruit", Default = false, Callback = function(vSpamDFs)
+	SpamDFs = vSpamDFs
+end    
+})
+ItemTab:AddSection({Name = "Rip Indra - Dark Dagger"})
+ItemTab:AddToggle({
+	Name = "Auto Rip Indra",
+	Default = false,
+	Callback = function(Value)
+		_G.RipIndraKill = Value
+		DisableTween(_G.RipIndraKill)
+	end    
+}) 
+spawn(function()
+    pcall(function()
+        while wait() do
+            if _G.RipIndraKill then
+                if Enemies:FindFirstChild("rip_indra True Form") or Enemies:FindFirstChild("rip_indra") then
+                    for i,v in pairs(Enemies:GetChildren()) do
+                        if v.Name == ("rip_indra True Form" or v.Name == "rip_indra") and v.Humanoid.Health > 0 and v:IsA("Model") and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") then
+                            repeat task.wait()
+                                pcall(function()
+                                    EBuso()
+                                    EWeapon()
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.HumanoidRootPart.Size = Vector3.new(50,50,50)
+                                    ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                    game:GetService("VirtualUser"):CaptureController()
+                                    game:GetService("VirtualUser"):Button1Down(Vector2.new(1280, 670),workspace.CurrentCamera.CFrame)
+                                end)
+                            until not _G.RipIndraKill or v.Humanoid.Health <= 0
+                        end
+                    end
+                else
+                    ToTween(CFrame.new(-5344.822265625, 423.98541259766, -2725.0930175781))
+                end
+            end
+        end
+    end)
+end) 
+ItemTab:AddToggle({Name = "Auto Active Plate Color Haki", Default = false, Callback = function(vActiveColor)
+    ActiveColor = vActiveColor
+    DisableTween(ActiveColor)
+end    
+}) 
+spawn(function()
+    while task.wait() do
+        if ActiveColor then
+            AutoActiveColorRip_Indra()
+        end
+    end
+end)
+ItemTab:AddSection({Name = "Kitsune Event"})
+local KisuneUpToggle = ItemTab:AddToggle({Name = "Tween to Kitsune Island", Default = false, Callback = function(vKitsuneI)
+    KitsuneI = vKitsuneI
+    DisableTween(KitsuneI)
+    if KitsuneI then
+        repeat ToTween(WO.Locations:FindFirstChild("Kitsune Island").CFrame) wait() until KitsuneI == false
+    end
+end    
+})
+spawn(function()
+    while task.wait() do
+        if KitsuneI then
+            for i,v in pairs(WO.Locations:GetChildren()) do
+                if v:FindFirstChild("Kitsune Island") then
+                    ToTween(v:FindFirstChild("Kitsune Island"))
+                    NoClip = true
+                else
+                    NoClip = false
+                end
+            end
+        end
+        if AzuEmber then
+            if game:GetService("Workspace"):FindFirstChild("AttachedAzureEmber") then
+                LP.Character.HumanoidRootPart.CFrame = game:GetService("Workspace"):WaitForChild("EmberTemplate"):FindFirstChild("Part").CFrame
+            end
+        end
+    end
+end)
+local FarmAzure = ItemTab:AddToggle({Name = "Auto Collect Azure Ember", Default = false, Callback = function(vAzuEmber)
+    AzuEmber = vAzuEmber
+    DisableTween(AzuEmber)
+end    
+})
+ItemTab:AddToggle({Name = "Auto Summon Kitsune Island", Default = false, Flag = "Summon Kitsune Island", Save = true, Callback = function(vSummonKitsuneIsland)
+    SummonKitsuneIsland = vSummonKitsuneIsland
+        DisableTween(SummonKitsuneIsland)
+    end    
+})
+spawn(function()
+    while wait() do
+        if SummonKitsuneIsland then
+            if moonst == "Full Moon" and (game.Lighting.ClockTime < 5 or game.Lighting.ClockTime > 12) or moonst == "Next Night" then
+                if not CheckSeaBeast() and not CheckPirateBoat() and not Enemies:FindFirstChild("Shark") and not Enemies:FindFirstChild("Piranha") and not Enemies:FindFirstChild("Terrorshark") and not Enemies:FindFirstChild("Fish Crew Member") and not Enemies:FindFirstChild("FishBoat") then
+                    if not checkboat() then
+                        if (Vector3Boat - LP.Character.HumanoidRootPart.Position).Magnitude > 2000 then
+                            BypassTele(CFrameBoat)
+                        else
+                            ToTween(CFrameBoat)
+                            NoClip = true
+                            if (Vector3Boat - LP.Character.HumanoidRootPart.Position).Magnitude < 20 then
+                                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("BuyBoat", BoatNameBuy)
+                            end
+                        end
+                    elseif checkboat() and not WO.Locations:FindFirstChild("Rough Sea") then
+                        if (checkboat().VehicleSeat.Position - Vector3Boat).Magnitude > 50 then
+                            checkboat().VehicleSeat.CFrame = ZoneCFrame
+                        end
+                        if not game:GetService("Players").LocalPlayer.Character.Humanoid.Sit then
+                            NoClip = true
+                            ToTween(checkboat().VehicleSeat.CFrame)
+                        else
+                            NoClip = false
+                        end
+                    elseif checkboat() and WO.Locations:FindFirstChild("Rough Sea") then
+                        if LP.Character.Humanoid.Sit then
+                            LP.Character.Humanoid.Sit = false
+                        end
+                        if (checkboat().VehicleSeat.Position - Vector3Boat).Magnitude > 50 then
+                            checkboat().VehicleSeat.CFrame = CFrame.new(-28464.876953125, 12.553319931030273, 6896.8076171875)
+                        end
+                        if not game:GetService("Players").LocalPlayer.Character.Humanoid.Sit then
+                            NoClip = true
+                            ToTween(checkboat().VehicleSeat.CFrame)
+                        else
+                            NoClip = false
+                        end
+                    elseif not checkboat() and WO.Locations:FindFirstChild("Rough Sea") then
+                        if (Vector3Boat - LP.Character.HumanoidRootPart.Position).Magnitude > 2000 then
+                            BypassTele(CFrameBoat)
+                        end
+                    end
+                else
+                    if checkboat() then
+                        if (checkboat().VehicleSeat.Position - Vector3Boat).Magnitude > 50 then
+                            checkboat().VehicleSeat.CFrame = ZoneCFrame
+                        end
+                        if LP.Character.Humanoid.Sit then
+                            LP.Character.Humanoid.Sit = false
+                        end
+                        if not LP.Character.Humanoid.Sit then
+                            NoClip = true
+                            ToTween(checkboat().VehicleSeat.CFrame)
+                        else
+                            NoClip = false
+                        end
+                    end
+                end
+            else
+                Notify("Memories Hub", "Not Found Near FM or FM, Start Hop", 5)
+                HopServer()
+            end
+        end
+    end
+end)
+ItemTab:AddSection({Name = "Sword Curse"}) 
+ItemTab:AddToggle({
+	Name = "Auto Yama",
+	Default = false,
+	Callback = function(vAutoYama)
+        AutoYama = vAutoYama
+        DisableTween(AutoYama)
+	end    
+}) 
+spawn(function()
+    while wait() do
+        if AutoYama then
+            if RS.Remotes.CommF_:InvokeServer("EliteHunter","Progress") >= 30 then
+                repeat wait(.1)
+                    fireclickdetector(WS.Map.Waterfall.SealedKatana.Handle.ClickDetector)
+                until LP.Backpack:FindFirstChild("Yama") or not AutoYama
+            end
+        end
+    end
+end)
+ItemTab:AddToggle({
+	Name = "Auto Tushita",
+	Default = false,
+	Callback = function(Value)
+         _G.Autotushita = value
+         DisableTween( _G.Autotushita)
+	end    
+}) 
+spawn(function()
+    while task.wait(.1) do
+        if _G.Autotushita then
+            autoTushita()
+        end
+    end
+end)
+function enemyrip()
+    ToTween(CFrame.new(-5332.30371, 423.985413, -2673.48218))
+    wait()
+    if Enemies:FindFirstChild("rip_indra True Form") then
+        local mobs = Enemies:GetChildren()
+        for i,v in pairs(mobs) do
+            if v.Name == "rip_indra True Form" and v:IsA("Model") and v:FindFirstChild("Humanoid") and
+                v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+    return game.ReplicatedStorage:FindFirstChild("rip_indra True Form")
+end
+function enemyEliteBoss()
+    if Enemies:FindFirstChild("Deandre") or Enemies:FindFirstChild("Urban") or Enemies:FindFirstChild("Diablo") then
+        local mobs = Enemies:GetChildren()
+        for i,v in pairs(mobs) do
+            if v.Name == "Deandre" or v.Name == "Diablo" or v.Name == "Urban" and v:IsA("Model") and v:FindFirstChild("Humanoid") and
+                v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+    return game.ReplicatedStorage:FindFirstChild("Deandre") or game.ReplicatedStorage:FindFirstChild("Urban") or game.ReplicatedStorage:FindFirstChild("Diablo")
+end
+function enemylongma()
+    ToTween(CFrame.new(-10171.7051, 406.981995, -9552.31738))
+    if Enemies:FindFirstChild("Longma") then
+        local mobs = Enemies:GetChildren()
+        for i,v in pairs(mobs) do
+            if v.Name == "Longma" and v:IsA("Model") and v:FindFirstChild("Humanoid") and
+                v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                return v
+            end
+        end
+    end
+    return game.ReplicatedStorage:FindFirstChild("Longma")
+end
+function autoTushita()
+    if not LP.Backpack:FindFirstChild("God's Chalice") and not LP.Character:FindFirstChild("God's Chalice") then
+        if Enemies:FindFirstChild("Deandre") or Enemies:FindFirstChild("Urban") or Enemies:FindFirstChild("Diablo") or game.ReplicatedStorage:FindFirstChild("Deandre") or game.ReplicatedStorage:FindFirstChild("Urban") or game.ReplicatedStorage:FindFirstChild("Diablo") then
+            if LP.PlayerGui.Main.Quest.Visible == false then
+                repeat ToTween(CFrame.new(5420.49219, 314.446045, -2823.07373)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+                wait(1)
+                repeat ToTween(CFrame.new(5420.49219, 314.446045, -2823.07373)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+                wait(1.1)
+                RS.Remotes.CommF_:InvokeServer("EliteHunter")
+                wait(1)
+            elseif LP.PlayerGui.Main.Quest.Visible == true then
+                CheckLevel()
+                pcall(function()
+                    EWeapon()
+                    pcall(function()
+                        local v = enemyEliteBoss()
+                        v.HumanoidRootPart.CanCollide = false
+                        v.HumanoidRootPart.Size = Vector3.new(50, 50, 50)
+                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                        Click()
+                    end)
+                end)
+            end
+        else
+            ToTween(CFrame.new(-12554.9443, 337.194092, -7501.44727))
+        end
+    elseif LP.Backpack:FindFirstChild("God's Chalice") or LP.Character:FindFirstChild("God's Chalice") then
+        RS.Remotes.CommF_:InvokeServer("activateColor","Winter Sky")
+        wait(0.5)
+        repeat ToTween(CFrame.new(-5420.16602, 1084.9657, -2666.8208)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(-5420.16602, 1084.9657, -2666.8208)).Magnitude <= 10
+        wait(0.5)
+        RS.Remotes.CommF_:InvokeServer("activateColor","Pure Red")
+        wait(0.5)
+        repeat ToTween(CFrame.new(-5414.41357, 309.865753, -2212.45776)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(-5414.41357, 309.865753, -2212.45776)).Magnitude <= 10
+        wait(0.5)
+        RS.Remotes.CommF_:InvokeServer("activateColor","Snow White")
+        wait(0.5)
+        repeat ToTween(CFrame.new(-4971.47559, 331.565765, -3720.02954)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(-4971.47559, 331.565765, -3720.02954)).Magnitude <= 10
+        wait(0.5)
+        EWeapon("God's Chalice")
+        wait(0.5)
+        repeat ToTween(CFrame.new(-5560.27295, 313.915466, -2663.89795)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(-5560.27295, 313.915466, -2663.89795)).Magnitude <= 10
+        wait(0.5)
+        repeat ToTween(CFrame.new(-5561.37451, 313.342529, -2663.4948)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(1)
+        repeat ToTween(CFrame.new(5154.17676, 141.786423, 911.046326)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(0.2)
+        repeat ToTween(CFrame.new(5148.03613, 162.352493, 910.548218)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(1)
+        EWeapon("Holy Torch")
+        wait(1)
+        wait(0.4)
+        repeat ToTween(CFrame.new(-10752.7695, 412.229523, -9366.36328)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(0.4)
+        repeat ToTween(CFrame.new(-11673.4111, 331.749023, -9474.34668)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(0.4)
+        repeat ToTween(CFrame.new(-12133.3389, 519.47522, -10653.1904)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(0.4)
+        repeat ToTween(CFrame.new(-13336.5, 485.280396, -6983.35254)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(0.4)
+        repeat ToTween(CFrame.new(-13487.4131, 334.84845, -7926.34863)) wait() until not AutoTushita or (LP.Character.HumanoidRootPart.Position-Vector3.new(5420.49219, 314.446045, -2823.07373)).Magnitude <= 10
+        wait(1)
+    elseif Enemies:FindFirstChild("Longma") or game.ReplicatedStorage:FindFirstChild("Longma") then
+        pcall(function()
+            EWeapon()
+            pcall(function()
+                local v = enemylongma()
+                v.HumanoidRootPart.CanCollide = false
+                v.HumanoidRootPart.Size = Vector3.new(50, 50, 50)
+                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                Click()
+            end)
+        end)
+    elseif Enemies:FindFirstChild("rip_indra True Form")  or game.ReplicatedStorage:FindFirstChild("rip_indra True Form") then
+        pcall(function()
+            EWeapon()
+            pcall(function()
+                local v = enemyrip()
+                v.HumanoidRootPart.CanCollide = false
+                v.HumanoidRootPart.Size = Vector3.new(50, 50, 50)
+                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                Click()
+            end)
+        end)
+    else
+        ToTween(CFrame.new(-12554.9443, 337.194092, -7501.44727))
+    end
+end
+ItemTab:AddSection({Name = "Soul Guitar"})
+ItemTab:AddToggle({
+	Name = "Quest Soul Guitar",
+	Default = false,
+	Flag = "SoulGuitar",
+	Save = true,
+	Callback = function(Value)
+        AutoSoulGuitar = value    
+        DisableTween(AutoSoulGuitar)
+	end    
+}) 
+spawn(function()
+    while task.wait() do
+        pcall(function()
+            if AutoSoulGuitar then
+                if not LP.Backpack:FindFirstChild("Soul Guitar") and not LP.Character:FindFirstChild("Soul Guitar") then
+                    if (CFrame.new(-9681.458984375, 6.139880657196045, 6341.3720703125).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 5000 then
+                        if WS.NPCs:FindFirstChild("Skeleton Machine") then
+                            RS.Remotes.CommF_:InvokeServer("soulGuitarBuy",true)
+                        else
+                            if WS.Map["Haunted Castle"].Candle1.Transparency == 0 then
+                                if WS.Map["Haunted Castle"].Placard1.Left.Part.Transparency == 0 then
+                                    repeat task.wait() 
+                                        ToTween(CFrame.new(-8762.69140625, 176.84783935546875, 6171.3076171875)) 
+                                    until (CFrame.new(-8762.69140625, 176.84783935546875, 6171.3076171875).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 3 or not AutoSoulGuitar
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard7.Left.ClickDetector)
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard6.Left.ClickDetector)
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard5.Left.ClickDetector)
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard4.Right.ClickDetector)
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard3.Left.ClickDetector)
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard2.Right.ClickDetector)
+                                    wait(1)
+                                    fireclickdetector(WS.Map["Haunted Castle"].Placard1.Right.ClickDetector)
+                                    wait(1)
+                                elseif WS.Map["Haunted Castle"].Tablet.Segment1:FindFirstChild("ClickDetector") then
+                                    if WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part1:FindFirstChild("ClickDetector") then
+                                        repeat task.wait() 
+                                            ToTween(CFrame.new(-9553.5986328125, 65.62338256835938, 6041.58837890625)) 
+                                        until (CFrame.new(-9553.5986328125, 65.62338256835938, 6041.58837890625).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 3 or not AutoSoulGuitar
+                                        wait(1)
+                                        ToTween(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part3.CFrame)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part3.ClickDetector)
+                                        wait(1)
+                                        ToTween(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part4.CFrame)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part4.ClickDetector)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part4.ClickDetector)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part4.ClickDetector)
+                                        wait(1)
+                                        ToTween(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part6.CFrame)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part6.ClickDetector)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part6.ClickDetector)
+                                        wait(1)
+                                        ToTween(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part8.CFrame)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part8.ClickDetector)
+                                        wait(1)
+                                        ToTween(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part10.CFrame)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part10.ClickDetector)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part10.ClickDetector)
+                                        wait(1)
+                                        fireclickdetector(WS.Map["Haunted Castle"]["Lab Puzzle"].ColorFloor.Model.Part10.ClickDetector)
+                                    else
+                                        Quest3 = true
+                                        --Not Work Yet
+                                    end
+                                else
+                                    if WS.NPCs:FindFirstChild("Ghost") then
+                                        local args = {
+                                            [1] = "GuitarPuzzleProgress",
+                                            [2] = "Ghost"
+                                        }
+
+                                        RS.Remotes.CommF_:InvokeServer(unpack(args))
+                                    end
+                                end
+                            else    
+                                if string.find(RS.Remotes.CommF_:InvokeServer("gravestoneEvent",2), "Error") then
+                                    print("Go to Grave")
+                                    ToTween(CFrame.new(-8653.2060546875, 140.98487854003906, 6160.033203125))
+                                elseif string.find(RS.Remotes.CommF_:InvokeServer("gravestoneEvent",2), "Nothing") then
+                                    print("Wait Next Night")
+                                else
+                                    RS.Remotes.CommF_:InvokeServer("gravestoneEvent",2,true)
+                                end
+                            end
+                        end
+                    else
+                        ToTween(CFrame.new(-9681.458984375, 6.139880657196045, 6341.3720703125))
+                    end
+                end
+            end
+        end)
+    end
+end)
+ItemTab:AddSection({Name = "Saber"})
+ItemTab:AddToggle({
+	Name = "Claim Saber",
+	Default = false,
+	Callback = function(ClaimSaber)
+		ClaimSaber = vClaimSaber
+		DisableTween(ClaimSaber)
+	end    
+})
+spawn(function()
+    while task.wait() do
+        if ClaimSaber and LP.Data.Level.Value >= 200 then
+            pcall(function()
+                if WS.Map.Jungle.Final.Part.Transparency == 0 then
+                    if WS.Map.Jungle.QuestPlates.Door.Transparency == 0 then
+                        if (CFrame.new(-1612.55884, 36.9774132, 148.719543, 0.37091279, 3.0717151e-09, -0.928667724, 3.97099491e-08, 1, 1.91679348e-08, 0.928667724, -4.39869794e-08, 0.37091279).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 100 then
+                            ToTween(LP.Character.HumanoidRootPart.CFrame)
+                            wait(1)
+                            LP.Character.HumanoidRootPart.CFrame = WS.Map.Jungle.QuestPlates.Plate1.Button.CFrame
+                            wait(1)
+                            LP.Character.HumanoidRootPart.CFrame = WS.Map.Jungle.QuestPlates.Plate2.Button.CFrame
+                            wait(1)
+                            LP.Character.HumanoidRootPart.CFrame = WS.Map.Jungle.QuestPlates.Plate3.Button.CFrame
+                            wait(1)
+                            LP.Character.HumanoidRootPart.CFrame = WS.Map.Jungle.QuestPlates.Plate4.Button.CFrame
+                            wait(1)
+                            LP.Character.HumanoidRootPart.CFrame = WS.Map.Jungle.QuestPlates.Plate5.Button.CFrame
+                            wait(1)
+                        else
+                            ToTween(CFrame.new(-1612.55884, 36.9774132, 148.719543, 0.37091279, 3.0717151e-09, -0.928667724, 3.97099491e-08, 1, 1.91679348e-08, 0.928667724, -4.39869794e-08, 0.37091279))
+                        end
+                    else
+                        if WS.Map.Desert.Burn.Part.Transparency == 0 then
+                            if LP.Backpack:FindFirstChild("Torch") or LP.Character:FindFirstChild("Torch") then
+                                EWeapon("Torch")
+                                ToTween(CFrame.new(1114.61475, 5.04679728, 4350.22803, -0.648466587, -1.28799094e-09, 0.761243105, -5.70652914e-10, 1, 1.20584542e-09, -0.761243105, 3.47544882e-10, -0.648466587))
+                              else
+                                ToTween(CFrame.new(-1610.00757, 11.5049858, 164.001587, 0.984807551, -0.167722285, -0.0449818149, 0.17364943, 0.951244235, 0.254912198, 3.42372805e-05, -0.258850515, 0.965917408))
+                            end
+                        else
+                            if RS.Remotes.CommF_:InvokeServer("ProQuestProgress","SickMan") ~= 0 then
+                                RS.Remotes.CommF_:InvokeServer("ProQuestProgress","GetCup")
+                                wait(0.5)
+                                EWeapon("Cup")
+                                wait(0.5)
+                                RS.Remotes.CommF_:InvokeServer("ProQuestProgress","FillCup",LP.Character.Cup)
+                                wait(0)
+                                RS.Remotes.CommF_:InvokeServer("ProQuestProgress","SickMan")
+                            else
+                                if RS.Remotes.CommF_:InvokeServer("ProQuestProgress","RichSon") == nil then
+                                    RS.Remotes.CommF_:InvokeServer("ProQuestProgress","RichSon")
+                                elseif RS.Remotes.CommF_:InvokeServer("ProQuestProgress","RichSon") == 0 then
+                                if Enemies:FindFirstChild("Mob Leader") or RS:FindFirstChild("Mob Leader") then
+                                    ToTween(CFrame.new(-2967.59521, -4.91089821, 5328.70703, 0.342208564, -0.0227849055, 0.939347804, 0.0251603816, 0.999569714, 0.0150796166, -0.939287126, 0.0184739735, 0.342634559)) 
+                                        for i,v in pairs(Enemies:GetChildren()) do
+                                            if v.Name == "Mob Leader" then
+                                                if Enemies:FindFirstChild("Mob Leader") then
+                                                    if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                                                        repeat task.wait()
+                                                        EBuso()
+                                                        EWeapon()
+                                                        v.HumanoidRootPart.CanCollide = false
+                                                        v.HumanoidRootPart.Size = Vector3.new(80,80,80)                             
+                                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                                        EClick()
+                                                        sethiddenproperty(LP,"SimulationRadius",math.huge)
+                                                        until v.Humanoid.Health <= 0 or not ClaimSaber
+                                                    end
+                                                end
+                                                if RS:FindFirstChild("Mob Leader") then
+                                                    ToTween(RS:FindFirstChild("Mob Leader").HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                                end
+                                            end
+                                        end
+                                    end
+                                elseif RS.Remotes.CommF_:InvokeServer("ProQuestProgress","RichSon") == 1 then
+                                    RS.Remotes.CommF_:InvokeServer("ProQuestProgress","RichSon")
+                                    wait(0.5)
+                                    EWeapon("Relic")
+                                    wait(0.5)
+                                    ToTween(CFrame.new(-1404.91504, 29.9773273, 3.80598116, 0.876514494, 5.66906877e-09, 0.481375456, 2.53851997e-08, 1, -5.79995607e-08, -0.481375456, 6.30572643e-08, 0.876514494))
+                                end
+                            end
+                        end
+                    end
+                else
+                    if Enemies:FindFirstChild("Saber Expert") or RS:FindFirstChild("Saber Expert") then
+                        for i,v in pairs(Enemies:GetChildren()) do
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                                if v.Name == "Saber Expert" then
+                                    repeat task.wait()
+                                        EWeapon()
+                                        ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                        v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                        v.HumanoidRootPart.CanCollide = false
+                                        EClick()
+                                    until v.Humanoid.Health <= 0 or not ClaimSaber
+                                    if v.Humanoid.Health <= 0 then
+                                        RS.Remotes.CommF_:InvokeServer("ProQuestProgress","PlaceRelic")
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+ItemTab:AddSection({Name = "Haki Color"})
+local haki = RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer("ColorsDealer", "1")
+spawn(function()
+    while wait() do
+        if RS:WaitForChild("Remotes"):WaitForChild("CommF_"):InvokeServer("ColorsDealer", "1") then
+            ColorHaki:Set(haki)
+        else
+            ColorHaki:Set("NOT FOUND COLOR")
+        end
+    end
+end)
+ColorHaki = ItemTab:AddLabel("...")
+ItemTab:AddToggle({
+	Name = "Buy Color",
+	Default = false,
+	Callback = function(Value)
+		_G.AutoBuyEnchancementColour = Value
+	end    
+})
+spawn(function()
+    while wait() do
+        if _G.AutoBuyEnchancementColour then
+            local args = {[1] = "ColorsDealer", [2] = "2"}
+            RS.Remotes.CommF_:InvokeServer(unpack(args))
+        end 
+    end
+end)
+
+ItemTab:AddSection({Name = "Oservation Haki"})
+
+local ObservationRange = ItemTab:AddLabel("")
+
+spawn(function()
+    while wait() do
+        pcall(function()
+            ObservationRange:Set("Observation Range Level : "..math.floor(LP.VisionRadius.Value))
+        end)
+    end
+end)
+ItemTab:AddToggle({
+	Name = "Find Musketeer Hat",
+	Default = false,
+	Callback = function(Value)
+		_G.AutoMusketeerHat = Value
+		DisableTween(_G.AutoMusketeerHat)
+	end    
+})
+spawn(function()
+    pcall(function()
+        while wait(.1) do
+            if _G.AutoMusketeerHat then
+                if LP.Data.Level.Value >= 1800 and RS.Remotes.CommF_:InvokeServer("CitizenQuestProgress").KilledBandits == false then
+                    if string.find(LP.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, "Forest Pirate") and string.find(LP.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, "50") and LP.PlayerGui.Main.Quest.Visible == true then
+                        if Enemies:FindFirstChild("Forest Pirate") then
+                            for i,v in pairs(Enemies:GetChildren()) do
+                                if v.Name == "Forest Pirate" then
+                                    repeat task.wait()
+                                        pcall(function()
+                                            EWeapon()
+                                            EBuso()
+                                            v.HumanoidRootPart.Size = Vector3.new(50,50,50)
+                                            ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                            v.HumanoidRootPart.CanCollide = false
+                                            game:GetService'VirtualUser':CaptureController()
+                                            game:GetService'VirtualUser':Button1Down(Vector2.new(1280, 672))
+                                            MusketeerHatMon = v.HumanoidRootPart.CFrame
+                                            StartMagnetMusketeerhat = true
+                                        end)
+                                    until _G.AutoMusketeerHat == false or not v.Parent or v.Humanoid.Health <= 0 or LP.PlayerGui.Main.Quest.Visible == false
+                                    StartMagnetMusketeerhat = false
+                                end
+                            end
+                        else
+                            StartMagnetMusketeerhat = false
+                            ToTween(CFrame.new(-13206.452148438, 425.89199829102, -7964.5537109375))
+                        end
+                    else
+                        ToTween(CFrame.new(-12443.8671875, 332.40396118164, -7675.4892578125))
+                        if (Vector3.new(-12443.8671875, 332.40396118164, -7675.4892578125) - LP.Character.HumanoidRootPart.Position).Magnitude <= 30 then
+                            wait(1.5)
+                            RS.Remotes.CommF_:InvokeServer("StartQuest","CitizenQuest",1)
+                        end
+                    end
+                elseif LP.Data.Level.Value >= 1800 and RS.Remotes.CommF_:InvokeServer("CitizenQuestProgress").KilledBoss == false then
+                    if LP.PlayerGui.Main.Quest.Visible and string.find(LP.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, "Captain Elephant") and LP.PlayerGui.Main.Quest.Visible == true then
+                        if Enemies:FindFirstChild("Captain Elephant") then
+                            for i,v in pairs(Enemies:GetChildren()) do
+                                if v.Name == "Captain Elephant" then
+                                    OldCFrameElephant = v.HumanoidRootPart.CFrame
+                                    repeat task.wait()
+                                        pcall(function()
+                                            EWeapon()
+                                            EBuso()
+                                            v.HumanoidRootPart.CanCollide = false
+                                            v.HumanoidRootPart.Size = Vector3.new(50,50,50)
+                                            ToTween(v.HumanoidRootPart.CFrame * CFrame.new(2,20,2))
+                                            v.HumanoidRootPart.CanCollide = false
+                                            v.HumanoidRootPart.CFrame = OldCFrameElephant
+                                            game:GetService("VirtualUser"):CaptureController()
+                                            game:GetService("VirtualUser"):Button1Down(Vector2.new(1280, 672))
+                                            sethiddenproperty(LP,"SimulationRadius",math.huge)
+                                        end)
+                                    until _G.AutoMusketeerHat == false or v.Humanoid.Health <= 0 or not v.Parent or LP.PlayerGui.Main.Quest.Visible == false
+                                end
+                            end
+                        else
+                            ToTween(CFrame.new(-13374.889648438, 421.27752685547, -8225.208984375))
+                        end
+                    else
+                        ToTween(CFrame.new(-12443.8671875, 332.40396118164, -7675.4892578125))
+                        if (CFrame.new(-12443.8671875, 332.40396118164, -7675.4892578125).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 4 then
+                            wait(1.5)
+                            RS.Remotes.CommF_:InvokeServer("CitizenQuestProgress","Citizen")
+                        end
+                    end
+                elseif LP.Data.Level.Value >= 1800 and RS.Remotes.CommF_:InvokeServer("CitizenQuestProgress","Citizen") == 2 then
+                    ToTween(CFrame.new(-12512.138671875, 340.39279174805, -9872.8203125))
+                end
+            end
+        end
+    end)
+end)
+ItemTab:AddSection({Name = "Soul Reaper"})
+ItemTab:AddToggle({
+	Name = "Kill Soul Reaper",
+	Default = false,
+	Callback = function(vSoulReaper)
+		SoulReaper = vSoulReaper
+        DisableTween(SoulReaper)
+	end    
+})
+spawn(function()
+    while task.wait() do
+        if SoulReaper then
+            pcall(function()
+                if Enemies:FindFirstChild("Soul Reaper") then
+                    for i,v in pairs(Enemies:GetChildren()) do
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                            if v.Name == "Soul Reaper" then
+                                repeat task.wait()
+                                    EWeapon()
+                                    ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                    v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    v.HumanoidRootPart.CanCollide = false
+                                    EClick()
+                                    NoClip = true
+                                until v.Humanoid.Health <= 0 or not SoulReaper
+                                NoClip = false
+                            end
+                        end
+                    end
+                else
+                    loc3 = CFrame.new(-8932.322265625, 146.83154296875, 6062.55078125)
+                    loc4 = RS:FindFirstChild("Soul Reaper").HumanoidRootPart.CFrame
+                    if LP.Backpack:FindFirstChild("Hallow Essence") or LP.Character:FindFirstChild("Hallow Essence") then
+                        repeat task.wait()
+                            ToTween(loc3)
+                            wait()
+                        until (loc3.Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 8
+                        EWeapon("Hallow Essence")
+                    else
+                        ToTween(loc4)
+                    end
+                end
+            end)
+        end
+    end
+end)
+StatusTab:AddSection({Name = "Status Zou"})
+local bonec = StatusTab:AddLabel("Bone: N/A")
+local killcake = StatusTab:AddLabel("Cake Remaining Kills: N/A")
+local elitec = StatusTab:AddLabel("Elite Status: N/A")
+local elitea = StatusTab:AddLabel("Elite Kill Progress: N/A")
+task.spawn(function()
+    while task.wait() do
+        if Zou then
+            bonec:Set("Bone: "..(RS.Remotes.CommF_:InvokeServer("Bones","Check")))
+            if string.len(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 88 then
+                killcake:Set("Cake Remaining Kills: "..string.sub(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner"),39,41))
+            elseif string.len(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 87 then
+                killcake:Set("Cake Remaining Kills: "..string.sub(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner"),39,40))
+            elseif string.len(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner")) == 86 then
+                killcake:Set("Cake Remaining Kills: "..string.sub(RS.Remotes.CommF_:InvokeServer("CakePrinceSpawner"),39,39))
+            else
+                if Enemies:FindFirstChild("Cake Prince") then
+                    killcake:Set("Cake Prince Has Spawned!")
+                elseif Enemies:FindFirstChild("Dough King") then
+                    killcake:Set("Dough King Has Spawned!")
+                end
+            end
+            if RS:FindFirstChild("Deandre") or RS:FindFirstChild("Urban") or RS:FindFirstChild("Diablo") then
+                elitec:Set("Elite Status: Spawned!")
+            else
+                elitec:Set("Elite Status: Not Found Elite")
+            end
+            elitea:Set("Elite Progress : "..RS.Remotes.CommF_:InvokeServer("EliteHunter","Progress"))
+        end
+    end
+end)
+StatusTab:AddSection({Name = "Status Server"})
+local bI = StatusTab:AddLabel("Player Count: " .. PlayersCount() .. "/" .. game.Players.MaxPlayers)
+local bJ = StatusTab:AddLabel("Server Time: " .. function6() .. " | " .. function7())
+local bL = StatusTab:AddLabel("Acient One Status: " .. tostring(CheckAcientOneStatus()))
+task.spawn(function()
+    while task.wait() do
+        pcall(function()
+            bI:Set("Player Count: " .. PlayersCount() .. "/" .. game.Players.MaxPlayers)
+            bJ:Set("Server Time: " .. function6() .. " | " .. function7())
+            bL:Set("Acient One Status: " .. tostring(CheckAcientOneStatus()))
+        end)
+    task.wait(2)
+    end
+end)
+StatusTab:AddSection({Name = "Status Leviathan"})
+local leviathan = StatusTab:AddLabel("Status: N/A")
+spawn(function()
+    while wait() do
+        if RS.Remotes.CommF_:InvokeServer("InfoLeviathan", "1") == 2 then
+            leviathan:Set("Status: You Can Find Leviathan")
+        else
+            leviathan:Set("Status: I Don't Know Anything Yet")
+        end
+    end
+end)
+MainTab:AddSection({Name = "Pirate Raid"})
+MainTab:AddToggle({
+	Name = "Pirate Raid",
+	Default = false,
+	Callback = function(vRaidPirate)
+		RaidPirate = vRaidPirate
+		DisableTween(RaidPirate)
+	end    
+})
+spawn(function()
+    while wait() do
+        if RaidPirate then
+            pcall(function()
+                local CFrameBoss = CFrame.new(-5496.17432, 313.768921, -2841.53027, 0.924894512, 7.37058015e-09, 0.380223751, 3.5881019e-08, 1, -1.06665446e-07, -0.380223751, 1.12297109e-07, 0.924894512)
+                if (CFrame.new(-5539.3115234375, 313.800537109375, -2972.372314453125).Position - LP.Character.HumanoidRootPart.Position).Magnitude <= 500 then
+                    for i,v in pairs(Enemies:GetChildren()) do
+                        if RaidPirate and v:FindFirstChild("HumanoidRootPart") and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                            if (v.HumanoidRootPart.Position - LP.Character.HumanoidRootPart.Position).Magnitude < 2000 then
+                                repeat wait()
+                                    EBuso()
+                                    EWeapon()
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                    Click()
+                                until v.Humanoid.Health <= 0 or not v.Parent or not RaidPirate
+                            end
+                        end
+                    end
+                else
+                    if ((CFrameBoss).Position - LP.Character.HumanoidRootPart.Position).magnitude <= 1500 then
+                        ToTween(CFrameBoss)
+                    else
+                        ToTween(CFrameBoss)
+                    end
+                end
+            end)
+        end
+    end
+end)
+MainTab:AddSection({Name = "Bone Farm"})
+MainTab:AddToggle({Name = "Random Suprise", Default = false, Callback = function(vRSuprise)
+    RSuprise = vRSuprise
+end    
+})
+task.spawn(function()
+    Loop:Connect(function()
+        if RSuprise then
+            while task.wait() do
+                RS.Remotes.CommF_:InvokeServer("Bones","Buy",1,1)
+            end
+        end
+    end)
+end)
+MainTab:AddSection({Name = "Player"})
+Playerslist = {}
+for i,v in pairs(game:GetService("Players"):GetChildren()) do
+    table.insert(Playerslist,v.Name)
+end
+local SelectedPly = MainTab:AddDropdown({
+	Name = "Select Players",
+	Default = "",
+	Options = Playerslist,
+	Callback = function(Value)
+		SPlayer = Value
+	end    
+})
+MainTab:AddButton({
+	Name = "Refresh Player",
+	Callback = function()
+	    NewPlayerList = {}
+        for i,v in pairs(game:GetService("Players"):GetChildren()) do
+            table.insert(NewPlayerList, v.Name)
+        end
+        SelectedPly:Refresh(NewPlayerList)
+  	end    
+})
+MainTab:AddToggle({
+	Name = "Tween to Player",
+	Default = false,
+	Callback = function(Value)
+		TweenPly = Value
+	    pcall(function()
+            if TweenPly then
+                repeat ToTween(game:GetService("Players")[SPlayer].Character.HumanoidRootPart.CFrame) wait() until not TweenPly
+            end
+            DisableTween(TweenPly)
+        end)
+	end    
+})
+MainTab:AddButton({
+	Name = "Get Kill Player Quest",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("PlayerHunter")
+  	end    
+})
+MainTab:AddToggle({
+	Name = "Kill Player [Selected]",
+	Default = false,
+	Callback = function(vKillPlayerSE)
+		KillPlayerSE = vKillPlayerSE
+		DisableTween(KillPlayerSE)
+	end    
+})
+spawn(function()
+    while task.wait() do
+        if KillPlayerSE then
+            if SPlayer ~= nil and game.Players:FindFirstChild(SPlayer) and game.Players:FindFirstChild(SPlayer).Character.Humanoid.Health > 0 then
+                repeat task.wait()
+                    EWeapon()
+                    EBuso()
+                    game.Players:FindFirstChild(SPlayer).Character.HumanoidRootPart.CanCollide = false
+                    ToTween(game.Players:FindFirstChild(SPlayer).Character.HumanoidRootPart.CFrame * CFrame.new(0,5,0))
+                    EClick()
+                until game.Players:FindFirstChild(SPlayer).Character.Humanoid.Health <= 0 or not game.Players:FindFirstChild(SPlayer) or not KillPlayerSE
+            end
+        end
+    end
+end)
+SettingTab:AddSlider({Name = "Stop Health Mastery", Min = 0, Max = 100, Default = 28, Color = Color3.fromRGB(255,255,255), Increment = 1, ValueName = "%", Callback = function(vHealthm)
+    HealthStop = vHealthm
+end    
+})
+SettingTab:AddToggle({
+	Name = "Enable Ken [Observation]",
+	Default = true,
+	Callback = function(vEKen)
+		EnableKen = vEKen
+	end    
+})
+spawn(function()
+    while wait(0.1) do
+        if EnableKen then
+            RS.Remotes.CommE:FireServer("Ken",true)
+        end
+    end
+end)
+SettingTab:AddSection({Name = "Setting Misc"})
+SettingTab:AddToggle({
+	Name = "Buso Haki",
+	Default = true,
+	Callback = function(vBusoEnable)
+		BusoEnable = vBusoEnable
+	end    
+}) 
+spawn(function()
+    while wait(.1) do
+        if BusoEnable then 
+            if not LP.Character:FindFirstChild("HasBuso") then
+                local args = {[1] = "Buso"}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end
+        end
+    end
+end)
+SettingTab:AddToggle({
+	Name = "Auto Click",
+	Default = false,
+	Callback = function(Value)
+	_G.AutoClick = Value
+	end    
+}) 
+SettingTab:AddButton({
+	Name = "Remove Fog",
+	Callback = function()
+        NoFog()
+  	end    
+})
+SettingTab:AddToggle({
+	Name = "White Screen",
+	Default = false,
+	Callback = function(vWhiteScreen)
+		WhiteScreen = vWhiteScreen
+		if WhiteScreen == true then
+            game:GetService("RunService"):Set3dRenderingEnabled(false)
+        elseif WhiteScreen == false then
+            game:GetService("RunService"):Set3dRenderingEnabled(true)
+        end
+	end    
+})
+SettingTab:AddToggle({
+	Name = "Dark Screen",
+	Default = false,
+	Callback = function(Value)
+		StartBlackScreen = Value
+        local BlackScreen = LP.PlayerGui.Main.Blackscreen
+        getgenv().DefaultSize = BlackScreen.Size
+        getgenv().NewSize = UDim2.new(500, 0, 500, 500)
+        getgenv().StartBlackScreen = false
+        if StartBlackScreen then
+            BlackScreen.Size = NewSize
+        else
+            BlackScreen.Size = UDim2.new(DefaultSize)
+        end
+        _G.WhiteScreen = value
+        if _G.WhiteScreen == true then
+            game:GetService("RunService"):Set3dRenderingEnabled(false)
+        elseif _G.WhiteScreen == false then
+            game:GetService("RunService"):Set3dRenderingEnabled(true)
+        end
+	end    
+})
+SettingTab:AddButton({
+	Name = "FPS Boost",
+	Callback = function()
+        for i,v in pairs(game.Workspace.Map:GetDescendants()) do
+            if v.Name == "Tavern" or v.Name == "SmileFactory" or v.Name == "Tree" or v.Name == "Rocks" or v.Name == "PartHouse" or v.Name == "Hotel" or v.Name == "WallPiece" or v.Name == "MiddlePillars" or v.Name == "Cloud" or v.Name == "PluginGrass" or v.Name == "BigHouse" or v.Name == "SmallHouse" or v.Name == "Detail" then
+                v:Destroy()
+            end
+        end 
+        for i,v in pairs(game.ReplicatedStorage.Unloaded:GetDescendants()) do
+            if v.Name == "Tavern" or v.Name == "SmileFactory" or v.Name == "Tree" or v.Name == "Rocks" or v.Name == "PartHouse" or v.Name == "Hotel" or v.Name == "WallPiece" or v.Name == "MiddlePillars" or v.Name == "Cloud" or v.Name == "PluginGrass" or v.Name == "BigHouse" or v.Name == "SmallHouse" or v.Name == "Detail" then
+                v:Destroy()
+            end
+        end
+        for i,v in pairs(LP.Character:GetDescendants()) do
+            if v:IsA("Accessory") or v.Name == "Pants" or v.Name == "Shirt" then
+                v:Destroy()
+            end
+        end
+        local decalsyeeted = true -- Leaving this on makes games look shitty but the fps goes up by at least 20.
+        local g = game
+        local w = g.Workspace
+        local l = g.Lighting
+        local t = w.Terrain
+        t.WaterWaveSize = 0
+        t.WaterWaveSpeed = 0
+        t.WaterReflectance = 0
+        t.WaterTransparency = 0
+        l.GlobalShadows = false
+        l.FogEnd = 9e9
+        l.Brightness = 0
+        settings().Rendering.QualityLevel = "Level01"
+        for i, v in pairs(g:GetDescendants()) do
+            if v:IsA("Part") or v:IsA("Union") or v:IsA("CornerWedgePart") or v:IsA("TrussPart") then
+                v.Material = "Plastic"
+                v.Reflectance = 0
+            elseif v:IsA("Decal") or v:IsA("Texture") and decalsyeeted then
+                v.Transparency = 1
+            elseif v:IsA("ParticleEmitter") or v:IsA("Trail") then
+                v.Lifetime = NumberRange.new(0)
+            elseif v:IsA("Explosion") then
+                v.BlastPressure = 1
+                v.BlastRadius = 1
+            elseif v:IsA("Fire") or v:IsA("SpotLight") or v:IsA("Smoke") or v:IsA("Sparkles") then
+                v.Enabled = false
+            elseif v:IsA("MeshPart") then
+                v.Material = "Plastic"
+                v.Reflectance = 0
+                v.TextureID = 10385902758728957
+            end
+        end
+        for i, e in pairs(l:GetChildren()) do
+            if e:IsA("BlurEffect") or e:IsA("SunRaysEffect") or e:IsA("ColorCorrectionEffect") or e:IsA("BloomEffect") or e:IsA("DepthOfFieldEffect") then
+                e.Enabled = false
+            end
+        end
+  	end    
+})
+SettingTab:AddToggle({
+	Name = "Remove Notification",
+	Default = false,
+	Callback = function(vRemove_trct)
+		Remove_trct = vRemove_trct
+	end    
+})
+spawn(function()
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if Remove_trct == true then
+            RS.Notification:Destroy()        
+        end
+    end)
+end)
+TeleTab:AddSection({Name = "Travel Sea"})
+TeleTab:AddButton({
+	Name = "Travel Main (1)",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("TravelMain")
+  	end    
+})
+TeleTab:AddButton({
+	Name = "Travel Dressrosa (2)",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("TravelDressrosa")
+  	end    
+})
+TeleTab:AddButton({
+	Name = "Travel Zou (3)",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("TravelZou")
+  	end    
+})
+TeleTab:AddButton({
+	Name = "Teleport Sea Beast",
+	Callback = function()
+        for i,v in pairs(WS.SeaBeasts:GetChildren()) do
+            if v:FindFirstChild("HumanoidRootPart") then
+                ToTween(v.HumanoidRootPart.CFrame*CFrame.new(0,100,0))
+            end
+        end
+  	end    
+})
+TeleTab:AddSection({Name = "Teleport"})
+if Main then
+TeleTab:AddDropdown({
+	Name = "Select Island",
+	Default = "1",
+	Options = {
+        "WindMill",
+        "Marine",
+        "Middle Town",
+        "Jungle",
+        "Pirate Village",
+        "Desert",
+        "Snow Island",
+        "MarineFord",
+        "Colosseum",
+        "Sky Island 1",
+        "Sky Island 2",
+        "Sky Island 3",
+        "Prison",
+        "Magma Village",
+        "Under Water Island",
+        "Fountain City",
+        "Shank Room",
+        "Mob Island"
+        },
+	Callback = function(Value)
+		_G.SelectIsland = Value
+	end    
+})
+elseif Dressora then
+TeleTab:AddDropdown({
+	Name = "Select Island",
+	Default = "1",
+	Options = {
+        "The Cafe",
+        "Frist Spot",
+        "Dark Area",
+        "Flamingo Mansion",
+        "Flamingo Room",
+        "Green Zone",
+        "Factory",
+        "Colossuim",
+        "Zombie Island",
+        "Two Snow Mountain",
+        "Punk Hazard",
+        "Cursed Ship",
+        "Ice Castle",
+        "Forgotten Island",
+        "Ussop Island",
+        "Mini Sky Island"
+        },
+    Callback = function(Value)
+		_G.SelectIsland = Value
+	end
+})
+elseif Zou then
+    TeleTab:AddDropdown({
+        Name = "Select Island",
+        Default = "1",
+        Options = {
+            "Mansion",
+            "Port Town",
+            "Great Tree",
+            "Castle On The Sea",
+            "MiniSky", 
+            "Hydra Island",
+            "Floating Turtle",
+            "Haunted Castle",
+            "Ice Cream Island",
+            "Peanut Island",
+            "Cake Island",
+            "Cocoa Island",
+            "Candy Island",
+            "Tiki Outpost"
+            },
+	Callback = function(Value)
+		_G.SelectIsland = Value
+	end
+}) 
+end
+TeleTab:AddToggle({
+	Name = "Teleport",
+	Default = false,
+	Callback = function(vTweentoIsland)
+		TweentoIsland = vTweentoIsland
+		if TweentoIsland == true then
+		    repeat wait()
+		        if _G.SelectIsland == "WindMill" then
+		            ToTween(CFrame.new(979.79895019531, 16.516613006592, 1429.0466308594))
+		        elseif _G.SelectIsland == "Marine" then
+		            ToTween(CFrame.new(-2566.4296875, 6.8556680679321, 2045.2561035156))
+		        elseif _G.SelectIsland == "Middle Town" then
+		            ToTween(CFrame.new(-690.33081054688, 15.09425163269, 1582.2380371094))
+		        elseif _G.SelectIsland == "Jungle" then
+		            ToTween(CFrame.new(-1612.7957763672, 36.852081298828, 149.12843322754))
+		        elseif _G.SelectIsland == "Pirate Village" then
+		            ToTween(CFrame.new(-1181.3093261719, 4.7514905929565, 3803.5456542969))
+		        elseif _G.SelectIsland == "Desert" then
+		            ToTween(CFrame.new(944.15789794922, 20.919729232788, 4373.3002929688))
+		        elseif _G.SelectIsland == "Snow Island" then
+		            ToTween(CFrame.new(1347.8067626953, 104.66806030273, -1319.7370605469))
+		        elseif _G.SelectIsland == "MarineFord" then
+		            ToTween(CFrame.new(-4914.8212890625, 50.963626861572, 4281.0278320313))
+		        elseif _G.SelectIsland == "Colosseum" then
+		            ToTween( CFrame.new(-1427.6203613281, 7.2881078720093, -2792.7722167969))
+		        elseif _G.SelectIsland == "Sky Island 1" then
+		            ToTween(CFrame.new(-4869.1025390625, 733.46051025391, -2667.0180664063))
+		        elseif _G.SelectIsland == "Sky Island 2" then  
+		            RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+		        elseif _G.SelectIsland == "Sky Island 3" then
+		            RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+		        elseif _G.SelectIsland == "Prison" then
+		            ToTween( CFrame.new(4875.330078125, 5.6519818305969, 734.85021972656))
+		        elseif _G.SelectIsland == "Magma Village" then
+		            ToTween(CFrame.new(-5247.7163085938, 12.883934020996, 8504.96875))
+		        elseif _G.SelectIsland == "Under Water Island" then
+		            RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+		        elseif _G.SelectIsland == "Fountain City" then
+		            ToTween(CFrame.new(5127.1284179688, 59.501365661621, 4105.4458007813))
+		        elseif _G.SelectIsland == "Shank Room" then
+		            ToTween(CFrame.new(-1442.16553, 29.8788261, -28.3547478))
+		        elseif _G.SelectIsland == "Mob Island" then
+		            ToTween(CFrame.new(-2850.20068, 7.39224768, 5354.99268))
+		        elseif _G.SelectIsland == "The Cafe" then
+		            ToTween(CFrame.new(-380.47927856445, 77.220390319824, 255.82550048828))
+		        elseif _G.SelectIsland == "Frist Spot" then
+		            ToTween(CFrame.new(-11.311455726624, 29.276733398438, 2771.5224609375))
+		        elseif _G.SelectIsland == "Dark Area" then
+		            ToTween(CFrame.new(3780.0302734375, 22.652164459229, -3498.5859375))
+		        elseif _G.SelectIsland == "Flamingo Mansion" then
+		            ToTween(CFrame.new(-483.73370361328, 332.0383605957, 595.32708740234))
+		        elseif _G.SelectIsland == "Flamingo Room" then
+		            ToTween(CFrame.new(2284.4140625, 15.152037620544, 875.72534179688))
+		        elseif _G.SelectIsland == "Green Zone" then
+		            ToTween( CFrame.new(-2448.5300292969, 73.016105651855, -3210.6306152344))
+		        elseif _G.SelectIsland == "Factory" then
+		            ToTween(CFrame.new(424.12698364258, 211.16171264648, -427.54049682617))
+		        elseif _G.SelectIsland == "Colossuim" then
+		            ToTween( CFrame.new(-1503.6224365234, 219.7956237793, 1369.3101806641))
+		        elseif _G.SelectIsland == "Zombie Island" then
+		            ToTween(CFrame.new(-5622.033203125, 492.19604492188, -781.78552246094))
+		        elseif _G.SelectIsland == "Two Snow Mountain" then
+		            ToTween(CFrame.new(753.14288330078, 408.23559570313, -5274.6147460938))
+		        elseif _G.SelectIsland == "Punk Hazard" then
+		            ToTween(CFrame.new(-6127.654296875, 15.951762199402, -5040.2861328125))
+		        elseif _G.SelectIsland == "Cursed Ship" then
+		            ToTween(CFrame.new(923.40197753906, 125.05712890625, 32885.875))
+		        elseif _G.SelectIsland == "Ice Castle" then
+		            ToTween(CFrame.new(6148.4116210938, 294.38687133789, -6741.1166992188))
+		        elseif _G.SelectIsland == "Forgotten Island" then
+		            ToTween(CFrame.new(-3032.7641601563, 317.89672851563, -10075.373046875))
+		        elseif _G.SelectIsland == "Ussop Island" then
+		            ToTween(CFrame.new(4816.8618164063, 8.4599885940552, 2863.8195800781))
+		        elseif _G.SelectIsland == "Mini Sky Island" then
+		            ToTween(CFrame.new(-288.74060058594, 49326.31640625, -35248.59375))
+		        elseif _G.SelectIsland == "Great Tree" then
+		            ToTween(CFrame.new(2681.2736816406, 1682.8092041016, -7190.9853515625))
+		        elseif _G.SelectIsland == "Castle On The Sea" then
+		            ToTween(CFrame.new(-5074.45556640625, 314.5155334472656, -2991.054443359375))
+		        elseif _G.SelectIsland == "MiniSky" then
+		            ToTween(CFrame.new(-260.65557861328, 49325.8046875, -35253.5703125))
+		        elseif _G.SelectIsland == "Port Town" then
+		            ToTween(CFrame.new(-290.7376708984375, 6.729952812194824, 5343.5537109375))
+		        elseif _G.SelectIsland == "Hydra Island" then
+		            ToTween(CFrame.new(5228.8842773438, 604.23400878906, 345.0400390625))
+		        elseif _G.SelectIsland == "Floating Turtle" then
+		            ToTween(CFrame.new(-13274.528320313, 531.82073974609, -7579.22265625))
+		        elseif _G.SelectIsland == "Mansion" then
+		            RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-12471.169921875, 374.94024658203, -7551.677734375))
+		        elseif _G.SelectIsland == "Haunted Castle" then
+		            ToTween(CFrame.new(-9515.3720703125, 164.00624084473, 5786.0610351562))
+		        elseif _G.SelectIsland == "Ice Cream Island" then
+		            ToTween(CFrame.new(-902.56817626953, 79.93204498291, -10988.84765625))
+		        elseif _G.SelectIsland == "Peanut Island" then
+		            ToTween(CFrame.new(-2062.7475585938, 50.473892211914, -10232.568359375))
+		        elseif _G.SelectIsland == "Cake Island" then
+		            ToTween(CFrame.new(-1884.7747802734375, 19.327526092529297, -11666.8974609375))
+		        elseif _G.SelectIsland == "Cocoa Island" then
+		            ToTween(CFrame.new(87.94276428222656, 73.55451202392578, -12319.46484375))
+		        elseif _G.SelectIsland == "Candy Island" then
+		            ToTween(CFrame.new(-1014.4241943359375, 149.11068725585938, -14555.962890625))
+                elseif _G.SelectIsland == "Tiki Outpost" then
+                    ToTween(CFrame.new(-16207.501953125, 9.0863618850708, 475.1490783691406))
+		        end
+		    until not TweentoIsland
+		end
+		DisableTween(TweentoIsland)
+	end    
+})
+TeleTab:AddSection({Name = "Bypass Teleport"})
+if Main then
+TeleTab:AddDropdown({
+	Name = "Select Island",
+	Default = "1",
+	Options = {
+        "The Cafe",
+        "Frist Spot",
+        "Flamingo Room",
+        "Green Zone",
+        "Zombie Island",
+        "Two Snow Mountain",
+        "Punk Hazard",
+        "Cursed Ship",
+        "Ice Castle",
+        "Forgotten Island"
+        },
+    Callback = function(Value)
+        _G.SelectWarp = Value
+	end    
+})
+elseif Dressora then
+TeleTab:AddDropdown({
+	Name = "Select Island",
+	Default = "1",
+	Options = {
+        "The Cafe",
+        "Frist Spot",
+        "Flamingo Room",
+        "Green Zone",
+        "Zombie Island",
+        "Two Snow Mountain",
+        "Punk Hazard",
+        "Cursed Ship",
+        "Ice Castle",
+        "Forgotten Island"
+        },
+	Callback = function(Value)
+		_G.SelectWarp = Value
+	end
+})
+elseif Zou then
+TeleTab:AddDropdown({
+	Name = "Select Island",
+	Default = "1",
+	Options = {
+        "Mansion",
+        "Port Town",
+        "Great Tree",
+        "Castle On The Sea",
+        "Hydra Island",
+        "Haunted Castle",
+        "Ice Cream Island",
+        "Peanut Island",
+        "Cake Island",
+        "Sea to Treats",
+        "Cake Island",
+        "Tiki Outpost"
+        },
+	Callback = function(Value)
+		_G.SelectWarp = Value
+	end
+}) 
+end
+TeleTab:AddButton({
+	Name = "Bypass Teleport",
+	Callback = function()
+        if _G.TeleportWarp == "Manslon" then
+        elseif _G.SelectWarp == "WindMill" then
+            wait(.1)
+            BTP(CFrame.new(979.79895019531, 16.516613006592, 1429.0466308594))
+        elseif _G.SelectWarp == "Marine" then
+            wait(.1)
+            BTP(CFrame.new(-2566.4296875, 6.8556680679321, 2045.2561035156))
+        elseif _G.SelectWarp == "Middle Town" then
+            wait(.1)
+            BTP(CFrame.new(-690.33081054688, 15.09425163269, 1582.2380371094))
+        elseif _G.SelectWarp == "Jungle" then
+            wait(.1)
+            BTP(CFrame.new(-1612.7957763672, 36.852081298828, 149.12843322754))
+        elseif _G.SelectWarp == "Pirate Village" then
+            wait(.1)
+            BTP(CFrame.new(-1181.3093261719, 4.7514905929565, 3803.5456542969))
+        elseif _G.SelectWarp == "Desert" then
+            wait(.1)
+            BTP(CFrame.new(944.15789794922, 20.919729232788, 4373.3002929688))
+        elseif _G.SelectWarp == "Snow Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(1347.8067626953, 104.66806030273, -1319.7370605469)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "MarineFord" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-4914.8212890625, 50.963626861572, 4281.0278320313)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Colosseum" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-1427.6203613281, 7.2881078720093, -2792.7722167969)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Sky Island 1" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-4869.1025390625, 733.46051025391, -2667.0180664063)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Prison" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(4875.330078125, 5.6519818305969, 734.85021972656)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Magma Village" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-5247.7163085938, 12.883934020996, 8504.96875)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Under Water Island" then
+            wait(.1)
+            RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+        elseif _G.SelectWarp == "Fountain City" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(5127.1284179688, 59.501365661621, 4105.4458007813)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Shank Room" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-1442.16553, 29.8788261, -28.3547478)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Mob Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-2850.20068, 7.39224768, 5354.99268)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "The Cafe" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-380.47927856445, 77.220390319824, 255.82550048828)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Frist Spot" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-11.311455726624, 29.276733398438, 2771.5224609375)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Dark Area" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(3780.0302734375, 22.652164459229, -3498.5859375)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Flamingo Mansion" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-483.73370361328, 332.0383605957, 595.32708740234)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")  
+        elseif _G.SelectWarp == "Flamingo Room" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(2284.4140625, 15.152037620544, 875.72534179688)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Green Zone" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-2448.5300292969, 73.016105651855, -3210.6306152344)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")  
+        elseif _G.SelectWarp == "Factory" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(424.12698364258, 211.16171264648, -427.54049682617)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")  
+        elseif _G.SelectWarp == "Colossuim" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-1503.6224365234, 219.7956237793, 1369.3101806641)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")      
+        elseif _G.SelectWarp == "Zombie Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-5622.033203125, 492.19604492188, -781.78552246094)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint") 
+        elseif _G.SelectWarp == "Two Snow Mountain" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(753.14288330078, 408.23559570313, -5274.6147460938)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")    
+        elseif _G.SelectWarp == "Punk Hazard" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-6127.654296875, 15.951762199402, -5040.2861328125)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Cursed Ship" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(923.40197753906, 125.05712890625, 32885.875)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Ice Castle" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(6148.4116210938, 294.38687133789, -6741.1166992188)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Forgotten Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-3032.7641601563, 317.89672851563, -10075.373046875)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Ussop Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(4816.8618164063, 8.4599885940552, 2863.8195800781)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Mini Sky Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-288.74060058594, 49326.31640625, -35248.59375)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Great Tree" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(2681.2736816406, 1682.8092041016, -7190.9853515625)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Castle On The Sea" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-5085.23681640625, 316.5072021484375, -3156.202880859375)
+        elseif _G.SelectWarp == "MiniSky" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-260.65557861328, 49325.8046875, -35253.5703125)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Port Town" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-290.7376708984375, 6.729952812194824, 5343.5537109375)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Hydra Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(5749.7861328125, 611.9736938476562, -276.2497863769531)
+        elseif _G.SelectWarp == "Floating Turtle" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-13274.528320313, 531.82073974609, -7579.22265625)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Mansion" then
+            wait(.1)
+            RS.Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-12471.169921875, 374.94024658203, -7551.677734375))
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Haunted Castle" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-9515.3720703125, 164.00624084473, 5786.0610351562)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Ice Cream Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-902.56817626953, 79.93204498291, -10988.84765625)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Peanut Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-2062.7475585938, 50.473892211914, -10232.568359375)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Cake Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-1884.7747802734375, 19.327526092529297, -11666.8974609375) 
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Sea to Treats Old" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(508.21466064453125, 25.07753562927246, -12438.2294921875) 
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Cake Island" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-1141.0223388671875, 47.25519561767578, -14204.609375) 
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        elseif _G.SelectWarp == "Tiki Outpost" then
+            wait(.1)
+            LP.Character.HumanoidRootPart.CFrame = CFrame.new(-16207.501953125, 9.0863618850708, 475.1490783691406)
+            LP.Character.Humanoid:ChangeState(15)
+            RS.Remotes.CommF_:InvokeServer("SetSpawnPoint")
+        end
+  	end    
+})
+spawn(function()
+    game:GetService("RunService").RenderStepped:Connect(function()
+        if _G.AutoClick or Fastattack then
+            game:GetService'VirtualUser':CaptureController()
+            game:GetService'VirtualUser':Button1Down(Vector2.new(0,1,0,1))
+        end
+    end)
+end)
+V4Tab:AddSection({Name = "Temple Of Time"})
+V4Tab:AddButton({
+    Name = "Telelport Temple Of Time",
+    Callback = function()
+        TTemplateT()
+    end    
+}) 
+V4Tab:AddButton({
+    Name = "Teleport To Lever Pull",
+    Callback = function()
+        TTemplateT()
+        ToTween(CFrame.new(28575.181640625, 14936.6279296875, 72.31636810302734))
+    end    
+})  
+V4Tab:AddToggle({
+    Name = "Teleport NPC Acient One",
+    Default = false,
+    Callback = function(vTeleNPCAOne)
+        TeleNPCAOne = vTeleNPCAOne
+        DisableTween(TeleNPCAOne)
+    end    
+}) 
+V4Tab:AddToggle({
+    Name = "Disable Inf Stairs",
+    Default = false,
+    Callback = function(Value)
+        LP.Character.InfiniteStairs.Disabled = Value
+    end    
+}) 
+V4Tab:AddToggle({
+    Name = "Teleport Trial Door",
+    Default = false,
+    Callback = function(vTeleTrialD)
+        TeleTrialD = vTeleTrialD
+        DisableTween(TeleTrialD)
+    end    
+}) 
+spawn(function()
+    while task.wait() do
+        if TeleTrialD then
+            TTemplateT()
+            local raceval = LP.Data.Race.Value
+            if raceval == "Fishman" then
+                ToTween(CFrame.new(28224.056640625, 14889.4267578125, -210.5872039794922))
+            elseif raceval == "Human" then
+                ToTween(CFrame.new(29237.294921875, 14889.4267578125, -206.94955444335938))
+            elseif raceval == "Cyborg" then
+                ToTween(CFrame.new(28492.4140625, 14894.4267578125, -422.1100158691406))
+            elseif raceval == "Skypiea" then
+                ToTween(CFrame.new(28967.408203125, 14918.0751953125, 234.31198120117188))
+            elseif raceval == "Ghoul" then
+                ToTween(CFrame.new(28672.720703125, 14889.1279296875, 454.5961608886719))
+            elseif raceval == "Mink" then
+                ToTween(CFrame.new(29020.66015625, 14889.4267578125, -379.2682800292969))
+            end
+            NoClip = true
+        end
+        if TeleNPCAOne then
+            TTemplateT()
+            ToTween(CFrame.new(28981.552734375, 14888.4267578125, -120.245849609375))
+            NoClip = true
+        end
+    end
+end)
+V4Tab:AddSection({Name = "Trial V4"})
+V4Tab:AddToggle({
+    Name = "Finish Trial Race",
+    Default = false,
+    Callback = function(vRaceTrial)
+        RaceTrial = vRaceTrial
+        DisableTween(RaceTrial)
+    end    
+}) 
+task.spawn(function()
+    while task.wait() do
+        if RaceTrial then
+            pcall(function()
+                local RaceAC = Data.Race.Value
+                if RaceAC == "Human" then
+                    for i,v in pairs(Enemies:GetDescendants()) do
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                            repeat wait(.1)
+                                v.Humanoid.Health = 0
+                                v.HumanoidRootPart.CanCollide = false
+                                sethiddenproperty(LP, "SimulationRadius", math.huge)
+                            until not RaceTrial or v.Humanoid.Health <= 0
+                        end
+                    end
+                elseif RaceAC == "Skypiea" then
+                    for i,v in pairs(WS.Map.SkyTrial.Model:GetDescendants()) do
+                        if v.Name ==  "snowisland_Cylinder.081" then
+                            ToTween(v.CFrame* CFrame.new(0,0,0))
+                        end
+                    end
+                elseif RaceAC == "Fishman" then
+                    for i,v in pairs(WS.SeaBeasts.SeaBeast1:GetDescendants()) do
+                        if v.Name ==  "HumanoidRootPart" then
+                            repeat task.wait()
+                                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,400,0))
+                                aim = true 
+                                CFrameHunt = v.HumanoidRootPart.CFrame 
+                                chodienspamhirimixienchetcuchungmay = true
+                                NoClip = true
+                            until not RaceTrial or v.Humanoid.Health <= 0
+                            chodienspamhirimixienchetcuchungmay = false
+                            aim = false
+                        end
+                    end
+                elseif RaceAC == "Cyborg" then
+                    ToTween(CFrame.new(28654, 14898.7832, -30, 1, 0, 0, 0, 1, 0, 0, 0, 1))
+                    NoClip = true
+                elseif RaceAC == "Ghoul" then
+                    for i,v in pairs(Enemies:GetDescendants()) do
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                            repeat wait(.1)
+                                v.Humanoid.Health = 0
+                                v.HumanoidRootPart.CanCollide = false
+                                sethiddenproperty(LP, "SimulationRadius", math.huge)
+                            until not RaceTrial or v.Humanoid.Health <= 0
+                        end
+                    end
+                elseif RaceAC == "Mink" then
+                    for i,v in pairs(WS:GetDescendants()) do
+                        if v.Name == "StartPoint" then
+                            ToTween(v.CFrame* CFrame.new(0,10,0))
+                            NoClip = true
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+V4Tab:AddToggle({
+    Name = "Farm And Buy Acient One Quest",
+    Default = false,
+    Callback = function(vAcientOneQuest)
+        AcientOneQuest = vAcientOneQuest
+        DisableTween(AcientOneQuest)
+    end    
+}) 
+spawn(function()
+    while task.wait() do
+        if AcientOneQuest then
+            if RS.Remotes.CommF_:InvokeServer("UpgradeRace","Check") == 2 then
+                RS.Remotes.CommF_:InvokeServer('UpgradeRace','Buy')
+            else
+                repeat wait()
+                    if SelectFarm == nil then
+                        Selectmodef:Set("Bone")
+                    else
+                        Farmop:Set(true)
+                        ToggleRaceV4:Set(true)
+                    end
+                until RS.Remotes.CommF_:InvokeServer("UpgradeRace","Check") == 2 or not AcientOneQuest
+                Farmop:Set(false)
+                ToggleRaceV4:Set(false)
+            end
+        end
+    end
+end)
+V4Tab:AddToggle({
+    Name = "Kill Player After Trails",
+    Default = false,
+    Callback = function(vKillTrials)
+        KillTrials = vKillTrials
+        DisableTween(KillTrials)
+    end    
+}) 
+local TargetI = nil
+local PlayerChecked = {}
+task.spawn(function()
+    while task.wait() do
+        if KillTrials then
+            for i,v in pairs(WS.Characters:GetChildren()) do
+                magnitude = GetDistance(v.HumanoidRootPart.Position)
+                if v.Name ~= LP.Name and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 and not table.find(PlayerChecked, v) then
+                    if magnitude <= 300 then
+                        TargetI = v
+                        repeat task.wait()
+                            FastDelay = 0.02
+                            EBuso()
+                            if SpamSkillAllWeapon then
+                                chodienspamhirimixienchetcuchungmay = true
+                                SpamSkill = false
+                                aim = true
+                                CFrameHunt = TargetI.HumanoidRootPart.CFrame 
+                            else
+                                EWeapon()
+                                SpamSkill = true
+                                chodienspamhirimixienchetcuchungmay = false
+                            end
+                            ToTween(TargetI.HumanoidRootPart.CFrame * CFrame.new(0,0,2))
+                            EClick()
+                            NoClip = true
+                            EnableButtonKen = true
+                            EnableFastAttack = true
+                            UseAttack = true
+                        until not KillTrials or not TargetI:FindFirstChild("HumanoidRootPart") or not TargetI:FindFirstChild("Humanoid") or TargetI.Humanoid.Health <= 0
+                        table.insert(PlayerChecked, PlayerI)
+                        TargetI = nil
+                        aim = false
+                        EnableFastAttack = false
+                        SpamSkill = false
+                        NoClip = false
+                        EnableButtonKen = false
+                        UseAttack = false
+                        FastDelay = vFastDelay
+                    end
+                end
+            end
+        else
+            TargetI = nil
+            PlayerChecked = {}
+        end
+    end
+end)
+spawn(function()
+    while task.wait(0.01) do
+        if EnableFastAttack and KillTrials then
+            FastAttack()
+            task.wait()
+            Boost()
+        end
+    end
+end)
+spawn(function()
+    while task.wait() do
+        if SpamSkill then
+            game:GetService("VirtualInputManager"):SendKeyEvent(true,122,false,game)
+            game:GetService("VirtualInputManager"):SendKeyEvent(false,122,false,game)
+            game:GetService("VirtualInputManager"):SendKeyEvent(true,120,false,game)
+            game:GetService("VirtualInputManager"):SendKeyEvent(false,120,false,game)
+            game:GetService("VirtualInputManager"):SendKeyEvent(true,99,false,game)
+            game:GetService("VirtualInputManager"):SendKeyEvent(false,99,false,game)
+        end
+        if EnableButtonKen then
+            repeat task.wait()
+                if not PG.ScreenGui:FindFirstChild("ImageLabel") then
+                    VU:CaptureController()
+                    VU:SetKeyDown("0x65")
+                    wait(2)
+                    VU:SetKeyUp("0x65")
+                end
+            until PG.ScreenGui:FindFirstChild("ImageLabel") or not EnableButtonKen
+        end
+    end
+end) 
+V4Tab:AddToggle({
+    Name = "Spam Skill All Weapon [Option]",
+    Default = false,
+    Callback = function(vSpamSkillAllWeapon)
+        SpamSkillAllWeapon = vSpamSkillAllWeapon
+    end    
+}) 
+V4Tab:AddButton({
+    Name = "Disable Spam Skill If Not Auto Turn Off",
+    Callback = function()
+        DisableSpamSkill()
+    end    
+}) 
+ListChip = {}
+RaidsModule = require(RS.Raids)
+for r, v in pairs(RaidsModule.raids) do
+    if v.Name ~= " " then
+        table.insert(ListChip, v)
+    end
+end
+for r, v in pairs(RaidsModule.advancedRaids) do
+    if v.Name ~= " " then
+        table.insert(ListChip, v)
+    end
+end
+RaidTab:AddDropdown({Name = "Select Microchip Raid", Default = "", Options = ListChip, Callback = function(vSelectRaid)
+    SelectRaid = vSelectRaid
+end    
+})
+RaidTab:AddToggle({
+	Name = "Full Raid",
+	Default = false,
+	Callback = function(vFullRaid)
+		FullRaid = vFullRaid
+	end    
+}) 
+spawn(function()
+    while task.wait() do
+        if (Dressora or Zou) and FullRaid and CheckIsRaiding() then
+            pcall(function()
+                if NextIsland() then
+                    ToTween(NextIsland().CFrame * CFrame.new(0, 60, 0))
+                    NoClip = true
+                end
+                for i,v in pairs(Enemies:GetDescendants()) do
+                    if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                        repeat wait(.1)
+                            v.Humanoid.Health = 0
+                            v.HumanoidRootPart.CanCollide = false
+                            sethiddenproperty(LP, "SimulationRadius", math.huge)
+                        until not v or not v:FindFirstChild("Humanoid") or v.Humanoid.Health == 0
+                    end
+                end
+            end)
+        elseif (Dressora or Zou) and FullRaid then
+            local buy = RS.Remotes.CommF_:InvokeServer("RaidsNpc", "Select", SelectRaid) == 1
+            if Dressora then
+                fireclickdetector(WS.Map.CircleIsland.RaidSummon2.Button.Main.ClickDetector)
+            elseif Zou then
+                fireclickdetector(WS.Map["Boat Castle"].RaidSummon2.Button.Main.ClickDetector)
+            end
+        end
+    end
+end)
+RaidTab:AddToggle({
+	Name = "Awakener Fruit",
+	Default = false,
+	Callback = function(vAwkFruit)
+		AwkFruit = vAwkFruit
+	end    
+}) 
+spawn(function()
+    while wait(.1) do
+        if AwkFruit then
+            RS.Remotes.CommF_:InvokeServer("Awakener","Check")
+            RS.Remotes.CommF_:InvokeServer("Awakener","Awaken")
+        end
+    end
+end)
+RaidTab:AddSection({Name = "Law Raid"})
+RaidTab:AddButton({
+	Name = "Buy Law MicroChip",
+	Callback = function()
+        local args = {[1] = "BlackbeardReward", [2] = "Microchip", [3] = "2"}
+        RS.Remotes.CommF_:InvokeServer(unpack(args))
+    end
+})
+RaidTab:AddButton({
+	Name = "Start Law Raid",
+	Callback = function()
+        if Dressora then
+            fireclickdetector(WS.Map.CircleIsland.RaidSummon.Button.Main.ClickDetector)
+        end
+    end
+})
+RaidTab:AddToggle({
+	Name = "Kill Law Boss",
+	Default = false,
+	Callback = function(vLawBoss)
+		LawBoss = vLawBoss
+        DisableTween(LawBoss)
+	end    
+}) 
+spawn(function()
+    while wait() do
+        if LawBoss then
+            if Enemies:FindFirstChild("Order") then
+                for i,v in pairs(Enemies:GetChildren()) do
+                    if v.Name == "Order" then
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                            repeat task.wait()
+                                EBuso()
+                                EWeapon()
+                                v.HumanoidRootPart.CanCollide = false
+                                ToTween(v.HumanoidRootPart.CFrame * CFrame.new(0,30,0))
+                                EClick()
+                                sethiddenproperty(LP,"SimulationRadius",math.huge)
+                            until not LawBoss or not v.Parent or v.Humanoid.Health <= 0
+                        end
+                    end
+                end
+            else
+                if RS:FindFirstChild("Order") then
+                    ToTween(RS:FindFirstChild("Order").HumanoidRootPart.CFrame * CFrame.new(2,20,2))
+                end
+            end
+        end
+    end
+end)
+DFTab:AddButton({
+	Name = "Random Fruit",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("Cousin","Buy")
+  	end    
+}) 
+DFTab:AddButton({
+	Name = "Devil Fruit Shop",
+	Callback = function()
+        RS.Remotes.CommF_:InvokeServer("GetFruits")
+      	PG.Main.FruitShop.Visible = true
+  	end    
+}) 
+DFTab:AddToggle({
+	Name = "Store Fruit",
+	Default = false,
+	Callback = function(vStoreFruit)
+		StoreFruit = vStoreFruit
+	end    
+})
+Loop:Connect(function()
+	if StoreFruit then
+        StoreFruit()
+    end
+end)
+DFTab:AddToggle({
+	Name = "TeleFruit",
+	Default = false,
+	Callback = function(vTeleFruit)
+		TeleFruit = vTeleFruit
+	end    
+}) 
+spawn(function()
+    while wait(.1) do
+        if TeleFruit then
+            for i,v in pairs(game.Workspace:GetChildren()) do
+                if string.find(v.Name, "Fruit") then
+                    LP.Character.HumanoidRootPart.CFrame = v.Handle.CFrame
+                end
+            end
+        end
+    end
+end)
+SHTab:AddDropdown({
+	Name = "Select Melee",
+	Default = "",
+	Options = {
+		"Dark Step",
+		"Electro",
+		"Fishman Karate",
+		"Dragon Claw",
+		"SuperHuman",
+		"Death Step",
+		"Electric Claw",
+		"SharkMan Karate",
+		"Dragon Talon",
+		"God Human",
+        "Seguine Art"
+     },
+	Callback = function(Value)
+		_G.BuyMelee = Value
+	end    
+})
+SHTab:AddButton({
+	Name = "Buy Melee",
+	Callback = function() 
+      	if _G.BuyMelee == "Dark Step" then
+            RS.Remotes.CommF_:InvokeServer("BuyBlackLeg")
+        elseif _G.BuyMelee == "Electro" then
+            RS.Remotes.CommF_:InvokeServer("BuyElectro")
+        elseif _G.BuyMelee == "Fishman Karate" then
+            RS.Remotes.CommF_:InvokeServer("BuyFishmanKarate")
+        elseif _G.BuyMelee == "Dragon Claw" then
+            RS.Remotes.CommF_:InvokeServer("BlackbeardReward","DragonClaw","1")
+            RS.Remotes.CommF_:InvokeServer("BlackbeardReward","DragonClaw","2")
+        elseif _G.BuyMelee == "SuperHuman" then
+            RS.Remotes.CommF_:InvokeServer("BuySuperhuman")
+        elseif _G.BuyMelee == "Death Step" then
+            RS.Remotes.CommF_:InvokeServer("BuyDeathStep")
+        elseif _G.BuyMelee == "Electric Claw" then
+            RS.Remotes.CommF_:InvokeServer("BuyElectricClaw")
+        elseif _G.BuyMelee == "SharkMan Karate" then
+            RS.Remotes.CommF_:InvokeServer("BuySharkmanKarate",true)
+            RS.Remotes.CommF_:InvokeServer("BuySharkmanKarate")
+        elseif _G.BuyMelee == "Dragon Talon" then
+            RS.Remotes.CommF_:InvokeServer("BuyDragonTalon")
+        elseif _G.BuyMelee == "God Human" then
+            RS.Remotes.CommF_:InvokeServer("BuyGodhuman")
+        elseif _G.BuyMelee == "Seguine Art" then
+            RS.Remotes.CommF_:InvokeServer("BuySanguineArt")
+        end
+    end
+})
+SHTab:AddButton({
+	Name = "Buy Race Ghoul",
+	Callback = function()
+        local args = {[1] = "Ectoplasm", [2] = "BuyCheck", [3] = 4}
+            RS.Remotes.CommF_:InvokeServer(unpack(args))
+        local args = {[1] = "Ectoplasm", [2] = "Change", [3] = 4}
+            RS.Remotes.CommF_:InvokeServer(unpack(args))
+  	end    
+})
+SHTab:AddButton({
+	Name = "Buy Race Cyborg",
+	Callback = function()
+        local args = {[1] = "CyborgTrainer", [2] = "Buy"}
+        RS.Remotes.CommF_:InvokeServer(unpack(args))
+  	end    
+})
+SHTab:AddButton({
+	Name = "Buy Buso Haki",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("BuyHaki","Buso")
+  	end    
+})
+SHTab:AddButton({
+	Name = "Buy Geppo",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("BuyHaki","Geppo")
+  	end    
+})
+SHTab:AddButton({
+	Name = "Buy Soru",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("BuyHaki","Soru")
+  	end    
+})
+SHTab:AddButton({
+	Name = "Buy Ken(Observation)",
+	Callback = function()
+      	RS.Remotes.CommF_:InvokeServer("KenTalk","Buy")
+  	end    
+})
+SHTab:AddButton({
+	Name = "Reset Stats",
+	Callback = function()
+        RS.Remotes.CommF_:InvokeServer("BlackbeardReward","Refund","1")
+        RS.Remotes.CommF_:InvokeServer("BlackbeardReward","Refund","2")
+  	end    
+})
+SHTab:AddButton({
+	Name = "Race Reroll",
+	Callback = function()
+        RS.Remotes.CommF_:InvokeServer("BlackbeardReward","Reroll","1")
+	    RS.Remotes.CommF_:InvokeServer("BlackbeardReward","Reroll","2")
+  	end    
+})
+STTab:AddToggle({
+	Name = "Melee",
+	Default = false,
+	Callback = function(Value)
+		melee = Value
+	end    
+})
+STTab:AddToggle({
+	Name = "Defense",
+	Default = false,
+	Callback = function(Value)
+		defense = Value
+	end    
+}) 
+STTab:AddToggle({
+	Name = "Sword",
+	Default = false,
+	Callback = function(Value)
+		sword = Value
+	end    
+}) 
+STTab:AddToggle({
+	Name = "Gun",
+	Default = false,
+	Callback = function(Value)
+		gun = Value
+	end    
+}) 
+STTab:AddToggle({
+	Name = "Fruit",
+	Default = false,
+	Callback = function(Value)
+		fruit = Value
+	end    
+}) 
+STTab:AddSlider({Name = "Point", Min = 0, Max = 220, Default = 1, Color = Color3.fromRGB(255,255,255), Increment = 1, ValueName = "point", Callback = function(Value)
+		PointStats = Value
+	end    
+})
+spawn(function()
+    while wait() do
+        if Data.Points.Value >= PointStats then
+            if melee then
+                local args = {[1] = "AddPoint", [2] = "Melee", [3] = PointStats}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end 
+            if defense then
+                local args = {[1] = "AddPoint", [2] = "Defense", [3] = PointStats}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end 
+            if sword then
+                local args = {[1] = "AddPoint", [2] = "Sword", [3] = PointStats}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end 
+            if gun then
+                local args = {[1] = "AddPoint", [2] = "Gun", [3] = PointStats}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end 
+            if fruit then
+                local args = {[1] = "AddPoint", [2] = "Demon Fruit", [3] = PointStats}
+                RS.Remotes.CommF_:InvokeServer(unpack(args))
+            end
+        end
+    end
+end)
+MiscTab:AddButton({
+	Name = "Haki Color",
+	Callback = function()
+    LP.PlayerGui.Main.Colors.Visible = true
+  	end    
+}) 
+MiscTab:AddButton({
+	Name = "Title Name",
+	Callback = function()
+        local args = {
+            [1] = "getTitles"
+        }
+        RS.Remotes.CommF_:InvokeServer(unpack(args))
+      	LP.PlayerGui.Main.Titles.Visible = true
+  	end    
+}) 
+MiscTab:AddButton({
+	Name = "Rejoin Server",
+	Callback = function()
+      	game:GetService("TeleportService"):Teleport(game.PlaceId, LP)
+  	end    
+}) 
+MiscTab:AddButton({
+	Name = "Hop Server",
+	Callback = function()
+      HopServer()
+  	end    
+}) 
+MiscTab:AddToggle({
+	Name = "Walk On Water",
+	Default = true,
+	Callback = function(vWaterPlane)
+		WaterPlane = vWaterPlane
+	end    
+})
+spawn(function()
+    while wait() do
+        if WaterPlane then
+            WS.Map["WaterBase-Plane"].Size = Vector3.new(1000,112,1000)
+        else
+            WS.Map["WaterBase-Plane"].Size = Vector3.new(1000,80,1000)
+        end
+    end
+end)	
+MiscTab:AddTextbox({
+	Name = "Paste Job ID",
+	Default = "Paste",
+	TextDisappear = true,
+	Callback = function(vJobID)
+		JobID = vJobID
+	end	  
+})
+MiscTab:AddButton({
+	Name = "Copy Job ID",
+	Callback = function()
+      	setclipboard(tostring(game.JobId))
+  	end    
+})
+MiscTab:AddButton({
+	Name = "Join Server ID",
+	Callback = function()
+      	game:GetService("TeleportService"):TeleportToPlaceInstance(game.placeId,JobID, LP)
+  	end    
+})
+MiscTab:AddToggle({
+	Name = "Inf Soru",
+	Default = false,
+	Callback = function(Value)
+		getgenv().InfSoru = Value
+	end    
+})
+spawn(function()
+    while wait() do
+        pcall(function()
+            if getgenv().InfSoru and LP.Character:FindFirstChild("HumanoidRootPart") ~= nil  then
+                for i,v in next, getgc() do
+                    if LP.Character.Soru then
+                        if typeof(v) == "function" and getfenv(v).script == LP.Character.Soru then
+                            for i2,v2 in next, getupvalues(v) do
+                                if typeof(v2) == "table" then
+                                    repeat wait(0.1)
+                                        v2.LastUse = 0
+                                    until not getgenv().InfSoru or LP.Character.Humanoid.Health <= 0
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end)
+    end
+end)
+MiscTab:AddButton({
+	Name = "No Clip",
+	Callback = function()
+      	NoClip = true
+  	end    
+})
+MiscTab:AddButton({
+	Name = "Join Pirates",
+	Callback = function()
+        RS.Remotes.CommF_:InvokeServer("SetTeam","Pirates")
+  	end    
+})
+MiscTab:AddButton({
+	Name = "Join Marines",
+	Callback = function()
+        RS.Remotes.CommF_:InvokeServer("SetTeam","Marines") 
+  	end    
+})
+OrionLib:Init()
